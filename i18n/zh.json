@@ -1,0 +1,1930 @@
+{
+  "ComposioHQ/awesome-claude-skills:composio-skills/-21risk-automation": {
+    "name": "-21风险自动化",
+    "description": "通过 Rube MCP（Composio）自动化 21risk 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/-2chat-automation": {
+    "name": "-2聊天自动化",
+    "description": "通过 Rube MCP（Composio）自动化 2chat 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ahrefs-automation": {
+    "name": "Ahrefs 自动化",
+    "description": "使用 Ahrefs 自动化 SEO 研究——分析反向链接档案、研究关键词、跟踪域名指标历史、审核自然排名，并通过 Composio 的 Ahrefs 集成执行批量 URL 分析。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apify-automation": {
+    "name": "Apify 自动化",
+    "description": "使用 Apify 自动化网页抓取和数据提取——运行 Actor、管理数据集、创建可重用任务，并通过 Composio 的 Apify 集成获取爬取结果。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apollo-automation": {
+    "name": "Apollo 自动化",
+    "description": "自动化 Apollo.io 潜在客户开发——搜索组织、发现联系人、丰富潜在客户数据、管理联系人阶段并构建目标外联名单——通过 Composio 的 MCP 集成使用自然语言。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ashby-automation": {
+    "name": "Ashby 自动化",
+    "description": "在 Ashby 中自动化招聘与雇佣工作流——通过自然语言命令管理候选人、职位、申请、面试和备注。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/attio-automation": {
+    "name": "Attio 自动化",
+    "description": "自动化 Attio CRM 操作——使用高级筛选器搜索记录、查询联系人和公司，管理备注、列出属性并导航您的关系数据——通过 Composio 的 MCP 集成使用自然语言。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/braintree-automation": {
+    "name": "Braintree 自动化",
+    "description": "Braintree 自动化：通过兼容 Stripe 的工具为客户、订阅、支付方式和交易管理支付处理"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/capsule-crm-automation": {
+    "name": "Capsule CRM 自动化",
+    "description": "自动化 Capsule CRM 操作——管理联系人（主体），执行结构化筛选查询，跟踪任务和项目，记录条目并处理组织——通过 Composio 的 MCP 集成使用自然语言。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clockify-automation": {
+    "name": "Clockify 自动化",
+    "description": "自动化 Clockify 中的时间追踪工作流——通过自然语言命令创建和管理时间条目、工作区和用户。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudinary-automation": {
+    "name": "Cloudinary 自动化",
+    "description": "自动化 Cloudinary 媒体管理，包括文件夹组织、上传预设、资产查找、转换及使用监控——通过自然语言命令实现"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinbase-automation": {
+    "name": "Coinbase 自动化",
+    "description": "Coinbase 自动化：通过 Coinbase CDP SDK 列出并管理加密货币钱包、账户和投资组合数据"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/contentful-automation": {
+    "name": "Contentful 自动化",
+    "description": "自动化 Contentful 中的无头 CMS 操作——列出空间、检索空间元数据并更新空间配置——通过 Composio 的 Contentful 集成实现。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ably-automation": {
+    "name": "ably-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Ably 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abstract-automation": {
+    "name": "abstract-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Abstract 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abuselpdb-automation": {
+    "name": "abuselpdb-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Abuselpdb 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abyssale-automation": {
+    "name": "abyssale-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Abyssale 任务。始终先搜索工具以获取当前模式。"
+  },
+  "TingxiYu/academic-figure-skill:academic-figure-skill": {
+    "name": "academic-figure-skill",
+    "description": "为 Nature/Cell/Science 等期刊提供学术级科学图表制作。当用户要求创建、润色、审阅或导出用于论文投稿的科学图表时使用。切勿触发以下情况：交互式仪表盘（Plotly/Bokeh/Altair）、无发表意图的探索性数据分析、数学函数绘图、饼图/3D 图表、PowerPoint 幻灯片或 Illustrator/Figma-first 设计。跳过有关统计检验、数据清洗、文献综述或代码调试的请求——这些均非图表制作任务。"
+  },
+  "anthropics/skills:skills/academy-guide": {
+    "name": "academy-guide",
+    "description": "在回答任何关于如何使用 Claude 或 Claude 产品的问题之前，请先查看此技能——它推荐来自 Anthropic 学习中心 Claude Academy（academy.claude.com）的匹配课程、教程和用例。触发条件：\"how do I\"、\"how can I\"、\"getting started with\"、\"what can Claude do\"、\"teach me\"、\"learn to use\"；有关制品、项目、技能、插件、连接器、MCP 的问题；请求将 Claude 推广至团队、班级或组织；以及任何索取培训材料、入职内容或学习资源的请求。仅在用户正在学习如何使用某项功能或产品时使用——而非用户正在进行任务且只想尽快完成时。此技能可与其他技能配合使用：在查阅产品文档以解答 Claude 功能的工作原理后，也请在此处查找匹配的课程或教程——基于文档的答案与 Academy 推荐应相辅相成。仅在强烈匹配时才推荐；切勿凭空捏造 Academy 内容。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/accelo-automation": {
+    "name": "accelo-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Accelo 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/accredible-certificates-automation": {
+    "name": "accredible-certificates-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Accredible Certificates 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/acculynx-automation": {
+    "name": "acculynx-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Acculynx 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/active-campaign-automation": {
+    "name": "active-campaign-automation",
+    "description": "通过 Rube MCP（Composio）自动化 ActiveCampaign 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/addresszen-automation": {
+    "name": "addresszen-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Addresszen 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adobe-automation": {
+    "name": "adobe-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Adobe 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adrapid-automation": {
+    "name": "adrapid-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Adrapid 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adyntel-automation": {
+    "name": "adyntel-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Adyntel 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aero-workflow-automation": {
+    "name": "aero-workflow-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Aero Workflow 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aeroleads-automation": {
+    "name": "aeroleads-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Aeroleads 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/affinda-automation": {
+    "name": "affinda-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Affinda 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/affinity-automation": {
+    "name": "affinity-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Affinity 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agencyzoom-automation": {
+    "name": "agencyzoom-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Agencyzoom 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agent-mail-automation": {
+    "name": "agent-mail-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Agent Mail 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agentql-automation": {
+    "name": "agentql-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Agentql 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agenty-automation": {
+    "name": "agenty-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Agenty 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agiled-automation": {
+    "name": "agiled-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Agiled 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agility-cms-automation": {
+    "name": "agility-cms-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Agility CMS 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ai-ml-api-automation": {
+    "name": "ai-ml-api-automation",
+    "description": "通过 Rube MCP（Composio）自动化 AI ML API 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aivoov-automation": {
+    "name": "aivoov-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Aivoov 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alchemy-automation": {
+    "name": "alchemy-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Alchemy 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/algodocs-automation": {
+    "name": "algodocs-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Algodocs 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/algolia-automation": {
+    "name": "algolia-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Algolia 任务。始终先搜索工具以获取当前架构。"
+  },
+  "anthropics/skills:skills/algorithmic-art": {
+    "name": "algorithmic-art",
+    "description": "使用 p5.js 结合种子随机性和交互式参数探索创作算法艺术。当用户请求使用代码、生成艺术、算法艺术、流场或粒子系统创作艺术时，请使用此方法。请创作原创算法艺术，而非复制现有艺术家的作品，以避免侵犯版权。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/all-images-ai-automation": {
+    "name": "all-images-ai-automation",
+    "description": "通过 Rube MCP（Composio）自动化 All Images AI 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alpha-vantage-automation": {
+    "name": "alpha-vantage-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Alpha Vantage 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/altoviz-automation": {
+    "name": "altoviz-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Altoviz 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alttext-ai-automation": {
+    "name": "alttext-ai-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Alttext AI 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amara-automation": {
+    "name": "amara-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Amara 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amazon-automation": {
+    "name": "amazon-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Amazon 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ambee-automation": {
+    "name": "ambee-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Ambee 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ambient-weather-automation": {
+    "name": "ambient-weather-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Ambient Weather 任务。始终先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amcards-automation": {
+    "name": "amcards-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Amcards 任务。始终先搜索工具以获取当前架构。"
+  },
+  "arjun988/blender-skills:.claude/skills/analog-found-footage-horror": {
+    "name": "analog-found-footage-horror",
+    "description": "为 Blender 镜头打造模拟、VHS、CRT 及拾得影像恐怖美学，包括相机瑕疵与纪录片式构图。"
+  },
+  "arjun988/blender-skills:.cursor/skills/analog-found-footage-horror": {
+    "name": "analog-found-footage-horror",
+    "description": "为 Blender 镜头打造模拟、VHS、CRT 及拾得影像恐怖美学，包括相机瑕疵与纪录片式构图。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anchor-browser-automation": {
+    "name": "anchor-browser-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Anchor Browser 任务。始终先搜索工具以获取当前架构。"
+  },
+  "emilkowalski/skills:skills/animate": {
+    "name": "animate",
+    "description": "从零开始制作动画，在决定其是否合适的过程中做出各项决策——是否需要动画、目的为何、使用何种工具、哪些属性、曲线与持续时间、如何中断、如何退出。负责编写实现代码。当被要求为某物添加动画、增加运动效果、让组件显得生动或构建过渡效果时使用。若要评估现有动画，请使用 review-animations；若要审计整个代码库，请使用 improve-animations。"
+  },
+  "emilkowalski/skills:skills/animate-expo": {
+    "name": "animate-expo",
+    "description": "在 React Native 和 Expo 中制作动画，在决定其是否合适的过程中做出各项决策——是否需要动画、运行于哪个线程、哪些属性、弹簧还是定时、手势如何传递、降级处理方式等。使用 Reanimated、Gesture Handler、Expo Router 和 expo-haptics 编写实现代码。当在 Expo 应用中为任何内容添加动画、手势、抽屉、屏幕过渡、按压反馈或触觉效果，或修复设备上卡顿的动画时使用。用于 Web 动画时请使用 `animate`。"
+  },
+  "arjun988/blender-skills:.claude/skills/animation": {
+    "name": "animation",
+    "description": "适用于游戏的动画，在 Blender 中包含行走/奔跑/空闲循环、战斗、机械动画、摄像机动画、约束、Graph Editor 和 NLA 工作流，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/animation": {
+    "name": "animation",
+    "description": "适用于游戏的动画，在 Blender 中包含行走/奔跑/空闲循环、战斗、机械动画、摄像机动画、约束、Graph Editor 和 NLA 工作流，通过 MCP 实现。"
+  },
+  "emilkowalski/skills:skills/animation-performance": {
+    "name": "animation-performance",
+    "description": "将 Web 动画控制在帧预算之内——仅对合成属性进行动画处理，在页面繁忙时将运动移出主线程，并在动画掉帧时找出原因。当动画卡顿、不流畅、抖动或掉帧时使用；在选择要动画化的属性时使用；在基于性能考虑选择 CSS 还是 JS 动画时使用；或在需要使用 `will-change` 或 GPU 图层时使用。若要选择缓动、持续时间或是否需要动画，请使用 animate；若要整体审查运动效果，请使用 review-animations。"
+  },
+  "emilkowalski/skills:skills/animation-vocabulary": {
+    "name": "animation-vocabulary",
+    "description": "反向查询词典，可将模糊的 Web 动画或运动效果描述转换为其确切术语（\" 气泡框打开时那种弹跳效果\" → Pop in；\" 橡皮筋式滚动iOS → Rubber-banding）。当用户询问 \" “当……时叫什么”\"，或描述一种运动效果但不知道名称并希望获得正确词汇以提示 AI 或设计师时使用。仅用于命名效果，而非设计或构建效果。"
+  },
+  "arjun988/blender-skills:.claude/skills/anime-style": {
+    "name": "anime-style",
+    "description": "为 Blender 提供动漫及赛璐珞阴影风格的艺术指导，具有鲜明的色彩分割、卡通着色器、简洁的剪影以及动漫比例语言。"
+  },
+  "arjun988/blender-skills:.cursor/skills/anime-style": {
+    "name": "anime-style",
+    "description": "为 Blender 提供动漫及赛璐珞阴影风格的艺术指导，具有鲜明的色彩分割、卡通着色器、简洁的剪影以及动漫比例语言。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anonyflow-automation": {
+    "name": "anonyflow-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Anonyflow 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anthropic-administrator-automation": {
+    "name": "anthropic-administrator-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Anthropic 管理员任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anthropic_administrator-automation": {
+    "name": "anthropic_administrator-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Anthropic 管理员任务：API 密钥、使用情况、工作区及组织管理。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apaleo-automation": {
+    "name": "apaleo-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Apaleo 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apex27-automation": {
+    "name": "apex27-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Apex27 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-bible-automation": {
+    "name": "api-bible-automation",
+    "description": "通过 Rube MCP（Composio）自动化 API Bible 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-labz-automation": {
+    "name": "api-labz-automation",
+    "description": "通过 Rube MCP（Composio）自动化 API Labz 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-ninjas-automation": {
+    "name": "api-ninjas-automation",
+    "description": "通过 Rube MCP（Composio）自动化 API Ninjas 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-sports-automation": {
+    "name": "api-sports-automation",
+    "description": "通过 Rube MCP（Composio）自动化 API Sports 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api2pdf-automation": {
+    "name": "api2pdf-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Api2pdf 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apiflash-automation": {
+    "name": "apiflash-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Apiflash 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apilio-automation": {
+    "name": "apilio-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Apilio 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apipie-ai-automation": {
+    "name": "apipie-ai-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Apipie AI 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apitemplate-io-automation": {
+    "name": "apitemplate-io-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Apitemplate IO 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apiverve-automation": {
+    "name": "apiverve-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Apiverve 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "arjun988/blender-skills:.claude/skills/apocalypse-worlds": {
+    "name": "apocalypse-worlds",
+    "description": "黑暗与反乌托邦世界艺术风格，适用于 Blender，包括后末日、丧尸、外星入侵、后人类、反乌托邦及乌托邦对比系列。"
+  },
+  "arjun988/blender-skills:.cursor/skills/apocalypse-worlds": {
+    "name": "apocalypse-worlds",
+    "description": "黑暗与反乌托邦世界艺术风格，适用于 Blender，包括后末日、丧尸、外星入侵、后人类、反乌托邦及乌托邦对比系列。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appcircle-automation": {
+    "name": "appcircle-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Appcircle 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appdrag-automation": {
+    "name": "appdrag-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Appdrag 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "emilkowalski/skills:skills/apple-design": {
+    "name": "apple-design",
+    "description": "苹果的界面设计方法及流畅的物理动效，适配网页端。在构建或评审手势驱动的UI、弹簧动画、拖拽/滑动/抽屉交互、惯性与可中断过渡、半透明材质与深度感、排版（光学尺寸、字距、行距）、减少运动效果，或苹果风格界面背后的设计基础（反馈、空间一致性、克制）时使用。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appointo-automation": {
+    "name": "appointo-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Appointo 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appsflyer-automation": {
+    "name": "appsflyer-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Appsflyer 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appveyor-automation": {
+    "name": "appveyor-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Appveyor 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "arjun988/blender-skills:.claude/skills/archviz": {
+    "name": "archviz",
+    "description": "建筑可视化，适用于 Blender，涵盖室内外场景，具备真实比例、相机构图、PBR材质，并可通过 MCP 输出静态图或动画。"
+  },
+  "arjun988/blender-skills:.cursor/skills/archviz": {
+    "name": "archviz",
+    "description": "建筑可视化，适用于 Blender，涵盖室内外场景，具备真实比例、相机构图、PBR材质，并可通过 MCP 输出静态图或动画。"
+  },
+  "ComposioHQ/awesome-claude-skills:artifacts-builder": {
+    "name": "artifacts-builder",
+    "description": "一套工具，用于利用现代前端Web技术（React、Tailwind CSS、shadcn/ui）创建复杂、多组件的 claude.ai HTML artefacts。适用于需要状态管理、路由或 shadcn/ui 组件的复杂artefacts——不适用于简单的单文件HTML/JSX artefacts。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aryn-automation": {
+    "name": "aryn-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Aryn 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ascora-automation": {
+    "name": "ascora-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Ascora 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/asin-data-api-automation": {
+    "name": "asin-data-api-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Asin Data API 任务。对于当前的模式，请务必先搜索工具。"
+  },
+  "emilkowalski/skills:skills/ask-emil": {
+    "name": "ask-emil",
+    "description": "询问哪种技能或流程适合您的情况。作为本仓库中各项技能的路由器。"
+  },
+  "emilkowalski/skills:skills/ask-sonner": {
+    "name": "ask-sonner",
+    "description": "Sonner 使用指南——React toast 库：安装并集成 Toaster，选择合适的 toast() 调用，处理 Promise 和加载提示，更新、关闭及持久化 toast，样式、主题与图标，定位及多 toast 同时显示。适用于使用或排查 Sonner 问题时——toast 不显示、重复显示、样式丢失、忽略 Tailwind 类、遮挡模态框或未跟随深色模式等场景。"
+  },
+  "arjun988/blender-skills:.claude/skills/asset-optimization": {
+    "name": "asset-optimization",
+    "description": "验证并优化 Blender 资产的多边形数量、拓扑结构、UV效率、材质数量、命名、集合以及游戏就绪性能。在导出所有生产资产前，请通过 MCP 使用此功能。"
+  },
+  "arjun988/blender-skills:.cursor/skills/asset-optimization": {
+    "name": "asset-optimization",
+    "description": "验证并优化 Blender 资产的多边形数量、拓扑结构、UV效率、材质数量、命名、集合以及游戏就绪性能。在导出所有生产资产前，请通过 MCP 使用此功能。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/astica-ai-automation": {
+    "name": "astica-ai-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Astica AI 任务。对于当前的模式，请始终先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/async-interview-automation": {
+    "name": "async-interview-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Async Interview 任务。对于当前的模式，请始终先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/atlassian-automation": {
+    "name": "atlassian-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Atlassian 任务。对于当前的模式，请始终先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/auth0-automation": {
+    "name": "auth0-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Auth0 任务。对于当前的模式，请始终先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/autobound-automation": {
+    "name": "autobound-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Autobound 任务。对于当前的模式，请始终先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/autom-automation": {
+    "name": "autom-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Autom 任务。对于当前的模式，请始终先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/axonaut-automation": {
+    "name": "axonaut-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Axonaut 任务。对于当前的模式，请始终先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ayrshare-automation": {
+    "name": "ayrshare-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Ayrshare 任务。对于当前的模式，请始终先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/backendless-automation": {
+    "name": "backendless-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Backendless 任务。对于当前的模式，请始终先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bannerbear-automation": {
+    "name": "bannerbear-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Bannerbear 任务。对于当前的模式，请始终先搜索工具。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-article-illustrator": {
+    "name": "baoyu-article-illustrator",
+    "description": "分析文章结构，识别需要视觉辅助的位置，并使用类型×风格×调色板三维方法生成插图。当用户要求 \"illustrate article\"、\"add images\"、\"generate images for article\" 或 \"为文章配图\" 时使用。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-comic": {
+    "name": "baoyu-comic",
+    "description": "知识漫画创作者，支持多种艺术风格和色调。创建原创教育漫画，具有详细的分镜布局和批量图像生成能力。当用户要求创建 \"知识漫画\"、\"教育漫画\"、\"biography comic\"、\"tutorial comic\" 或 \"Logicomix-style comic\" 时使用。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-compress-image": {
+    "name": "baoyu-compress-image",
+    "description": "将图片压缩为 WebP（默认）或 PNG，并自动选择工具。当用户要求 \"compress image\"、\"optimize image\"、\"convert to webp\" 或减小图片文件大小时使用。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-cover-image": {
+    "name": "baoyu-cover-image",
+    "description": "生成具有5个维度（类型、调色板、渲染、文字、情绪）的文章封面图片，结合11种调色板和7种渲染风格。支持电影宽银幕（2.35:1）、宽屏（16:9）和正方形（1:1）比例。当用户要求 \"generate cover image\"、\"create article cover\" 或 \"make cover\" 时使用。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-danger-gemini-web": {
+    "name": "baoyu-danger-gemini-web",
+    "description": "通过逆向工程的 Gemini Web API 生成图片和文本。支持文本生成、根据提示词生成图片、用于视觉输入的参考图片以及多轮对话。当其他技能需要图像生成后端，或用户请求 \"generate image with Gemini\"、\"Gemini text generation\" 或需要具备视觉能力的AI生成时使用。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-danger-x-to-markdown": {
+    "name": "baoyu-danger-x-to-markdown",
+    "description": "将 X（Twitter）推文和文章转换为带有 YAML 前置元数据的 Markdown。使用逆向工程的 API，需征得用户同意。当用户提到 \"X to markdown\"、\"tweet to markdown\"、\"save tweet\" 或提供 x.com/twitter.com URL 进行转换时使用。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-diagram": {
+    "name": "baoyu-diagram",
+    "description": "使用 CSS 自定义属性创建可配置深色/浅色主题的专业图表。每当用户需要任何类型的技术或概念图表、系统可视化、流程图、数据流、组件关系、网络拓扑、决策树、组织结构图、状态机或其他结构/逻辑/流程的视觉表示时，请使用此技能。当用户说 \"画个图\"、\"画一个架构图\"、\"diagram\"、\"flowchart\"、\"sequence diagram\"、\"draw me a ...\" 或上传内容并要求将其可视化时，也请触发。输出每个图表的深色主题 SVG、浅色主题 SVG 和 @2x PNG。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-electron-extract": {
+    "name": "baoyu-electron-extract",
+    "description": "从任何已安装的 Electron 应用程序（JavaScript bundle`.asar`）中提取资源和 JavaScript，必要时从 `.js.map` files 恢复原始源代码，否则使用 Prettier 格式化压缩代码。当用户想要 \"extract Electron app\"、\"decompile Electron\"、\"get the source code of <app>\"、\"inspect app.asar\"、\"看 Electron 应用源码\"、\"提取 .asar\" 或询问桌面 Electron 应用是如何构建的时使用。跳过 `node_modules`，同时支持 macOS 和 Windows。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-format-markdown": {
+    "name": "baoyu-format-markdown",
+    "description": "格式化纯文本或带有前置元数据、标题、摘要、子标题、粗体、列表和代码块的 Markdown 文件。当用户要求 \"format markdown\"、\"beautify article\"、\"add formatting\" 或改善文章布局时使用。输出为 {filename}-formatted.md。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-image-gen": {
+    "name": "baoyu-image-gen",
+    "description": "使用 OpenAI GPT Image 2.5、Azure OpenAI、Google、OpenRouter、DashScope、Z.AI GLM-Image、MiniMax、Jimeng、Seedream、Replicate 和 Agnes API 进行 AI 图像生成。支持文本转图像、参考图片、宽高比以及从保存的提示文件批量生成。默认顺序执行；当用户已有多个提示或希望获得稳定的多图吞吐量时，请使用批量并行生成。当用户要求生成、创建或绘制图片时使用。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-infographic": {
+    "name": "baoyu-infographic",
+    "description": "生成具有21种布局类型和22种视觉风格的专业信息图。分析内容，推荐布局×风格组合，并生成可出版的信息图。当用户要求创建 \"infographic\"、\"信息图\"、\"visual summary\"、\"可视化\" 或 \"高密度信息大图\" 时使用。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-markdown-to-html": {
+    "name": "baoyu-markdown-to-html",
+    "description": "将 Markdown 转换为带有微信兼容主题的样式化 HTML。支持代码高亮、数学公式、Mermaid（通过无头 Chrome 渲染为 PNG）、PlantUML、脚注、警告、信息图，以及可选的外部链接底部引用。当用户要求 \"markdown to html\"、\"convert md to html\"、\"md 转 html\"、\"微信外链转底部引用\" 或需要从 Markdown 输出样式化 HTML 时使用。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-podcast-summary": {
+    "name": "baoyu-podcast-summary",
+    "description": "将播客、访谈、座谈会及其他对话记录总结为客观、以读者为先的摘要，使用用户偏好的语言撰写。首先列出值得保留的要点，忠实复述并清晰标注发言人，不添加任何个人观点。接受粘贴的文本、文本文件或 YouTube URL（通过 baoyu-youtube-transcript 获取字幕），根据上下文推断未署名发言人，并使用网络搜索核实姓名及补充背景。当用户提供文本或播客/访谈链接并要求 \"summarize this podcast\"、\"podcast summary\"、\"interview summary\"、\"key takeaways\"、\"总结播客\"、\"播客总结\"、\"访谈总结\"、\"总结一下这期播客\"、\"总结这个访谈\" 或分享 YouTube 访谈并希望获得书面摘要而非原始字幕时使用。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-wechat": {
+    "name": "baoyu-post-to-wechat",
+    "description": "通过 API 或 Chrome CDP 将内容发布到微信公众号。支持文章发布（文章），可输入 HTML、Markdown 或纯文本；以及图文发布（贴图，原图文），可发布多张图片。Markdown 文章工作流默认将普通外部链接转换为底部引用，以实现微信友好的输出。当用户提到 \"发布公众号\"、\"post to wechat\"、\"微信公众号\" 或 \"贴图/图文/文章\" 时使用。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-weibo": {
+    "name": "baoyu-post-to-weibo",
+    "description": "将内容发布到微博。支持带文字、图片和视频的常规帖子，以及通过 Chrome CDP 使用 Markdown 输入的头条文章。当用户要求 \"post to Weibo\"、\"发微博\"、\"发布微博\"、\"publish to Weibo\"、\"share on Weibo\"、\"写微博\" 或 \"微博头条文章\" 时使用。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-x": {
+    "name": "baoyu-post-to-x",
+    "description": "将内容和文章发布到 X（Twitter）。支持带图片/视频的常规帖子以及 X Articles（长篇 Markdown）。在 Codex 中，明确尊重对 Codex Chrome 插件/@chrome 的请求，使用 Chrome Extension 工作流；否则使用 Chrome Computer Use，在可用时优先使用，仅在允许的情况下才回退到真正的 Chrome CDP 脚本。当用户要求 \"post to X\"、\"tweet\"、\"publish to Twitter\" 或 \"share on X\" 时使用。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-slide-deck": {
+    "name": "baoyu-slide-deck",
+    "description": "从内容生成专业幻灯片图像。创建带有风格说明的大纲，然后生成单个幻灯片图像。当用户要求 \"create slides\"、\"make a presentation\"、\"generate deck\"、\"slide deck\" 或 \"PPT\" 时使用。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-translate": {
+    "name": "baoyu-translate",
+    "description": "当用户要求 \"translate\"、\"翻译\"、\"精翻\"、\"translate article\"、\"translate to Chinese\"、\"translate to English\"、\"改成中文\"、\"改成英文\"、\"convert to Chinese\"、\"localize\"、\"本地化\"、\"refined translation\"、\"精细翻译\"、\"proofread translation\"、\"快速翻译\"、\"快翻\"、\"这篇文章翻译一下\" 或提供带有翻译意图的 URL/文件时使用。支持三种模式（快速/正常/精炼），并提供自定义术语表支持。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-url-to-markdown": {
+    "name": "baoyu-url-to-markdown",
+    "description": "获取任意 URL 并使用 baoyu-fetch CLI（带有站点特定适配器的 Chrome CDP）将其转换为 Markdown。内置适用于 X/Twitter、YouTube 字幕、Hacker News 帖子以及通过 Defuddle 的通用页面的适配器。通过交互等待模式处理登录/CAPTCHA。当用户希望将网页保存为 Markdown 时使用。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-wechat-summary": {
+    "name": "baoyu-wechat-summary",
+    "description": "Summarizes WeChat group chat highlights into a structured digest using the local wx-cli binary (https://github.com/jackwener/wx-cli). Generates a normal digest by default; a roast (毒舌) version is opt-in. Maintains per-group history (history.json + history-digests.jsonl), per-user profiles, and per-group fact memory (memory.md) across runs, with privacy guardrails baked in. Use when the user asks to \"总结群聊\", \"群聊精华\", \"群聊摘要\", \"summarize group chat\", \"group chat digest\", mentions a WeChat group name with a time range, says \"帮我看看 XX 群最近聊了什么\", \"XX 群有什么值得看的\", or asks to \"回溯画像\" / \"初始化画像\" / \"backfill profiles\". Adds the roast version when the user says \"毒舌版\", \"roast 版\", \"再来个毒舌的\", or similar."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-xhs-images": {
+    "name": "baoyu-xhs-images",
+    "description": "生成包含12种视觉风格、8种布局和3种配色方案的信息图图片卡片系列。将内容拆分为1至10张卡通风格的图片卡片，专为提升社交媒体互动而优化。当用户提及\"小红书图片\"、\"小红书种草\"、\"小绿书\"、\"微信图文\"、\"微信贴图\"、\"image cards\"、\"图片卡片\"，或baoyu-xhs-images时使用，亦或用户需要社交媒体信息图系列时使用。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-youtube-transcript": {
+    "name": "baoyu-youtube-transcript",
+    "description": "通过URL或视频ID下载YouTube视频的文字稿/字幕及封面图片。支持多语言、翻译、章节划分及发言人识别。缓存原始数据以实现快速重新格式化。当用户请求\"get YouTube transcript\"、\"download subtitles\"、\"get captions\"、\"YouTube字幕\"、\"YouTube封面\"、\"视频封面\"、\"video thumbnail\"、\"video cover image\"，或用户提供YouTube URL并希望提取文字稿/字幕文本或封面图片时使用。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bart-automation": {
+    "name": "bart-automation",
+    "description": "通过Rube MCP（Composio）自动化Bart任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/baselinker-automation": {
+    "name": "baselinker-automation",
+    "description": "通过Rube MCP（Composio）自动化Baselinker任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/baserow-automation": {
+    "name": "baserow-automation",
+    "description": "通过Rube MCP（Composio）自动化Baserow任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/basin-automation": {
+    "name": "basin-automation",
+    "description": "通过Rube MCP（Composio）自动化Basin任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/battlenet-automation": {
+    "name": "battlenet-automation",
+    "description": "通过Rube MCP（Composio）自动化Battlenet任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beaconchain-automation": {
+    "name": "beaconchain-automation",
+    "description": "通过Rube MCP（Composio）自动化Beaconchain任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beaconstac-automation": {
+    "name": "beaconstac-automation",
+    "description": "通过Rube MCP（Composio）自动化Beaconstac任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beamer-automation": {
+    "name": "beamer-automation",
+    "description": "通过Rube MCP（Composio）自动化Beamer任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beeminder-automation": {
+    "name": "beeminder-automation",
+    "description": "通过Rube MCP（Composio）自动化Beeminder任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bench-automation": {
+    "name": "bench-automation",
+    "description": "通过Rube MCP（Composio）自动化Bench任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/benchmark-email-automation": {
+    "name": "benchmark-email-automation",
+    "description": "通过Rube MCP（Composio）自动化Benchmark Email任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/benzinga-automation": {
+    "name": "benzinga-automation",
+    "description": "通过Rube MCP（Composio）自动化Benzinga任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bestbuy-automation": {
+    "name": "bestbuy-automation",
+    "description": "通过Rube MCP（Composio）自动化Bestbuy任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/better-proposals-automation": {
+    "name": "better-proposals-automation",
+    "description": "通过Rube MCP（Composio）自动化Better Proposals任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/better-stack-automation": {
+    "name": "better-stack-automation",
+    "description": "通过Rube MCP（Composio）自动化Better Stack任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bidsketch-automation": {
+    "name": "bidsketch-automation",
+    "description": "通过Rube MCP（Composio）自动化Bidsketch任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/big-data-cloud-automation": {
+    "name": "big-data-cloud-automation",
+    "description": "通过Rube MCP（Composio）自动化Big Data Cloud任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigmailer-automation": {
+    "name": "bigmailer-automation",
+    "description": "通过Rube MCP（Composio）自动化Bigmailer任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigml-automation": {
+    "name": "bigml-automation",
+    "description": "通过Rube MCP（Composio）自动化Bigml任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigpicture-io-automation": {
+    "name": "bigpicture-io-automation",
+    "description": "通过Rube MCP（Composio）自动化Bigpicture IO任务。始终优先搜索工具以获取当前架构。"
+  },
+  "arjun988/blender-skills:.claude/skills/biome-worlds": {
+    "name": "biome-worlds",
+    "description": "为Blender提供生物群系与场景美术指导，涵盖水下、沙漠、极地、丛林、地下及浮空岛环境。"
+  },
+  "arjun988/blender-skills:.cursor/skills/biome-worlds": {
+    "name": "biome-worlds",
+    "description": "为Blender提供生物群系与场景美术指导，涵盖水下、沙漠、极地、丛林、地下及浮空岛环境。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bitquery-automation": {
+    "name": "bitquery-automation",
+    "description": "通过Rube MCP（Composio）自动化Bitquery任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bitwarden-automation": {
+    "name": "bitwarden-automation",
+    "description": "通过Rube MCP（Composio）自动化Bitwarden任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blackbaud-automation": {
+    "name": "blackbaud-automation",
+    "description": "通过Rube MCP（Composio）自动化Blackbaud任务。始终优先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blackboard-automation": {
+    "name": "blackboard-automation",
+    "description": "通过Rube MCP（Composio）自动化Blackboard任务。始终优先搜索工具以获取当前架构。"
+  },
+  "arjun988/blender-skills:.claude/skills/blender-director": {
+    "name": "blender-director",
+    "description": "在启动任何Blender资产任务、规划制作管线、协调多学科工作或匹配参考照片/概念图时使用。适用于游戏就绪资产、硬表面、环境、角色、生物、导出或其他涉及多项技能的Blender工作流。"
+  },
+  "arjun988/blender-skills:.cursor/skills/blender-director": {
+    "name": "blender-director",
+    "description": "在启动任何Blender资产任务、规划制作管线、协调多学科工作或匹配参考照片/概念图时使用。适用于游戏就绪资产、硬表面、环境、角色、生物、导出或其他涉及多项技能的Blender工作流。"
+  },
+  "arjun988/blender-skills:.claude/skills/blender-modeler": {
+    "name": "blender-modeler",
+    "description": "核心Blender建模专家，擅长编辑模式、修改器、集合、精密建模及场景组织。用于一般3D建模、块体搭建、清理、非破坏性工作流以及在Blender中通过MCP进行场景结构设计。"
+  },
+  "arjun988/blender-skills:.cursor/skills/blender-modeler": {
+    "name": "blender-modeler",
+    "description": "核心Blender建模专家，擅长编辑模式、修改器、集合、精密建模及场景组织。用于一般3D建模、块体搭建、清理、非破坏性工作流以及在Blender中通过MCP进行场景结构设计。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blocknative-automation": {
+    "name": "blocknative-automation",
+    "description": "通过Rube MCP（Composio）自动化Blocknative任务。始终优先搜索工具以获取当前架构。"
+  },
+  "arjun988/blender-skills:.claude/skills/body-horror-style": {
+    "name": "身体恐怖风格",
+    "description": "针对 Blender 的身体恐怖艺术指导，专注于肉体的异常、变异、融合以及感官层面的物质叙事。"
+  },
+  "arjun988/blender-skills:.cursor/skills/body-horror-style": {
+    "name": "身体恐怖风格",
+    "description": "针对 Blender 的身体恐怖艺术指导，专注于肉体的异常、变异、融合以及感官层面的物质叙事。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boldsign-automation": {
+    "name": "boldsign-自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Boldsign 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bolna-automation": {
+    "name": "bolna-自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Bolna 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boloforms-automation": {
+    "name": "boloforms-自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Boloforms 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bolt-iot-automation": {
+    "name": "bolt-iot-自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Bolt Iot 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bonsai-automation": {
+    "name": "bonsai-自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Bonsai 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "virgiliojr94/book-to-skill:book-to-skill": {
+    "name": "book-to-skill",
+    "description": "将书籍和文档转换为结构化的智能体技能，支持本地文件（PDF、EPUB、DOCX、HTML、Markdown、TXT、RTF、MOBI/AZW）或远程 MCP 图书搜索（`/book-to-skill search <query>`），提取框架、心智模型、原则、技术和反模式。可通过 GitHub Copilot CLI、Amp、Claude Code、Hermes Agent、OpenCode 或 OpenClaw 使用，以学习文档或应用作者的框架。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bookingmood-automation": {
+    "name": "bookingmood-自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Bookingmood 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/booqable-automation": {
+    "name": "booqable-自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Booqable 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/borneo-automation": {
+    "name": "borneo-自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Borneo 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botbaba-automation": {
+    "name": "botbaba-自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Botbaba 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botpress-automation": {
+    "name": "botpress-自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Botpress 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botsonic-automation": {
+    "name": "botsonic-自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Botsonic 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botstar-automation": {
+    "name": "botstar-自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Botstar 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bouncer-automation": {
+    "name": "bouncer-自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Bouncer 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boxhero-automation": {
+    "name": "boxhero-自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Boxhero 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "anthropics/skills:skills/brand-guidelines": {
+    "name": "brand-guidelines",
+    "description": "将 Anthropic 官方品牌色和字体应用于任何可能受益于 Anthropic 视觉风格的产物。当涉及品牌色或风格指南、视觉格式或公司设计标准时使用。"
+  },
+  "ComposioHQ/awesome-claude-skills:brand-guidelines": {
+    "name": "brand-guidelines",
+    "description": "将 Anthropic 官方品牌色和字体应用于任何可能受益于 Anthropic 视觉风格的产物。当涉及品牌色或风格指南、视觉格式或公司设计标准时使用。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brandfetch-automation": {
+    "name": "brandfetch-自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Brandfetch 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "emilkowalski/skills:skills/break-ui": {
+    "name": "break-ui",
+    "description": "通过向界面输入最坏情况数据——长名称、不可分割的电子邮件、单字母名称、缺失字段、巨大数量、零项目、长标签、非拉丁文文本、表情符号、极端数字——尝试破坏某个 UI 元素，然后在 \"Demo data / Worst case\" 切换器后呈现，并报告所有崩溃之处及相应修复方案。适用于用户要求对组件或屏幕进行压力测试、破坏或寻找边缘案例，或尝试 \" worst case\" 场景时。视觉设计评审请使用 emil-design-eng；动态效果评审请使用 review-animations。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/breeze-automation": {
+    "name": "breeze-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Breeze 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/breezy-hr-automation": {
+    "name": "breezy-hr-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Breezy HR 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brex-automation": {
+    "name": "brex-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Brex 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brex-staging-automation": {
+    "name": "brex-staging-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Brex Staging 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brightdata-automation": {
+    "name": "brightdata-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Brightdata 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brightpearl-automation": {
+    "name": "brightpearl-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Brightpearl 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brilliant-directories-automation": {
+    "name": "brilliant-directories-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Brilliant Directories 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browseai-automation": {
+    "name": "browseai-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Browseai 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "cexll/myclaude:skills/browser": {
+    "name": "browser",
+    "description": "此技能应用于使用 Chrome DevTools Protocol (CDP) 的浏览器自动化任务。当用户需要启动带远程调试的 Chrome、导航页面、在浏览器上下文中执行 JavaScript、截取屏幕截图或交互式选择 DOM 元素时触发。无需 MCP 服务器。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browser-tool-automation": {
+    "name": "browser-tool-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Browser Tool 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserbase-tool-automation": {
+    "name": "browserbase-tool-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Browserbase Tool 任务。对于现有模式，请务必先搜索工具。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserhub-automation": {
+    "name": "browserhub-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Browserhub 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserless-automation": {
+    "name": "browserless-automation",
+    "description": "通过 Rube MCP（Composio）自动化无浏览器任务。请务必先搜索工具以获取当前架构。"
+  },
+  "arjun988/blender-skills:.claude/skills/brutalist-mood": {
+    "name": "brutalist-mood",
+    "description": "针对 Blender 建筑及场景的野兽派与混凝土纪念碑风格指导，强调原始混凝土、宏伟尺度和简约构图。"
+  },
+  "arjun988/blender-skills:.cursor/skills/brutalist-mood": {
+    "name": "brutalist-mood",
+    "description": "针对 Blender 建筑及场景的野兽派与混凝土纪念碑风格指导，强调原始混凝土、宏伟尺度和简约构图。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/btcpay-server-automation": {
+    "name": "btcpay-server-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Btcpay Server 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bubble-automation": {
+    "name": "bubble-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Bubble 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugbug-automation": {
+    "name": "bugbug-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Bugbug 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugherd-automation": {
+    "name": "bugherd-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Bugherd 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugsnag-automation": {
+    "name": "bugsnag-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Bugsnag 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/buildkite-automation": {
+    "name": "buildkite-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Buildkite 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/builtwith-automation": {
+    "name": "builtwith-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Builtwith 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bunnycdn-automation": {
+    "name": "bunnycdn-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Bunnycdn 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/byteforms-automation": {
+    "name": "byteforms-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Byteforms 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cabinpanda-automation": {
+    "name": "cabinpanda-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Cabinpanda 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cal-automation": {
+    "name": "cal-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Cal 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/calendarhero-automation": {
+    "name": "calendarhero-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Calendarhero 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callerapi-automation": {
+    "name": "callerapi-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Callerapi 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callingly-automation": {
+    "name": "callingly-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Callingly 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callpage-automation": {
+    "name": "callpage-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Callpage 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "arjun988/blender-skills:.claude/skills/camera-cinematography": {
+    "name": "camera-cinematography",
+    "description": "在 Blender 中进行电影级摄影工作，包括构图、镜头、画面构成、摄像机动画以及超越基础渲染设置的镜头语言，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/camera-cinematography": {
+    "name": "camera-cinematography",
+    "description": "在 Blender 中进行电影级摄影工作，包括构图、镜头、画面构成、摄像机动画以及超越基础渲染设置的镜头语言，通过 MCP 实现。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/campaign-cleaner-automation": {
+    "name": "campaign-cleaner-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Campaign Cleaner 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/campayn-automation": {
+    "name": "campayn-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Campayn 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/canny-automation": {
+    "name": "canny-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Canny 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/canvas-automation": {
+    "name": "canvas-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Canvas 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "anthropics/skills:skills/canvas-design": {
+    "name": "canvas-design",
+    "description": "使用设计理念在 .png 和 .pdf 文档中创作精美视觉艺术作品。当用户要求制作海报、艺术品、设计或其他静态作品时，请使用此技能。创作原创视觉设计，切勿抄袭现有艺术家的作品，以免侵犯版权。"
+  },
+  "ComposioHQ/awesome-claude-skills:canvas-design": {
+    "name": "canvas-design",
+    "description": "使用设计理念在 .png 和 .pdf 文档中创作精美视觉艺术作品。当用户要求制作海报、艺术品、设计或其他静态作品时，请使用此技能。创作原创视觉设计，切勿抄袭现有艺术家的作品，以免侵犯版权。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/capsule_crm-automation": {
+    "name": "capsule_crm-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Capsule CRM 任务：联系人、商机、案例、任务及销售漏斗管理。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/carbone-automation": {
+    "name": "carbone-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Carbone 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cardly-automation": {
+    "name": "cardly-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Cardly 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "arjun988/blender-skills:.claude/skills/cartoon-style": {
+    "name": "cartoon-style",
+    "description": "针对 Blender 的卡通艺术风格指导，采用可读性强的挤压拉伸造型、大胆色彩和图形化剪影，适用于游戏和动画。"
+  },
+  "arjun988/blender-skills:.cursor/skills/cartoon-style": {
+    "name": "cartoon-style",
+    "description": "针对 Blender 的卡通艺术风格指导，采用可读性强的挤压拉伸造型、大胆色彩和图形化剪影，适用于游戏和动画。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/castingwords-automation": {
+    "name": "castingwords-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Castingwords 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cats-automation": {
+    "name": "cats-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Cats 任务。请务必先搜索工具以获取当前架构。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cdr-platform-automation": {
+    "name": "cdr-platform-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Cdr 平台任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/census-bureau-automation": {
+    "name": "census-bureau-automation",
+    "description": "通过 Rube MCP（Composio）自动化人口普查局任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/centralstationcrm-automation": {
+    "name": "centralstationcrm-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Centralstationcrm 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/certifier-automation": {
+    "name": "certifier-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Certifier 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:changelog-generator": {
+    "name": "changelog-generator",
+    "description": "根据 Git 提交记录分析、分类变更，并将技术性提交转化为清晰易懂的客户版发布说明，自动为用户生成变更日志。将原本需要数小时的手动编写变更日志工作缩短至几分钟的自动生成。"
+  },
+  "arjun988/blender-skills:.claude/skills/character-archetypes": {
+    "name": "character-archetypes",
+    "description": "针对 Blender 的角色原型艺术指导，涵盖奇幻种族、恐怖生物、职业（骑士、刺客、侦探）以及体型类型（机甲、仿生人、Q 版等）。"
+  },
+  "arjun988/blender-skills:.cursor/skills/character-archetypes": {
+    "name": "character-archetypes",
+    "description": "针对 Blender 的角色原型艺术指导，涵盖奇幻种族、恐怖生物、职业（骑士、刺客、侦探）以及体型类型（机甲、仿生人、Q 版等）。"
+  },
+  "arjun988/blender-skills:.claude/skills/character-artist": {
+    "name": "character-artist",
+    "description": "AAA 级角色建模，涉及人体解剖、风格化处理、面部拓扑、服装、头发及动画就绪网格。可用于游戏角色、面部表情以及 Blender 中的生产级角色资源，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/character-artist": {
+    "name": "character-artist",
+    "description": "AAA 级角色建模，涉及人体解剖、风格化处理、面部拓扑、服装、头发及动画就绪网格。可用于游戏角色、面部表情以及 Blender 中的生产级角色资源，通过 MCP 实现。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chaser-automation": {
+    "name": "chaser-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Chaser 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatbotkit-automation": {
+    "name": "chatbotkit-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Chatbotkit 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatfai-automation": {
+    "name": "chatfai-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Chatfai 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatwork-automation": {
+    "name": "chatwork-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Chatwork 任务。始终先搜索工具以获取当前模式。"
+  },
+  "arjun988/blender-skills:.claude/skills/chibi-style": {
+    "name": "chibi-style",
+    "description": "针对 Blender 角色的 Q 版与 SD 比例艺术指导，具有超大头部、简化解剖结构及可爱轮廓规则。"
+  },
+  "arjun988/blender-skills:.cursor/skills/chibi-style": {
+    "name": "chibi-style",
+    "description": "针对 Blender 角色的 Q 版与 SD 比例艺术指导，具有超大头部、简化解剖结构及可爱轮廓规则。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chmeetings-automation": {
+    "name": "chmeetings-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Chmeetings 任务。始终先搜索工具以获取当前模式。"
+  },
+  "emilkowalski/skills:skills/choreograph": {
+    "name": "choreograph",
+    "description": "协调多个共同运动的元素——决定哪些动作、以何种顺序进行、它们的重叠程度如何以及哪些保持静止——使整体呈现出统一的意图动作，而非一堆独立的动画。适用于构建或修复交错列表、英雄出场、容器内的视图切换、多步骤流程、兄弟元素收拢间隙时伴随元素离开、丰富状态间的变形，或任何包含多个运动部件的交互（图标+背景+线条、面板+内容、飞入目标的项目）。触发条件包括：交错、序列、编排、\"一个接一个\"、交叉淡入淡出、AnimatePresence 模式、英雄出场、多步骤、使用 Animate、\"感觉机械\"、\"过于繁杂\"、\"感觉打开缓慢\"。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cincopa-automation": {
+    "name": "cincopa-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Cincopa 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/claid-ai-automation": {
+    "name": "claid-ai-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Claid AI 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/classmarker-automation": {
+    "name": "classmarker-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Classmarker 任务。始终先搜索工具以获取当前模式。"
+  },
+  "anthropics/skills:skills/claude-api": {
+    "name": "claude-api",
+    "description": "Claude API / Anthropic SDK 参考文档——模型 ID、定价、参数、流式传输、工具使用、MCP、代理、缓存、令牌计数、模型迁移。触发条件——在打开目标文件前阅读；不要因它 \"看起来像单行代码\"而跳过——无论何时：提示词中出现 Claude/Anthropic 的任何形式（Claude、Anthropic、Fable、Opus、Sonnet、Haiku、`anthropic`、`@anthropic-ai`、`claude-*`、`us.anthropic.*`、`[1m]`）；用户询问关于 LLM 的问题（定价/模型选择/限制/缓存）——切勿凭记忆回答；或者任务呈现 LLM 形态但未明确供应商（代理/MCP/工具定义/多代理/RAG/LLM 判断/计算机用途；生成/总结/提取/分类/改写/用自然语言对话；调试拒绝/截断/流式传输/工具调用/令牌）。仅当正在处理其他供应商时才跳过（覆盖所有触发条件）：查询中提及 OpenAI/GPT/Gemini/Llama/Mistral/Cohere/Ollama；或项目层面触及 `grep -rE 'openai|langchain_openai|google.generativeai|genai|mistralai|cohere|ollama'`（若无供应商提及，请先运行此 grep——不要阅读文件）。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clearout-automation": {
+    "name": "clearout-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Clearout 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clickmeeting-automation": {
+    "name": "clickmeeting-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Clickmeeting 任务。始终先搜索工具以获取当前模式。"
+  },
+  "arjun988/blender-skills:.claude/skills/cloth-sim": {
+    "name": "cloth-sim",
+    "description": "服装遮罩、布料模拟、销组设置以及烘焙为形状键或缓存，用于 Blender 中的角色和道具，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/cloth-sim": {
+    "name": "cloth-sim",
+    "description": "服装遮罩、布料模拟、销组设置以及烘焙为形状键或缓存，用于 Blender 中的角色和道具，通过 MCP 实现。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudcart-automation": {
+    "name": "cloudcart-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Cloudcart 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudconvert-automation": {
+    "name": "cloudconvert-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Cloudconvert 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-api-key-automation": {
+    "name": "cloudflare-api-key-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Cloudflare API 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-automation": {
+    "name": "cloudflare-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Cloudflare 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-browser-rendering-automation": {
+    "name": "cloudflare-browser-rendering-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Cloudflare 浏览器渲染任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudlayer-automation": {
+    "name": "cloudlayer-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Cloudlayer 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudpress-automation": {
+    "name": "cloudpress-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Cloudpress 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coassemble-automation": {
+    "name": "coassemble-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Coassemble 任务。始终先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codacy-automation": {
+    "name": "codacy-automation",
+    "description": "通过 Rube MCP（Composio）自动化 Codacy 任务。始终先搜索工具以获取当前模式。"
+  },
+  "cexll/myclaude:skills/codeagent": {
+    "name": "代码代理",
+    "description": "执行代码代理封装器，用于多后端 AI 代码任务。支持 Codex、Claude、Gemini 和 OpenCode 后端，具备代理预设、技能注入、文件引用（@syntax）、工作树隔离、并行执行和结构化输出等功能。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codeinterpreter-automation": {
+    "name": "代码解释器自动化",
+    "description": "通过 Rube MCP（Composio）自动化代码解释器任务。始终优先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codereadr-automation": {
+    "name": "代码阅读器自动化",
+    "description": "通过 Rube MCP（Composio）自动化代码阅读器任务。始终优先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinmarketcal-automation": {
+    "name": "币市日历自动化",
+    "description": "通过 Rube MCP（Composio）自动化币市日历任务。始终优先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinmarketcap-automation": {
+    "name": "币市资本化自动化",
+    "description": "通过 Rube MCP（Composio）自动化币市资本化任务。始终优先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinranking-automation": {
+    "name": "币排自动化",
+    "description": "通过 Rube MCP（Composio）自动化币排任务。始终优先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/college-football-data-automation": {
+    "name": "大学橄榄球数据自动化",
+    "description": "通过 Rube MCP（Composio）自动化大学橄榄球数据任务。始终优先搜索工具以获取当前模式。"
+  },
+  "arjun988/blender-skills:.claude/skills/collision-proxy": {
+    "name": "碰撞代理",
+    "description": "游戏碰撞代理制作，包括 UCX/UHX 命名、凸包、胶囊及简单碰撞体网格，在 Blender 中通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/collision-proxy": {
+    "name": "碰撞代理",
+    "description": "游戏碰撞代理制作，包括 UCX/UHX 命名、凸包、胶囊及简单碰撞体网格，在 Blender 中通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.claude/skills/comic-book-style": {
+    "name": "漫画风格",
+    "description": "针对 Blender 的漫画与图画小说艺术指导，强调墨线、半色调提示及高对比构图。"
+  },
+  "arjun988/blender-skills:.cursor/skills/comic-book-style": {
+    "name": "漫画风格",
+    "description": "针对 Blender 的漫画与图画小说艺术指导，强调墨线、半色调提示及高对比构图。"
+  },
+  "ComposioHQ/awesome-claude-skills:competitive-ads-extractor": {
+    "name": "竞争广告提取器",
+    "description": "从广告库（Facebook、LinkedIn 等）中提取并分析竞争对手的广告，以了解哪些信息、问题及创意方法有效。有助于启发并改进您自己的广告活动。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/composio-automation": {
+    "name": "Composio 自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Composio 任务。始终优先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/composio-search-automation": {
+    "name": "Composio 搜索自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Composio 搜索任务。始终优先搜索工具以获取当前模式。"
+  },
+  "arjun988/blender-skills:.claude/skills/compositing": {
+    "name": "合成",
+    "description": "Blender 合成工作流，用于美容堆栈、渲染通道、调色、眩光及交付输出，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/compositing": {
+    "name": "合成",
+    "description": "Blender 合成工作流，用于美容堆栈、渲染通道、调色、眩光及交付输出，通过 MCP 实现。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/connecteam-automation": {
+    "name": "Connecteam 自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Connecteam 任务。始终优先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/contentful-graphql-automation": {
+    "name": "Contentful GraphQL 自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Contentful Graphql 任务。始终优先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/control-d-automation": {
+    "name": "Control D 自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Control D 任务。始终优先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/conversion-tools-automation": {
+    "name": "转换工具自动化",
+    "description": "通过 Rube MCP（Composio）自动化转换工具任务。始终优先搜索工具以获取当前模式。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/convertapi-automation": {
+    "name": "Convertapi 自动化",
+    "description": "通过 Rube MCP（Composio）自动化 Convertapi 任务。始终优先搜索工具以获取当前模式。"
+  },
+  "arjun988/blender-skills:.claude/skills/cosmic-eldritch-horror": {
+    "name": "宇宙·恐怖异形",
+    "description": "针对 Blender 的宇宙、恐怖异形及洛夫克拉夫特式恐怖艺术指导，带有非欧几里得暗示、不可能的比例及难以理解的形态。"
+  },
+  "arjun988/blender-skills:.cursor/skills/cosmic-eldritch-horror": {
+    "name": "宇宙·恐怖异形",
+    "description": "针对 Blender 的宇宙、恐怖异形及洛夫克拉夫特式恐怖艺术指导，带有非欧几里得暗示、不可能的比例及难以理解的形态。"
+  },
+  "arjun988/blender-skills:.claude/skills/cozy-wholesome-mood": {
+    "name": "舒适·温馨氛围",
+    "description": "针对 Blender 资产与场景的舒适、可爱、温馨、放松和平静氛围指导。"
+  },
+  "arjun988/blender-skills:.cursor/skills/cozy-wholesome-mood": {
+    "name": "舒适·温馨氛围",
+    "description": "针对 Blender 资产与场景的舒适、可爱、温馨、放松和平静氛围指导。"
+  },
+  "arjun988/blender-skills:.claude/skills/creature-artist": {
+    "name": "生物艺术家",
+    "description": "针对奇幻、外星人、怪物及有机生物设计的 AAA 级生物建模，具备逼真的解剖结构与运动。可用于生物块体搭建、肌肉流动、骨骼结构及动画就绪的生物资产，在 Blender 中通过 MCP 使用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/creature-artist": {
+    "name": "生物艺术家",
+    "description": "针对奇幻、外星人、怪物及有机生物设计的 AAA 级生物建模，具备逼真的解剖结构与运动。可用于生物块体搭建、肌肉流动、骨骼结构及动画就绪的生物资产，在 Blender 中通过 MCP 使用。"
+  },
+  "arjun988/blender-skills:.claude/skills/dark-gritty-mood": {
+    "name": "黑暗· gritty 氛围",
+    "description": "针对 Blender 的黑暗、严峻、 gritty、生锈、废弃、腐朽、工业、孤独及忧郁氛围指导。"
+  },
+  "arjun988/blender-skills:.cursor/skills/dark-gritty-mood": {
+    "name": "黑暗· gritty 氛围",
+    "description": "针对 Blender 的黑暗、严峻、 gritty、生锈、废弃、腐朽、工业、孤独及忧郁氛围指导。"
+  },
+  "Leonxlnx/taste-skill:skills/taste-skill": {
+    "name": "设计品味前端",
+    "description": "tasteskill 2.5.1，反低俗前端技能。构建专业公司网站，达到 figma.com 和 x.ai 的水准：采用自有语调的简洁文案，单系统、每屏一区，边缘对齐，使用真实照片与真实产品UI（客户无照片时使用授权替代照片；仅当需求要求3D时才使用产品渲染图），每页一个英雄入口及一到两个重点时刻，仅在科技、游戏与软件页面使用着色效果与场景，微交互低调，且设有检查与最终审核环节，在真实浏览器中强制执行。每当您构建、设计、重新设计、改版、润色或评审落地页、公司、产品、商店、咖啡馆、酒店、工作室、SaaS、AI、开发者工具或游戏网站时，请使用此技能，无论是静态HTML/CSS，还是现有 React、Next.js、Vue、Svelte、Astro 或 Tailwind 项目的一部分，亦或用户反馈页面显得通用、模板化或由 \"AI制造\"生成时。"
+  },
+  "cexll/myclaude:skills/dev": {
+    "name": "开发",
+    "description": "极致轻量级端到端开发工作流，包含需求澄清、智能后端选择、并行代码代理执行及强制90%测试覆盖率。"
+  },
+  "anthropics/skills:skills/discernment-nudge": {
+    "name": "辨识提示",
+    "description": "在您给出用户可能采取行动的实质性回答或草稿后——如建议或推荐、目标、计划、提案、邮件等起草成果、估算或预测、数据的分析或解读、他们可能依赖的事实主张，或多重步骤论证——请在最终确定回复前调用此技能，若适用，则附加2-3个简短的后续问题，每个问题都与您刚产出的内容中的具体事项相关，帮助用户核对关键事实、探究推理或假设，并发现遗漏的背景信息。每次对话最多执行一次。若用户询问琐碎的操作方法或简单查询、需要纯教育性解释、仅要求格式化、转换或组装其提供的内容、正在编写将要运行的代码、进行创意写作或随意聊天，或已要求您复核、引用或审查，则跳过此步骤——技能文件详细说明了这些边界及确切的输出格式。"
+  },
+  "cexll/myclaude:skills/do": {
+    "name": "执行",
+    "description": "此技能应用于具备代码库理解的结构化功能开发。触发条件为 /do 命令。提供五阶段工作流（理解、澄清、设计、实现、完成），利用代码代理封装器协调代码探索者、代码架构师、代码审查员及开发代理的并行工作。"
+  },
+  "anthropics/skills:skills/doc-coauthoring": {
+    "name": "文档协作编辑",
+    "description": "引导用户完成文档协作编辑的结构化工作流。适用于用户希望撰写文档、提案、技术规格、决策文件或类似结构化内容时。该工作流帮助用户高效传递上下文、通过迭代优化内容，并验证文档是否适合读者。触发条件为用户提及撰写文档、创建提案、起草规格或类似文档任务时。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/docker-ros2-development": {
+    "name": "Docker ROS2 开发",
+    "description": "针对基于 Docker 的 ROS2 开发的最佳实践，包括多阶段 Docker 文件、用于多容器机器人系统的 docker-compose、跨容器 DDS 发现、感知任务的 GPU 直通，以及开发与部署容器模式。当您容器化 ROS2 工作区、设置机器人软件堆栈的 docker-compose、调试容器间 DDS 通信、配置 NVIDIA Container Toolkit 处理 GPU 工作负载、转发 X11/Wayland 供 rviz2 和 GUI 工具使用，或管理摄像头与串口设备的 USB 直通时，请使用此技能。每当用户提及带有 ROS2 的 Docker、机器人专用 docker-compose、colcon 工作区的 Docker 文件、DDS 容器网络、ROS2 的 devcontainer、ROS2 的多阶段构建，或在容器中部署 ROS2 时，请触发。此外，当涉及基于 Docker 的 ROS2 构建 CI/CD、容器内 CycloneDDS 或 FastDDS 配置，或 Docker 中的共享内存时，也请触发。涵盖 Ubuntu 22.04 和 24.04 基础镜像上的 Humble、Jazzy 和 Rolling 发行版。"
+  },
+  "anthropics/skills:skills/docx": {
+    "name": "DOCX",
+    "description": "当用户希望创建、阅读、编辑或操作 Word 文档（.docx 文件）或 Word 模板（.dotx 文件）时，请使用此技能。触发条件包括：任何提及“Word doc”、“word document”、“.docx”、“.dotx”，或请求制作包含目录、标题、页码或信头等格式的专业文档。也适用于从 .docx 或 .dotx 文件中提取或重组内容、在文档中插入或替换图片、在 Word 文件中执行查找替换、处理修订记录或批注，或将内容转换为精美的 Word 文档。若用户要求以 Word 或 .docx 文件形式交付“报告”、“备忘录”、“信件”、“模板”或其他类似成果，请使用此技能。切勿用于 PDF、电子表格、Google Docs 或与文档生成无关的一般编码任务。"
+  },
+  "arjun988/blender-skills:.claude/skills/dream-surreal-mood": {
+    "name": "梦境·超现实氛围",
+    "description": "针对 Blender 场景的梦幻、超现实、神秘、灵性、充满希望及混乱氛围指导。"
+  },
+  "arjun988/blender-skills:.cursor/skills/dream-surreal-mood": {
+    "name": "梦境·超现实氛围",
+    "description": "针对 Blender 场景的梦幻、超现实、神秘、灵性、充满希望及混乱氛围指导。"
+  },
+  "arjun988/blender-skills:.claude/skills/dream-weirdcore-style": {
+    "name": "梦境-怪核风格",
+    "description": "受梦核、怪核和创伤核启发的艺术指导，适用于Blender，融合怀旧的错位感、阈限怀旧及超现实的童年空间。"
+  },
+  "arjun988/blender-skills:.cursor/skills/dream-weirdcore-style": {
+    "name": "梦境-怪核风格",
+    "description": "受梦核、怪核和创伤核启发的艺术指导，适用于Blender，融合怀旧的错位感、阈限怀旧及超现实的童年空间。"
+  },
+  "emilkowalski/skills:skills/emil-design-eng": {
+    "name": "emil-design-eng",
+    "description": "Emil Kowalski的UI打磨、组件设计、动效决策以及让软件体验卓越的隐形细节的设计工程哲学。用于构建或评审UI组件的交互与细节（按下与悬停状态、弹出框原点、提示框时序、过渡与关键帧、clip-path技术、拖拽细节等），且无更具体的技能可归类。"
+  },
+  "arjun988/blender-skills:.claude/skills/environment-artist": {
+    "name": "环境艺术家",
+    "description": "AAA级环境美术，涵盖模块化套件、建筑、地形、植被、架构及场景构图。适用于游戏优化环境、空间叙事以及通过MCP在Blender中实现模块化资产管线。"
+  },
+  "arjun988/blender-skills:.cursor/skills/environment-artist": {
+    "name": "环境艺术家",
+    "description": "AAA级环境美术，涵盖模块化套件、建筑、地形、植被、架构及场景构图。适用于游戏优化环境、空间叙事以及通过MCP在Blender中实现模块化资产管线。"
+  },
+  "arjun988/blender-skills:.claude/skills/export-pipeline": {
+    "name": "导出管线",
+    "description": "从Blender到FBX、GLTF、OBJ、USD和Alembic的生产级导出，包含缩放、枢轴、旋转、法线、材质、动画及碰撞验证，并通过MCP进行校验。"
+  },
+  "arjun988/blender-skills:.cursor/skills/export-pipeline": {
+    "name": "导出管线",
+    "description": "从Blender到FBX、GLTF、OBJ、USD和Alembic的生产级导出，包含缩放、枢轴、旋转、法线、材质、动画及碰撞验证，并通过MCP进行校验。"
+  },
+  "arjun988/blender-skills:.claude/skills/fantasy-worlds": {
+    "name": "奇幻世界",
+    "description": "针对Blender的奇幻世界构建艺术指导，涵盖中世纪、高魔幻、黑暗奇幻及都市奇幻的资产语言。"
+  },
+  "arjun988/blender-skills:.cursor/skills/fantasy-worlds": {
+    "name": "奇幻世界",
+    "description": "针对Blender的奇幻世界构建艺术指导，涵盖中世纪、高魔幻、黑暗奇幻及都市奇幻的资产语言。"
+  },
+  "emilkowalski/skills:skills/find-animation-opportunities": {
+    "name": "寻找动画机会",
+    "description": "在代码库或UI中搜索本应有动效却缺失之处，并拒绝一切不应添加动效的部分。只读；仅提出精确数值的动效方案，不实际执行。当用户询问“这里能加个动效吗？”或希望“让它看起来更有活力”时使用。若需修正现有动效，请改用improve-animations或review-animations。"
+  },
+  "arjun988/blender-skills:.claude/skills/folk-horror-style": {
+    "name": "民间恐怖风格",
+    "description": "针对Blender的民间恐怖艺术指导，呈现乡村仪式的诡异感、田园白昼的恐惧氛围及社区错位的叙事张力。"
+  },
+  "arjun988/blender-skills:.cursor/skills/folk-horror-style": {
+    "name": "民间恐怖风格",
+    "description": "针对Blender的民间恐怖艺术指导，呈现乡村仪式的诡异感、田园白昼的恐惧氛围及社区错位的叙事张力。"
+  },
+  "anthropics/skills:skills/frontend-design": {
+    "name": "前端设计",
+    "description": "在构建新UI或改造现有UI时，提供鲜明而富有意图的视觉设计指导。帮助确定美学方向、字体排印，并做出避免落入模板化默认选项的决策。"
+  },
+  "arjun988/blender-skills:.claude/skills/frutiger-aero-style": {
+    "name": "frutiger-aero风格",
+    "description": "Frutiger Aero艺术指导，适用于Blender，带有光泽拟物主义、水绿色UI提示、自然科技乐观主义及2000年代中期未来主义风格。"
+  },
+  "arjun988/blender-skills:.cursor/skills/frutiger-aero-style": {
+    "name": "frutiger-aero风格",
+    "description": "Frutiger Aero艺术指导，适用于Blender，带有光泽拟物主义、水绿色UI提示、自然科技乐观主义及2000年代中期未来主义风格。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-action-combat": {
+    "name": "动作战斗类型",
+    "description": "针对动作、砍杀、格斗及对战游戏的可读战斗空间与道具语言的艺术指导，在Blender中适用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-action-combat": {
+    "name": "动作战斗类型",
+    "description": "针对动作、砍杀、格斗及对战游戏的可读战斗空间与道具语言的艺术指导，在Blender中适用。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-card-party-idle": {
+    "name": "卡牌派对放置类型",
+    "description": "针对卡牌游戏、构筑牌组、派对游戏、放置/增量、教育及节奏游戏展示空间的艺术指导，在Blender中适用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-card-party-idle": {
+    "name": "卡牌派对放置类型",
+    "description": "针对卡牌游戏、构筑牌组、派对游戏、放置/增量、教育及节奏游戏展示空间的艺术指导，在Blender中适用。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-metroidvania-roguelike": {
+    "name": "genre-metroidvania-roguelike",
+    "description": "针对银河战士恶魔城、roguelike及roguelite游戏的艺术指导，在Blender中适用，包含生物群系入口、房间模块及跑动可读道具。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-metroidvania-roguelike": {
+    "name": "genre-metroidvania-roguelike",
+    "description": "针对银河战士恶魔城、roguelike及roguelite游戏的艺术指导，在Blender中适用，包含生物群系入口、房间模块及跑动可读道具。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-narrative-vn": {
+    "name": "叙事视觉小说类型",
+    "description": "针对视觉小说、互动电影、步行模拟器及剧情驱动展示空间的艺术指导，在Blender中适用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-narrative-vn": {
+    "name": "叙事视觉小说类型",
+    "description": "针对视觉小说、互动电影、步行模拟器及剧情驱动展示空间的艺术指导，在Blender中适用。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-open-world-sandbox": {
+    "name": "开放世界沙盒类型",
+    "description": "针对开放世界及沙盒游戏的艺术指导，在Blender中适用，包含生物群系地标、可 traversable 的尺度及探索道具。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-open-world-sandbox": {
+    "name": "开放世界沙盒类型",
+    "description": "针对开放世界及沙盒游戏的艺术指导，在Blender中适用，包含生物群系地标、可 traversable 的尺度及探索道具。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-puzzle-platformer": {
+    "name": "益智平台跳跃类型",
+    "description": "针对益智与平台跳跃游戏的艺术指导，在Blender中适用，强调可交互元素的可读性、跳跃幅度及清晰的危险提示。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-puzzle-platformer": {
+    "name": "益智平台跳跃类型",
+    "description": "针对益智与平台跳跃游戏的艺术指导，在Blender中适用，强调可交互元素的可读性、跳跃幅度及清晰的危险提示。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-racing-sports": {
+    "name": "赛车运动类型",
+    "description": "针对赛车及体育游戏的艺术指导，在Blender中适用，包含赛道地标、体育场套装及高速可读性。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-racing-sports": {
+    "name": "赛车运动类型",
+    "description": "针对赛车及体育游戏的艺术指导，在Blender中适用，包含赛道地标、体育场套装及高速可读性。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-rpg": {
+    "name": "RPG类型",
+    "description": "针对RPG、JRPG、CRPG、ARPG及MMORPG世界的艺术指导，在Blender中适用，包括战利品稀有度标识及地区认同。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-rpg": {
+    "name": "RPG类型",
+    "description": "针对RPG、JRPG、CRPG、ARPG及MMORPG世界的艺术指导，在Blender中适用，包括战利品稀有度标识及地区认同。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-shooter": {
+    "name": "射击类型",
+    "description": "针对FPS、TPS、射击、大逃杀及撤离射击地图和道具的艺术指导，在Blender中适用，包含视线与掩体语言。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-shooter": {
+    "name": "射击类型",
+    "description": "针对FPS、TPS、射击、大逃杀及撤离射击地图和道具的艺术指导，在Blender中适用，包含视线与掩体语言。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-soulslike": {
+    "name": "类魂系列类型",
+    "description": "针对类魂游戏的艺术指导，在Blender中适用，包含宏伟忧郁的空间、迷雾之门、篝火地标及致命的可读性。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-soulslike": {
+    "name": "类魂系列类型",
+    "description": "针对类魂游戏的艺术指导，在Blender中适用，包含宏伟忧郁的空间、迷雾之门、篝火地标及致命的可读性。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-stealth": {
+    "name": "潜行类型",
+    "description": "针对潜行游戏空间的艺术指导，在Blender中适用，包含阴影体积、巡逻友好布局及隐蔽材料。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-stealth": {
+    "name": "潜行类型",
+    "description": "针对潜行游戏空间的艺术指导，在Blender中适用，包含阴影体积、巡逻友好布局及隐蔽材料。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-strategy-sim": {
+    "name": "策略模拟类型",
+    "description": "针对策略、RTS、回合制策略、塔防、MOBA、城市建造、殖民地模拟及各类模拟游戏的艺术指导，在Blender中适用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-strategy-sim": {
+    "name": "策略模拟类型",
+    "description": "针对策略、RTS、回合制策略、塔防、MOBA、城市建造、殖民地模拟及各类模拟游戏的艺术指导，在Blender中适用。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-survival": {
+    "name": "生存类型",
+    "description": "针对生存及生存恐怖玩法空间的艺术指导，在Blender中适用，强调资源道具、制作可读性及紧张路线。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-survival": {
+    "name": "生存类型",
+    "description": "针对生存及生存恐怖玩法空间的艺术指导，在Blender中适用，强调资源道具、制作可读性及紧张路线。"
+  },
+  "arjun988/blender-skills:.claude/skills/geometry-nodes": {
+    "name": "几何节点",
+    "description": "Blender几何节点，用于程序化建模、散布系统、植被、建筑、管道、电缆及可复用节点组。适用于程序化资产生成及实例化管线，可通过MCP使用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/geometry-nodes": {
+    "name": "几何节点",
+    "description": "Blender几何节点，用于程序化建模、散布系统、植被、建筑、管道、电缆及可复用节点组。适用于程序化资产生成及实例化管线，可通过MCP使用。"
+  },
+  "emilkowalski/skills:skills/gestures": {
+    "name": "手势",
+    "description": "构建拖拽、滑动及抽屉式交互，实现手指1:1追踪并保持可中断性。用于构建或修复任何用户通过手势拖拽、滑动、抛掷、长按或关闭的对象——抽屉、面板、滑动关闭的Toast与卡片、拖拽排序、下拉刷新、长按确认——或当手势出现延迟、与手指不同步、松开后跳动或无法在动画中途捕捉时使用。触发条件包括：手势、拖拽、滑动、抛掷、抽屉、吸附点、Vaul、Motion拖拽道具、橡皮筋效果、下拉刷新、长按删除、touch-action、\"doesn't follow my finger\"、\"jumps when I let go\"、\"can't grab it mid-animation\"。"
+  },
+  "arjun988/blender-skills:.claude/skills/godot-export": {
+    "name": "Godot导出",
+    "description": "Godot专用的Blender导出，优先采用GLTF/GLB格式，确保正确缩放、材质、动画片段及碰撞形状，通过MCP实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/godot-export": {
+    "name": "Godot导出",
+    "description": "Godot专用的Blender导出，优先采用GLTF/GLB格式，确保正确缩放、材质、动画片段及碰撞形状，通过MCP实现。"
+  },
+  "arjun988/blender-skills:.claude/skills/hair-groom": {
+    "name": "发型梳理",
+    "description": "使用曲线、粒子毛发、几何节点及游戏发型卡工作流，在Blender中进行头发与毛发梳理。适用于角色、生物及实时发型卡，可通过MCP使用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/hair-groom": {
+    "name": "发型梳理",
+    "description": "使用曲线、粒子毛发、几何节点及游戏发型卡工作流，在Blender中进行头发与毛发梳理。适用于角色、生物及实时发型卡，可通过MCP使用。"
+  },
+  "arjun988/blender-skills:.claude/skills/hand-painted-style": {
+    "name": "手绘风格",
+    "description": "手绘纹理艺术指导，在Blender中适用，具有笔触反照率、柔和明暗过渡及风格化的PBR克制。"
+  },
+  "arjun988/blender-skills:.cursor/skills/hand-painted-style": {
+    "name": "手绘风格",
+    "description": "手绘纹理艺术指导，在Blender中适用，具有笔触反照率、柔和明暗过渡及风格化的PBR克制。"
+  },
+  "arjun988/blender-skills:.claude/skills/hard-surface": {
+    "name": "硬表面",
+    "description": "AAA级硬表面建模，适用于科幻、工业、军事、车辆、武器、机器人及机械道具。用于布尔/倒角工作流、面板线、细节处理、倒角及制造精度表面，在Blender中适用，通过MCP实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/hard-surface": {
+    "name": "硬表面",
+    "description": "AAA级硬表面建模，适用于科幻、工业、军事、车辆、武器、机器人及机械道具。用于布尔/倒角工作流、面板线、细节处理、倒角及制造精度表面，在Blender中适用，通过MCP实现。"
+  },
+  "cexll/myclaude:skills/harness": {
+    "name": "综合能力",
+    "description": "此技能应用于需要进度检查点、失败恢复及任务依赖管理的多会话自主代理工作。触发条件为收到“/harness”指令，或当任务涉及众多子任务需持久化进度、跨上下文窗口的休眠/恢复周期、从部分状态的中途失败中恢复，或在多个代理会话间进行分布式工作时使用。由Anthropic与OpenAI的工程实践综合而成，专为长时间运行的代理设计。"
+  },
+  "arjun988/blender-skills:.claude/skills/hd-2d-style": {
+    "name": "高清2D风格",
+    "description": "高清2D艺术指导，将像素角色/精灵与3D环境、景深及戏剧化灯光相结合。"
+  },
+  "arjun988/blender-skills:.cursor/skills/hd-2d-style": {
+    "name": "高清2D风格",
+    "description": "高清2D艺术指导，将像素角色/精灵与3D环境、景深及戏剧化灯光相结合。"
+  },
+  "arjun988/blender-skills:.claude/skills/historical-worlds": {
+    "name": "历史世界",
+    "description": "Blender 的历史与时代背景艺术指导，涵盖西方、海盗、武士/忍者、维京、古埃及/希腊/罗马、维多利亚、现代及军事等时期。"
+  },
+  "arjun988/blender-skills:.cursor/skills/historical-worlds": {
+    "name": "历史世界",
+    "description": "Blender 的历史与时代背景艺术指导，涵盖西方、海盗、武士/忍者、维京、古埃及/希腊/罗马、维多利亚、现代及军事等时期。"
+  },
+  "arjun988/blender-skills:.claude/skills/horror-style": {
+    "name": "恐怖风格",
+    "description": "Blender 资源的心理恐怖艺术指导，灵感源自《寂静岭》、《生化危机》、Chilla's Art、Fear to Fathom 和 Iron Lung。适用于稀疏工业环境、模拟美学及紧张氛围的灯光效果。"
+  },
+  "arjun988/blender-skills:.cursor/skills/horror-style": {
+    "name": "恐怖风格",
+    "description": "Blender 资源的心理恐怖艺术指导，灵感源自《寂静岭》、《生化危机》、Chilla's Art、Fear to Fathom 和 Iron Lung。适用于稀疏工业环境、模拟美学及紧张氛围的灯光效果。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/imitation-learning": {
+    "name": "仿学习",
+    "description": "面向机器人操作的实用仿学习（从演示中学习）：判断是否适合使用IL，设计演示数据集，选择观测与动作空间，挑选并配置策略（行为克隆、ACT、扩散策略、流匹配、OpenVLA-OFT、Octo、pi0/pi0.5、SmolVLA、GR00T 等视觉语言模型），训练与检查点选择，带置信区间的诚实回放评估，部署时机，以及故障诊断。当用户提及行为克隆、遥操作演示、领航-跟随机械臂、动作分块、时间集成、微调视觉语言模型、\"多少个演示\"、成功率、策略评估、DAgger 或干预数据、协变量偏移、策略冻结、抖动、抓取失败，或在仿真中有效但在机器人上失效，亦或是仿真与真实联合训练时，请使用此技能。"
+  },
+  "emilkowalski/skills:skills/improve-animations": {
+    "name": "改善动画",
+    "description": "作为资深动作顾问，对代码库中的动画与运动代码进行调研，并产出优先级审计报告及自包含的实现方案，供其他智能体（或更低成本模型）执行。仅读取源代码——规划改进方案，不直接应用。当用户要求 \"改善动画\"、\"审计运动\"、\"让本应用体验更好\"，或希望获得动画修复路线图而非单次差异审查时，请使用此技能。"
+  },
+  "arjun988/blender-skills:.claude/skills/indie-horror-aesthetics": {
+    "name": "独立恐怖美学",
+    "description": "Blender 的独立恐怖美学包，涵盖《寂静岭》、Fear to Fathom、Puppet Combo、企业恐怖、小屋/森林/医院恐怖及相关风格。"
+  },
+  "arjun988/blender-skills:.cursor/skills/indie-horror-aesthetics": {
+    "name": "独立恐怖美学",
+    "description": "Blender 的独立恐怖美学包，涵盖《寂静岭》、Fear to Fathom、Puppet Combo、企业恐怖、小屋/森林/医院恐怖及相关风格。"
+  },
+  "anthropics/skills:skills/internal-comms": {
+    "name": "内部沟通",
+    "description": "一套资源，帮助我按照公司常用格式撰写各类内部沟通内容。每当被要求撰写某种内部沟通材料（状态报告、领导层更新、3P 更新、公司通讯、常见问题解答、事故报告、项目更新等）时，请使用 Claude 此技能。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/isaac-sim": {
+    "name": "isaac-sim",
+    "description": "NVIDIA Isaac Sim 和 Isaac Lab 用于机器人学习：安装（uv、pip、二进制、Docker、云端），RTX GPU 及驱动要求，无头运行与直播，OpenUSD 资产，URDF/MJCF 导入，ArticulationCfg 与执行器，基于管理器与直接环境，configclass，gymnasium 任务注册，使用 rsl_rl、rl_games、skrl 或 sb3 进行训练与玩耍，平行环境，拼接相机，接触传感器，射线投射器，IMU，帧变换器，通过事件实现领域随机化，遥操作，Isaac Lab Mimic，ROS 2 桥接，PhysX/Newton 预设，求解器调优及关节爆炸问题。当用户提及 Isaac Sim、Isaac Lab、Omniverse、Kit、isaacsim 或 isaaclab 导入，omni.isaac 模块，USD 机器人，URDF 导入，num_envs，Mimic，isaaclab 训练或玩耍，ManagerBasedRLEnv、DirectRLEnv、PresetCfg，在 Isaac Lab 使用 Newton 或 OvPhysX，或从 Isaac Gym 或 Isaac Lab 2.x 迁移时，请使用此技能。"
+  },
+  "arjun988/blender-skills:.claude/skills/isometric-style": {
+    "name": "等距视图风格",
+    "description": "Blender 的等距视图与策略游戏艺术指导，包括全景框架、真实等距相机设置、清晰轮廓及瓦片资源规则。"
+  },
+  "arjun988/blender-skills:.cursor/skills/isometric-style": {
+    "name": "等距视图风格",
+    "description": "Blender 的等距视图与策略游戏艺术指导，包括全景框架、真实等距相机设置、清晰轮廓及瓦片资源规则。"
+  },
+  "emilkowalski/skills:skills/learn-taste": {
+    "name": "学习品味",
+    "description": "将一次会话的设计修正转化为规则，并附上原因，记录于 DESIGN.md、项目技能或 lint 检查中。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/lerobot": {
+    "name": "lerobot",
+    "description": "Hugging Face LeRobot 端到端流程：安装、硬件初始化、数据集录制、训练及部署机器人学习策略。当用户提及 LeRobot、lerobot-record、lerobot-train、lerobot-rollout、lerobot-teleoperate、lerobot-calibrate、lerobot-setup-motors、lerobot-find-port、lerobot-find-cameras、lerobot-eval、lerobot-edit-dataset、LeRobotDataset、SO-100、SO-101、SO-ARM100、Koch、LeKiwi、OMX、OpenArm、Feitech STS3215 伺服电机、领航/跟随遥操作、校准文件、ACT、扩散策略、SmolVLA、pi0/pi0.5、GR00T 或 X-VLA 在 LeRobot 中微调，Hugging Face Hub 上的机器人数据集，数据集 v2.1 至 v3.0 转换，RTC 或远程（异步）推理，或 LeRobot 中的 HIL-SERL 时，请使用此技能。此外，当出现 LeRobot 错误如校准不匹配、FrameTimestampError 或时间戳容差违规、数据集与策略间摄像头或特征名称不匹配、q01/q99 统计缺失，以及 Feitech \"错误状态包\"时，也应触发。"
+  },
+  "arjun988/blender-skills:.claude/skills/lighting": {
+    "name": "照明",
+    "description": "Blender 的电影与游戏照明，包括三点布光、HDRI、恐怖照明、体积光效、轮廓光及情绪驱动的光照。用于通过 MCP 进行外观开发与场景氛围营造。"
+  },
+  "arjun988/blender-skills:.cursor/skills/lighting": {
+    "name": "照明",
+    "description": "Blender 的电影与游戏照明，包括三点布光、HDRI、恐怖照明、体积光效、轮廓光及情绪驱动的光照。用于通过 MCP 进行外观开发与场景氛围营造。"
+  },
+  "arjun988/blender-skills:.claude/skills/liminal-space-style": {
+    "name": "介于现实与虚幻的空间风格",
+    "description": "Blender 的介于现实与虚幻空间及 Backrooms 艺术指导，具有空旷的过渡性建筑、错位的熟悉感及无尽的重复。"
+  },
+  "arjun988/blender-skills:.cursor/skills/liminal-space-style": {
+    "name": "介于现实与虚幻的空间风格",
+    "description": "Blender 的介于现实与虚幻空间及 Backrooms 艺术指导，具有空旷的过渡性建筑、错位的熟悉感及无尽的重复。"
+  },
+  "arjun988/blender-skills:.claude/skills/lod-pipeline": {
+    "name": "LOD 流程",
+    "description": "专用于 Blender 游戏网格的 LOD 生成、命名、屏幕尺寸目标及验证，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/lod-pipeline": {
+    "name": "LOD 流程",
+    "description": "专用于 Blender 游戏网格的 LOD 生成、命名、屏幕尺寸目标及验证，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.claude/skills/lookdev": {
+    "name": "外观开发",
+    "description": "Blender 资源的外观开发循环，结合材质、照明、相机及截图对比，直至着色正确显示，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/lookdev": {
+    "name": "外观开发",
+    "description": "Blender 资源的外观开发循环，结合材质、照明、相机及截图对比，直至着色正确显示，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.claude/skills/lowpoly-style": {
+    "name": "低多边形风格",
+    "description": "Blender 的低多边形艺术指导，灵感源自 PS1/PS2、Lethal Company、Mouthwashing 和 Fear to Fathom。适用于清晰轮廓、最少多边形、简单材质及强烈氛围。"
+  },
+  "arjun988/blender-skills:.cursor/skills/lowpoly-style": {
+    "name": "低多边形风格",
+    "description": "Blender 的低多边形艺术指导，灵感源自 PS1/PS2、Lethal Company、Mouthwashing 和 Fear to Fathom。适用于清晰轮廓、最少多边形、简单材质及强烈氛围。"
+  },
+  "arjun988/blender-skills:.claude/skills/manga-style": {
+    "name": "漫画风格",
+    "description": "Blender 的漫画风格艺术指导，强调单色明暗设计、速度线、网点质感及漫画分镜排版。"
+  },
+  "arjun988/blender-skills:.cursor/skills/manga-style": {
+    "name": "漫画风格",
+    "description": "Blender 的漫画风格艺术指导，强调单色明暗设计、速度线、网点质感及漫画分镜排版。"
+  },
+  "arjun988/blender-skills:.claude/skills/mascot-puppet-horror": {
+    "name": "吉祥物与木偶恐怖",
+    "description": "Blender 的吉祥物与木偶恐怖艺术指导，以欢乐的品牌角色被扭曲呈现、发泡材料及诡异表演为特色。"
+  },
+  "arjun988/blender-skills:.cursor/skills/mascot-puppet-horror": {
+    "name": "吉祥物与木偶恐怖",
+    "description": "Blender 的吉祥物与木偶恐怖艺术指导，以欢乐的品牌角色被扭曲呈现、发泡材料及诡异表演为特色。"
+  },
+  "arjun988/blender-skills:.claude/skills/materials": {
+    "name": "材质",
+    "description": "Blender PBR 与金属、木材、混凝土、织物、玻璃、泥土、锈迹及程序化着色器的风格化材质制作。用于外观开发、材质复用及生产着色，通过 Blender 并借助 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/materials": {
+    "name": "材质",
+    "description": "Blender PBR 与金属、木材、混凝土、织物、玻璃、泥土、锈迹及程序化着色器的风格化材质制作。用于外观开发、材质复用及生产着色，通过 Blender 并借助 MCP 实现。"
+  },
+  "anthropics/skills:skills/mcp-builder": {
+    "name": "mcp-builder",
+    "description": "创建高质量 MCP（模型上下文协议）服务器指南，使大语言模型能够通过精心设计的工具与外部服务交互。当构建 MCP 服务器以集成外部 API 或服务时，请使用此技能，无论是在 Python（FastMCP）还是 Node/TypeScript（MCP SDK）环境中。"
+  },
+  "arjun988/blender-skills:.claude/skills/minimalist-style": {
+    "name": "极简风格",
+    "description": "Blender 的极简与抽象倾向艺术指导，采用简化形态、有限配色及负空间。"
+  },
+  "arjun988/blender-skills:.cursor/skills/minimalist-style": {
+    "name": "极简风格",
+    "description": "Blender 的极简与抽象倾向艺术指导，采用简化形态、有限配色及负空间。"
+  },
+  "emilkowalski/skills:skills/mobile-native": {
+    "name": "移动原生",
+    "description": "使 Web 应用在手机上呈现原生体验——通过少量 CSS 和 meta 标签修复，将 \" 在浏览器中的网站\" 与感觉已安装的应用区分开来。涵盖粘性悬停状态、点击高亮闪烁、100vh Bug、输入导致页面缩放、点击卡顿、下拉刷新劫持滚动、刘海屏下方内容、长按选择按钮文字、轮播图滚动方向错误、状态栏不匹配，以及必须在真实硬件上测试的规则。当 Web 应用正在移动端开发或评审时，当某事物\" 在 Chrome 中运行正常但在我手机上感觉异常\"时，当构建 PWA、底部弹出层、轮播图、全屏布局或任何触控交互时，请使用此技能。对于动画本身请使用 animate；对于 React Native 请使用 animate-expo。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/mujoco": {
+    "name": "mujoco",
+    "description": "MuJoCo 物理仿真用于机器人技术：编写与调试 MJCF 模型，导入 URDF，从 Python 进行仿真、控制与渲染，调整接触参数，运行批量 GPU 仿真。当用户提及 MuJoCo、MJCF、mujoco.MjModel / MjData、mj_step、MjSpec、mujoco.Renderer、MUJOCO_GL、EGL/OSMesa 无头渲染、被动查看器或 MuJoCo Studio、MuJoCo Menagerie（Franka、UR5e、SO-100/SO-101、ALOHA、G1）、MJX、MuJoCo Warp（mujoco_warp）、MuJoCo Playground、dm_control 或 Gymnasium MuJoCo 环境时，请使用此技能。此外，当涉及接触参数调优（solref、solimp、condim、摩擦力、impratio、noslip）、仿真爆炸或抖动、物体下沉或抓取滑脱、位置执行器 kp/kv、关节骨架与阻尼、contype/conaffinity 碰撞过滤、关键帧、积分器与时间步选择，以及 MuJoCo 模型字段的系统辨识或领域随机化以实现仿真到真实的转换时，也请触发。"
+  },
+  "arjun988/blender-skills:.claude/skills/neon-retrofuturism": {
+    "name": "霓虹复古未来主义",
+    "description": "Blender 的霓虹、蒸汽波、合成波及复古未来主义情绪/艺术指导，搭配网格地平线、镀铬元素及黄昏色调。"
+  },
+  "arjun988/blender-skills:.cursor/skills/neon-retrofuturism": {
+    "name": "霓虹复古未来主义",
+    "description": "Blender 的霓虹、蒸汽波、合成波及复古未来主义情绪/艺术指导，搭配网格地平线、镀铬元素及黄昏色调。"
+  },
+  "arjun988/blender-skills:.claude/skills/noir-style": {
+    "name": "黑色电影风格",
+    "description": "Blender 的黑色电影艺术指导，采用高对比度照明、湿漉漉的街道、剪影及单色或有限色彩分级。"
+  },
+  "arjun988/blender-skills:.cursor/skills/noir-style": {
+    "name": "黑色电影风格",
+    "description": "Blender 的黑色电影艺术指导，采用高对比度照明、湿漉漉的街道、剪影及单色或有限色彩分级。"
+  },
+  "cexll/myclaude:skills/omo": {
+    "name": "omo",
+    "description": "当你看到 `/omo` 时，请使用此技能。面向 \" 的多智能体编排，用于代码分析/漏洞调查/修复计划/实施\"。根据任务类型+风险选择最小智能体集合及顺序；以下配方展示了常见模式。"
+  },
+  "arjun988/blender-skills:.claude/skills/painterly-style": {
+    "name": "画家风格",
+    "description": "画家风格艺术指导，涵盖水彩与油画效果，适用于 Blender，运用柔和边缘、颜料纹理及插画式照明。"
+  },
+  "arjun988/blender-skills:.cursor/skills/painterly-style": {
+    "name": "画家风格",
+    "description": "画家风格艺术指导，涵盖水彩与油画效果，适用于 Blender，运用柔和边缘、颜料纹理及插画式照明。"
+  },
+  "anthropics/skills:skills/pdf": {
+    "name": "pdf",
+    "description": "当用户想要处理 PDF 文件时，请使用此技能。包括从 PDF 中读取或提取文本/表格，合并多个 PDF 成一个，拆分 PDF，旋转页面，添加水印，创建新的 PDF，填写 PDF 表格，加密/解密 PDF，提取图像，以及对扫描的 PDF 进行 OCR 使其可搜索。如果用户提到 .pdf 文件或要求生成此类文件，请使用此技能。"
+  },
+  "arjun988/blender-skills:.claude/skills/physics-sim": {
+    "name": "物理仿真",
+    "description": "Blender 中的刚体、软体及破坏设置，包括约束、细胞破碎残骸及烘焙缓存，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/physics-sim": {
+    "name": "物理仿真",
+    "description": "Blender 中的刚体、软体及破坏设置，包括约束、细胞破碎残骸及烘焙缓存，通过 MCP 实现。"
+  },
+  "emilkowalski/skills:skills/pick-ui-library": {
+    "name": "pick-ui-library",
+    "description": "从前端任务的精选列表中选择合适的 UI 库——基础组件、提示框、抽屉、命令菜单、OTP、数字、图表、虚拟化、拖放、状态管理、样式定制。"
+  },
+  "arjun988/blender-skills:.claude/skills/pixel-art-style": {
+    "name": "像素艺术风格",
+    "description": "针对即将用于像素渲染、低分辨率纹理或 HD-2D 相关像素读取的 Blender 资源，提供像素艺术与 texel 限制的艺术指导。"
+  },
+  "arjun988/blender-skills:.cursor/skills/pixel-art-style": {
+    "name": "像素艺术风格",
+    "description": "针对即将用于像素渲染、低分辨率纹理或 HD-2D 相关像素读取的 Blender 资源，提供像素艺术与 texel 限制的艺术指导。"
+  },
+  "anthropics/skills:skills/pptx": {
+    "name": "pptx",
+    "description": "只要涉及任何 .pptx 或 .potx 文件——无论是作为输入、输出还是两者兼有——均可使用此技能。这包括：创建幻灯片演示文稿、路演材料或演讲内容；读取、解析或提取任何 .pptx 或 .potx 文件中的文本（即使提取的内容将在其他地方使用，如电子邮件或摘要中）；编辑、修改或更新现有演示文稿；合并或拆分幻灯片文件；处理模板 (.potx)、版式、演讲者备注或评论。当用户提及 \\\"deck,\\\" \\\"slides,\\\" \\\"presentation,\\\" 或引用 .pptx 或 .potx 文件名时触发，无论他们后续打算如何处理这些内容。如果需要打开、创建或操作 .pptx 或 .potx 文件，请使用此技能。"
+  },
+  "arjun988/blender-skills:.claude/skills/procedural-modeling": {
+    "name": "程序化建模",
+    "description": "使用 Geometry Nodes 和基于修改器的工作流，在 Blender 中通过 MCP 对岩石、建筑、植被、道路、地形、管道、电缆及科幻面板进行程序化资产创建。"
+  },
+  "arjun988/blender-skills:.cursor/skills/procedural-modeling": {
+    "name": "程序化建模",
+    "description": "使用 Geometry Nodes 和基于修改器的工作流，在 Blender 中通过 MCP 对岩石、建筑、植被、道路、地形、管道、电缆及科幻面板进行程序化资产创建。"
+  },
+  "cexll/myclaude:skills/product-requirements": {
+    "name": "产品需求",
+    "description": "用于需求收集、分析及 PRD 编制的交互式产品负责人技能。当用户请求产品需求、功能规格说明、PRD 编写，或需要帮助理解并记录项目需求时触发。通过质量评分和迭代对话确保在生成专业 PRD 文档前获得全面的需求。"
+  },
+  "arjun988/blender-skills:.claude/skills/prop-artist": {
+    "name": "道具艺术家",
+    "description": "家具、工具、家居用品、Kitbash 零件及可识别的游戏道具的日常与英雄级建模。当硬表面过于科幻/机械而道具本身需体现真实感时使用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/prop-artist": {
+    "name": "道具艺术家",
+    "description": "家具、工具、家居用品、Kitbash 零件及可识别的游戏道具的日常与英雄级建模。当硬表面过于科幻/机械而道具本身需体现真实感时使用。"
+  },
+  "emilkowalski/skills:skills/prototype": {
+    "name": "原型",
+    "description": "根据您描述的 UI 元素构建多个真正不同的版本，并在可视化选择器后进行渲染，以便您可以实时切换查看并推广感觉最佳的方案。"
+  },
+  "cexll/myclaude:skills/prototype-prompt-generator": {
+    "name": "原型提示生成器",
+    "description": "当用户需要为创建 UI/UX 原型生成详细且结构化的提示时应使用此技能。当用户请求帮助 \"创建原型提示\"、\"设计移动应用\"、\"生成UI规范\"，或需要完整的网页/移动应用设计文档时触发。适用于多种设计系统，包括企业微信、iOS Native、Material Design 和 Ant Design Mobile。"
+  },
+  "arjun988/blender-skills:.claude/skills/psx-horror-style": {
+    "name": "PSX 恐怖风格",
+    "description": "结合低多边形仿射纹理、有限色深、雾效及心理恐怖布景的 PS1/PSX 时代恐怖美术风格，用于 Blender 资产。"
+  },
+  "arjun988/blender-skills:.cursor/skills/psx-horror-style": {
+    "name": "PSX 恐怖风格",
+    "description": "结合低多边形仿射纹理、有限色深、雾效及心理恐怖布景的 PS1/PSX 时代恐怖美术风格，用于 Blender 资产。"
+  },
+  "arjun988/blender-skills:.claude/skills/qa-review": {
+    "name": "QA 审核",
+    "description": "使用视口截图、验证清单、命名审计及通过 MCP 的是否上线判定，对 Blender 资产执行生产 QA 关卡。"
+  },
+  "arjun988/blender-skills:.cursor/skills/qa-review": {
+    "name": "QA 审核",
+    "description": "使用视口截图、验证清单、命名审计及通过 MCP 的是否上线判定，对 Blender 资产执行生产 QA 关卡。"
+  },
+  "arjun988/blender-skills:.claude/skills/realistic-style": {
+    "name": "写实风格",
+    "description": "用于 Blender 的摄影级 AAA 美术风格，包括摄影测量清理、现实比例、高多边形工作流、PBR 准确性及扫描优化。用于电影级及 AAA 游戏的真实感表现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/realistic-style": {
+    "name": "写实风格",
+    "description": "用于 Blender 的摄影级 AAA 美术风格，包括摄影测量清理、现实比例、高多边形工作流、PBR 准确性及扫描优化。用于电影级及 AAA 游戏的真实感表现。"
+  },
+  "JimLiu/baoyu-skills:.claude/skills/release-skills": {
+    "name": "发布技能",
+    "description": "通用发布工作流。自动检测版本文件及变更日志。支持 Node.js、Python、Rust、Claude 插件、GitHub Releases、带注释标签、历史版本回填及通用项目。当用户说 \"release\"、\"发布\"、\"new version\"、\"bump version\"、\"push\"、\"推送\"、\"release notes\"、\"GitHub Release\"，或 \"回填 Release\" 时使用。"
+  },
+  "emilkowalski/skills:skills/remove-animations": {
+    "name": "移除动画",
+    "description": "查找界面中不必要的动画并将其移除——键盘操作、高频表面、功能性数据及无实际用途的装饰性动作——然后清理残留部分。仅编辑代码以删减，绝不添加或重新调整动作。当用户表示应用 \"feels slow\"、\"has too much animation\"、\"feels over-animated\"、希望 \"tone down the motion\"，或询问应移除哪些动画时使用。若需寻找本应添加动画的位置，请使用 find-animation-opportunities；若需修复本应保留的动画，请使用 improve-animations 或 review-animations。"
+  },
+  "arjun988/blender-skills:.claude/skills/rendering": {
+    "name": "渲染",
+    "description": "使用 Cycles 和 Eevee 进行 Blender 渲染，包括采样、降噪、相机设置、渲染通道、色彩管理及渲染优化。用于最终输出及外观验证，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/rendering": {
+    "name": "渲染",
+    "description": "使用 Cycles 和 Eevee 进行 Blender 渲染，包括采样、降噪、相机设置、渲染通道、色彩管理及渲染优化。用于最终输出及外观验证，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.claude/skills/retopology": {
+    "name": "重拓扑",
+    "description": "生产级重拓扑，针对适合动画的低多边形、四边形主导网格，确保正确的边缘循环和高效的多边形流动。在雕刻或高多边形建模之后、进入 Blender 的绑定和 UV 工作之前使用，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/retopology": {
+    "name": "重拓扑",
+    "description": "生产级重拓扑，针对适合动画的低多边形、四边形主导网格，确保正确的边缘循环和高效的多边形流动。在雕刻或高多边形建模之后、进入 Blender 的绑定和 UV 工作之前使用，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.claude/skills/retro-16bit-style": {
+    "name": "复古16位风格",
+    "description": "复古16位美术风格，用于 Blender 辅助下的 SNES/Genesis 时代色彩丰富度、抖动线索及类似精灵的清晰度。"
+  },
+  "arjun988/blender-skills:.cursor/skills/retro-16bit-style": {
+    "name": "复古16位风格",
+    "description": "复古16位美术风格，用于 Blender 辅助下的 SNES/Genesis 时代色彩丰富度、抖动线索及类似精灵的清晰度。"
+  },
+  "arjun988/blender-skills:.claude/skills/retro-8bit-style": {
+    "name": "复古8位风格",
+    "description": "复古8位美术风格，用于 Blender 辅助下的像素/低分辨率美学，灵感源自 NES 时代的限制。"
+  },
+  "arjun988/blender-skills:.cursor/skills/retro-8bit-style": {
+    "name": "复古8位风格",
+    "description": "复古8位美术风格，用于 Blender 辅助下的像素/低分辨率美学，灵感源自 NES 时代的限制。"
+  },
+  "emilkowalski/skills:skills/review-animations": {
+    "name": "动画审核",
+    "description": "根据 Emil Kowalski 的设计工程哲学所确立的高标准工艺，对动画和运动代码进行审核。默认标记问题，需经批准方可通过。"
+  },
+  "arjun988/blender-skills:.claude/skills/rigging": {
+    "name": "绑定",
+    "description": "在 Blender 中进行生产级绑定，包括骨架、IK/FK、约束、权重绘制、机械绑定、面部绑定及驱动器。在变形资产上进行动画制作之前使用，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/rigging": {
+    "name": "绑定",
+    "description": "在 Blender 中进行生产级绑定，包括骨架、IK/FK、约束、权重绘制、机械绑定、面部绑定及驱动器。在变形资产上进行动画制作之前使用，通过 MCP 实现。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-app-harness": {
+    "name": "机器人应用开发套件",
+    "description": "封闭式工作流，用于在该仓库中的 `rah` 套件下编写机器人应用软件（即机器人及其传感器和执行器），探测设备、编写驱动程序和任务代码、在仿真中运行、阅读评估报告并迭代直至通过预留种子测试。当用户要求让机器人完成某项任务、将传感器或执行器集成到机器人应用中、为某个套件编写拾放或其他操作代码，或 \"vibe code\" 机器人软件并在仿真器中验证时使用此技能。当提及 rah、套件清单、机器人任务规格、ARMATURE 仿真器、探测机器人设备、设备描述符、运行或验证机器人应用、预留种子，或诊断仿真机器人任务失败原因时触发。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-bringup": {
+    "name": "机器人启动",
+    "description": "在机器人板载计算机上启动完整 ROS2 系统：systemd 服务、launch 文件组合、有序启动及生产监控。当配置机器人使其在启动时运行 ROS2 节点、编写 ROS2 launch 的 systemd 单元文件、组合全机器人堆栈的分层 launch 文件、设置看门狗监控、配置 udev 规则以实现确定性设备命名，或调试启动时的竞争条件时使用此技能。每当用户提到 robot bringup、robot startup、systemd for ROS2、ROS2 on boot、launch file composition、robot boot sequence、udev rules for cameras or serial ports、automatic restart for ROS2 nodes、network configuration for multi-machine ROS2、log rotation for robots、graceful shutdown of robot stacks，或 SSH-based remote debugging 时触发。也触发 sourcing workspaces in systemd、ordered startup with health checks，或将 ROS2 系统作为长期生产服务运行的情况。涵盖 Ubuntu 22.04/24.04 上运行的 systemd，以及 ROS2 Humble、Iron 和 Jazzy 版本。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-data-quality": {
+    "name": "机器人数据质量",
+    "description": "评判并提升机器人学习数据集（远程操控演示、剧集）的质量，并使用 Robotics Data Toolkit（机器人数据工具包）对其进行检查、 lint、评分、可视化、过滤、去重及转换。当用户提到数据集质量、数据清洗或整理、剧集检查、不良或嘈杂的演示、空闲帧、抽搐或尖峰动作、夹爪抖动、时间戳间隙或丢帧、相机模糊或曝光不足、重复剧集、任务字符串卫生、归一化统计、按剧集划分的训练/验证集、演示的覆盖范围或多样性，或策略因数据问题无法启动、停滞或平均模式时使用此技能。也触发 forge 命令（forge inspect、lint、stats、quality、filter、dedup、visualize、convert、catalog、ingest、curate）以及 RLDS、LeRobot v2/v3、Zarr、HDF5、MCAP、rosbag 或 RoboDM 之间的转换，包括 Hugging Face Hub 上的 hf:// 数据集。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-perception": {
+    "name": "机器人感知",
+    "description": "机器人感知系统的全面最佳实践，涵盖摄像头、激光雷达、深度传感器、IMU 及多传感器设置。当处理 RGB 图像、深度图、点云、传感器校准（内参、外参、手眼）、目标检测、语义分割、3D 重建、视觉伺服或感知流水线优化时使用此技能。每当用户提到 OpenCV、Open3D、PCL、RealSense、ZED、OAK-D、相机校准、AprilTags、ArUco 标记、立体视觉、RGBD、点云过滤、ICP 匹配、坐标变换、相机内参、畸变校正、图像去畸变、传感器流、帧同步，或任何机器人场景下的计算机视觉任务时触发。也涵盖多摄像头阵列、跨传感器的时间同步、感知延迟预算及感知流水线的生产部署。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-reinforcement-learning": {
+    "name": "机器人强化学习",
+    "description": "机器人强化学习：当 RL 优于模仿或经典控制时，MDP 设计（观测值、动作空间、控制频率、终止与截断）、奖励设计与奖励破解、算法选择、大规模并行仿真训练、安全的真实机器人 RL，以及训练曲线调试。当用户提到强化学习、RL、PPO、SAC、TD3、GAE、奖励函数、奖励塑形、课程设置、领域随机化、仿真转真实、执行器网络、非对称演员-评论家、师生蒸馏、rsl_rl、rl_games、skrl、Stable-Baselines3、CleanRL、Brax 训练、FastTD3、HIL-SERL、SERL、RLPD、DrQ、残差 RL、DSRL、BC 的 RL 微调、扩散或 VLA 策略、超时自举、熵崩溃、价值损失爆炸、训练期间出现 NaN，或用种子和 IQM 评估 RL 时使用此技能。也适用于 Isaac Lab、mjlab 或 Playground 的 locomotion 和 manipulation 策略。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-design-patterns": {
+    "name": "机器人设计模式",
+    "description": "构建稳健机器人软件的架构模式、设计原则及成熟方案。当设计机器人软件架构、在行为框架之间做出选择、组织感知-规划-控制流水线、实现状态机、设计安全系统，或架构多机器人系统时使用此技能。每当用户提到行为树、有限状态机、子代架构、传感器融合、机器人安全、看门狗、心跳、优雅降级、硬件抽象层、实时约束，或机器人软件架构时触发。也适用于仿真转真实迁移、数字孪生及机器人车队管理。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-security": {
+    "name": "机器人安全",
+    "description": "机器人系统的安全加固与最佳实践，涵盖 SROS2 DDS 安全、网络分段、密钥管理、安全启动及物理-网络安全性交叉领域。当保护 ROS2 通信、配置 DDS 加密与访问控制、加固机器人板载计算机、管理证书与凭据、设置机器人车队的网络分段，或应对网络漏洞转化为物理安全风险的独特安全挑战时使用此技能。每当用户提到 SROS2、DDS 安全、机器人安全、机器人加固、ROS2 加密、ROS2 访问控制、机器人网络安全、安全机器人部署、机器人证书、密钥库生成、机器人防火墙、紧急停止安全、安全控制器隔离，或 IEC 62443 机器人标准时触发。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-software-principles": {
+    "name": "机器人软件原则",
+    "description": "专门应用于机器人模块开发的基础软件设计原则。当设计机器人软件模块、组织代码库、做出架构决策、审查机器人代码，或构建可复用的机器人库时使用此技能。每当用户提到 SOLID 原则应用于机器人、模块化机器人软件、机器人清洁架构、机器人依赖注入、硬件接口设计、实时设计约束、机器人错误处理策略、配置管理、感知-规划-控制的关注点分离、机器人行为的可组合性，或任何机器人场景下的软件工艺讨论时触发。也触发机器人代码审查、机器人软件重构，或为机器人库设计 API 时。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-testing": {
+    "name": "机器人测试",
+    "description": "机器人软件的测试策略、模式及工具。当编写单元测试、集成测试、仿真测试或硬件在环测试用于机器人系统时使用此技能。每当用户提到测试 ROS 节点、pytest with ROS、launch_testing、仿真测试、机器人 CI/CD、传感器测试夹具、模拟硬件、确定性回放、机器人行为回归测试，或验证感知/规划/控制流水线时触发。也涵盖运动学的属性测试、消息处理器的模糊测试，以及轨迹的黄金文件测试。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros1": {
+    "name": "ros1",
+    "description": "ROS1（机器人操作系统 1）开发的最佳实践、设计模式及常见陷阱。当构建 ROS1 节点、包、launch 文件，或调试 ROS1 系统时使用此技能。每当用户提到 ROS1、catkin、rospy、roscpp、roslaunch、roscore、rostopic、tf、actionlib、消息类型、服务，或任何 ROS1 时代的机器人中间件时触发。也触发迁移 ROS1 代码至 ROS2、维护传统 ROS1 系统，或构建 ROS1-ROS2 桥梁时。涵盖 catkin 工作区、nodelets、动态重新配置、pluginlib，以及完整的 ROS1 生态系统。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros2": {
+    "name": "ros2",
+    "description": "ROS2（机器人操作系统 2）开发的全面最佳实践、设计模式及常见陷阱。当构建 ROS2 节点、包、launch 文件、组件，或调试 ROS2 系统时使用此技能。每当用户提到 ROS2、colcon、rclpy、rclcpp、DDS、QoS、生命周期节点、托管节点、ROS2 launch、ROS2 参数、ROS2 actions、nav2、MoveIt2、micro-ROS，或任何 ROS2 时代的机器人中间件时触发。也触发 ROS2 工作区设置、DDS 调优、进程内通信、ROS2 安全，或在生产环境中部署 ROS2 时。也触发 colcon 构建问题、ament_cmake、ament_python、ROS2 的 CMakeLists.txt、package.xml 依赖、rosdep、工作区叠加、自定义消息生成，或 ROS2 构建故障排除时。涵盖 Humble、Iron、Jazzy 和 Rolling 发行版。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros2-web-integration": {
+    "name": "ros2-web-integration",
+    "description": "将 ROS2 系统与 Web 技术集成的模式与最佳实践，包括 REST API、WebSocket 桥接及基于浏览器的机器人界面。当构建机器人 Web 仪表盘、向浏览器推送摄像头画面、将 ROS2 服务暴露为 REST 端点，或实现 Web UI 与 ROS2 节点之间的双向 WebSocket 通信时使用此技能。每当用户提到 rosbridge、rosbridge_suite、roslibjs、FastAPI with ROS2、Flask with rclpy、用于机器人遥测的 WebSocket、MJPEG 流、WebRTC for robots、REST API 包装 ROS2 服务、基于 Web 的机器人控制、浏览器机器人界面、机器人仪表盘、机器人 CORS 配置，或任何 web-to-ROS2 桥接模式时触发。也触发机器人 Web 界面的身份验证、传感器流速率限制、从机器人摄像头向浏览器的视频流，或在 ROS2 执行器旁运行异步 Web 框架时。涵盖 rosbridge_suite、FastAPI、Flask、WebSocket 和 WebRTC 方法。"
+  },
+  "arjun988/blender-skills:.claude/skills/scene-assembly": {
+    "name": "场景组装",
+    "description": "在 Blender 中进行大型场景布局，包含集合、链接、覆盖、适合流媒体的组织方式，以及通过 MCP 进行场景组装。"
+  },
+  "arjun988/blender-skills:.cursor/skills/scene-assembly": {
+    "name": "场景组装",
+    "description": "在 Blender 中进行大型场景布局，包含集合、链接、覆盖、适合流媒体的组织方式，以及通过 MCP 进行场景组装。"
+  },
+  "arjun988/blender-skills:.claude/skills/sci-fi-punk-worlds": {
+    "name": "科幻朋克世界",
+    "description": "Blender 的科幻与朋克世界艺术指导，涵盖硬科幻、太空、赛博朋克、蒸汽朋克、柴油朋克、原子朋克、太阳能朋克、生物朋克及钟表朋克等风格。"
+  },
+  "arjun988/blender-skills:.cursor/skills/sci-fi-punk-worlds": {
+    "name": "科幻朋克世界",
+    "description": "Blender 的科幻与朋克世界艺术指导，涵盖硬科幻、太空、赛博朋克、蒸汽朋克、柴油朋克、原子朋克、太阳能朋克、生物朋克及钟表朋克等风格。"
+  },
+  "arjun988/blender-skills:.claude/skills/sculpting": {
+    "name": "雕塑",
+    "description": "Blender 雕塑，用于有机体与硬表面细节制作，采用 Dyntopo、多分辨率、笔刷、Alpha 工作流、皱纹及损伤效果。当在 Blender 中通过 MCP 进行重新拓扑前需要高频表面细节时使用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/sculpting": {
+    "name": "雕塑",
+    "description": "Blender 雕塑，用于有机体与硬表面细节制作，采用 Dyntopo、多分辨率、笔刷、Alpha 工作流、皱纹及损伤效果。当在 Blender 中通过 MCP 进行重新拓扑前需要高频表面细节时使用。"
+  },
+  "arjun988/blender-skills:.claude/skills/set-dressing": {
+    "name": "场景布置",
+    "description": "使用道具密度、叙事集群及可读性规则，为室内与室外场景进行布景与环境叙事布局，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/set-dressing": {
+    "name": "场景布置",
+    "description": "使用道具密度、叙事集群及可读性规则，为室内与室外场景进行布景与环境叙事布局，通过 MCP 实现。"
+  },
+  "anthropics/skills:skills/skill-creator": {
+    "name": "技能创建器",
+    "description": "创建新技能、修改与优化现有技能，并衡量技能表现。当用户希望从零开始创建技能、编辑或优化现有技能、运行评估测试技能、通过方差分析基准化技能性能，或优化技能描述以提升触发准确率时使用。"
+  },
+  "cexll/myclaude:skills/skill-install": {
+    "name": "技能安装",
+    "description": "从 GitHub 仓库安装 Claude 技能，并进行自动化安全扫描。当用户希望从 GitHub URL 安装技能、需要浏览仓库中的可用技能，或希望安全地将新技能添加到其 Claude 环境中时触发。"
+  },
+  "anthropics/skills:skills/slack-gif-creator": {
+    "name": "Slack 动图创建器",
+    "description": "用于创建针对 Slack 优化的动态 GIF 的知识与工具。提供约束条件、验证工具及动画概念。当用户请求为 Slack 制作动图，例如 \"“给我做一个 X 做 Y 的 Slack 动图”时使用。"
+  },
+  "cexll/myclaude:skills/sparv": {
+    "name": "sparv",
+    "description": "极简 SPARV 工作流（指定→计划→执行→审查→归档），包含 10 分规范门禁、统一日志、双行动存档、三失败协议及 EHRB 风险检测。"
+  },
+  "arjun988/blender-skills:.claude/skills/stop-motion-craft-style": {
+    "name": "定格动画工艺风格",
+    "description": "Blender 的定格动画与工艺美学，包括黏土动画、纸艺及手工实物材质提示。"
+  },
+  "arjun988/blender-skills:.cursor/skills/stop-motion-craft-style": {
+    "name": "定格动画工艺风格",
+    "description": "Blender 的定格动画与工艺美学，包括黏土动画、纸艺及手工实物材质提示。"
+  },
+  "arjun988/blender-skills:.claude/skills/stylized-style": {
+    "name": "风格化风格",
+    "description": "Blender 的风格化艺术指导，融合形态语言、夸张手法、色彩和谐、NPR 渲染及手绘资源工作流。适用于非写实类游戏与动画项目。"
+  },
+  "arjun988/blender-skills:.cursor/skills/stylized-style": {
+    "name": "风格化风格",
+    "description": "Blender 的风格化艺术指导，融合形态语言、夸张手法、色彩和谐、NPR 渲染及手绘资源工作流。适用于非写实类游戏与动画项目。"
+  },
+  "anthropics/skills:template": {
+    "name": "模板技能",
+    "description": "替换为技能描述，以及 Claude 应何时使用该技能。"
+  },
+  "cexll/myclaude:skills/test-cases": {
+    "name": "测试用例",
+    "description": "当从 PRD 文档或用户需求生成全面测试用例时应使用此技能。当用户请求生成测试用例、进行 QA 规划、创建测试场景，或需要结构化测试文档时触发。产出涵盖功能、边界情况、错误处理及状态转换场景的详细测试用例。"
+  },
+  "arjun988/blender-skills:.claude/skills/texture-workflow": {
+    "name": "纹理工作流",
+    "description": "用于图集、烘焙 AO/曲率/法线/粗糙度贴图、贴花及纹理内存优化的生产级纹理工作流。适用于 Blender 中的游戏就绪纹理管线，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/texture-workflow": {
+    "name": "纹理工作流",
+    "description": "用于图集、烘焙 AO/曲率/法线/粗糙度贴图、贴花及纹理内存优化的生产级纹理工作流。适用于 Blender 中的游戏就绪纹理管线，通过 MCP 实现。"
+  },
+  "anthropics/skills:skills/theme-factory": {
+    "name": "主题工厂",
+    "description": "用于为主题化制品打造样式的工具包。这些制品可以是幻灯片、文档、报告、HTML 登录页面等。内置 10 种预设主题，配有颜色/字体，可应用于任何已创建的制品，或即时生成新主题。"
+  },
+  "arjun988/blender-skills:.claude/skills/unity-export": {
+    "name": "Unity 导出",
+    "description": "针对 Unity 的 Blender 导出，用于缩放、坐标轴、材质、人形/通用绑定、LOD 及碰撞导入，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/unity-export": {
+    "name": "Unity 导出",
+    "description": "针对 Unity 的 Blender 导出，用于缩放、坐标轴、材质、人形/通用绑定、LOD 及碰撞导入，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.claude/skills/unreal-export": {
+    "name": "Unreal 导出",
+    "description": "针对虚幻引擎的 Blender 导出，用于 FBX 缩放、LOD、UCX 碰撞、插槽、材质及骨骼网格工作流，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/unreal-export": {
+    "name": "Unreal 导出",
+    "description": "针对虚幻引擎的 Blender 导出，用于 FBX 缩放、LOD、UCX 碰撞、插槽、材质及骨骼网格工作流，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.claude/skills/uv-workflow": {
+    "name": "UV 工作流",
+    "description": "用于接缝放置、UV 包装、纹素密度、UDIM、光照贴图 UV 及模块化 UV 布局的生产级 UV 展开工作流。当在 Blender 中准备网格以进行贴图和引擎导出，通过 MCP 实现时使用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/uv-workflow": {
+    "name": "UV 工作流",
+    "description": "用于接缝放置、UV 包装、纹素密度、UDIM、光照贴图 UV 及模块化 UV 布局的生产级 UV 展开工作流。当在 Blender 中准备网格以进行贴图和引擎导出，通过 MCP 实现时使用。"
+  },
+  "arjun988/blender-skills:.claude/skills/vector-style": {
+    "name": "矢量风格",
+    "description": "Blender 的矢量简洁艺术指导，采用平面填充、锐利剪影及类似 UI 的图形清晰度。"
+  },
+  "arjun988/blender-skills:.cursor/skills/vector-style": {
+    "name": "矢量风格",
+    "description": "Blender 的矢量简洁艺术指导，采用平面填充、锐利剪影及类似 UI 的图形清晰度。"
+  },
+  "arjun988/blender-skills:.claude/skills/vegetation-artist": {
+    "name": "植被艺术家",
+    "description": "Blender 的植被与 foliage 创作，包括树木、植物、草地卡片、树冠 LOD 及适合游戏的叶片图集，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/vegetation-artist": {
+    "name": "植被艺术家",
+    "description": "Blender 的植被与 foliage 创作，包括树木、植物、草地卡片、树冠 LOD 及适合游戏的叶片图集，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.claude/skills/vehicle-artist": {
+    "name": "车辆艺术家",
+    "description": "专用车辆建模，涵盖汽车、卡车、飞机、船舶、船只、机甲及公共交通资产，在 Blender 中注重比例、面板排布及游戏 LOD 意识，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/vehicle-artist": {
+    "name": "车辆艺术家",
+    "description": "专用车辆建模，涵盖汽车、卡车、飞机、船舶、船只、机甲及公共交通资产，在 Blender 中注重比例、面板排布及游戏 LOD 意识，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.claude/skills/vfx-fx": {
+    "name": "VFX 效果",
+    "description": "Blender 的电影与游戏 VFX，包括烟雾、火焰、粒子、尾迹及 Geometry Nodes FX 设置，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/vfx-fx": {
+    "name": "VFX 效果",
+    "description": "Blender 的电影与游戏 VFX，包括烟雾、火焰、粒子、尾迹及 Geometry Nodes FX 设置，通过 MCP 实现。"
+  },
+  "arjun988/blender-skills:.claude/skills/visual-console-eras": {
+    "name": "视觉控制台时代",
+    "description": "Blender 的视觉时代艺术指导，涵盖 PS1–PS5 风格提示、复古街机、DOS、CRT、VHS 及胶片颗粒感呈现。"
+  },
+  "arjun988/blender-skills:.cursor/skills/visual-console-eras": {
+    "name": "视觉控制台时代",
+    "description": "Blender 的视觉时代艺术指导，涵盖 PS1–PS5 风格提示、复古街机、DOS、CRT、VHS 及胶片颗粒感呈现。"
+  },
+  "arjun988/blender-skills:.claude/skills/voxel-style": {
+    "name": "体素风格",
+    "description": "Blender 的体素及 Minecraft 相关艺术指导，采用方块网格建模、有限调色板及适合分块的资源。"
+  },
+  "arjun988/blender-skills:.cursor/skills/voxel-style": {
+    "name": "体素风格",
+    "description": "Blender 的体素及 Minecraft 相关艺术指导，采用方块网格建模、有限调色板及适合分块的资源。"
+  },
+  "anthropics/skills:skills/web-artifacts-builder": {
+    "name": "Web 制品构建器",
+    "description": "一套工具，用于利用现代前端Web技术（React、Tailwind CSS、shadcn/ui）创建复杂、多组件的 claude.ai HTML artefacts。适用于需要状态管理、路由或 shadcn/ui 组件的复杂artefacts——不适用于简单的单文件HTML/JSX artefacts。"
+  },
+  "anthropics/skills:skills/webapp-testing": {
+    "name": "Web 应用测试",
+    "description": "用于使用 Playwright 交互与测试本地 Web 应用的工具包。支持验证前端功能、调试 UI 行为、捕获浏览器截图及查看浏览器日志。"
+  },
+  "emilkowalski/skills:skills/write-swift": {
+    "name": "写 Swift",
+    "description": "如何良好编写现代 Swift — 使用值类型建模、Swift 6 数据竞争安全与易用并发（@concurrent、main-actor-by-default、actors、task groups）、协议与泛型（some vs any）、API 设计、性能与 ARC、Swift Testing、宏，以及代理尚不了解的现代语言特性。当编写、审查或迁移 Swift，或需要修复并发错误、卡顿、数据竞争、保留循环或性能问题时使用。"
+  },
+  "anthropics/skills:skills/xlsx": {
+    "name": "xlsx",
+    "description": "当电子表格文件为主要输入或输出时使用此技能。这意味着用户希望：打开、读取、编辑或修复现有的 .xlsx、.xlsm、.xltx、.csv 或 .tsv 文件（例如添加列、计算公式、格式化、制图、清理混乱数据）；从零开始或基于其他数据源创建新电子表格；或在不同表格文件格式间转换。尤其当用户通过名称或路径提及电子表格文件时触发——即使是随意提及（如 \\\" 我下载里的 xlsx\\\"）——并希望对其执行操作或从中生成内容。也适用于清理或重组混乱的表格数据文件（格式错误的行、错位的标题、垃圾数据）使其成为规范的电子表格。交付成果必须是电子表格文件。如果主要交付成果是 Word 文档、HTML 报告、独立 Python 脚本、数据库管道或 Google Sheets API 集成，即使涉及表格数据，也不要触发此技能。"
+  }
+}

@@ -1,0 +1,1930 @@
+{
+  "ComposioHQ/awesome-claude-skills:composio-skills/-21risk-automation": {
+    "name": "-21risk-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ 21risk གི་ལས་ཀ་རང་འགུལ་དུ་སྒྲུབ། ད་ཡོད་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/-2chat-automation": {
+    "name": "-2chat-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ 2chat གི་ལས་ཀ་རང་འགུལ་དུ་སྒྲུབ། ད་ཡོད་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ahrefs-automation": {
+    "name": "Ahrefs རང་འགུལ་ཅན།",
+    "description": "Composio ཡི་ Ahrefs སྦྲེལ་མཐུད་བརྒྱུད་ནས་ SEO ཞིབ་འཇུག་རང་འགུལ་དུ་སྒྲུབ། — ཕྱིར་སྦྲེལ་ (backlink) གྱི་གནས་ཚུལ་དབྱེ་ཞིབ། གནད་ཚིག་ཞིབ་འཇུག ཌོ་མེན་གྱི་ཚད་གཞིའི་ལོ་རྒྱུས་རྗེས་འདེད། རང་བྱུང་འཚོལ་བཤེར་གོ་རིམ་ཞིབ་བཤེར། དེ་བཞིན་ URL ཚོགས་གཅིག་གི་དབྱེ་ཞིབ་བཅས་བྱེད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apify-automation": {
+    "name": "Apify རང་འགུལ་ཅན།",
+    "description": "Composio ཡི་ Apify སྦྲེལ་མཐུད་བརྒྱུད་ནས་དྲ་ངོས་གཞི་གྲངས་བསྡུ་ལེན་དང་གཞི་གྲངས་འདོན་སྤེལ་རང་འགུལ་དུ་སྒྲུབ། — Actor འཁོར་སྐྱོད། གཞི་གྲངས་ཚོགས་དོ་དམ། ཡང་བསྐྱར་བེད་སྤྱོད་ཐུབ་པའི་ལས་ཀ་གསར་བཟོ། དེ་བཞིན་ crawl གྲུབ་འབྲས་ལེན་པ་བཅས་བྱེད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apollo-automation": {
+    "name": "Apollo རང་འགུལ་ཅན།",
+    "description": "Composio MCP སྦྲེལ་མཐུད་བརྒྱུད་ནས་རང་བྱུང་སྐད་ཡིག་གིས་ Apollo.io ཡི་མཉེན་མཛོད་ (lead) གསར་སྐྲུན་རང་འགུལ་དུ་སྒྲུབ། — ཚོགས་པ་འཚོལ་བ། འབྲེལ་གཏུགས་མི་སྣ་རྙེད་པ། མ་འོངས་ཉོ་མཁན་གྱི་གཞི་གྲངས་ཕུན་སུམ་ཚོགས་སུ་གཏོང་བ། འབྲེལ་གཏུགས་རིམ་པ་དོ་དམ། དམིགས་འབེན་ཅན་གྱི་འབྲེལ་གཏུགས་ཐོ་གཞུང་བཟོ་བ་བཅས་བྱེད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ashby-automation": {
+    "name": "Ashby རང་འགུལ་ཅན།",
+    "description": "རང་བྱུང་སྐད་ཡིག་གི་བཀའ་བརྡ་བརྒྱུད་ནས་ Ashby ནང་གི་མི་སྣ་བསྡུ་ལེན་དང་ལས་མི་གདན་འདྲེན་གྱི་ལས་རིམ་རང་འགུལ་དུ་སྒྲུབ། — འདེམས་ཞུགས་པ། ལས་གནས། ཞུ་ཡིག ངོ་བཅར། དེ་བཞིན་ཟིན་ཐོ་བཅས་དོ་དམ་བྱེད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/attio-automation": {
+    "name": "Attio རང་འགུལ་ཅན།",
+    "description": "Composio MCP སྦྲེལ་མཐུད་བརྒྱུད་ནས་རང་བྱུང་སྐད་ཡིག་གིས་ Attio CRM གྱི་བྱ་བ་རང་འགུལ་དུ་སྒྲུབ། — ཐོ་འགོད་འཚོལ་བ། མཐོ་རིམ་ཚགས་མ་བེད་སྤྱད་ནས་འབྲེལ་གཏུགས་དང་ཀུང་སི་འདྲི་ཞིབ། ཟིན་ཐོ་དོ་དམ། ཁྱད་ཆོས་ཐོ་གཞུང་བཟོ་བ། དེ་བཞིན་འབྲེལ་བའི་གཞི་གྲངས་ནང་འགྲུལ་བཞུད་བཅས་བྱེད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/braintree-automation": {
+    "name": "Braintree རང་འགུལ་ཅན།",
+    "description": "Braintree རང་འགུལ་ཅན། Stripe དང་མཐུན་པའི་ལག་ཆ་བརྒྱུད་ནས་ཉོ་མཁན། མངགས་ཐོ། དངུལ་སྤྲོད་ཐབས། དེ་བཞིན་ཉོ་ཚོང་བཅས་ཀྱི་དངུལ་སྤྲོད་ལས་སྣོན་དོ་དམ་བྱེད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/capsule-crm-automation": {
+    "name": "Capsule CRM རང་འགུལ་ཅན།",
+    "description": "Composio MCP སྦྲེལ་མཐུད་བརྒྱུད་ནས་རང་བྱུང་སྐད་ཡིག་གིས་ Capsule CRM གྱི་བྱ་བ་རང་འགུལ་དུ་སྒྲུབ། — འབྲེལ་གཏུགས་ (parties) དོ་དམ། གྲུབ་ཚུལ་ཅན་གྱི་ཚགས་མའི་འདྲི་ཞིབ་ལག་བསྟར། ལས་ཀ་དང་ལས་གཞི་རྗེས་འདེད། ཟིན་ཐོ་འགོད་པ། དེ་བཞིན་ཚོགས་པ་ཐག་གཅོད་བཅས་བྱེད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clockify-automation": {
+    "name": "Clockify རང་འགུལ་ཅན།",
+    "description": "རང་བྱུང་སྐད་ཡིག་གི་བཀའ་བརྡ་བརྒྱུད་ནས་ Clockify ནང་གི་དུས་ཚོད་རྗེས་འདེད་ལས་རིམ་རང་འགུལ་དུ་སྒྲུབ། — དུས་ཚོད་ཐོ་འགོད། ལས་ཀའི་བར་སྟོང་། དེ་བཞིན་སྤྱོད་མཁན་བཅས་གསར་བཟོ་དང་དོ་དམ་བྱེད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudinary-automation": {
+    "name": "Cloudinary རང་འགུལ་ཅན།",
+    "description": "སྐད་རིགས་རང་བྱུང་གི་བཀའ་བརྡ་བརྒྱུད་ནས་ Cloudinary ཡི་བརྒྱུད་ལམ་དོ་དམ་རང་འགུལ་ཅན་དུ་བསྒྱུར་བ། དེའི་ནང་ཡིག་སྣོད་སྒྲིག་འཛུགས། ཡར་འཇུག་སྔོན་སྒྲིག རྒྱུ་ཆ་འཚོལ་བཤེར། གཟུགས་བསྒྱུར། བེད་སྤྱོད་ལྟ་ཞིབ་བཅས་ཚུད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinbase-automation": {
+    "name": "Coinbase རང་འགུལ་ཅན།",
+    "description": "Coinbase Automation: Coinbase CDP SDK བརྒྱུད་ནས་གསང་དངུལ་དངུལ་ཁུག་དང་རྩིས་ཐོ། མ་རྩའི་ཕྱོགས་སྒྲིག་གཞི་གྲངས་བཅས་ཐོ་འགོད་དང་དོ་དམ་བྱེད་པ།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/contentful-automation": {
+    "name": "Contentful རང་འགུལ་ཅན།",
+    "description": "Composio ཡི་ Contentful སྦྲེལ་མཐུད་བརྒྱུད་ནས་ Contentful ནང་གི་ headless CMS བཀོལ་སྤྱོད་རང་འགུལ་ཅན་དུ་བསྒྱུར་བ། — space ཐོ་འགོད། space ཡི་ metadata ལེན་པ། space ཡི་སྒྲིག་འགོད་གསར་བསྒྱུར་བཅས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ably-automation": {
+    "name": "ably-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Ably ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abstract-automation": {
+    "name": "abstract-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Abstract ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abuselpdb-automation": {
+    "name": "abuselpdb-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Abuselpdb ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abyssale-automation": {
+    "name": "abyssale-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Abyssale ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "TingxiYu/academic-figure-skill:academic-figure-skill": {
+    "name": "academic-figure-skill",
+    "description": "Nature/Cell/Science དུས་དེབ་ཀྱི་ཚད་གཞིར་མཐུན་པའི་ཚན་རིག་རི་མོ་བཟོ་བ། སྤྱོད་མཁན་གྱིས་རྩོམ་ཡིག་འབུལ་ཆེད་ཚན་རིག་རི་མོ་བཟོ་བའམ། ལེགས་བཅོས། ཞིབ་བཤེར། ཕྱིར་འདོན་བཅས་དགོས་ཞེས་ཞུ་སྐབས་བེད་སྤྱོད་གྱིས། འདི་དག་ལ་མ་སྤྱོད།: ཕན་ཚུན་འབྲེལ་བའི་ dashboard (Plotly/Bokeh/Altair)། པར་སྐྲུན་གྱི་དམིགས་ཡུལ་མེད་པའི་གཞི་གྲངས་དཔྱད་ཞིབ། རྩིས་རིག་ལས་འགན་གྱི་རི་མོ། ཟླུམ་དབྱིབས་དང་ 3D རེའུ་མིག PowerPoint ཤོག་ངོས། Illustrator/Figma གཙོ་བོར་བྱས་པའི་ཇུས་འགོད། གྲངས་ཀྱི་ཚོད་ལྟ། གཞི་གྲངས་གཙང་སེལ། དཔེ་དེབ་དཔྱད་ཞིབ། ཀོཌི་སྐྱོན་སེལ་བཅས་ཀྱི་རེ་ཞུ་ཕར་བཞག་གྱིས། — དེ་དག་རི་མོ་བཟོ་བའི་ལས་འགན་མིན།"
+  },
+  "anthropics/skills:skills/academy-guide": {
+    "name": "academy-guide",
+    "description": "Claude ཡང་ན་ Claude ཐོན་རྫས་ཇི་ལྟར་སྤྱོད་དགོས་པའི་དྲི་བར་ལན་འདེབས་མ་ཚར་གོང་མཚམས་བཞག་ནས་ནུས་རྩལ་འདིར་བལྟ་དགོས། — འདིས་ Anthropic ཡི་སློབ་སྦྱོང་ལྟེ་གནས་ Claude Academy (academy.claude.com) ནས་འོས་མཐུན་གྱི་སློབ་ཚན་དང་ལག་ལེན་སློབ་ཁྲིད། བེད་སྤྱོད་དཔེ་གཞི་བཅས་འོས་སྦྱོར་བྱེད། འདི་དག་ལ་སྐུལ་སློང་བྱེད།: \"how do I\", \"how can I\", \"getting started with\", \"what can Claude do\", \"teach me\", \"learn to use\"; artifacts, projects, skills, plugins, connectors, MCP སྐོར་གྱི་དྲི་བ། Claude རུ་ཁག་གམ་འཛིན་གྲྭ། ལས་ཁུངས་ལ་ཁྱབ་སྤེལ་གཏོང་བའི་རེ་ཞུ། དེ་བཞིན་སྦྱོང་བརྡར་དཔྱད་གཞི་དང་གསར་འཇུག་ངོ་སྤྲོད་ཀྱི་ནང་དོན། སློབ་སྦྱོང་ཐོན་ཁུངས་བཅས་ཀྱི་རེ་ཞུ་གང་རུང་། སྤྱོད་མཁན་གྱིས་ཁྱད་ཆོས་སམ་ཐོན་རྫས་ཤིག་ཇི་ལྟར་སྤྱོད་དགོས་སློབ་སྦྱོང་བྱེད་སྐབས་བེད་སྤྱོད་གྱིས། — ཁོང་ལས་འགན་གྱི་བར་དུ་ཡོད་ཅིང་ལས་འགན་འགྲུབ་པ་ཙམ་འདོད་སྐབས་མིན། ནུས་རྩལ་འདི་ནུས་རྩལ་གཞན་དང་མཉམ་དུ་སྦྱོར་ཆོག: Claude ཡི་ཁྱད་ཆོས་ཤིག་ཇི་ལྟར་ལས་ཀ་བྱེད་པ་ལན་འདེབས་ཆེད་ཐོན་རྫས་ཡིག་ཚགས་ལ་བལྟས་རྗེས། འདིར་ཡང་འོས་མཐུན་གྱི་སློབ་ཚན་ནམ་ལག་ལེན་སློབ་ཁྲིད་ཡོད་མེད་བལྟ་དགོས། — ཡིག་ཚགས་ལ་གཞི་བཅོལ་བའི་ལན་དང་ Academy ཡི་འོས་སྦྱོར་གཉིས་མཉམ་དུ་འགྲོ་དགོས། འོས་མཐུན་ངེས་ཅན་ཡོད་སྐབས་ཁོ་ནར་འོས་སྦྱོར་གྱིས། Academy ཡི་ནང་དོན་གསར་བཟོ་གཏན་ནས་མ་བྱེད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/accelo-automation": {
+    "name": "accelo-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Accelo ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/accredible-certificates-automation": {
+    "name": "accredible-certificates-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Accredible Certificates ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/acculynx-automation": {
+    "name": "acculynx-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Acculynx ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/active-campaign-automation": {
+    "name": "active-campaign-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ ActiveCampaign གི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/addresszen-automation": {
+    "name": "addresszen-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Addresszen གྱི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adobe-automation": {
+    "name": "adobe-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Adobe ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adrapid-automation": {
+    "name": "adrapid-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Adrapid ཀྱི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adyntel-automation": {
+    "name": "adyntel-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Adyntel གྱི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aero-workflow-automation": {
+    "name": "aero-workflow-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Aero Workflow ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aeroleads-automation": {
+    "name": "aeroleads-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Aeroleads ཀྱི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/affinda-automation": {
+    "name": "affinda-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Affinda ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/affinity-automation": {
+    "name": "affinity-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Affinity ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agencyzoom-automation": {
+    "name": "agencyzoom-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Agencyzoom ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agent-mail-automation": {
+    "name": "agent-mail-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Agent Mail ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agentql-automation": {
+    "name": "agentql-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Agentql ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agenty-automation": {
+    "name": "agenty-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Agenty ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agiled-automation": {
+    "name": "agiled-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Agiled ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agility-cms-automation": {
+    "name": "agility-cms-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Agility CMS ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ai-ml-api-automation": {
+    "name": "ai-ml-api-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ AI ML API ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aivoov-automation": {
+    "name": "aivoov-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Aivoov ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alchemy-automation": {
+    "name": "alchemy-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Alchemy ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/algodocs-automation": {
+    "name": "algodocs-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Algodocs ཀྱི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/algolia-automation": {
+    "name": "algolia-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Algolia ཀྱི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "anthropics/skills:skills/algorithmic-art": {
+    "name": "algorithmic-art",
+    "description": "p5.js བེད་སྤྱད་དེ་ས་བོན་ཅན་གྱི་གློ་བུར་རང་བཞིན་དང་ཕན་ཚུན་འབྲེལ་བའི་ཚད་གཞི་བརྟག་ཞིབ་བརྒྱུད་རྩིས་ཐབས་སྒྱུ་རྩལ་གསར་བཟོ་བྱེད་པ། སྤྱོད་མཁན་གྱིས་ཨང་རྟགས་བེད་སྤྱད་ནས་སྒྱུ་རྩལ་གསར་བཟོ་དང་། generative art། རྩིས་ཐབས་སྒྱུ་རྩལ། flow fields། ཡང་ན་རྡུལ་ཕྲན་མ་ལག་བཟོ་དགོས་ཞེས་རེ་འདུན་ཞུ་སྐབས་འདི་བེད་སྤྱོད་གཏོང་། པར་དབང་ལས་འགལ་མི་ཡོང་ཆེད་སྒྱུ་རྩལ་པ་གཞན་གྱི་བརྩམས་ཆོས་འདྲ་བཤུས་མི་བྱེད་པར་རང་གི་རྩིས་ཐབས་སྒྱུ་རྩལ་གསར་པ་བཟོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/all-images-ai-automation": {
+    "name": "all-images-ai-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ All Images AI ཀྱི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alpha-vantage-automation": {
+    "name": "alpha-vantage-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Alpha Vantage ཀྱི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/altoviz-automation": {
+    "name": "altoviz-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Altoviz ཀྱི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alttext-ai-automation": {
+    "name": "alttext-ai-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Alttext AI ཀྱི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amara-automation": {
+    "name": "amara-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Amara ཀྱི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amazon-automation": {
+    "name": "amazon-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Amazon ཀྱི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ambee-automation": {
+    "name": "ambee-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Ambee ཀྱི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ambient-weather-automation": {
+    "name": "ambient-weather-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Ambient Weather ཡི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amcards-automation": {
+    "name": "amcards-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Amcards ཡི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "arjun988/blender-skills:.claude/skills/analog-found-footage-horror": {
+    "name": "analog-found-footage-horror",
+    "description": "Blender པར་ལེན་ཁག་ལ་ Analog དང་ VHS, CRT དང་རྙེད་པའི་བརྙན་ཐུང་གི་འཇིགས་སྣང་མཛེས་རྩལ་སྤྱོད་པ། པར་ཆས་ཀྱི་སྐྱོན་ཆ་དང་དངོས་བཤུས་བརྙན་གྱི་སྒྲོམ་འཛིན་སྟངས་ཀྱང་འདུས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/analog-found-footage-horror": {
+    "name": "analog-found-footage-horror",
+    "description": "Blender པར་ལེན་ཁག་ལ་ Analog དང་ VHS, CRT དང་རྙེད་པའི་བརྙན་ཐུང་གི་འཇིགས་སྣང་མཛེས་རྩལ་སྤྱོད་པ། པར་ཆས་ཀྱི་སྐྱོན་ཆ་དང་དངོས་བཤུས་བརྙན་གྱི་སྒྲོམ་འཛིན་སྟངས་ཀྱང་འདུས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anchor-browser-automation": {
+    "name": "anchor-browser-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Anchor Browser ཡི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "emilkowalski/skills:skills/animate": {
+    "name": "animate",
+    "description": "གཞི་ནས་འགུལ་རིས་ཤིག་བཟོ་ཞིང་། ཚོར་སྣང་འགྲིག་མིན་ཐག་གཅོད་བྱེད་པའི་གོ་རིམ་ལྟར་ཐག་གཅོད་བྱེད། — འགུལ་སྐྱོད་དགོས་མིན། དམིགས་ཡུལ་གང་། ལག་ཆ་གང་། ཁྱད་ཆོས་གང་། འཁྱོག་ཐིག་དང་ཡུན་ཚད་གང་། བར་གཅོད་ཇི་ལྟར་བྱེད་པ། ཕྱིར་འཐོན་ཇི་ལྟར་བྱེད་པ། ལག་བསྟར་གྱི་ཨང་རྟགས་འབྲི། ཅི་ཞིག་ལ་འགུལ་སྐྱོད་སྤྲོད་དགོས་པའམ། འགུལ་སྐྱོད་སྣོན་པའམ། ལྷུ་ལག་ཅིག་གསོན་ཉམས་ལྡན་པར་བྱེད་པའམ། བར་བརྒལ་བཟོ་དགོས་སྐབས་སྤྱོད། འགུལ་སྐྱོད་ཡོད་པ་ལ་དཔྱད་ཞིབ་བྱེད་ན་ review-animations སྤྱོད། ཨང་རྟགས་ཡོངས་ལ་ཞིབ་བཤེར་བྱེད་ན་ improve-animations སྤྱོད།"
+  },
+  "emilkowalski/skills:skills/animate-expo": {
+    "name": "animate-expo",
+    "description": "React Native དང་ Expo ནང་འགུལ་རིས་བཟོ་ཞིང་། ཚོར་སྣང་འགྲིག་མིན་ཐག་གཅོད་བྱེད་པའི་གོ་རིམ་ལྟར་ཐག་གཅོད་བྱེད། — འགུལ་སྐྱོད་དགོས་མིན། ཐེར་ཌི་གང་དུ་འཁོར་བ། ཁྱད་ཆོས་གང་། spring ཡང་ན་ timing གང་། ལག་བརྡ་ཇི་ལྟར་རྩིས་སྤྲོད་བྱེད་པ། ཇི་ལྟར་རིམ་གྱིས་ཞན་དུ་གཏོང་བ། Reanimated, Gesture Handler, Expo Router དང་ expo-haptics བེད་སྤྱད་ནས་ལག་བསྟར་གྱི་ཨང་རྟགས་འབྲི། Expo ཉེར་སྤྱོད་ནང་ཅི་ཞིག་ལ་འགུལ་སྐྱོད་སྤྲོད་པའམ། ལག་བརྡ་དང་ཤོག་ངོས་བརྩེགས་མ། བརྙན་ཤེལ་བར་བརྒལ། མནན་པའི་ལན་འདེབས་སམ་ haptics སྣོན་པའམ། སྒྲིག་ཆས་ཐོག་འགུལ་སྐྱོད་འཐེན་འཐེན་དུ་འགྱུར་བ་བཅོས་སྐབས་སྤྱོད། དྲ་ངོས་འགུལ་རིས་ལ་ `animate` སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/animation": {
+    "name": "animation",
+    "description": "Blender ནང་རྩེད་མོར་གྲ་སྒྲིག་ཟིན་པའི་འགུལ་རིས། འགྲོ་བ/རྒྱུག་པ/སྡོད་པའི་འཁོར་སྐྱོད། འཐབ་འཛིང་། འཕྲུལ་ཆས་འགུལ་རིས། པར་ཆས་འགུལ་རིས། ཚད་འཛིན། Graph Editor དང་ MCP བརྒྱུད་པའི་ NLA ལས་ཀའི་རྒྱུན་རིམ་བཅས་འདུས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/animation": {
+    "name": "animation",
+    "description": "Blender ནང་རྩེད་མོར་གྲ་སྒྲིག་ཟིན་པའི་འགུལ་རིས། འགྲོ་བ/རྒྱུག་པ/སྡོད་པའི་འཁོར་སྐྱོད། འཐབ་འཛིང་། འཕྲུལ་ཆས་འགུལ་རིས། པར་ཆས་འགུལ་རིས། ཚད་འཛིན། Graph Editor དང་ MCP བརྒྱུད་པའི་ NLA ལས་ཀའི་རྒྱུན་རིམ་བཅས་འདུས།"
+  },
+  "emilkowalski/skills:skills/animation-performance": {
+    "name": "animation-performance",
+    "description": "དྲ་ངོས་འགུལ་རིས་རྣམས་པར་གྲངས་ཀྱི་སྔོན་རྩིས་ནང་འཛིན། — composite ཁོ་ནའི་ཁྱད་ཆོས་ལ་འགུལ་སྐྱོད་སྤྲོད། ཤོག་ངོས་བྲེལ་བ་ཆེ་སྐབས་འགུལ་སྐྱོད་ཐེར་ཌི་གཙོ་བོའི་ཐོག་མི་འཇོག འགུལ་རིས་ཀྱིས་པར་གྲངས་ཤོར་སྐབས་རྒྱུ་རྐྱེན་འཚོལ། འགུལ་རིས་འཐེན་འཐེན་ནམ་ཐོགས་ཐོགས་སུ་འགྱུར་བའམ་པར་གྲངས་ཤོར་སྐབས། ཁྱད་ཆོས་གང་ལ་འགུལ་སྐྱོད་སྤྲོད་པ་འདེམས་སྐབས། ནུས་པའི་ཐད་ནས་ CSS དང་ JS འགུལ་རིས་གང་སྤྱོད་ཐག་གཅོད་སྐབས། ཡང་ན་ `will-change` དང་ GPU བརྩེགས་རིམ་ལ་བརྟེན་སྐབས་སྤྱོད། easing དང་ཡུན་ཚད་འདེམས་པའམ་འགུལ་སྐྱོད་དགོས་མིན་ཐག་གཅོད་ན་ animate སྤྱོད། འགུལ་སྐྱོད་སྤྱི་ལ་དཔྱད་ཞིབ་བྱེད་ན་ review-animations སྤྱོད།"
+  },
+  "emilkowalski/skills:skills/animation-vocabulary": {
+    "name": "animation-vocabulary",
+    "description": "ལྡོག་འཚོལ་ཚིག་མཛོད། དྲ་ངོས་འགུལ་རིས་སམ་འགུལ་སྐྱོད་ཀྱི་ནུས་པའི་འགྲེལ་བཤད་གསལ་པོ་མིན་པ་དེ་ཐ་སྙད་ངེས་ཅན་དུ་སྒྱུར། (\"popover ཁ་ཕྱེ་སྐབས་མཆོང་ལྡིང་བྱེད་པ་དེ\" → Pop in; \"the iOS rubber-band scroll\" → Rubber-banding)། སྤྱོད་མཁན་གྱིས་ \"…ལ་ཅི་ཟེར\" ཞེས་དྲིས་པའམ། འགུལ་སྐྱོད་ཀྱི་ནུས་པ་ཞིག་གི་མིང་མི་ཤེས་པར་འགྲེལ་བཤད་བྱས་ནས་ AI འམ་ཇུས་འགོད་པར་བཀའ་སློབ་སྤྲོད་པའི་ཐ་སྙད་འགྲིག་པོ་འདོད་སྐབས་སྤྱོད། ནུས་པར་མིང་འདོགས་པ་ལས། ཇུས་འགོད་དམ་བཟོ་སྐྲུན་མིན།"
+  },
+  "arjun988/blender-skills:.claude/skills/anime-style": {
+    "name": "anime-style",
+    "description": "Blender ལ་ Anime དང་ cel-shaded སྒྱུ་རྩལ་གྱི་ཁ་ཕྱོགས། ཚོན་མདོག་གི་མཚམས་གསལ་པོ། toon shader དང་གཟུགས་རིས་གཙང་མ། anime ཡི་ཆ་ཚད་ཀྱི་སྐད་བརྡ་བཅས་འདུས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/anime-style": {
+    "name": "anime-style",
+    "description": "Blender ལ་ Anime དང་ cel-shaded སྒྱུ་རྩལ་གྱི་ཁ་ཕྱོགས། ཚོན་མདོག་གི་མཚམས་གསལ་པོ། toon shader དང་གཟུགས་རིས་གཙང་མ། anime ཡི་ཆ་ཚད་ཀྱི་སྐད་བརྡ་བཅས་འདུས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anonyflow-automation": {
+    "name": "anonyflow-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Anonyflow ཡི་ལས་ཀ་རྣམས་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anthropic-administrator-automation": {
+    "name": "anthropic-administrator-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Anthropic Admin གི་ལས་ཀ་རྣམས་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anthropic_administrator-automation": {
+    "name": "anthropic_administrator-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Anthropic Admin གི་ལས་ཀ་རྣམས་རང་འགུལ་དུ་སྒྲུབ། API ལྡེ་མིག་དང་། སྤྱོད་ཚད། ལས་ཀའི་བར་སྟོང་། རྩ་འཛུགས་དོ་དམ་བཅས་སོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apaleo-automation": {
+    "name": "apaleo-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Apaleo ཡི་ལས་ཀ་རྣམས་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apex27-automation": {
+    "name": "apex27-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Apex27 ཡི་ལས་ཀ་རྣམས་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-bible-automation": {
+    "name": "api-bible-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ API Bible ཡི་ལས་ཀ་རྣམས་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-labz-automation": {
+    "name": "api-labz-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ API Labz ཀྱི་ལས་ཀ་རྣམས་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-ninjas-automation": {
+    "name": "api-ninjas-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ API Ninjas ཀྱི་ལས་ཀ་རྣམས་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-sports-automation": {
+    "name": "api-sports-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ API Sports ཀྱི་ལས་ཀ་རྣམས་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api2pdf-automation": {
+    "name": "api2pdf-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Api2pdf ཡི་ལས་ཀ་རྣམས་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apiflash-automation": {
+    "name": "apiflash-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Apiflash ཡི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apilio-automation": {
+    "name": "apilio-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Apilio ཡི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apipie-ai-automation": {
+    "name": "apipie-ai-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Apipie AI ཡི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apitemplate-io-automation": {
+    "name": "apitemplate-io-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Apitemplate IO ཡི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apiverve-automation": {
+    "name": "apiverve-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Apiverve ཡི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "arjun988/blender-skills:.claude/skills/apocalypse-worlds": {
+    "name": "apocalypse-worlds",
+    "description": "Blender ཆེད་ཀྱི་འཇིག་རྟེན་མཐའ་མ་དང་མནར་གཅོད་ཅན་གྱི་འཇིག་རྟེན་སྒྱུ་རྩལ་མཛུབ་སྟོན། ནང་དུ་འཇིག་རྟེན་མཐའ་མའི་རྗེས་ཀྱི་དུས་རབས། zombie, ཕྱི་གླིང་པའི་བཙན་འཛུལ། མིའི་རྗེས་ཀྱི་དུས་རབས། མནར་གཅོད་ཅན་གྱི་སྤྱི་ཚོགས། དེ་བཞིན་ཕུན་སུམ་ཚོགས་པའི་འཇིག་རྟེན་བཅས་ཀྱི་འགལ་ཟླའི་ཆ་ཚང་ཚོགས་པ་ཚུད་ཡོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/apocalypse-worlds": {
+    "name": "apocalypse-worlds",
+    "description": "Blender ཆེད་ཀྱི་འཇིག་རྟེན་མཐའ་མ་དང་མནར་གཅོད་ཅན་གྱི་འཇིག་རྟེན་སྒྱུ་རྩལ་མཛུབ་སྟོན། ནང་དུ་འཇིག་རྟེན་མཐའ་མའི་རྗེས་ཀྱི་དུས་རབས། zombie, ཕྱི་གླིང་པའི་བཙན་འཛུལ། མིའི་རྗེས་ཀྱི་དུས་རབས། མནར་གཅོད་ཅན་གྱི་སྤྱི་ཚོགས། དེ་བཞིན་ཕུན་སུམ་ཚོགས་པའི་འཇིག་རྟེན་བཅས་ཀྱི་འགལ་ཟླའི་ཆ་ཚང་ཚོགས་པ་ཚུད་ཡོད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appcircle-automation": {
+    "name": "appcircle-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Appcircle ཡི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appdrag-automation": {
+    "name": "appdrag-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Appdrag ཡི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "emilkowalski/skills:skills/apple-design": {
+    "name": "apple-design",
+    "description": "Apple ཡི་མཐུད་ངོས་ཇུས་འགོད་དང་རྒྱུན་མཐུད་རང་བཞིན་གྱི་དངོས་ཁམས་འགུལ་སྐྱོད་ཐབས་ལམ་དེ་དྲ་ངོས་སུ་བསྒྱུར་བ། ལག་བརྡས་སྣེ་ཁྲིད་པའི་ UI དང་། སྤྲིང་འགུལ་རིས། འཐེན་པ/ཕྱིར་འདེད/sheet ཕན་ཚུན་འབྲེལ་བ། ཤུགས་རྒྱུན་དང་བར་ཆོད་ཐུབ་པའི་བརྒལ་སྒྱུར། ཕྱེད་གསལ་རྒྱུ་ཆ་དང་གཏིང་ཚད། ཡིག་གཟུགས་ཇུས་འགོད (optical sizing, tracking, leading)། འགུལ་སྐྱོད་ཉུང་བཟོ། ཡང་ན་ Apple ལུགས་ཀྱི་མཐུད་ངོས་རྒྱབ་ཀྱི་ཇུས་འགོད་གཞི་རྩ (ལན་འདེབས། བར་སྟོང་མཐུན་སྒྲིག ཚོད་འཛིན) བཟོ་སྐྲུན་ནམ་ཞིབ་བཤེར་བྱེད་སྐབས་སྤྱོད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appointo-automation": {
+    "name": "appointo-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Appointo ཡི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appsflyer-automation": {
+    "name": "appsflyer-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Appsflyer ཡི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appveyor-automation": {
+    "name": "appveyor-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Appveyor ཡི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "arjun988/blender-skills:.claude/skills/archviz": {
+    "name": "archviz",
+    "description": "Blender ནང་དུ་ཁང་པའི་ནང་ངོས་དང་ཕྱི་ངོས་ཀྱི་བཟོ་བཀོད་མཐོང་ཆ་བཟོ་བ། དངོས་ཡོད་ཀྱི་ཚད་གཞི། པར་ཆས་ཀྱི་སྒྲིག་བཀོད། PBR རྒྱུ་ཆ། དེ་བཞིན་ MCP བརྒྱུད་ནས་པར་རིས་དང་འགུལ་རིས་འབུལ་སྤྲོད་བཅས་ཚུད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/archviz": {
+    "name": "archviz",
+    "description": "Blender ནང་དུ་ཁང་པའི་ནང་ངོས་དང་ཕྱི་ངོས་ཀྱི་བཟོ་བཀོད་མཐོང་ཆ་བཟོ་བ། དངོས་ཡོད་ཀྱི་ཚད་གཞི། པར་ཆས་ཀྱི་སྒྲིག་བཀོད། PBR རྒྱུ་ཆ། དེ་བཞིན་ MCP བརྒྱུད་ནས་པར་རིས་དང་འགུལ་རིས་འབུལ་སྤྲོད་བཅས་ཚུད།"
+  },
+  "ComposioHQ/awesome-claude-skills:artifacts-builder": {
+    "name": "artifacts-builder",
+    "description": "དེང་རབས་ཀྱི་ frontend དྲ་རྒྱའི་ལག་རྩལ་ (React, Tailwind CSS, shadcn/ui) སྤྱད་ནས་ claude.ai ཡི་ HTML artifact རྒྱས་ཤིང་གྲུབ་ཆ་མང་པོ་ཅན་བཟོ་བའི་ལག་ཆའི་ཚོགས། state དོ་དམ་དང་ routing ཡང་ན་ shadcn/ui ཡི་གྲུབ་ཆ་དགོས་པའི་ artifact རྙོག་འཛིང་ཅན་ལ་སྤྱོད། ཡིག་ཆ་གཅིག་ཅན་གྱི་ HTML/JSX artifact སྟབས་བདེ་ལ་མི་སྤྱོད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aryn-automation": {
+    "name": "aryn-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Aryn གྱི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ascora-automation": {
+    "name": "ascora-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Ascora ཡི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/asin-data-api-automation": {
+    "name": "asin-data-api-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Asin Data API ཡི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "emilkowalski/skills:skills/ask-emil": {
+    "name": "ask-emil",
+    "description": "ཁྱེད་ཀྱི་གནས་སྟངས་ལ་ནུས་རྩལ་གང་ངམ་བརྒྱུད་རིམ་གང་འཚམ་པོ་ཡོད་པ་འདྲི་ཞིབ་བྱོས། མཛོད་འདིའི་ནང་གི་ནུས་རྩལ་རྣམས་ལ་ལམ་སྟོན་བྱེད་པའི་ router ཞིག་ཡིན།"
+  },
+  "emilkowalski/skills:skills/ask-sonner": {
+    "name": "ask-sonner",
+    "description": "Sonner ཞེས་པའི་ React toast དཔེ་མཛོད་ཀྱི་ལམ་སྟོན། Toaster སྒྲིག་འཇུག་དང་སྦྲེལ་མཐུད། toast() འབོད་ཚུལ་འོས་མཚམས་འདེམས་པ། promise དང་ loading toast། toast གསར་སྒྱུར་དང་མེད་པར་བཟོ་བ། རྒྱུན་གནས་བཅས། བཟོ་དབྱིབས་དང་ theme དང་རྟགས་རིས། གནས་ས་འཇོག་ཚུལ་དང་ toaster མང་པོ་བཅས། Sonner སྤྱོད་སྐབས་སམ་དེའི་གནད་དོན་སེལ་སྐབས་སྤྱོད། དཔེར་ན་ toast མི་མངོན་པ། ཐེངས་གཉིས་མངོན་པ། བཟོ་དབྱིབས་ཤོར་བ། Tailwind class ལ་མི་ཉན་པ། modal གྱི་རྒྱབ་ཏུ་ལུས་པ། dark mode དང་མི་མཐུན་པ་སོགས།"
+  },
+  "arjun988/blender-skills:.claude/skills/asset-optimization": {
+    "name": "asset-optimization",
+    "description": "Blender ཡི་ asset རྣམས་ polycount དང་ topology, UV ཡི་ཕན་ནུས། རྒྱུ་ཆའི་གྲངས་ཚད། མིང་འདོགས། collection དང་རྩེད་མོར་གྲ་སྒྲིག་ཟིན་པའི་བྱེད་ནུས་བཅས་ཀྱི་ཐད་ནས་ཞིབ་བཤེར་དང་ལེགས་སྒྱུར་བྱེད། ཐོན་སྐྱེད་ཀྱི་ asset ཡོངས་ export མ་བྱས་གོང་ MCP བརྒྱུད་ནས་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/asset-optimization": {
+    "name": "asset-optimization",
+    "description": "Blender ཡི་ asset རྣམས་ polycount དང་ topology, UV ཡི་ཕན་ནུས། རྒྱུ་ཆའི་གྲངས་ཚད། མིང་འདོགས། collection དང་རྩེད་མོར་གྲ་སྒྲིག་ཟིན་པའི་བྱེད་ནུས་བཅས་ཀྱི་ཐད་ནས་ཞིབ་བཤེར་དང་ལེགས་སྒྱུར་བྱེད། ཐོན་སྐྱེད་ཀྱི་ asset ཡོངས་ export མ་བྱས་གོང་ MCP བརྒྱུད་ནས་སྤྱོད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/astica-ai-automation": {
+    "name": "astica-ai-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Astica AI ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/async-interview-automation": {
+    "name": "async-interview-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Async Interview ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/atlassian-automation": {
+    "name": "atlassian-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Atlassian གྱི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/auth0-automation": {
+    "name": "auth0-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Auth0 ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/autobound-automation": {
+    "name": "autobound-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Autobound ཀྱི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/autom-automation": {
+    "name": "autom-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Autom གྱི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/axonaut-automation": {
+    "name": "axonaut-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Axonaut གྱི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ayrshare-automation": {
+    "name": "ayrshare-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Ayrshare ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/backendless-automation": {
+    "name": "backendless-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Backendless ཀྱི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bannerbear-automation": {
+    "name": "bannerbear-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bannerbear གྱི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-article-illustrator": {
+    "name": "baoyu-article-illustrator",
+    "description": "རྩོམ་ཡིག་གི་གྲུབ་ཆར་དབྱེ་ཞིབ་བྱས་ནས་མཐོང་ཚོར་རོགས་རམ་དགོས་སའི་གནས་ངོས་འཛིན་བྱེད་ཅིང་། Type × Style × Palette ཟུར་གསུམ་ཐབས་ལམ་གྱིས་དཔེ་རིས་བཟོ་བ། སྤྱོད་མཁན་གྱིས་ \"རྩོམ་ཡིག་ལ་དཔེ་རིས་སྦྱོར་བ\", \"པར་རིས་སྣོན་པ\", \"རྩོམ་ཡིག་ཆེད་པར་རིས་བཟོ་བ\", ཡང་ན་ \"为文章配图\" ཞེས་རེ་སྐུལ་བྱེད་སྐབས་སྤྱོད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-comic": {
+    "name": "baoyu-comic",
+    "description": "རི་མོའི་བཟོ་སྟངས་དང་ཉམས་འགྱུར་སྣ་ཚོགས་ལ་རྒྱབ་སྐྱོར་བྱེད་པའི་ཤེས་བྱའི་རི་མོ་བཟོ་མཁན། ཁ་བྱང་རེའུ་མིག་ཞིབ་ཕྲ་དང་ཚོགས་སྒྲིག་པར་རིས་བཟོ་ནུས་ལྡན་པའི་སློབ་གསོའི་རི་མོ་གསར་བཟོ་བྱེད། སྤྱོད་མཁན་གྱིས་ \"知识漫画\", \"教育漫画\", \"མི་སྣའི་ལོ་རྒྱུས་རི་མོ\", \"སློབ་ཁྲིད་རི་མོ\", ཡང་ན་ \"Logicomix བཟོ་སྟངས་ཀྱི་རི་མོ\" བཟོ་དགོས་ཞེས་རེ་སྐུལ་བྱེད་སྐབས་སྤྱོད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-compress-image": {
+    "name": "baoyu-compress-image",
+    "description": "ལག་ཆ་རང་འགུལ་གྱིས་འདེམས་ནས་པར་རིས་ WebP (སྔོན་སྒྲིག) ཡང་ན་ PNG ལ་གནོན་སྡུད་བྱེད། སྤྱོད་མཁན་གྱིས་ \"པར་རིས་གནོན་སྡུད\", \"པར་རིས་ལེགས་སྒྲིག\", \"webp ལ་བསྒྱུར་བ\", ཡང་ན་པར་རིས་ཡིག་ཆའི་ཆེ་ཆུང་ཆུང་དུ་གཏོང་དགོས་ཞེས་རེ་སྐུལ་བྱེད་སྐབས་སྤྱོད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-cover-image": {
+    "name": "baoyu-cover-image",
+    "description": "ཟུར་ལྔ་ (རིགས། ཚོན་མདངས། འབྲི་སྟངས། ཡི་གེ ཉམས་འགྱུར) དང་ཚོན་མདངས་ཁ་བྱང་ ༡༡ དང་འབྲི་སྟངས་ ༧ ཟུང་འབྲེལ་བྱས་ནས་རྩོམ་ཡིག་གི་ཁ་ཤོག་པར་རིས་བཟོ་བ། གློག་བརྙན་ (2.35:1), བརྙན་ཤེལ་ཡངས་པོ་ (16:9), གྲུ་བཞི་ (1:1) བཅས་ཀྱི་ཟུར་ཚད་ལ་རྒྱབ་སྐྱོར་བྱེད། སྤྱོད་མཁན་གྱིས་ \"ཁ་ཤོག་པར་རིས་བཟོ་བ\", \"རྩོམ་ཡིག་གི་ཁ་ཤོག་བཟོ་བ\", ཡང་ན་ \"ཁ་ཤོག་བཟོ་བ\" ཞེས་རེ་སྐུལ་བྱེད་སྐབས་སྤྱོད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-danger-gemini-web": {
+    "name": "baoyu-danger-gemini-web",
+    "description": "ལྡོག་ཕྱོགས་བཟོ་སྐྲུན་བྱས་པའི་ Gemini Web API བརྒྱུད་ནས་པར་རིས་དང་ཡི་གེ་བཟོ་བ། ཡི་གེ་བཟོ་བ། གསལ་འདེབས་ཚིག་ལས་པར་རིས་བཟོ་བ། མཐོང་ཚོར་ནང་འཇུག་ཆེད་དཔྱད་གཞིའི་པར་རིས། གླེང་མོལ་ཐེངས་མང་བཅས་ལ་རྒྱབ་སྐྱོར་བྱེད། ནུས་རྩལ་གཞན་ལ་པར་རིས་བཟོ་བའི་རྒྱབ་སྐྱོར་མ་ལག་དགོས་སྐབས། ཡང་ན་སྤྱོད་མཁན་གྱིས་ \"Gemini ཡིས་པར་རིས་བཟོ་བ\", \"Gemini ཡི་གེ་བཟོ་བ\" ཞེས་རེ་སྐུལ་བྱེད་པའམ་མཐོང་ཚོར་ནུས་པ་ལྡན་པའི་ AI བཟོ་སྐྲུན་དགོས་སྐབས་སྤྱོད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-danger-x-to-markdown": {
+    "name": "baoyu-danger-x-to-markdown",
+    "description": "X (Twitter) ཡི་འཕྲིན་ཐུང་དང་རྩོམ་ཡིག་ YAML front matter ལྡན་པའི་ markdown ལ་བསྒྱུར་བ། ལྡོག་ཕྱོགས་བཟོ་སྐྲུན་བྱས་པའི་ API སྤྱོད་པས་སྤྱོད་མཁན་གྱི་མོས་མཐུན་དགོས། སྤྱོད་མཁན་གྱིས་ \"X ནས་ markdown\", \"འཕྲིན་ཐུང་ནས་ markdown\", \"འཕྲིན་ཐུང་ཉར་ཚགས\" ཞེས་གླེང་བའམ་བསྒྱུར་ཆེད་ x.com/twitter.com དྲ་གནས་མཁོ་འདོན་བྱེད་སྐབས་སྤྱོད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-diagram": {
+    "name": "baoyu-diagram",
+    "description": "CSS རང་སྒྲིག་ཁྱད་ཆོས་བརྒྱུད་ནས་མུན་ནག/སྣང་བའི་བརྗོད་གཞི་སྒྲིག་འགོད་བྱེད་ཐུབ་པའི་ཆེད་ལས་རེའུ་རིས་བཟོ་བ། སྤྱོད་མཁན་གྱིས་ལག་རྩལ་ལམ་འདུ་ཤེས་ཀྱི་རེའུ་རིས་གང་རུང་། མ་ལག་གི་མཐོང་ཚོར་ཅན། བརྒྱུད་རིམ་རྒྱུན་འགྲོས། གཞི་གྲངས་རྒྱུན་འགྲོས། ཆ་ཤས་འབྲེལ་བ། དྲ་རྒྱའི་གྲུབ་ཚུལ། ཐག་གཅོད་སྡོང་པོ། ལས་ཁུངས་རེའུ་མིག གནས་སྟངས་འཕྲུལ་ཆས། ཡང་ན་གྲུབ་ཚུལ/གཏན་ཚིགས/བརྒྱུད་རིམ་གྱི་མཐོང་ཚོར་མཚོན་སྟངས་གང་རུང་རེ་སྐུལ་བྱེད་སྐབས་ནུས་རྩལ་འདི་སྤྱོད། སྤྱོད་མཁན་གྱིས་ \"画个图\" \"画一个架构图\" \"རེའུ་རིས\" \"རྒྱུན་འགྲོས་རེའུ་མིག\" \"རིམ་པའི་རེའུ་རིས\" \"ང་ལ་ ... ཞིག་བྲིས\" ཞེས་ཟེར་བའམ་ནང་དོན་ཡར་འཇུག་བྱས་ནས་མཐོང་ཚོར་ཅན་དུ་བསྒྱུར་དགོས་ཞེས་རེ་སྐུལ་བྱེད་སྐབས་ཀྱང་འགུལ་སློང་བྱེད། མུན་ནག་བརྗོད་གཞིའི་ SVG དང་སྣང་བའི་བརྗོད་གཞིའི་ SVG དེ་བཞིན་རེ་རེའི་ @2x PNG ཕྱིར་འདོན་བྱེད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-electron-extract": {
+    "name": "baoyu-electron-extract",
+    "description": "སྒྲིག་འཇུག་བྱས་ཟིན་པའི་ Electron ཉེར་སྤྱོད་གང་རུང་ (`.asar` bundle) ནས་ཐོན་ཁུངས་དང་ JavaScript ཕྱིར་འདོན་བྱེད་ཅིང་། `.js.map` ཡིག་ཆ་ཡོད་སྐབས་མ་ཡིག་སོར་ཆུད་བྱེད་པའམ་མེད་ན་ Prettier ཡིས་བསྡུས་ཨང་སྒྲིག་བཀོད་སྒྲིག་བྱེད། སྤྱོད་མཁན་གྱིས་ \"Electron ཉེར་སྤྱོད་ཕྱིར་འདོན\", \"Electron ལྡོག་སྒྲིག\", \"... ཡི་མ་ཨང་ལེན་པ<app>\", \"app.asar ལ་བརྟག་ཞིབ\", \"看 Electron 应用源码\", \"提取 .asar\" ཞེས་རེ་སྐུལ་བྱེད་པའམ་ཅོག་ངོས་ Electron ཉེར་སྤྱོད་ཇི་ལྟར་བཟོས་པ་དྲི་སྐབས་སྤྱོད། `node_modules` མཆོང་ཞིང་ macOS དང་ Windows གཉིས་ཀར་རྒྱབ་སྐྱོར་བྱེད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-format-markdown": {
+    "name": "baoyu-format-markdown",
+    "description": "ཡི་གེ་རྐྱང་པའམ་ markdown ཡིག་ཆར་ frontmatter, ཁ་བྱང་། སྙིང་བསྡུས། ནང་ཁ་བྱང་། སྦོམ་ཡིག ཐོ་རེའུ། ཨང་སྒྲིག་སྡུམ་བུ་བཅས་ཀྱིས་བཀོད་སྒྲིག་བྱེད། སྤྱོད་མཁན་གྱིས་ \"markdown བཀོད་སྒྲིག\", \"རྩོམ་ཡིག་མཛེས་སྒྲིག\", \"བཀོད་སྒྲིག་སྣོན་པ\" ཞེས་རེ་སྐུལ་བྱེད་པའམ་རྩོམ་ཡིག་གི་ངོས་བཀོད་ལེགས་སུ་གཏོང་དགོས་སྐབས་སྤྱོད། {filename}-formatted.md ལ་ཕྱིར་འདོན་བྱེད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-image-gen": {
+    "name": "baoyu-image-gen",
+    "description": "OpenAI GPT Image 2.5, Azure OpenAI, Google, OpenRouter, DashScope, Z.AI GLM-Image, MiniMax, Jimeng, Seedream, Replicate དང་ Agnes API བཅས་ཀྱིས་ AI པར་རིས་བཟོ་བ། ཡི་གེ་ནས་པར་རིས། དཔྱད་གཞིའི་པར་རིས། ཟུར་ཚད། ཉར་ཟིན་པའི་གསལ་འདེབས་ཡིག་ཆ་ལས་ཚོགས་སྒྲིག་བཟོ་སྐྲུན་བཅས་ལ་རྒྱབ་སྐྱོར་བྱེད། སྔོན་སྒྲིག་ལྟར་རིམ་བཞིན་བྱེད་ཅིང་། སྤྱོད་མཁན་ལ་གསལ་འདེབས་མང་པོ་ཡོད་པའམ་པར་རིས་མང་པོའི་ཐོན་ཚད་བརྟན་པོ་དགོས་སྐབས་ཚོགས་སྒྲིག་མཉམ་སྤྱོད་བཟོ་སྐྲུན་སྤྱོད། སྤྱོད་མཁན་གྱིས་པར་རིས་བཟོ་བའམ་གསར་བཟོ། འབྲི་དགོས་ཞེས་རེ་སྐུལ་བྱེད་སྐབས་སྤྱོད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-infographic": {
+    "name": "baoyu-infographic",
+    "description": "བཀོད་སྒྲིག་རྣམ་གྲངས་ ༢༡ དང་མཐོང་ཚུལ་བཟོ་དབྱིབས་ ༢༢ བེད་སྤྱད་ནས་ཆེད་ལས་ཅན་གྱི་ཆ་འཕྲིན་རི་མོ་བཟོ་བ། ནང་དོན་ལ་དབྱེ་ཞིབ་བྱས་ཏེ་བཀོད་སྒྲིག×བཟོ་དབྱིབས་ཀྱི་སྦྱོར་ཚུལ་འོས་སྦྱོར་བྱེད་ཅིང་། པར་སྐྲུན་ལ་གྲ་སྒྲིག་ཟིན་པའི་ཆ་འཕྲིན་རི་མོ་བཟོ་བ། སྤྱོད་མཁན་གྱིས་ \"infographic\", \"信息图\", \"visual summary\", \"可视化\", ཡང་ན་ \"高密度信息大图\" བཟོ་དགོས་ཞེས་རེ་བ་བཏོན་སྐབས་བེད་སྤྱོད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-markdown-to-html": {
+    "name": "baoyu-markdown-to-html",
+    "description": "Markdown ནས་ WeChat དང་མཐུན་པའི་བརྗོད་གཞི་ཅན་གྱི་ HTML ལ་བསྒྱུར་བ། ཨང་རྟགས་གསལ་སྟོན། རྩིས་རིག Mermaid (headless Chrome བརྒྱུད་ PNG རུ་བཟོ་བ)། PlantUML། མཆན་འོག ཉེན་བརྡ། ཆ་འཕྲིན་རི་མོ། དེ་བཞིན་ཕྱི་རོལ་སྦྲེལ་ཐག་གི་འོག་གི་འདྲེན་མཆན་བཅས་ལ་རྒྱབ་སྐྱོར་ཡོད། སྤྱོད་མཁན་གྱིས་ \"markdown to html\", \"convert md to html\", \"md 转 html\", \"微信外链转底部引用\" ཞེས་རེ་བ་བཏོན་པའམ། markdown ནས་བཟོ་དབྱིབས་ཅན་གྱི་ HTML ཐོན་འབྲས་དགོས་སྐབས་བེད་སྤྱོད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-podcast-summary": {
+    "name": "baoyu-podcast-summary",
+    "description": "སྒྲ་སྡེར་གླེང་མོལ་དང་བཅར་འདྲི། གླེང་སྟེགས་སོགས་ཀྱི་གླེང་མོལ་ཡི་གེ་རྣམས་སྤྱོད་མཁན་གྱི་དགའ་མོས་སྐད་ཡིག་ཐོག་ཕྱོགས་ལྷུང་མེད་ཅིང་ཀློག་མཁན་གཙོ་བོར་འཛིན་པའི་སྡོམ་ཚིག་ཏུ་བསྒྱུར་བ། ཉར་འོས་པའི་གནད་དོན་ཉུང་ཤས་སྔོན་ལ་བཏོན་ཏེ། སྨྲ་མཁན་སུ་ཡིན་གསལ་པོར་བསྟན་ནས་དོན་ལ་བློ་དཀར་བའི་སྒོ་ནས་བསྐྱར་བརྗོད་བྱེད་ཅིང་། རང་གི་ལྟ་ཚུལ་གང་ཡང་མི་སྣོན། སྦྱར་བའི་གླེང་མོལ་ཡི་གེའམ་ཡིག་ཆ། ཡང་ན་ YouTube URL (baoyu-youtube-transcript བརྒྱུད་གླེང་མོལ་ཡི་གེ་ལེན་པ) བཅས་ལེན་ཐུབ་ལ། མིང་མ་བཀོད་པའི་སྨྲ་མཁན་རྣམས་ནང་དོན་གྱི་སྐབས་དོན་ལས་ཚོད་དཔག་བྱེད་ཅིང་། དྲ་རྒྱ་འཚོལ་བཤེར་བེད་སྤྱད་ནས་མིང་རྣམས་ར་སྤྲོད་དང་རྒྱབ་ལྗོངས་མཁོ་སྤྲོད་བྱེད། སྤྱོད་མཁན་གྱིས་གླེང་མོལ་ཡི་གེའམ་སྒྲ་སྡེར/བཅར་འདྲིའི་སྦྲེལ་ཐག་སྤྲད་དེ་ \"summarize this podcast\", \"podcast summary\", \"interview summary\", \"key takeaways\", \"总结播客\", \"播客总结\", \"访谈总结\", \"总结一下这期播客\", \"总结这个访谈\" ཞེས་རེ་བ་བཏོན་པའམ། YouTube བཅར་འདྲི་ཞིག་མཉམ་སྤྱོད་བྱས་ཏེ་གླེང་མོལ་ཡི་གེ་མ་ཡིན་པར་ཡིག་ཐོག་གི་སྡོམ་ཚིག་དགོས་སྐབས་བེད་སྤྱོད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-wechat": {
+    "name": "baoyu-post-to-wechat",
+    "description": "API ཡང་ན་ Chrome CDP བརྒྱུད་ནས་ WeChat Official Account (微信公众号) ལ་ནང་དོན་སྤེལ་བ། HTML, markdown, ཡང་ན་ཡི་གེ་རྐྱང་པའི་ནང་འཇུག་གིས་རྩོམ་ཡིག་(文章) སྤེལ་བ་དང་། པར་རིས་མང་པོ་ཅན་གྱི་པར་ཡིག་(贴图, སྔོན་ཆད་ 图文) སྤེལ་བར་རྒྱབ་སྐྱོར་ཡོད། Markdown རྩོམ་ཡིག་གི་ལས་རིམ་ནང་སྔོན་སྒྲིག་ལྟར་ཕྱི་རོལ་སྦྲེལ་ཐག་རྣམས་འོག་གི་འདྲེན་མཆན་དུ་བསྒྱུར་ནས་ WeChat དང་མཐུན་པའི་ཐོན་འབྲས་བཟོ་བ། སྤྱོད་མཁན་གྱིས་ \"发布公众号\", \"post to wechat\", \"微信公众号\", ཡང་ན་ \"贴图/图文/文章\" གླེང་སྐབས་བེད་སྤྱོད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-weibo": {
+    "name": "baoyu-post-to-weibo",
+    "description": "Weibo (微博) ལ་ནང་དོན་སྤེལ་བ། ཡི་གེ་དང་པར་རིས། བརྙན་འཕྲིན་བཅས་ཅན་གྱི་སྤེལ་ཐེངས་རྒྱུན་ལྡན་དང་། Chrome CDP བརྒྱུད་ Markdown ནང་འཇུག་གིས་འགོ་བརྗོད་རྩོམ་ཡིག་(头条文章) ལ་རྒྱབ་སྐྱོར་ཡོད། སྤྱོད་མཁན་གྱིས་ \"post to Weibo\", \"发微博\", \"发布微博\", \"publish to Weibo\", \"share on Weibo\", \"写微博\", ཡང་ན་ \"微博头条文章\" ཞེས་རེ་བ་བཏོན་སྐབས་བེད་སྤྱོད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-x": {
+    "name": "baoyu-post-to-x",
+    "description": "X (Twitter) ལ་ནང་དོན་དང་རྩོམ་ཡིག་སྤེལ་བ། པར་རིས/བརྙན་འཕྲིན་ཅན་གྱི་སྤེལ་ཐེངས་རྒྱུན་ལྡན་དང་ X Articles (Markdown རྩོམ་ཡིག་རིང་པོ) ལ་རྒྱབ་སྐྱོར་ཡོད། Codex ནང་། Codex Chrome plugin/@chrome གི་རེ་བ་གསལ་པོ་བཏོན་ན་ Chrome Extension ལས་རིམ་བེད་སྤྱོད་དགོས། དེ་མིན་ Chrome Computer Use ཡོད་ན་དེ་བེད་སྤྱོད་ཅིང་། ཆོག་མཆན་ཡོད་སྐབས་ཁོ་ནར་ Chrome CDP script དངོས་ལ་ཕྱིར་ལྡོག་བྱེད། སྤྱོད་མཁན་གྱིས་ \"post to X\", \"tweet\", \"publish to Twitter\", ཡང་ན་ \"share on X\" ཞེས་རེ་བ་བཏོན་སྐབས་བེད་སྤྱོད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-slide-deck": {
+    "name": "baoyu-slide-deck",
+    "description": "ནང་དོན་ལས་ཆེད་ལས་ཅན་གྱི་འགྲེམས་ཤོག་པར་རིས་བཟོ་བ། བཟོ་དབྱིབས་ཀྱི་ལམ་སྟོན་དང་བཅས་པའི་ས་བཅད་བཟོས་རྗེས། འགྲེམས་ཤོག་རེ་རེའི་པར་རིས་བཟོ་བ། སྤྱོད་མཁན་གྱིས་ \"create slides\", \"make a presentation\", \"generate deck\", \"slide deck\", ཡང་ན་ \"PPT\" ཞེས་རེ་བ་བཏོན་སྐབས་བེད་སྤྱོད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-translate": {
+    "name": "baoyu-translate",
+    "description": "ནུས་རྩལ་འདི་སྤྱོད་མཁན་གྱིས་ \"translate\", \"翻译\", \"精翻\", \"translate article\", \"translate to Chinese\", \"translate to English\", \"改成中文\", \"改成英文\", \"convert to Chinese\", \"localize\", \"本地化\", \"refined translation\", \"精细翻译\", \"proofread translation\", \"快速翻译\", \"快翻\", \"这篇文章翻译一下\" ཞེས་རེ་བ་བཏོན་པའམ། སྒྱུར་འདོད་དང་བཅས་ URL/ཡིག་ཆ་སྤྲད་སྐབས་བེད་སྤྱོད་དགོས། རྣམ་པ་གསུམ་(མྱུར་སྒྱུར/རྒྱུན་ལྡན/ཞིབ་སྒྱུར) དང་རང་བཟོས་ཐ་སྙད་མཛོད་ལ་རྒྱབ་སྐྱོར་ཡོད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-url-to-markdown": {
+    "name": "baoyu-url-to-markdown",
+    "description": "baoyu-fetch CLI (Chrome CDP དང་དྲ་ཚིགས་སོ་སོའི་མཐུན་སྦྱོར་ཆས) བེད་སྤྱད་ནས་ URL གང་རུང་ལེན་ཏེ་ markdown ལ་བསྒྱུར་བ། X/Twitter, YouTube གླེང་མོལ་ཡི་གེ། Hacker News གླེང་སྐུད། དེ་བཞིན་ Defuddle བརྒྱུད་ཤོག་ངོས་སྤྱིར་བཏང་བཅས་ཀྱི་མཐུན་སྦྱོར་ཆས་ནང་སྒྲིག་ཡོད། ཕན་ཚུན་འབྲེལ་བའི་སྒུག་སྡོད་རྣམ་པ་བརྒྱུད་ནང་འཛུལ/CAPTCHA ཐག་གཅོད་བྱེད། སྤྱོད་མཁན་གྱིས་དྲ་ཤོག་ཅིག་ markdown དུ་ཉར་འདོད་སྐབས་བེད་སྤྱོད།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-wechat-summary": {
+    "name": "baoyu-wechat-summary",
+    "description": "ས་གནས་ཀྱི་ wx-cli binary (https://github.com/jackwener/wx-cli) བེད་སྤྱད་ནས་ WeChat ཚོགས་གླེང་གི་གནད་ཆེའི་ནང་དོན་རྣམས་གྲུབ་ཆ་ལྡན་པའི་སྡོམ་བཤད་དུ་བསྒྱུར་བ། སྔོན་སྒྲིག་ལྟར་སྡོམ་བཤད་རྒྱུན་ལྡན་བཟོ་ཞིང་། ཟུར་ཟའི་(毒舌) པར་གཞི་ནི་རང་འདེམས་ཀྱིས་སྣོན་དགོས། ལག་བསྟར་ཐེངས་རེ་རེའི་བར་ཚོགས་པ་སོ་སོའི་ལོ་རྒྱུས་ (history.json + history-digests.jsonl)། སྤྱོད་མཁན་སོ་སོའི་ངོ་བོའི་ཡིག་ཚགས། ཚོགས་པ་སོ་སོའི་དོན་དངོས་དྲན་ཤེས་ (memory.md) བཅས་རྒྱུན་འཁྱོངས་བྱེད་ཅིང་། གསང་དོན་སྲུང་སྐྱོབ་ཀྱི་ཚད་བཀག་ནང་སྒྲིག་བྱས་ཡོད། སྤྱོད་མཁན་གྱིས་ \"总结群聊\", \"群聊精华\", \"群聊摘要\", \"summarize group chat\", \"group chat digest\" ཞེས་རེ་བ་བཏོན་པའམ། WeChat ཚོགས་པའི་མིང་དང་དུས་ཚོད་ཁྱོན་བཅས་གླེང་བ། \"帮我看看 XX 群最近聊了什么\", \"XX 群有什么值得看的\" ཞེས་པའམ། \"回溯画像\" / \"初始化画像\" / \"backfill profiles\" ཞེས་རེ་བ་བཏོན་སྐབས་བེད་སྤྱོད། སྤྱོད་མཁན་གྱིས་ \"毒舌版\", \"roast 版\", \"再来个毒舌的\" སོགས་ཟེར་སྐབས་ཟུར་ཟའི་པར་གཞི་སྣོན་པ།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-xhs-images": {
+    "name": "baoyu-xhs-images",
+    "description": "མཐོང་ཚུལ་གྱི་བཟོ་དབྱིབས་ ༡༢ དང་བཀོད་སྒྲིག་ ༨། ཚོན་མདོག་གི་སྡེབ་སྦྱོར་ ༣ བཅས་ལྡན་པའི་ཆ་འཕྲིན་རི་མོའི་ཤོག་བྱང་རིམ་པ་བཟོ་སྐྲུན་བྱེད། ནང་དོན་དེ་སྤྱི་ཚོགས་དྲ་ལམ་གྱི་མཉམ་ཞུགས་ལ་འཚམ་པའི་པར་རིས་ཤོག་བྱང་ ༡-༡༠ བར་དུ་བགོ་འགྲེམས་བྱེད། སྤྱོད་མཁན་གྱིས་ \"小红书图片\", \"小红书种草\", \"小绿书\", \"微信图文\", \"微信贴图\", \"image cards\", \"图片卡片\", baoyu-xhs-images བཅས་གླེང་བའམ། སྤྱི་ཚོགས་དྲ་ལམ་གྱི་ཆ་འཕྲིན་རི་མོའི་རིམ་པ་དགོས་སྐབས་བེད་སྤྱོད་གཏོང་།"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-youtube-transcript": {
+    "name": "baoyu-youtube-transcript",
+    "description": "URL ཡང་ན་བརྙན་འཕྲིན་ ID བརྒྱུད་ནས་ YouTube ཡི་བརྙན་ཟློས་ཡི་གེ་/འོག་ཡིག་དང་ཁ་ཤོག་པར་རིས་ཕབ་ལེན་བྱེད། སྐད་ཡིག་སྣ་མང་དང་སྒྱུར་བཅོས། ལེའུ་དབྱེ་བ། སྨྲ་མཁན་ངོས་འཛིན་བཅས་ལ་རྒྱབ་སྐྱོར་བྱེད། མྱུར་དུ་བསྐྱར་དུ་རྣམ་གཞག་བསྒྱུར་ཆེད་མ་ཡིག་གི་གཞི་གྲངས་ཉར་ཚགས་བྱེད། སྤྱོད་མཁན་གྱིས་ \"get YouTube transcript\", \"download subtitles\", \"get captions\", \"YouTube字幕\", \"YouTube封面\", \"视频封面\", \"video thumbnail\", \"video cover image\" བཅས་ཞུ་བའམ། YouTube ཡི་ URL ཞིག་མཁོ་འདོན་བྱས་ནས་བརྙན་ཟློས་ཡི་གེ་/འོག་ཡིག་གི་ཡི་གེའམ་ཁ་ཤོག་པར་རིས་འདོན་སྤེལ་བྱེད་འདོད་སྐབས་བེད་སྤྱོད་གཏོང་།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bart-automation": {
+    "name": "bart-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bart ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱེད་དགོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/baselinker-automation": {
+    "name": "baselinker-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Baselinker ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱེད་དགོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/baserow-automation": {
+    "name": "baserow-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Baserow ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱེད་དགོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/basin-automation": {
+    "name": "basin-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Basin ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱེད་དགོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/battlenet-automation": {
+    "name": "battlenet-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Battlenet ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱེད་དགོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beaconchain-automation": {
+    "name": "beaconchain-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Beaconchain ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱེད་དགོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beaconstac-automation": {
+    "name": "beaconstac-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Beaconstac ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱེད་དགོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beamer-automation": {
+    "name": "beamer-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Beamer ཡི་ལས་འགན་རང་འགུལ་ཅན་དུ་བསྒྱུར། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱེད་དགོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beeminder-automation": {
+    "name": "beeminder-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Beeminder ཡི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bench-automation": {
+    "name": "bench-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bench ཡི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/benchmark-email-automation": {
+    "name": "benchmark-email-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Benchmark Email གྱི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/benzinga-automation": {
+    "name": "benzinga-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Benzinga ཡི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bestbuy-automation": {
+    "name": "bestbuy-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bestbuy ཡི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/better-proposals-automation": {
+    "name": "better-proposals-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Better Proposals ཀྱི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/better-stack-automation": {
+    "name": "better-stack-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Better Stack གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bidsketch-automation": {
+    "name": "bidsketch-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bidsketch ཀྱི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/big-data-cloud-automation": {
+    "name": "big-data-cloud-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Big Data Cloud གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigmailer-automation": {
+    "name": "bigmailer-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bigmailer གྱི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigml-automation": {
+    "name": "bigml-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bigml ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigpicture-io-automation": {
+    "name": "bigpicture-io-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bigpicture IO ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "arjun988/blender-skills:.claude/skills/biome-worlds": {
+    "name": "biome-worlds",
+    "description": "Biome དང་སྒྲིག་བཀོད་ཀྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས་གཏན་འབེབས། Blender ནང་ཆུ་འོག་དང་བྱེ་ཐང་། འཁྱགས་ཁུལ། ནགས་ཚལ་སྟུག་པོ། ས་འོག གླིང་ཕྲན་འཕྱོ་བ་བཅས་ཀྱི་ཁོར་ཡུག་ཚུད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/biome-worlds": {
+    "name": "biome-worlds",
+    "description": "Biome དང་སྒྲིག་བཀོད་ཀྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས་གཏན་འབེབས། Blender ནང་ཆུ་འོག་དང་བྱེ་ཐང་། འཁྱགས་ཁུལ། ནགས་ཚལ་སྟུག་པོ། ས་འོག གླིང་ཕྲན་འཕྱོ་བ་བཅས་ཀྱི་ཁོར་ཡུག་ཚུད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bitquery-automation": {
+    "name": "bitquery-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bitquery ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bitwarden-automation": {
+    "name": "bitwarden-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bitwarden ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blackbaud-automation": {
+    "name": "blackbaud-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Blackbaud ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blackboard-automation": {
+    "name": "blackboard-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Blackboard ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "arjun988/blender-skills:.claude/skills/blender-director": {
+    "name": "blender-director",
+    "description": "Blender རྒྱུ་ཆའི་ལས་འགན་གང་རུང་འགོ་འཛུགས་པའམ། ཐོན་སྐྱེད་ཀྱི་ལས་རིམ་འཆར་འགོད། ཆེད་ལས་ཁག་མང་པོ་མཉམ་སྦྲེལ། དཔེ་གཞིའི་པར་རིས་དང་བསམ་བློའི་སྒྱུ་རྩལ་ལ་མཐུན་སྒྲིག་བྱེད་སྐབས་སྤྱོད། རྩེད་མོར་གྲ་སྒྲིག་ཟིན་པའི་རྒྱུ་ཆ་དང་། hard surface། ཁོར་ཡུག མི་སྣ། སེམས་ཅན། ཕྱིར་འདྲེན། ཡང་ན་རྩལ་ནུས་མང་པོ་ཚུད་པའི་ Blender ལས་རིམ་གང་རུང་ལ་འབོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/blender-director": {
+    "name": "blender-director",
+    "description": "Blender རྒྱུ་ཆའི་ལས་འགན་གང་རུང་འགོ་འཛུགས་པའམ། ཐོན་སྐྱེད་ཀྱི་ལས་རིམ་འཆར་འགོད། ཆེད་ལས་ཁག་མང་པོ་མཉམ་སྦྲེལ། དཔེ་གཞིའི་པར་རིས་དང་བསམ་བློའི་སྒྱུ་རྩལ་ལ་མཐུན་སྒྲིག་བྱེད་སྐབས་སྤྱོད། རྩེད་མོར་གྲ་སྒྲིག་ཟིན་པའི་རྒྱུ་ཆ་དང་། hard surface། ཁོར་ཡུག མི་སྣ། སེམས་ཅན། ཕྱིར་འདྲེན། ཡང་ན་རྩལ་ནུས་མང་པོ་ཚུད་པའི་ Blender ལས་རིམ་གང་རུང་ལ་འབོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/blender-modeler": {
+    "name": "blender-modeler",
+    "description": "Edit Mode དང་ modifier། collection། ཚད་ལྡན་དཔེ་བཟོ། ལྗོངས་སྒྲིག་འཛུགས་བཅས་ཀྱི་ Blender དཔེ་བཟོའི་ཆེད་མཁས་པ་གཙོ་བོ། Blender ནང་ MCP བརྒྱུད་ནས་སྤྱིར་བཏང་གི་ 3D དཔེ་བཟོ་དང་། blockout། གཙང་སེལ། གནོད་མེད་ལས་རིམ། ལྗོངས་ཀྱི་གྲུབ་ཆ་བཅས་ལ་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/blender-modeler": {
+    "name": "blender-modeler",
+    "description": "Edit Mode དང་ modifier། collection། ཚད་ལྡན་དཔེ་བཟོ། ལྗོངས་སྒྲིག་འཛུགས་བཅས་ཀྱི་ Blender དཔེ་བཟོའི་ཆེད་མཁས་པ་གཙོ་བོ། Blender ནང་ MCP བརྒྱུད་ནས་སྤྱིར་བཏང་གི་ 3D དཔེ་བཟོ་དང་། blockout། གཙང་སེལ། གནོད་མེད་ལས་རིམ། ལྗོངས་ཀྱི་གྲུབ་ཆ་བཅས་ལ་སྤྱོད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blocknative-automation": {
+    "name": "blocknative-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Blocknative ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "arjun988/blender-skills:.claude/skills/body-horror-style": {
+    "name": "ལུས་ཀྱི་འཇིགས་སྐྲག་བཟོ་དབྱིབས།",
+    "description": "Blender ཆེད་དུ་ཤ་ལུས་ཀྱི་རྣམ་པ་མི་འཚམ་པ་དང་། གཞན་དུ་འགྱུར་བ། འདྲེས་སྦྱོར། དེ་བཞིན་ཚོར་ཤུགས་ཆེ་བའི་དངོས་པོའི་གཏམ་རྒྱུད་བཅས་ལ་དམིགས་པའི་ལུས་ཀྱི་འཇིགས་སྐྲག་སྒྱུ་རྩལ་གྱི་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/body-horror-style": {
+    "name": "ལུས་ཀྱི་འཇིགས་སྐྲག་བཟོ་དབྱིབས།",
+    "description": "Blender ཆེད་དུ་ཤ་ལུས་ཀྱི་རྣམ་པ་མི་འཚམ་པ་དང་། གཞན་དུ་འགྱུར་བ། འདྲེས་སྦྱོར། དེ་བཞིན་ཚོར་ཤུགས་ཆེ་བའི་དངོས་པོའི་གཏམ་རྒྱུད་བཅས་ལ་དམིགས་པའི་ལུས་ཀྱི་འཇིགས་སྐྲག་སྒྱུ་རྩལ་གྱི་ཁ་ཕྱོགས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boldsign-automation": {
+    "name": "boldsign-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Boldsign གི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bolna-automation": {
+    "name": "bolna-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bolna ཡི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boloforms-automation": {
+    "name": "boloforms-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Boloforms ཀྱི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bolt-iot-automation": {
+    "name": "bolt-iot-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bolt Iot ཡི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bonsai-automation": {
+    "name": "bonsai-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bonsai ཡི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "virgiliojr94/book-to-skill:book-to-skill": {
+    "name": "book-to-skill",
+    "description": "ས་གནས་ཀྱི་ཡིག་ཆ་ (PDF, EPUB, DOCX, HTML, Markdown, TXT, RTF, MOBI/AZW) ཡང་ན་རྒྱང་རིང་གི་ MCP དཔེ་དེབ་འཚོལ་ཞིབ་ (`/book-to-skill search <query>`) ནས་དཔེ་དེབ་དང་ཡིག་ཆ་རྣམས་གྲུབ་ཆ་ལྡན་པའི་ agent ནུས་རྩལ་དུ་བསྒྱུར་ཞིང་། སྒྲོམ་གཞི་དང་། བསམ་བློའི་དཔེ་གཞི། རྩ་དོན། ཐབས་རྩལ། དེ་བཞིན་ལོག་པའི་དཔེ་གཞི་བཅས་ཕྱིར་འདོན་བྱེད། ཡིག་ཆ་ཞིག་སློབ་སྦྱོང་བྱེད་པའམ་རྩོམ་པ་པོའི་སྒྲོམ་གཞི་ལག་བསྟར་བྱེད་ཆེད་ GitHub Copilot CLI, Amp, Claude Code, Hermes Agent, OpenCode, ཡང་ན་ OpenClaw བརྒྱུད་ནས་སྤྱོད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bookingmood-automation": {
+    "name": "bookingmood-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bookingmood ཀྱི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/booqable-automation": {
+    "name": "booqable-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Booqable ཡི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/borneo-automation": {
+    "name": "borneo-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Borneo ཡི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botbaba-automation": {
+    "name": "botbaba-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Botbaba ཡི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botpress-automation": {
+    "name": "botpress-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Botpress ཡི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botsonic-automation": {
+    "name": "botsonic-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Botsonic ཡི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botstar-automation": {
+    "name": "botstar-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Botstar ཡི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bouncer-automation": {
+    "name": "bouncer-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bouncer ཡི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boxhero-automation": {
+    "name": "boxhero-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Boxhero ཡི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "anthropics/skills:skills/brand-guidelines": {
+    "name": "ཚོང་རྟགས་ཀྱི་ལམ་སྟོན།",
+    "description": "Anthropic ཡི་མཐོང་ཚུལ་དང་ཉམས་སྣང་ལྡན་ན་ཕན་ཐོགས་ཡོད་པའི་བཟོ་རྫས་གང་རུང་ལ་ Anthropic ཡི་གཞུང་འབྲེལ་ཚོང་རྟགས་ཀྱི་ཁ་དོག་དང་ཡིག་གཟུགས་བཀོལ་སྤྱོད་བྱེད། ཚོང་རྟགས་ཀྱི་ཁ་དོག་གམ་བཟོ་དབྱིབས་ལམ་སྟོན། མཐོང་ཚུལ་གྱི་རྣམ་གཞག ཡང་ན་ཀུང་སིའི་ཇུས་འགོད་ཚད་གཞི་སྤྱོད་དགོས་སྐབས་འདི་བཀོལ།"
+  },
+  "ComposioHQ/awesome-claude-skills:brand-guidelines": {
+    "name": "ཚོང་རྟགས་ཀྱི་ལམ་སྟོན།",
+    "description": "Anthropic ཡི་མཐོང་ཚུལ་དང་ཉམས་སྣང་ལྡན་ན་ཕན་ཐོགས་ཡོད་པའི་བཟོ་རྫས་གང་རུང་ལ་ Anthropic ཡི་གཞུང་འབྲེལ་ཚོང་རྟགས་ཀྱི་ཁ་དོག་དང་ཡིག་གཟུགས་བཀོལ་སྤྱོད་བྱེད། ཚོང་རྟགས་ཀྱི་ཁ་དོག་གམ་བཟོ་དབྱིབས་ལམ་སྟོན། མཐོང་ཚུལ་གྱི་རྣམ་གཞག ཡང་ན་ཀུང་སིའི་ཇུས་འགོད་ཚད་གཞི་སྤྱོད་དགོས་སྐབས་འདི་བཀོལ།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brandfetch-automation": {
+    "name": "brandfetch-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Brandfetch ཡི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "emilkowalski/skills:skills/break-ui": {
+    "name": "UI གཏོར་བཤིག་ཚོད་ལྟ།",
+    "description": "UI ཆ་ཤས་ཤིག་ལ་གནས་སྟངས་ངན་ཤོས་ཀྱི་གཞི་གྲངས་སྤྲད་དེ་གཏོར་བཤིག་གཏོང་ཚོད་ལྟ་བྱོས — མིང་རིང་པོ། བར་མཚམས་གཅོད་མི་ཐུབ་པའི་གློག་འཕྲིན་ཁ་བྱང་། ཡི་གེ་གཅིག་ཅན་གྱི་མིང་། ཆད་ལུས་ས་ཁོངས། གྲངས་འབོར་ཧ་ཅང་ཆེ་བ། རྣམ་གྲངས་ཀླད་ཀོར། ཁ་བྱང་རིང་པོ། ལ་ཊིན་མིན་པའི་ཡི་གེ ཨི་མོ་ཇི། མཐའ་ཚད་ཀྱི་གྲངས་ཀ — དེ་ནས་ \"Demo data / Worst case\" སྒུལ་སྒོའི་རྒྱབ་ཏུ་མངོན་པར་བྱས་ཏེ། ཞིག་རལ་སོང་བ་ཡོད་ཚད་དང་དེ་དག་རེ་རེའི་བཅོས་ཐབས་བཅས་སྙན་ཞུ་འབུལ། སྤྱོད་མཁན་གྱིས་ལྷུ་ལག་གམ་བརྙན་ཤེལ་ཞིག་ལ་གནོན་ཤུགས་ཚོད་ལྟ་བྱེད་པའམ། གཏོར་བཤིག་གཏོང་བའམ། མཐའ་མཚམས་གནས་སྟངས་འཚོལ་དགོས་ཞེས་པའམ། \"try the worst case\" ཞེས་རེ་བ་བཏོན་སྐབས་བཀོལ། མཐོང་ཚུལ་ཇུས་འགོད་ལ་དཔྱད་ཞིབ་བྱེད་ན་ emil-design-eng བཀོལ། འགུལ་རིས་ལ་ review-animations བཀོལ།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/breeze-automation": {
+    "name": "breeze-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Breeze ཡི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/breezy-hr-automation": {
+    "name": "breezy-hr-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Breezy HR གི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brex-automation": {
+    "name": "brex-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Brex གི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brex-staging-automation": {
+    "name": "brex-staging-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Brex Staging གི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brightdata-automation": {
+    "name": "brightdata-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Brightdata ཡི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brightpearl-automation": {
+    "name": "brightpearl-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Brightpearl གྱི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brilliant-directories-automation": {
+    "name": "brilliant-directories-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Brilliant Directories ཀྱི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browseai-automation": {
+    "name": "browseai-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Browseai ཡི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "cexll/myclaude:skills/browser": {
+    "name": "browser",
+    "description": "ནུས་རྩལ་འདི་ Chrome DevTools Protocol (CDP) སྤྱད་ནས་བལྟ་ཆས་རང་འགུལ་ཅན་གྱི་ལས་འགན་སྒྲུབ་པར་སྤྱོད་དགོས། སྤྱོད་མཁན་གྱིས་རྒྱང་སྦྲེལ་སྐྱོན་བཅོས་ (remote debugging) དང་བཅས་ Chrome འགོ་འཛུགས་པའམ། ཤོག་ངོས་བརྒྱུད་འགྲོ་བའམ། བལྟ་ཆས་ཀྱི་ཁོར་ཡུག་ནང་ JavaScript ལག་བསྟར་བྱེད་པའམ། བརྙན་ཤེལ་པར་ལེན་པའམ། DOM ཆ་ཤས་ཕན་ཚུན་འབྲེལ་བའི་སྒོ་ནས་འདེམས་དགོས་སྐབས་འདི་སྐུལ་སློང་བྱེད། MCP སར་བར་མི་དགོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browser-tool-automation": {
+    "name": "browser-tool-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Browser Tool གྱི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserbase-tool-automation": {
+    "name": "browserbase-tool-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Browserbase Tool གྱི་ལས་འགན་རང་འགུལ་དུ་གཏོང་། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserhub-automation": {
+    "name": "browserhub-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Browserhub ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserless-automation": {
+    "name": "browserless-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Browserless ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "arjun988/blender-skills:.claude/skills/brutalist-mood": {
+    "name": "brutalist-ཉམས་འགྱུར།",
+    "description": "Blender ཡི་བཟོ་བཀོད་དང་ལྗོངས་རིས་ལ་རྡོ་ཞུན་རྗེན་པ་དང་། རྡོ་རྗེ་རྟེན་ཆེན་པོའི་ཚད་གཞི། སྤྱོད་ལམ་གྱི་བཀོད་སྒྲིག་བཅས་ཀྱི་ Brutalist དང་རྡོ་ཞུན་རྟེན་ཆེན་གྱི་ཉམས་འགྱུར་ཕྱོགས་སྟོན།"
+  },
+  "arjun988/blender-skills:.cursor/skills/brutalist-mood": {
+    "name": "brutalist-ཉམས་འགྱུར།",
+    "description": "Blender ཡི་བཟོ་བཀོད་དང་ལྗོངས་རིས་ལ་རྡོ་ཞུན་རྗེན་པ་དང་། རྡོ་རྗེ་རྟེན་ཆེན་པོའི་ཚད་གཞི། སྤྱོད་ལམ་གྱི་བཀོད་སྒྲིག་བཅས་ཀྱི་ Brutalist དང་རྡོ་ཞུན་རྟེན་ཆེན་གྱི་ཉམས་འགྱུར་ཕྱོགས་སྟོན།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/btcpay-server-automation": {
+    "name": "btcpay-server-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Btcpay Server ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bubble-automation": {
+    "name": "bubble-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bubble ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugbug-automation": {
+    "name": "bugbug-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bugbug ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugherd-automation": {
+    "name": "bugherd-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bugherd ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugsnag-automation": {
+    "name": "bugsnag-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bugsnag ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/buildkite-automation": {
+    "name": "buildkite-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Buildkite ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/builtwith-automation": {
+    "name": "builtwith-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Builtwith ཡི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bunnycdn-automation": {
+    "name": "bunnycdn-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Bunnycdn གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/byteforms-automation": {
+    "name": "byteforms-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Byteforms གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cabinpanda-automation": {
+    "name": "cabinpanda-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Cabinpanda གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cal-automation": {
+    "name": "cal-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Cal གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/calendarhero-automation": {
+    "name": "calendarhero-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Calendarhero གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callerapi-automation": {
+    "name": "callerapi-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Callerapi གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callingly-automation": {
+    "name": "callingly-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Callingly གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callpage-automation": {
+    "name": "callpage-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Callpage གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "arjun988/blender-skills:.claude/skills/camera-cinematography": {
+    "name": "པར་ཆས་དང་གློག་བརྙན་པར་ལེན།",
+    "description": "Blender ནང་གི་གློག་བརྙན་པར་ཆས་ཀྱི་ལས་ཀ་སྟེ། པར་སྒྲོམ་འགོད་པ། ཤེལ་མིག བཀོད་སྒྲིག པར་ཆས་ཀྱི་འགུལ་རིས། པར་ལེན་གྱི་སྐད་བརྡ་བཅས་ཚུད་ཡོད་ཅིང་། MCP བརྒྱུད་པའི་གཞི་རྩའི་ rendering སྒྲིག་འགོད་ལས་བརྒལ་བ་ཡིན།"
+  },
+  "arjun988/blender-skills:.cursor/skills/camera-cinematography": {
+    "name": "པར་ཆས་དང་གློག་བརྙན་པར་ལེན།",
+    "description": "Blender ནང་གི་གློག་བརྙན་པར་ཆས་ཀྱི་ལས་ཀ་སྟེ། པར་སྒྲོམ་འགོད་པ། ཤེལ་མིག བཀོད་སྒྲིག པར་ཆས་ཀྱི་འགུལ་རིས། པར་ལེན་གྱི་སྐད་བརྡ་བཅས་ཚུད་ཡོད་ཅིང་། MCP བརྒྱུད་པའི་གཞི་རྩའི་ rendering སྒྲིག་འགོད་ལས་བརྒལ་བ་ཡིན།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/campaign-cleaner-automation": {
+    "name": "campaign-cleaner-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Campaign Cleaner གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/campayn-automation": {
+    "name": "campayn-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Campayn གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/canny-automation": {
+    "name": "canny-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Canny གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/canvas-automation": {
+    "name": "canvas-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Canvas གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "anthropics/skills:skills/canvas-design": {
+    "name": "canvas-ཇུས་འགོད།",
+    "description": "ཇུས་འགོད་ཀྱི་ལྟ་གྲུབ་སྤྱད་ནས་ .png དང་ .pdf ཡིག་ཆའི་ནང་མཛེས་སྡུག་ལྡན་པའི་མཐོང་ཚོར་སྒྱུ་རྩལ་བཟོ། སྤྱོད་མཁན་གྱིས་དྲིལ་བསྒྲགས་པར་རིས་དང་། སྒྱུ་རྩལ་བརྩམས་ཆོས། ཇུས་འགོད། ཡང་ན་འགུལ་མེད་བརྩམས་ཆོས་གཞན་བཟོ་དགོས་ཞེས་རེ་བ་བཏོན་སྐབས་ནུས་པ་འདི་སྤྱོད་དགོས། ཐོག་མའི་མཐོང་ཚོར་ཇུས་འགོད་གསར་བཟོ་བྱོས་ཤིང་། པར་དབང་ལས་འགལ་མི་ཡོང་ཆེད་ད་ཡོད་སྒྱུ་རྩལ་པའི་བརྩམས་ཆོས་ནམ་ཡང་འདྲ་བཤུས་མ་བྱེད།"
+  },
+  "ComposioHQ/awesome-claude-skills:canvas-design": {
+    "name": "canvas-ཇུས་འགོད།",
+    "description": "ཇུས་འགོད་ཀྱི་ལྟ་གྲུབ་སྤྱད་ནས་ .png དང་ .pdf ཡིག་ཆའི་ནང་མཛེས་སྡུག་ལྡན་པའི་མཐོང་ཚོར་སྒྱུ་རྩལ་བཟོ། སྤྱོད་མཁན་གྱིས་དྲིལ་བསྒྲགས་པར་རིས་དང་། སྒྱུ་རྩལ་བརྩམས་ཆོས། ཇུས་འགོད། ཡང་ན་འགུལ་མེད་བརྩམས་ཆོས་གཞན་བཟོ་དགོས་ཞེས་རེ་བ་བཏོན་སྐབས་ནུས་པ་འདི་སྤྱོད་དགོས། ཐོག་མའི་མཐོང་ཚོར་ཇུས་འགོད་གསར་བཟོ་བྱོས་ཤིང་། པར་དབང་ལས་འགལ་མི་ཡོང་ཆེད་ད་ཡོད་སྒྱུ་རྩལ་པའི་བརྩམས་ཆོས་ནམ་ཡང་འདྲ་བཤུས་མ་བྱེད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/capsule_crm-automation": {
+    "name": "capsule_crm-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Capsule CRM གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། འབྲེལ་གཏུགས་མི་སྣ་དང་། ཚོང་གི་གོ་སྐབས། གནད་དོན། ལས་འགན། དེ་བཞིན་ pipeline དོ་དམ་བཅས་ཚུད། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/carbone-automation": {
+    "name": "carbone-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Carbone གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cardly-automation": {
+    "name": "cardly-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Cardly གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "arjun988/blender-skills:.claude/skills/cartoon-style": {
+    "name": "ཁ་ཊུན་བཟོ་ལྟ།",
+    "description": "Blender ཆེད་ཀྱི་ཁ་ཊུན་སྒྱུ་རྩལ་མཛུབ་སྟོན། རྩེད་མོ་དང་འགུལ་རིས་ཆེད་དུ་བསྐུམ་བརྐྱང་ཐུབ་ཅིང་ཀློག་བདེ་བའི་དབྱིབས་གཟུགས་དང་། ཚོན་མདངས་དྲག་པོ། རི་མོའི་ཕྱི་དབྱིབས་གྲིབ་གཟུགས་བཅས་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/cartoon-style": {
+    "name": "ཁ་ཊུན་བཟོ་ལྟ།",
+    "description": "Blender ཆེད་ཀྱི་ཁ་ཊུན་སྒྱུ་རྩལ་མཛུབ་སྟོན། རྩེད་མོ་དང་འགུལ་རིས་ཆེད་དུ་བསྐུམ་བརྐྱང་ཐུབ་ཅིང་ཀློག་བདེ་བའི་དབྱིབས་གཟུགས་དང་། ཚོན་མདངས་དྲག་པོ། རི་མོའི་ཕྱི་དབྱིབས་གྲིབ་གཟུགས་བཅས་སྤྱོད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/castingwords-automation": {
+    "name": "castingwords-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Castingwords གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cats-automation": {
+    "name": "cats-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Cats གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cdr-platform-automation": {
+    "name": "cdr-platform-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Cdr Platform གི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/census-bureau-automation": {
+    "name": "census-bureau-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Census Bureau གི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/centralstationcrm-automation": {
+    "name": "centralstationcrm-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Centralstationcrm གི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/certifier-automation": {
+    "name": "certifier-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Certifier གི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:changelog-generator": {
+    "name": "changelog-generator",
+    "description": "git commit ཡི་ལོ་རྒྱུས་ལ་དབྱེ་ཞིབ་བྱས་ཏེ་འགྱུར་བ་རྣམས་རིགས་དབྱེ་ནས། ལག་རྩལ་གྱི་ commit རྣམས་སྤྱོད་མཁན་ལ་གསལ་ཞིང་གོ་བདེ་བའི་པར་གཞི་གསར་པའི་གསལ་བཤད་དུ་བསྒྱུར་ནས། སྤྱོད་མཁན་ལ་དམིགས་པའི་འགྱུར་བའི་ཐོ་གཞུང་རང་འགུལ་གྱིས་བཟོ། ལག་ཐོག་ནས་ཆུ་ཚོད་མང་པོ་འགོར་བའི་འགྱུར་ཐོ་འབྲི་བ་དེ་རང་འགུལ་གྱིས་སྐར་མ་འགའི་ནང་བསྒྲུབ་ཐུབ།"
+  },
+  "arjun988/blender-skills:.claude/skills/character-archetypes": {
+    "name": "character-archetypes",
+    "description": "Blender ནང་གི་མི་སྣའི་མ་དཔེའི་རི་མོའི་ཁ་ཕྱོགས་སྟོན་པ་སྟེ། སྒྱུ་མའི་རིགས་རྒྱུད། འཇིགས་སུ་རུང་བའི་སེམས་ཅན། འགན་གནས་ (མཚོན་ཆ་ཐོགས་པའི་དཔའ་བོ། ལྐོག་གསོད་པ། ཉེས་དཔྱོད་པ།) དང་ལུས་ཀྱི་དབྱིབས་ (mecha, android, chibi སོགས།) ཚང་མ་འདུས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/character-archetypes": {
+    "name": "character-archetypes",
+    "description": "Blender ནང་གི་མི་སྣའི་མ་དཔེའི་རི་མོའི་ཁ་ཕྱོགས་སྟོན་པ་སྟེ། སྒྱུ་མའི་རིགས་རྒྱུད། འཇིགས་སུ་རུང་བའི་སེམས་ཅན། འགན་གནས་ (མཚོན་ཆ་ཐོགས་པའི་དཔའ་བོ། ལྐོག་གསོད་པ། ཉེས་དཔྱོད་པ།) དང་ལུས་ཀྱི་དབྱིབས་ (mecha, android, chibi སོགས།) ཚང་མ་འདུས།"
+  },
+  "arjun988/blender-skills:.claude/skills/character-artist": {
+    "name": "character-artist",
+    "description": "MCP བརྒྱུད་ནས་ Blender ནང་མིའི་ལུས་ཀྱི་གྲུབ་ཚུལ། བཟོ་དབྱིབས་ཀྱི་ཉམས་འགྱུར། གདོང་གི་དྲ་མིག་བཀོད་པ། གོས། སྐྲ། དང་འགུལ་རིས་ལ་གྲ་སྒྲིག་ཡོད་པའི་ mesh བཅས་ཀྱི་ AAA རིམ་པའི་མི་སྣའི་དཔེ་བཟོ། རྩེད་མོའི་མི་སྣ། གདོང་གི་ཉམས་འགྱུར། དང་ཐོན་སྐྱེད་ཀྱི་མི་སྣའི་རྒྱུ་ཆ་བཅས་ལ་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/character-artist": {
+    "name": "character-artist",
+    "description": "MCP བརྒྱུད་ནས་ Blender ནང་མིའི་ལུས་ཀྱི་གྲུབ་ཚུལ། བཟོ་དབྱིབས་ཀྱི་ཉམས་འགྱུར། གདོང་གི་དྲ་མིག་བཀོད་པ། གོས། སྐྲ། དང་འགུལ་རིས་ལ་གྲ་སྒྲིག་ཡོད་པའི་ mesh བཅས་ཀྱི་ AAA རིམ་པའི་མི་སྣའི་དཔེ་བཟོ། རྩེད་མོའི་མི་སྣ། གདོང་གི་ཉམས་འགྱུར། དང་ཐོན་སྐྱེད་ཀྱི་མི་སྣའི་རྒྱུ་ཆ་བཅས་ལ་སྤྱོད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chaser-automation": {
+    "name": "chaser-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Chaser གི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatbotkit-automation": {
+    "name": "chatbotkit-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Chatbotkit གི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatfai-automation": {
+    "name": "chatfai-རང་འགུལ།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Chatfai གི་ལས་ཀ་རང་འགུལ་དུ་བསྒྲུབ། ད་ཡོད་ཀྱི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatwork-automation": {
+    "name": "chatwork-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Chatwork གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "arjun988/blender-skills:.claude/skills/chibi-style": {
+    "name": "chibi-བཟོ་དབྱིབས།",
+    "description": "Blender མི་སྣ་རྣམས་ལ་མགོ་ཆེན་པོ་དང་ལུས་ཀྱི་ཆ་ཤས་སྟབས་བདེ། སྙིང་རྗེ་པོའི་ཕྱི་དབྱིབས་ཀྱི་སྒྲིག་གཞི་བཅས་ལྡན་པའི་ Chibi དང་ SD ཆ་ཚད་ཀྱི་རི་མོའི་ཁ་ཕྱོགས་སྟོན་པ།"
+  },
+  "arjun988/blender-skills:.cursor/skills/chibi-style": {
+    "name": "chibi-བཟོ་དབྱིབས།",
+    "description": "Blender མི་སྣ་རྣམས་ལ་མགོ་ཆེན་པོ་དང་ལུས་ཀྱི་ཆ་ཤས་སྟབས་བདེ། སྙིང་རྗེ་པོའི་ཕྱི་དབྱིབས་ཀྱི་སྒྲིག་གཞི་བཅས་ལྡན་པའི་ Chibi དང་ SD ཆ་ཚད་ཀྱི་རི་མོའི་ཁ་ཕྱོགས་སྟོན་པ།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chmeetings-automation": {
+    "name": "chmeetings-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Chmeetings གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "emilkowalski/skills:skills/choreograph": {
+    "name": "འགུལ་རིམ་སྒྲིག་པ།",
+    "description": "མཉམ་དུ་འགུལ་བའི་ཆ་ཤས་མང་པོ་མཐུན་སྦྱོར་བྱེད་པ་སྟེ། གང་འགུལ་དགོས་པ་དང་གོ་རིམ་གང་འདྲ་ཡིན་པ། ཕན་ཚུན་ཇི་ཙམ་བརྩེགས་དགོས་པ། གང་མི་འགུལ་བར་གནས་དགོས་པ་བཅས་ཐག་གཅོད་ནས། ཚོགས་པ་དེ་འགུལ་རིས་སོ་སོ་ཕུང་པོར་བསྒྲིགས་པ་ལྟ་བུ་མིན་པར་དམིགས་ཡུལ་གཅིག་ལྡན་གྱི་འགུལ་སྐྱོད་གཅིག་ཏུ་མཐོང་བར་བྱེད། རིམ་བཞིན་འབྱུང་བའི་ཐོ་གཞུང་དང་། hero འཛུལ་ཞུགས། སྣོད་ནང་གི་མཐོང་རིས་བརྗེ་བ། གོམ་པ་མང་པོའི་བརྒྱུད་རིམ། ཆ་ཤས་གཅིག་ཕྱིར་འཐོན་སྐབས་གཞན་རྣམས་ཀྱིས་བར་སྟོང་སྐོང་བ། གནས་སྟངས་ཕུན་སུམ་ཚོགས་པ་གཉིས་བར་གྱི་དབྱིབས་འགྱུར། ཡང་ན་འགུལ་བའི་ཆ་ཤས་མང་པོ་ལྡན་པའི་ཕན་ཚུན་འབྲེལ་བ་གང་རུང་ (རྟགས་རིས་ + རྒྱབ་ལྗོངས་ + ཐིག་ཕྲེང་། པང་ལེབ་ + ནང་དོན། དམིགས་སར་འཕུར་འགྲོ་བའི་རྣམ་གྲངས་) བཟོ་བའམ་བཅོས་སྐབས་སྤྱོད། འདི་དག་གིས་སྐུལ་སློང་བྱེད། — stagger, sequence, choreography, \"one after another\", crossfade, AnimatePresence mode, hero entrance, multi-step, useAnimate, \"feels mechanical\", \"too much going on\", \"feels slow to open\"."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cincopa-automation": {
+    "name": "cincopa-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Cincopa གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/claid-ai-automation": {
+    "name": "claid-ai-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Claid AI ཡི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/classmarker-automation": {
+    "name": "classmarker-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Classmarker གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "anthropics/skills:skills/claude-api": {
+    "name": "claude-api",
+    "description": "Claude API / Anthropic SDK ཡི་དཔྱད་གཞི — དཔེ་གཞིའི་ id། རིན་གོང་། ཞུགས་གྲངས། རྒྱུན་བསྲིང་། ལག་ཆ་སྤྱོད་པ། MCP། agents། གློག་ཉར། token གྲངས་འབོར། དཔེ་གཞི་སྤོ་སྒྱུར། འཇུག་སྒོ — དམིགས་ཡུལ་ཡིག་ཆ་མ་ཕྱེས་གོང་ཀློགས། \"ཐིག་གཅིག་ཙམ་ལྟར་སྣང་བས\" མ་འདོར། གང་ཡིན་ཞེ་ན། འགོད་ཚིག་ནང་ Claude/Anthropic རྣམ་པ་གང་རུང་གིས་མིང་བརྗོད་ན (Claude, Anthropic, Fable, Opus, Sonnet, Haiku, `anthropic`, `@anthropic-ai`, `claude-*`, `us.anthropic.*`, `[1m]`)། སྤྱོད་མཁན་གྱིས་ LLM སྐོར་འདྲི་ན (རིན་གོང་/དཔེ་གཞི་འདེམས་པ/ཚད་བཀག/གློག་ཉར) — དྲན་པ་ཁོ་ན་ནས་ནམ་ཡང་ལན་མ་འདེབས། ཡང་ན་ལས་འགན་དེ་ LLM རྣམ་པ་ཡིན་ལ་མཁོ་འདོན་མཁན་མ་གསལ་ན (agent/MCP/tool-definition/multi-agent/RAG/LLM-judge/computer-use། རང་བྱུང་སྐད་ཡིག་ཐོག་བཟོ་བ/བསྡུས་དོན/ཕྱུང་ལེན/དབྱེ་འབྱེད/བསྐྱར་འབྲི/ཁ་བརྡ། ཁས་མི་ལེན་པ/ཆད་མཚམས/རྒྱུན་བསྲིང་/tool-calls/tokens གྱི་སྐྱོན་བཅོས)། མཁོ་འདོན་མཁན་གཞན་ཞིག་ཐོག་ལས་ཀ་བྱེད་བཞིན་ཡོད་ན་ཁོ་ནར་འདོར (འཇུག་སྒོ་ཚང་མ་ལས་སྔོན་དུ་འགྲོ) — འདྲི་ཚིག་ནང་ OpenAI/GPT/Gemini/Llama/Mistral/Cohere/Ollama མིང་བརྗོད་ན། ཡང་ན་ `grep -rE 'openai|langchain_openai|google.generativeai|genai|mistralai|cohere|ollama'` ལས་གཞིའི་ནང་ཐོན་ན (མཁོ་འདོན་མཁན་མིང་མ་བརྗོད་ན་grep འདི་སྔོན་ལ་རྒྱུགས — ཡིག་ཆ་ Read མ་བྱེད)།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clearout-automation": {
+    "name": "clearout-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Clearout གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clickmeeting-automation": {
+    "name": "clickmeeting-རང་འགུལ་ཅན།",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Clickmeeting གི་ལས་ཀ་རང་འགུལ་ཅན་དུ་བཟོ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "arjun988/blender-skills:.claude/skills/cloth-sim": {
+    "name": "cloth-sim",
+    "description": "Blender ནང་ MCP བརྒྱུད་ནས་མི་སྣ་དང་ཡོ་བྱད་ཀྱི་གོས་ཆའི་དབྱིབས་རགས་བཟོ། གོས་ཀྱི་འགུལ་རྫས་ལད་ཟློས། pin ཚོགས་པ། དེ་བཞིན་ shape key ཡང་ན་ cache ལ་ bake བྱེད་པ།"
+  },
+  "arjun988/blender-skills:.cursor/skills/cloth-sim": {
+    "name": "cloth-sim",
+    "description": "Blender ནང་ MCP བརྒྱུད་ནས་མི་སྣ་དང་ཡོ་བྱད་ཀྱི་གོས་ཆའི་དབྱིབས་རགས་བཟོ། གོས་ཀྱི་འགུལ་རྫས་ལད་ཟློས། pin ཚོགས་པ། དེ་བཞིན་ shape key ཡང་ན་ cache ལ་ bake བྱེད་པ།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudcart-automation": {
+    "name": "cloudcart-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Cloudcart ཡི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudconvert-automation": {
+    "name": "cloudconvert-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Cloudconvert ཡི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-api-key-automation": {
+    "name": "cloudflare-api-key-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Cloudflare API ཡི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-automation": {
+    "name": "cloudflare-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Cloudflare ཡི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-browser-rendering-automation": {
+    "name": "cloudflare-browser-rendering-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Cloudflare Browser Rendering གི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudlayer-automation": {
+    "name": "cloudlayer-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Cloudlayer ཡི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudpress-automation": {
+    "name": "cloudpress-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Cloudpress ཡི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coassemble-automation": {
+    "name": "coassemble-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Coassemble ཡི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codacy-automation": {
+    "name": "codacy-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Codacy ཡི་ལས་ཀ་རང་འགུལ་དུ་གཏོང་བ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་བཤེར་བྱོས།"
+  },
+  "cexll/myclaude:skills/codeagent": {
+    "name": "codeagent",
+    "description": "རྒྱབ་སྣེ་མང་པོའི་ AI ཀོཌི་ལས་འགན་ཆེད་དུ་ codeagent-wrapper ལག་བསྟར་བྱེད། Codex, Claude, Gemini, OpenCode བཅས་ཀྱི་རྒྱབ་སྣེ་ལ་ agent སྔོན་སྒྲིག་དང་། ནུས་རྩལ་བཅུག་སྣོན། ཡིག་ཆའི་དཔྱད་གཞི (@syntax)། worktree ལོགས་འགར། མཉམ་གཤིབ་ལག་བསྟར། གྲུབ་ཚུལ་ཅན་གྱི་ཐོན་འབྲས་བཅས་རྒྱབ་སྐྱོར་བྱེད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codeinterpreter-automation": {
+    "name": "codeinterpreter-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Codeinterpreter ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codereadr-automation": {
+    "name": "codereadr-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Codereadr ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinmarketcal-automation": {
+    "name": "coinmarketcal-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Coinmarketcal ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinmarketcap-automation": {
+    "name": "coinmarketcap-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Coinmarketcap ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinranking-automation": {
+    "name": "coinranking-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Coinranking ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/college-football-data-automation": {
+    "name": "college-football-data-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ College Football Data ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་རྟག་ཏུ་ལག་ཆ་འཚོལ་ཞིབ་བྱོས།"
+  },
+  "arjun988/blender-skills:.claude/skills/collision-proxy": {
+    "name": "collision-proxy",
+    "description": "MCP བརྒྱུད་ནས་ Blender ནང་རྩེད་མོའི་ collision proxy བཟོ་བ། UCX/UHX མིང་འདོགས་དང་། convex hull། capsule། collider mesh སྟབས་བདེ་བཅས་ཚུད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/collision-proxy": {
+    "name": "collision-proxy",
+    "description": "MCP བརྒྱུད་ནས་ Blender ནང་རྩེད་མོའི་ collision proxy བཟོ་བ། UCX/UHX མིང་འདོགས་དང་། convex hull། capsule། collider mesh སྟབས་བདེ་བཅས་ཚུད།"
+  },
+  "arjun988/blender-skills:.claude/skills/comic-book-style": {
+    "name": "comic-book-style",
+    "description": "Blender ཆེད་ཀྱི་རི་མོའི་དེབ་དང་ graphic novel གྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། སྣག་ཐིག་ལ་གཙོ་གནད་འཇོག་པ་དང་། halftone ཡི་ཉམས་སྟོན། ཁ་དོག་འགལ་ཟླ་ཆེ་བའི་པར་སྒྲོམ་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.cursor/skills/comic-book-style": {
+    "name": "comic-book-style",
+    "description": "Blender ཆེད་ཀྱི་རི་མོའི་དེབ་དང་ graphic novel གྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། སྣག་ཐིག་ལ་གཙོ་གནད་འཇོག་པ་དང་། halftone ཡི་ཉམས་སྟོན། ཁ་དོག་འགལ་ཟླ་ཆེ་བའི་པར་སྒྲོམ་བཅས་ལྡན།"
+  },
+  "ComposioHQ/awesome-claude-skills:competitive-ads-extractor": {
+    "name": "competitive-ads-extractor",
+    "description": "བརྡ་ཁྱབ་མཛོད་ཁང་ (Facebook, LinkedIn སོགས) ནས་འགྲན་ཟླའི་བརྡ་ཁྱབ་ཕྱིར་འདོན་དང་དབྱེ་ཞིབ་བྱས་ནས། འཕྲིན་ཐུང་གང་དང་། གནད་དོན་གང་། གསར་གཏོད་ཐབས་ལམ་གང་ཞིག་ཕན་ནུས་ཐོན་བཞིན་ཡོད་པ་ཤེས་རྟོགས་བྱེད། ཁྱེད་རང་གི་བརྡ་ཁྱབ་ལས་འགུལ་ལ་སྐུལ་འདེད་དང་ལེགས་བཅོས་བྱེད་པར་རོགས་རམ་བྱེད།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/composio-automation": {
+    "name": "composio-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Composio ཡི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/composio-search-automation": {
+    "name": "composio-search-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Composio Search ཡི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "arjun988/blender-skills:.claude/skills/compositing": {
+    "name": "compositing",
+    "description": "MCP བརྒྱུད་ནས་ beauty stack དང་ render pass, ཚོས་མདངས་སྙོམས་སྒྲིག, འོད་འཕྲོ། མཐའ་མའི་ཐོན་རྫས་བཅས་ཀྱི་ Blender compositor ལས་རིམ།"
+  },
+  "arjun988/blender-skills:.cursor/skills/compositing": {
+    "name": "compositing",
+    "description": "MCP བརྒྱུད་ནས་ beauty stack དང་ render pass, ཚོས་མདངས་སྙོམས་སྒྲིག, འོད་འཕྲོ། མཐའ་མའི་ཐོན་རྫས་བཅས་ཀྱི་ Blender compositor ལས་རིམ།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/connecteam-automation": {
+    "name": "connecteam-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Connecteam གྱི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/contentful-graphql-automation": {
+    "name": "contentful-graphql-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Contentful Graphql གྱི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/control-d-automation": {
+    "name": "control-d-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Control D ཡི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/conversion-tools-automation": {
+    "name": "conversion-tools-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Conversion Tools ཀྱི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/convertapi-automation": {
+    "name": "convertapi-automation",
+    "description": "Rube MCP (Composio) བརྒྱུད་ནས་ Convertapi ཡི་ལས་འགན་རང་འགུལ་དུ་སྒྲུབ། ད་ལྟའི་ schema ཤེས་ཆེད་ཐོག་མར་ལག་ཆ་འཚོལ་བཤེར་གྱིས།"
+  },
+  "arjun988/blender-skills:.claude/skills/cosmic-eldritch-horror": {
+    "name": "cosmic-eldritch-horror",
+    "description": "Blender ཆེད་དུ་འཇིག་རྟེན་ཁམས་དང་གསང་བའི་འཇིགས་སྐྲག Lovecraft ལུགས་ཀྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། Euclid མ་ཡིན་པའི་བརྡ་རྟགས་དང་། ཚད་ལས་འདས་པའི་ཆེ་ཆུང་། བློས་གཞལ་མི་ནུས་པའི་གཟུགས་དབྱིབས་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.cursor/skills/cosmic-eldritch-horror": {
+    "name": "cosmic-eldritch-horror",
+    "description": "Blender ཆེད་དུ་འཇིག་རྟེན་ཁམས་དང་གསང་བའི་འཇིགས་སྐྲག Lovecraft ལུགས་ཀྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། Euclid མ་ཡིན་པའི་བརྡ་རྟགས་དང་། ཚད་ལས་འདས་པའི་ཆེ་ཆུང་། བློས་གཞལ་མི་ནུས་པའི་གཟུགས་དབྱིབས་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.claude/skills/cozy-wholesome-mood": {
+    "name": "cozy-wholesome-mood",
+    "description": "Blender ཡི་རྒྱུ་ཆ་དང་ལྗོངས་རྣམ་ཆེད་དུ་དྲོ་སྐྱིད་དང་སྙིང་རྗེ་པོ། བདེ་ཐང་། ལྷོད་བག ཞི་འཇམ་བཅས་ཀྱི་སེམས་ཚོར་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/cozy-wholesome-mood": {
+    "name": "cozy-wholesome-mood",
+    "description": "Blender ཡི་རྒྱུ་ཆ་དང་ལྗོངས་རྣམ་ཆེད་དུ་དྲོ་སྐྱིད་དང་སྙིང་རྗེ་པོ། བདེ་ཐང་། ལྷོད་བག ཞི་འཇམ་བཅས་ཀྱི་སེམས་ཚོར་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.claude/skills/creature-artist": {
+    "name": "སྲོག་ཆགས་རི་མོ་བ།",
+    "description": "རྨི་ལམ་ལྟ་བུའི་སྒྱུ་མའི་སྲོག་ཆགས། ཕྱི་གླིང་སྐྱེ་དངོས། འདྲེ་གདོན། དེ་བཞིན་རང་བྱུང་སྲོག་ཆགས་ཀྱི་བཟོ་བཀོད་བཅས་ལ་ཡིད་ཆེས་རུང་བའི་ལུས་ཁམས་དང་འགུལ་སྐྱོད་ལྡན་པའི་AAA རིམ་པའི་སྲོག་ཆགས་དཔེ་གཟུགས་བཟོ་བ། MCP བརྒྱུད་ནས་ Blender ནང་སྲོག་ཆགས་ཀྱི་གཟུགས་དབྱིབས་སྤྱི་བཀོད། ཤ་གྲིམ་གྱི་རྒྱུན་ཕྱོགས། རུས་པའི་གྲུབ་ཆ། དེ་བཞིན་འགུལ་རིས་བཟོ་ཆོག་པའི་སྲོག་ཆགས་ཀྱི་རྒྱུ་ཆ་བཅས་ལ་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/creature-artist": {
+    "name": "སྲོག་ཆགས་རི་མོ་བ།",
+    "description": "རྨི་ལམ་ལྟ་བུའི་སྒྱུ་མའི་སྲོག་ཆགས། ཕྱི་གླིང་སྐྱེ་དངོས། འདྲེ་གདོན། དེ་བཞིན་རང་བྱུང་སྲོག་ཆགས་ཀྱི་བཟོ་བཀོད་བཅས་ལ་ཡིད་ཆེས་རུང་བའི་ལུས་ཁམས་དང་འགུལ་སྐྱོད་ལྡན་པའི་AAA རིམ་པའི་སྲོག་ཆགས་དཔེ་གཟུགས་བཟོ་བ། MCP བརྒྱུད་ནས་ Blender ནང་སྲོག་ཆགས་ཀྱི་གཟུགས་དབྱིབས་སྤྱི་བཀོད། ཤ་གྲིམ་གྱི་རྒྱུན་ཕྱོགས། རུས་པའི་གྲུབ་ཆ། དེ་བཞིན་འགུལ་རིས་བཟོ་ཆོག་པའི་སྲོག་ཆགས་ཀྱི་རྒྱུ་ཆ་བཅས་ལ་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/dark-gritty-mood": {
+    "name": "མུན་ནག་རྩུབ་པའི་ཉམས་འགྱུར།",
+    "description": "Blender ལ་མུན་ནག སྐྱོ་གདུང་། རྩུབ་པོ། བཙའ་ཆགས་པ། སྟོང་འཇོག་བྱས་པ། རུལ་ཞིག་ཏུ་སོང་བ། བཟོ་ལས་ཅན། གཅིག་པུར་གནས་པ། སེམས་སྐྱོ་བ་བཅས་ཀྱི་ཉམས་འགྱུར་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/dark-gritty-mood": {
+    "name": "མུན་ནག་རྩུབ་པའི་ཉམས་འགྱུར།",
+    "description": "Blender ལ་མུན་ནག སྐྱོ་གདུང་། རྩུབ་པོ། བཙའ་ཆགས་པ། སྟོང་འཇོག་བྱས་པ། རུལ་ཞིག་ཏུ་སོང་བ། བཟོ་ལས་ཅན། གཅིག་པུར་གནས་པ། སེམས་སྐྱོ་བ་བཅས་ཀྱི་ཉམས་འགྱུར་ཁ་ཕྱོགས།"
+  },
+  "Leonxlnx/taste-skill:skills/taste-skill": {
+    "name": "བཟོ་བཀོད་བློ་རྩལ་གྱི་མདུན་ངོས།",
+    "description": "tasteskill 2.5.1 ནི་སྤུས་ཞན་རང་བཞིན་ལ་རྒོལ་བའི་མདུན་ངོས་ཀྱི་ནུས་རྩལ་ཡིན། figma.com དང་ x.ai དང་མཚུངས་པའི་ཆེད་ལས་ཀུང་སིའི་དྲ་ཚིགས་བཟོ་བ། རང་གི་སྐད་གདངས་ལྡན་པའི་ཡི་གེ་གསལ་པོ། མ་ལག་གཅིག བརྙན་ཤེལ་རེར་ས་ཁོངས་རེ། མཐའ་མཚམས་མཉམ་པ། པར་ངོ་མ་དང་ཐོན་རྫས་ཀྱི་UI ངོ་མ། (མགྲོན་པོར་པར་མེད་ན་ཆོག་མཆན་ཡོད་པའི་ཚབ་པར། ལས་འགན་གྱི་བླང་བྱར་3D དགོས་ཚེ་མ་གཏོགས་ཐོན་རྫས་ཀྱི་render མི་སྤྱོད།) ཤོག་ངོས་རེར་hero འཛུལ་སྒོ་གཅིག་དང་དམིགས་བསལ་སྐད་ཅིག་གཅིག་གམ་གཉིས། shader ནུས་པ་དང་ལྗོངས་རིས་ནི་འཕྲུལ་རིག རྩེད་མོ། མཉེན་ཆས་ཀྱི་ཤོག་ངོས་ཁོ་ནར། ཞི་འཇམ་གྱི་ཕྲ་བའི་ཕན་ཚུན་འབྲེལ་བ། དེ་བཞིན་བཤེར་ཆས་དང་མཐའ་མའི་སྒོ་མོས་བཤེར་ཆས་ངོ་མའི་ནང་དུ་ལག་བསྟར་བྱེད་པ། ཁྱོད་ཀྱིས་landing page དང་ཀུང་སི། ཐོན་རྫས། ཚོང་ཁང་། ཇ་ཁང་། མགྲོན་ཁང་། ལས་གྲྭ། SaaS, AI, གསར་སྤེལ་ལག་ཆ། རྩེད་མོའི་དྲ་ཚིགས་བཅས་བཟོ་བའམ་བཟོ་བཀོད། བསྐྱར་བཟོ། བཟོ་བཅོས། ཞིབ་བཤེར་བྱེད་སྐབས། HTML/CSS གཟུགས་འཇགས་སམ་ཡང་ན་ཡོད་བཞིན་པའི་ React, Next.js, Vue, Svelte, Astro, Tailwind ལས་གཞིའི་ནང་དུ་ཡིན་རུང་། ཡང་ན་སྤྱོད་མཁན་གྱིས་ཤོག་ངོས་དེ་སྤྱིར་བཏང་ངམ་དཔེ་གཞི་ཅན་ནམ་ \"AI-made\" ལྟ་བུར་འདུག་ཅེས་བཤད་སྐབས་ནུས་རྩལ་འདི་སྤྱོད།"
+  },
+  "cexll/myclaude:skills/dev": {
+    "name": "གསར་སྤེལ།",
+    "description": "ཆེས་ཡང་བའི་མཐའ་ནས་མཐའ་བར་གྱི་གསར་སྤེལ་ལས་རིམ། དགོས་མཁོ་གསལ་བཤད། རིག་ནུས་ལྡན་པའི་རྒྱབ་སྣེ་འདེམས་སྒྲུག མཉམ་གཤིབ་ཀྱི་ codeagent ལག་བསྟར། དེ་བཞིན་ངེས་པར་དུ་90% ཚོད་ལྟའི་ཁྱབ་ཚད་བཅས་ལྡན།"
+  },
+  "anthropics/skills:skills/discernment-nudge": {
+    "name": "དཔྱོད་ཤེས་ཀྱི་དྲན་སྐུལ།",
+    "description": "སྤྱོད་མཁན་གྱིས་ལག་ཏུ་བླངས་ནས་བྱ་བ་བྱེད་སྲིད་པའི་ལན་དངོས་སམ་ཟིན་བྲིས་ཤིག་སྤྲད་རྗེས། སྟེ་བསླབ་བྱ་དང་འོས་སྦྱོར། དམིགས་ཚད་དང་འཆར་གཞི། ངོ་སྤྲོད། གྲོས་གཞི། གློག་འཕྲིན་སོགས་ཟིན་བྲིས་བཟོས་པའི་ཡིག་ཆ། ཚོད་དཔག་གམ་མདུན་ལྟ། གཞི་གྲངས་ཀྱི་དབྱེ་ཞིབ་བམ་འགྲེལ་བཤད། ཁོང་ཚོས་བརྟེན་སྲིད་པའི་དོན་དངོས་ཀྱི་བཤད་ཚུལ། ཡང་ན་གོ་རིམ་མང་པོའི་རྩོད་གླེང་བཅས་ཡིན་ན། ཁྱོད་ཀྱི་ལན་མཐའ་མ་གཏན་འབེབས་མ་བྱས་གོང་ནུས་རྩལ་འདི་འབོད། དེ་ནས་འོས་འཚམ་ཡིན་ན་རྗེས་ཀྱི་དྲི་བ་ཐུང་ངུ་2-3 སྣོན། དྲི་བ་རེ་རེ་ཁྱོད་ཀྱིས་ད་ལྟ་བཟོས་པའི་ནང་གི་དོན་དངོས་ཤིག་དང་འབྲེལ་ནས་སྤྱོད་མཁན་ལ་གནད་འགག་གི་དོན་དངོས་བརྟག་པ་དང་། རྒྱུ་མཚན་ནམ་གཞི་འཛིན་ལ་དཔྱད་པ། ཆད་ལྷག་གི་རྒྱབ་ལྗོངས་མཐོང་བར་རོགས་བྱེད། གླེང་མོལ་རེར་ཐེངས་གཅིག་ལས་མི་བྱེད། སྤྱོད་མཁན་གྱིས་ཇི་ལྟར་བྱེད་པའི་དྲི་བ་ཕལ་པའམ་འཚོལ་བཤེར་སྟབས་བདེ་དྲིས་པ། སློབ་གསོ་ཙམ་གྱི་འགྲེལ་བཤད་འདོད་པ། ཁོང་ཚོས་སྤྲད་པའི་ནང་དོན་ལ་རྣམ་གཞག་སྒྲིག་པའམ་བསྒྱུར་བའམ་ཡིག་ཆ་སྒྲིག་སྦྱོར་ཙམ་བྱེད་དུ་བཅུག་པ། ཁོང་ཚོས་ལག་བསྟར་བྱེད་རྒྱུའི་ཨང་རྟགས་འབྲི་བ། གསར་གཏོད་རྩོམ་རིག་གམ་གླེང་མོལ་ཕལ་པ་བྱེད་པ། ཡང་ན་སྔར་ནས་བསྐྱར་བཤེར་དང་འདྲེན་ཁུངས་སམ་ཞིབ་བཤེར་བྱེད་དུ་བཅུག་ཟིན་པ་བཅས་ལ་མཆོང་། ནུས་རྩལ་གྱི་ཡིག་ཆས་མཚམས་ཚིགས་འདི་དག་དང་ཐོན་རིམ་གྱི་རྣམ་གཞག་ཞིབ་ཕྲ་འགྲེལ་བཤད་བྱེད།"
+  },
+  "cexll/myclaude:skills/do": {
+    "name": "ལག་བསྟར།",
+    "description": "ནུས་རྩལ་འདི་ཨང་རྟགས་མཛོད་ལ་གོ་བ་ལེན་པ་དང་བཅས་གྲུབ་ཆའི་གསར་སྤེལ་གྲུབ་ཚུལ་ཅན་ལ་སྤྱོད་དགོས། /do བཀའ་བརྡས་སྐུལ་སློང་བྱེད། codeagent-wrapper སྤྱད་ནས་ code-explorer, code-architect, code-reviewer, develop བཅས་ཀྱི་ལས་བྱེད་མཉམ་གཤིབ་ཏུ་སྒྲིག་འཛུགས་བྱེད་པའི་རིམ་པ་5ཡི་ལས་རིམ་(གོ་བ་ལེན་པ། གསལ་བཤད། བཟོ་བཀོད། ལག་བསྟར། མཐའ་སྒྲིལ།) མཁོ་འདོན་བྱེད།"
+  },
+  "anthropics/skills:skills/doc-coauthoring": {
+    "name": "ཡིག་ཆ་མཉམ་རྩོམ།",
+    "description": "སྤྱོད་མཁན་ལ་ཡིག་ཆ་མཉམ་དུ་རྩོམ་པའི་གྲུབ་ཚུལ་ཅན་གྱི་ལས་རིམ་བརྒྱུད་ནས་ལམ་སྟོན་བྱེད། སྤྱོད་མཁན་གྱིས་ཡིག་ཆ་དང་གྲོས་གཞི། ལག་རྩལ་གྱི་ཞིབ་ཕྲའི་གཏན་འབེབས། ཐག་གཅོད་ཡིག་ཆ། ཡང་ན་དེ་འདྲའི་གྲུབ་ཚུལ་ཅན་གྱི་ནང་དོན་འབྲི་འདོད་སྐབས་སྤྱོད། ལས་རིམ་འདིས་སྤྱོད་མཁན་ལ་རྒྱབ་ལྗོངས་ཕན་ནུས་ལྡན་པར་སྤོ་བ་དང་། ཡང་ཡང་བཟོ་བཅོས་བརྒྱུད་ནང་དོན་ལེགས་སུ་གཏོང་བ། ཡིག་ཆ་དེ་ཀློག་མཁན་ལ་ཕན་ཐོགས་ཡོད་མེད་ར་སྤྲོད་བཅས་ལ་རོགས་བྱེད། སྤྱོད་མཁན་གྱིས་ཡིག་ཆ་འབྲི་བའམ་གྲོས་གཞི་བཟོ་བའམ་ཞིབ་ཕྲའི་གཏན་འབེབས་ཟིན་བྲིས་སུ་འགོད་པའམ་དེ་འདྲའི་ཡིག་ཆའི་ལས་ཀ་གླེང་སྐབས་སྐུལ་སློང་བྱེད།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/docker-ros2-development": {
+    "name": "docker-ros2-development",
+    "description": "Docker གཞིར་བཟུང་བའི་ ROS2 གསར་སྤེལ་གྱི་ལག་ལེན་བཟང་ཤོས། ནང་དུ་རིམ་པ་མང་པོའི་ Dockerfiles དང་། container མང་པོའི་འཕྲུལ་མིའི་མ་ལག་ལ་ docker-compose, container ཁག་བར་གྱི་ DDS རྙེད་སྒྲུག, ཚོར་ཤེས་ལ་ GPU passthrough, དེ་བཞིན་གསར་སྤེལ་དང་བཀྲམ་སྤེལ་གྱི་ container དཔེ་གཞི་བཅས་ཚུད། ROS2 ལས་ཀའི་བར་སྟོང་ container ཅན་དུ་བསྒྱུར་བའམ། འཕྲུལ་མིའི་མཉེན་ཆས་ཀྱི་རིམ་བརྩེགས་ལ་ docker-compose སྒྲིག་པའམ། container ཁག་བར་གྱི་ DDS འབྲེལ་མཐུད་ཀྱི་སྐྱོན་བཅོས་སམ། GPU ལས་ཁུར་ལ་ NVIDIA Container Toolkit སྒྲིག་འགོད་དམ། rviz2 དང་ GUI ལག་ཆ་ལ་ X11/Wayland བརྒྱུད་སྤྲོད་དམ། པར་ཆས་དང་ serial ཡོ་བྱད་ལ་ USB ཡོ་བྱད་ passthrough དོ་དམ་བྱེད་སྐབས་ནུས་རྩལ་འདི་སྤྱོད། སྤྱོད་མཁན་གྱིས་ ROS2 དང་བཅས་ Docker དང་། འཕྲུལ་མི་ལ་ docker-compose, colcon ལས་ཀའི་བར་སྟོང་ལ་ Dockerfile, DDS ལ་ container དྲ་རྒྱ། ROS2 ལ་ devcontainer, ROS2 ལ་རིམ་པ་མང་པོའི་བཟོ་སྐྲུན། ཡང་ན་ ROS2 ནི་ container ནང་བཀྲམ་སྤེལ་བྱེད་པ་གླེང་སྐབས་སྐུལ་སློང་བྱེད། Docker གཞིར་བཟུང་བའི་ ROS2 བཟོ་སྐྲུན་གྱི་ CI/CD དང་། container ནང་ CycloneDDS སམ་ FastDDS སྒྲིག་འགོད། ཡང་ན་ Docker ནང་གི་མཉམ་སྤྱོད་དྲན་ཤེས་བཅས་ལའང་སྐུལ་སློང་བྱེད། Ubuntu 22.04 དང་ 24.04 གཞི་རྩའི་གཟུགས་བརྙན་ཐོག་ Humble, Jazzy, Rolling བཅས་ཀྱི་འགྲེམས་སྤེལ་ཁྱབ།"
+  },
+  "anthropics/skills:skills/docx": {
+    "name": "docx",
+    "description": "སྤྱོད་མཁན་གྱིས་ Word ཡིག་ཆ་(.docx ཡིག་ཆ་) དང་ Word དཔེ་གཞི་(.dotx ཡིག་ཆ་) བཟོ་བའམ་ཀློག་པའམ་རྩོམ་སྒྲིག་གམ་བཀོལ་སྤྱོད་བྱེད་འདོད་སྐབས་ནུས་རྩལ་འདི་སྤྱོད། སྐུལ་སློང་གི་ཆ་རྐྱེན་ནང་དུ་'Word doc', 'word document', '.docx', '.dotx' བཅས་གླེང་བ་གང་རུང་ངམ། དཀར་ཆག་དང་ཁ་བྱང་། ཤོག་གྲངས། འཕྲིན་ཤོག་མགོ་རྟགས་སོགས་རྣམ་གཞག་ལྡན་པའི་ཆེད་ལས་ཡིག་ཆ་བཟོ་དགོས་པའི་རེ་བ་ཚུད། .docx སམ་ .dotx ཡིག་ཆ་ནས་ནང་དོན་འདོན་པའམ་བསྐྱར་སྒྲིག་བྱེད་པའམ། ཡིག་ཆའི་ནང་པར་རིས་བཅུག་པའམ་བརྗེ་བའམ། Word ཡིག་ཆའི་ནང་འཚོལ་བཤེར་དང་ཚབ་བརྗེ་བྱེད་པའམ། རྗེས་ཤུལ་བཞག་པའི་བཟོ་བཅོས་སམ་མཆན་འགྲེལ་ལ་ལས་ཀ་བྱེད་པའམ། ནང་དོན་སྤུས་ལེགས་ཀྱི་ Word ཡིག་ཆར་བསྒྱུར་སྐབས་ཀྱང་སྤྱོད། སྤྱོད་མཁན་གྱིས་'སྙན་ཞུ'དང་'དྲན་ཐོ'། 'འཕྲིན་ཡིག'། 'དཔེ་གཞི'འམ་དེ་འདྲའི་འབུལ་དངོས་ Word སམ་ .docx ཡིག་ཆའི་རྣམ་པར་དགོས་ཞེས་ཞུས་ན་ནུས་རྩལ་འདི་སྤྱོད། PDFs དང་རེའུ་མིག Google Docs, ཡང་ན་ཡིག་ཆ་བཟོ་སྐྲུན་དང་འབྲེལ་མེད་ཀྱི་ཨང་རྟགས་ལས་ཀ་སྤྱིར་བཏང་ལ་མ་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/dream-surreal-mood": {
+    "name": "རྨི་ལམ་ལྟ་བུའི་ཡ་མཚན་ཉམས་འགྱུར།",
+    "description": "Blender ལྗོངས་རིས་ལ་རྨི་ལམ་ལྟ་བུ། ཡ་མཚན་ཅན། གསང་བ་ཅན། ལྐོག་གྱུར་ཅན། རེ་བ་ཅན། ཟིང་ཆ་ཅན་བཅས་ཀྱི་ཉམས་འགྱུར་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/dream-surreal-mood": {
+    "name": "རྨི་ལམ་ལྟ་བུའི་ཡ་མཚན་ཉམས་འགྱུར།",
+    "description": "Blender ལྗོངས་རིས་ལ་རྨི་ལམ་ལྟ་བུ། ཡ་མཚན་ཅན། གསང་བ་ཅན། ལྐོག་གྱུར་ཅན། རེ་བ་ཅན། ཟིང་ཆ་ཅན་བཅས་ཀྱི་ཉམས་འགྱུར་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.claude/skills/dream-weirdcore-style": {
+    "name": "dream-weirdcore-style",
+    "description": "Blender ལ་རྨི་ལམ་གྱི་སྙིང་པོ་དང་། ཡ་མཚན་སྙིང་པོ། སེམས་རྨས་སྙིང་པོ་བཅས་ཀྱི་རིགས་ལས་བྱུང་བའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། དྲན་གདུང་གི་ནོར་འཁྲུལ་ཚོར་སྣང་དང་། བར་མཚམས་དྲན་གདུང་། བྱིས་དུས་ཀྱི་བར་སྟོང་སྒྱུ་མ་ལྟ་བུ་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.cursor/skills/dream-weirdcore-style": {
+    "name": "dream-weirdcore-style",
+    "description": "Blender ལ་རྨི་ལམ་གྱི་སྙིང་པོ་དང་། ཡ་མཚན་སྙིང་པོ། སེམས་རྨས་སྙིང་པོ་བཅས་ཀྱི་རིགས་ལས་བྱུང་བའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། དྲན་གདུང་གི་ནོར་འཁྲུལ་ཚོར་སྣང་དང་། བར་མཚམས་དྲན་གདུང་། བྱིས་དུས་ཀྱི་བར་སྟོང་སྒྱུ་མ་ལྟ་བུ་བཅས་ལྡན།"
+  },
+  "emilkowalski/skills:skills/emil-design-eng": {
+    "name": "emil-design-eng",
+    "description": "Emil Kowalski ཡི་བཟོ་བཀོད་ལག་རྩལ་གྱི་ལྟ་བ་སྟེ། UI ཞིབ་སྤུས་དང་། ལྷུ་ལག་བཟོ་བཀོད། འགུལ་རིས་ཐག་གཅོད། མཉེན་ཆས་ལ་ཚོར་བ་བཟང་པོ་སྟེར་བའི་མིག་གིས་མི་མཐོང་བའི་ཞིབ་ཕྲ་བཅས་ལ་སྤྱོད། UI ལྷུ་ལག་གི་ཕན་ཚུན་བྱེད་ལས་དང་ཞིབ་སྤུས་（གནོན་པ་དང་འོག་ཏུ་འཇོག་པའི་གནས་སྟངས། popover འབྱུང་ས། tooltip དུས་ཚོད། transitions དང་ keyframes གཉིས་ཀྱི་ཁྱད་པར། clip-path ལག་རྩལ། འདྲུད་པའི་ཞིབ་ཕྲ་）བཟོ་བའམ་ཞིབ་བཤེར་བྱེད་སྐབས་དང་། དེ་ལས་དོག་པའི་ནུས་པ་གཞན་མེད་ཚེ་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/environment-artist": {
+    "name": "environment-artist",
+    "description": "AAA རིམ་པའི་ཁོར་ཡུག་སྒྱུ་རྩལ་ཏེ། ལྷུ་སྒྲིག་ཆས་སྣོད་དང་། ཁང་བརྩེགས། ས་གཞི། སྐྱེ་ཤིང་། བཟོ་བཀོད། ལྗོངས་སྒྲིག་བཅས་ལ་སྤྱོད། MCP བརྒྱུད་ནས་ Blender ནང་རྩེད་མོར་འཚམ་པའི་ཁོར་ཡུག་དང་། བར་སྟོང་བརྒྱུད་ནས་གཏམ་རྒྱུད་བཤད་པ། ལྷུ་སྒྲིག་རྒྱུ་ཆའི་ལས་རིམ་བཅས་ལ་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/environment-artist": {
+    "name": "environment-artist",
+    "description": "AAA རིམ་པའི་ཁོར་ཡུག་སྒྱུ་རྩལ་ཏེ། ལྷུ་སྒྲིག་ཆས་སྣོད་དང་། ཁང་བརྩེགས། ས་གཞི། སྐྱེ་ཤིང་། བཟོ་བཀོད། ལྗོངས་སྒྲིག་བཅས་ལ་སྤྱོད། MCP བརྒྱུད་ནས་ Blender ནང་རྩེད་མོར་འཚམ་པའི་ཁོར་ཡུག་དང་། བར་སྟོང་བརྒྱུད་ནས་གཏམ་རྒྱུད་བཤད་པ། ལྷུ་སྒྲིག་རྒྱུ་ཆའི་ལས་རིམ་བཅས་ལ་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/export-pipeline": {
+    "name": "export-pipeline",
+    "description": "MCP བརྒྱུད་ནས་ Blender ལས་ FBX, GLTF, OBJ, USD, Alembic བཅས་སུ་ཐོན་སྐྱེད་ཕྱིར་འདྲེན་བྱེད་པ། ཚད་གཞི་དང་། ལྟེ་གནས། འཁོར་སྐྱོད། normals། རྒྱུ་ཆ། འགུལ་རིས། གདོང་ཐུག་བཅས་ཞིབ་བཤེར་དང་བཅས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/export-pipeline": {
+    "name": "export-pipeline",
+    "description": "MCP བརྒྱུད་ནས་ Blender ལས་ FBX, GLTF, OBJ, USD, Alembic བཅས་སུ་ཐོན་སྐྱེད་ཕྱིར་འདྲེན་བྱེད་པ། ཚད་གཞི་དང་། ལྟེ་གནས། འཁོར་སྐྱོད། normals། རྒྱུ་ཆ། འགུལ་རིས། གདོང་ཐུག་བཅས་ཞིབ་བཤེར་དང་བཅས།"
+  },
+  "arjun988/blender-skills:.claude/skills/fantasy-worlds": {
+    "name": "fantasy-worlds",
+    "description": "Blender ལ་སྒྱུ་མའི་འཇིག་རྟེན་བཟོ་སྐྲུན་གྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། དུས་རབས་བར་མ་དང་། སྒྱུ་མ་མཐོན་པོ། སྒྱུ་མ་ནག་པོ། གྲོང་ཁྱེར་སྒྱུ་མ་བཅས་ཀྱི་རྒྱུ་ཆའི་སྐད་ཡིག་ལ་ཁྱབ།"
+  },
+  "arjun988/blender-skills:.cursor/skills/fantasy-worlds": {
+    "name": "fantasy-worlds",
+    "description": "Blender ལ་སྒྱུ་མའི་འཇིག་རྟེན་བཟོ་སྐྲུན་གྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། དུས་རབས་བར་མ་དང་། སྒྱུ་མ་མཐོན་པོ། སྒྱུ་མ་ནག་པོ། གྲོང་ཁྱེར་སྒྱུ་མ་བཅས་ཀྱི་རྒྱུ་ཆའི་སྐད་ཡིག་ལ་ཁྱབ།"
+  },
+  "emilkowalski/skills:skills/find-animation-opportunities": {
+    "name": "find-animation-opportunities",
+    "description": "ཨང་རྟགས་མཛོད་དམ་ UI ནང་འགུལ་རིས་མེད་ཀྱང་དགོས་པའི་ས་ཆ་འཚོལ་ཞིང་། མི་དགོས་པ་ཚང་མ་ཕྱིར་འབུད་བྱེད། ཀློག་ཙམ་ལས་བཟོ་བཅོས་མི་བྱེད། གྲངས་ཐང་ཏག་ཏག་དང་བཅས་འགུལ་སྐྱོད་གྲོས་འགོད་བྱེད་པ་ལས་ལག་བསྟར་མི་བྱེད། སྤྱོད་མཁན་གྱིས་ \"འདིར་གང་ལ་འགུལ་རིས་སྤྲོད་ཆོག་གམ།\" ཞེས་དྲིས་པའམ་ \"འདི་ལ་གསོན་ཤུགས་ཆེ་ཙམ་སྟེར་དགོས།\" ཞེས་འདོད་སྐབས་སྤྱོད། ད་ཡོད་འགུལ་རིས་བཅོས་དགོས་ན་ improve-animations ཡང་ན་ review-animations སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/folk-horror-style": {
+    "name": "folk-horror-style",
+    "description": "Blender ལ་དམངས་ཁྲོད་འཇིགས་སྣང་གི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། གྲོང་གསེབ་ཆོ་གའི་ཡ་མཚན་ཚོར་སྣང་དང་། ཞིང་ཕྱུགས་ཉིན་མོའི་འཇིགས་སྐྲག ཚོགས་སྡེའི་ནོར་འཁྲུལ་གྱི་གཏམ་རྒྱུད་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.cursor/skills/folk-horror-style": {
+    "name": "folk-horror-style",
+    "description": "Blender ལ་དམངས་ཁྲོད་འཇིགས་སྣང་གི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། གྲོང་གསེབ་ཆོ་གའི་ཡ་མཚན་ཚོར་སྣང་དང་། ཞིང་ཕྱུགས་ཉིན་མོའི་འཇིགས་སྐྲག ཚོགས་སྡེའི་ནོར་འཁྲུལ་གྱི་གཏམ་རྒྱུད་བཅས་ལྡན།"
+  },
+  "anthropics/skills:skills/frontend-design": {
+    "name": "frontend-design",
+    "description": "UI གསར་པ་བཟོ་བའམ་ད་ཡོད་ཅིག་བསྐྱར་བཟོ་བྱེད་སྐབས་ཁྱད་ལྡན་དང་དམིགས་ཡུལ་ལྡན་པའི་མཐོང་ཚོར་བཟོ་བཀོད་ཀྱི་ལམ་སྟོན། མཛེས་རྩལ་ཁ་ཕྱོགས་དང་། ཡིག་གཟུགས་བཀོད་སྒྲིག དཔེ་གཞིའི་སྔོན་སྒྲིག་ལྟར་མི་སྣང་བའི་གདམ་ག་བཅས་ལ་རོགས་རམ་བྱེད།"
+  },
+  "arjun988/blender-skills:.claude/skills/frutiger-aero-style": {
+    "name": "frutiger-aero-style",
+    "description": "Blender ལ་ Frutiger Aero སྒྱུ་རྩལ་ཁ་ཕྱོགས། འོད་མདངས་ལྡན་པའི་དངོས་འདྲ་བཟོ་བཀོད་དང་། ཆུ་མདོག་ UI ཡི་བརྡ་རྟགས། རང་བྱུང་དང་ལག་རྩལ་གྱི་སྤྲོ་སྣང་། ༢༠༠༠ ལོའི་དཀྱིལ་གྱི་མ་འོངས་རིང་ལུགས་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.cursor/skills/frutiger-aero-style": {
+    "name": "frutiger-aero-style",
+    "description": "Blender ལ་ Frutiger Aero སྒྱུ་རྩལ་ཁ་ཕྱོགས། འོད་མདངས་ལྡན་པའི་དངོས་འདྲ་བཟོ་བཀོད་དང་། ཆུ་མདོག་ UI ཡི་བརྡ་རྟགས། རང་བྱུང་དང་ལག་རྩལ་གྱི་སྤྲོ་སྣང་། ༢༠༠༠ ལོའི་དཀྱིལ་གྱི་མ་འོངས་རིང་ལུགས་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-action-combat": {
+    "name": "genre-action-combat",
+    "description": "Blender ནང་བྱ་སྤྱོད་དང་། hack-and-slash། beat 'em up། འཐབ་རྩོད་རྩེད་མོ་བཅས་ཀྱི་གོ་བདེ་བའི་འཐབ་ས་དང་ཡོ་བྱད་སྐད་ཡིག་གི་སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-action-combat": {
+    "name": "genre-action-combat",
+    "description": "Blender ནང་བྱ་སྤྱོད་དང་། hack-and-slash། beat 'em up། འཐབ་རྩོད་རྩེད་མོ་བཅས་ཀྱི་གོ་བདེ་བའི་འཐབ་ས་དང་ཡོ་བྱད་སྐད་ཡིག་གི་སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-card-party-idle": {
+    "name": "genre-card-party-idle",
+    "description": "Blender ནང་གི་ཤོག་བྱང་རྩེད་མོ་དང་། ཤོག་བྱང་ཚོགས་སྒྲིག་རྩེད་མོ། ཚོགས་པའི་རྩེད་མོ། idle/incremental རྩེད་མོ། སློབ་གསོའི་རྩེད་མོ། དབྱངས་འགྲོས་རྩེད་མོ་བཅས་ཀྱི་མངོན་སྟོན་བར་སྟོང་གི་སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-card-party-idle": {
+    "name": "genre-card-party-idle",
+    "description": "Blender ནང་གི་ཤོག་བྱང་རྩེད་མོ་དང་། ཤོག་བྱང་ཚོགས་སྒྲིག་རྩེད་མོ། ཚོགས་པའི་རྩེད་མོ། idle/incremental རྩེད་མོ། སློབ་གསོའི་རྩེད་མོ། དབྱངས་འགྲོས་རྩེད་མོ་བཅས་ཀྱི་མངོན་སྟོན་བར་སྟོང་གི་སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-metroidvania-roguelike": {
+    "name": "genre-metroidvania-roguelike",
+    "description": "Blender ནང་གི་ metroidvania དང་ roguelike, roguelite རྩེད་མོའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། སྐྱེ་ཁམས་ཁུལ་གྱི་སྒོ་དང་། ཁང་མིག་གི་ཚན་པ། ཐེངས་རེའི་རྩེད་འགྲོས་ནང་ཀློག་བདེ་བའི་ཡོ་བྱད་བཅས་ལྡན་པ།"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-metroidvania-roguelike": {
+    "name": "genre-metroidvania-roguelike",
+    "description": "Blender ནང་གི་ metroidvania དང་ roguelike, roguelite རྩེད་མོའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། སྐྱེ་ཁམས་ཁུལ་གྱི་སྒོ་དང་། ཁང་མིག་གི་ཚན་པ། ཐེངས་རེའི་རྩེད་འགྲོས་ནང་ཀློག་བདེ་བའི་ཡོ་བྱད་བཅས་ལྡན་པ།"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-narrative-vn": {
+    "name": "genre-narrative-vn",
+    "description": "Blender ནང་གི་ visual novel དང་། ཕན་ཚུན་འབྲེལ་བའི་གློག་བརྙན། walking simulator, གཏམ་རྒྱུད་གཙོ་བོར་བྱས་པའི་མངོན་སྟོན་བར་སྟོང་བཅས་ཀྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-narrative-vn": {
+    "name": "genre-narrative-vn",
+    "description": "Blender ནང་གི་ visual novel དང་། ཕན་ཚུན་འབྲེལ་བའི་གློག་བརྙན། walking simulator, གཏམ་རྒྱུད་གཙོ་བོར་བྱས་པའི་མངོན་སྟོན་བར་སྟོང་བཅས་ཀྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-open-world-sandbox": {
+    "name": "genre-open-world-sandbox",
+    "description": "Blender ནང་གི་ open world དང་ sandbox རྩེད་མོའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། སྐྱེ་ཁམས་ཁུལ་གྱི་ངོས་འཛིན་རྟགས་མཚན་དང་། བརྒལ་ཆོག་པའི་ཆ་ཚད། གསར་རྙེད་ཀྱི་ཡོ་བྱད་བཅས་ལྡན་པ།"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-open-world-sandbox": {
+    "name": "genre-open-world-sandbox",
+    "description": "Blender ནང་གི་ open world དང་ sandbox རྩེད་མོའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། སྐྱེ་ཁམས་ཁུལ་གྱི་ངོས་འཛིན་རྟགས་མཚན་དང་། བརྒལ་ཆོག་པའི་ཆ་ཚད། གསར་རྙེད་ཀྱི་ཡོ་བྱད་བཅས་ལྡན་པ།"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-puzzle-platformer": {
+    "name": "genre-puzzle-platformer",
+    "description": "Blender ནང་གི་ puzzle དང་ platformer རྩེད་མོའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། ངོས་འཛིན་བདེ་བའི་ཕན་ཚུན་བྱ་བྱེད་ཀྱི་དངོས་པོ་དང་། མཆོང་བའི་བར་ཚད། ཉེན་ཁ་གསལ་བའི་མཚོན་སྟངས་བཅས་ལྡན་པ།"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-puzzle-platformer": {
+    "name": "genre-puzzle-platformer",
+    "description": "Blender ནང་གི་ puzzle དང་ platformer རྩེད་མོའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། ངོས་འཛིན་བདེ་བའི་ཕན་ཚུན་བྱ་བྱེད་ཀྱི་དངོས་པོ་དང་། མཆོང་བའི་བར་ཚད། ཉེན་ཁ་གསལ་བའི་མཚོན་སྟངས་བཅས་ལྡན་པ།"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-racing-sports": {
+    "name": "genre-racing-sports",
+    "description": "Blender ནང་གི་རྒྱུག་འགྲན་དང་ལུས་རྩལ་རྩེད་མོའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། ལམ་ཐིག་གི་ངོས་འཛིན་རྟགས་མཚན་དང་། ལུས་རྩལ་ར་བའི་ཆ་ཚང་ཡོ་ཆས། མགྱོགས་ཚད་མཐོ་བའི་གསལ་ཀློག་རང་བཞིན་བཅས་ལྡན་པ།"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-racing-sports": {
+    "name": "genre-racing-sports",
+    "description": "Blender ནང་གི་རྒྱུག་འགྲན་དང་ལུས་རྩལ་རྩེད་མོའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། ལམ་ཐིག་གི་ངོས་འཛིན་རྟགས་མཚན་དང་། ལུས་རྩལ་ར་བའི་ཆ་ཚང་ཡོ་ཆས། མགྱོགས་ཚད་མཐོ་བའི་གསལ་ཀློག་རང་བཞིན་བཅས་ལྡན་པ།"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-rpg": {
+    "name": "genre-rpg",
+    "description": "Blender ནང་གི་ RPG, JRPG, CRPG, ARPG, MMORPG འཇིག་རྟེན་གྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། ནོར་རྫས་ཀྱི་དཀོན་ཚད་ངོས་འཛིན་དང་ས་ཁུལ་གྱི་ཐུན་མོང་མ་ཡིན་པའི་ངོ་བོ་ཡང་ཚུད་པ།"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-rpg": {
+    "name": "genre-rpg",
+    "description": "Blender ནང་གི་ RPG, JRPG, CRPG, ARPG, MMORPG འཇིག་རྟེན་གྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། ནོར་རྫས་ཀྱི་དཀོན་ཚད་ངོས་འཛིན་དང་ས་ཁུལ་གྱི་ཐུན་མོང་མ་ཡིན་པའི་ངོ་བོ་ཡང་ཚུད་པ།"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-shooter": {
+    "name": "genre-shooter",
+    "description": "Blender ནང་གི་ FPS, TPS, shooter, battle royale, extraction-shooter བཅས་ཀྱི་ས་ཁྲ་དང་ཡོ་བྱད་ཀྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། མཐོང་ཐིག་དང་སྐྱབས་ཡོལ་གྱི་མཚོན་སྟངས་ལྡན་པ།"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-shooter": {
+    "name": "genre-shooter",
+    "description": "Blender ནང་གི་ FPS, TPS, shooter, battle royale, extraction-shooter བཅས་ཀྱི་ས་ཁྲ་དང་ཡོ་བྱད་ཀྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། མཐོང་ཐིག་དང་སྐྱབས་ཡོལ་གྱི་མཚོན་སྟངས་ལྡན་པ།"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-soulslike": {
+    "name": "genre-soulslike",
+    "description": "Blender ནང་གི་ soulslike རྩེད་མོའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། གཟི་བརྗིད་ཆེ་ལ་སྐྱོ་ཉམས་ལྡན་པའི་བར་སྟོང་དང་། སྨུག་པའི་སྒོ། མེ་ཕུང་གི་ངོས་འཛིན་རྟགས་མཚན། འཆི་ཉེན་གསལ་བའི་ཀློག་བདེ་རང་བཞིན་བཅས་ལྡན་པ།"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-soulslike": {
+    "name": "genre-soulslike",
+    "description": "Blender ནང་གི་ soulslike རྩེད་མོའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། གཟི་བརྗིད་ཆེ་ལ་སྐྱོ་ཉམས་ལྡན་པའི་བར་སྟོང་དང་། སྨུག་པའི་སྒོ། མེ་ཕུང་གི་ངོས་འཛིན་རྟགས་མཚན། འཆི་ཉེན་གསལ་བའི་ཀློག་བདེ་རང་བཞིན་བཅས་ལྡན་པ།"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-stealth": {
+    "name": "genre-stealth",
+    "description": "Blender ནང་གི་ stealth རྩེད་མོའི་བར་སྟོང་གི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། གྲིབ་མའི་བར་ཚད་དང་། སྐོར་གཡེང་ལ་འཚམ་པའི་བཀོད་སྒྲིག གསང་སྦས་ཀྱི་རྒྱུ་ཆ་བཅས་ལྡན་པ།"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-stealth": {
+    "name": "genre-stealth",
+    "description": "Blender ནང་གི་ stealth རྩེད་མོའི་བར་སྟོང་གི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། གྲིབ་མའི་བར་ཚད་དང་། སྐོར་གཡེང་ལ་འཚམ་པའི་བཀོད་སྒྲིག གསང་སྦས་ཀྱི་རྒྱུ་ཆ་བཅས་ལྡན་པ།"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-strategy-sim": {
+    "name": "genre-strategy-sim",
+    "description": "Blender ནང་གི་འཐབ་ཇུས་དང་། RTS, རེས་སྐོར་རེའི་འཐབ་ཇུས། མཁར་རྫོང་སྲུང་སྐྱོབ། MOBA, གྲོང་ཁྱེར་འཛུགས་སྐྲུན། མི་སྡེ་ལད་ཟློས། དེ་བཞིན་ལད་ཟློས་རྩེད་མོ་བཅས་ཀྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-strategy-sim": {
+    "name": "genre-strategy-sim",
+    "description": "Blender ནང་གི་འཐབ་ཇུས་དང་། RTS, རེས་སྐོར་རེའི་འཐབ་ཇུས། མཁར་རྫོང་སྲུང་སྐྱོབ། MOBA, གྲོང་ཁྱེར་འཛུགས་སྐྲུན། མི་སྡེ་ལད་ཟློས། དེ་བཞིན་ལད་ཟློས་རྩེད་མོ་བཅས་ཀྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-survival": {
+    "name": "genre-survival",
+    "description": "Blender ནང་གི་འཚོ་གནས་དང་འཚོ་གནས་འཇིགས་སྣང་རྩེད་ཐབས་ཀྱི་བར་སྟོང་ལ་སྒྱུ་རྩལ་ཁ་ཕྱོགས་སྟོན་པ། ཐོན་ཁུངས་ཀྱི་ཡོ་བྱད་དང་། བཟོ་སྐྲུན་གྱི་གསལ་ཆ། ཛ་དྲག་གི་ལམ་བུ་བཅས་ལ་གཙོ་གནད་འཇོག"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-survival": {
+    "name": "genre-survival",
+    "description": "Blender ནང་གི་འཚོ་གནས་དང་འཚོ་གནས་འཇིགས་སྣང་རྩེད་ཐབས་ཀྱི་བར་སྟོང་ལ་སྒྱུ་རྩལ་ཁ་ཕྱོགས་སྟོན་པ། ཐོན་ཁུངས་ཀྱི་ཡོ་བྱད་དང་། བཟོ་སྐྲུན་གྱི་གསལ་ཆ། ཛ་དྲག་གི་ལམ་བུ་བཅས་ལ་གཙོ་གནད་འཇོག"
+  },
+  "arjun988/blender-skills:.claude/skills/geometry-nodes": {
+    "name": "geometry-nodes",
+    "description": "Blender Geometry Nodes ནི་བརྒྱུད་རིམ་ཅན་གྱི་དབྱིབས་བཟོ་དང་། ཁ་འཐོར་མ་ལག སྔོ་ཤིང་། ཁང་པ། སྦུག་ལམ། གློག་སྐུད། བསྐྱར་སྤྱོད་ཐུབ་པའི་ node ཚོགས་པ་བཅས་ལ་སྤྱོད། MCP བརྒྱུད་ནས་བརྒྱུད་རིམ་ཅན་གྱི་རྒྱུ་ཆ་བཟོ་སྐྲུན་དང་ instancing ལས་རིམ་ལ་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/geometry-nodes": {
+    "name": "geometry-nodes",
+    "description": "Blender Geometry Nodes ནི་བརྒྱུད་རིམ་ཅན་གྱི་དབྱིབས་བཟོ་དང་། ཁ་འཐོར་མ་ལག སྔོ་ཤིང་། ཁང་པ། སྦུག་ལམ། གློག་སྐུད། བསྐྱར་སྤྱོད་ཐུབ་པའི་ node ཚོགས་པ་བཅས་ལ་སྤྱོད། MCP བརྒྱུད་ནས་བརྒྱུད་རིམ་ཅན་གྱི་རྒྱུ་ཆ་བཟོ་སྐྲུན་དང་ instancing ལས་རིམ་ལ་སྤྱོད།"
+  },
+  "emilkowalski/skills:skills/gestures": {
+    "name": "gestures",
+    "description": "མཛུབ་མོའི་འགུལ་སྐྱོད་དང་ 1:1 མཐུན་ཞིང་བར་ཆད་བཟོ་ཆོག་པའི་འདྲུད་འཐེན་དང་། ཕྱོགས་བསྐྱོད། sheet ཕན་ཚུན་འབྲེལ་བ་བཟོ། སྤྱོད་མཁན་གྱིས་ལག་བརྡས་འདྲུད་པའམ་ཕྱོགས་སུ་བསྐྱོད་པ། འཕེན་པ། མནན་འཛིན་བྱེད་པ། ཕྱིར་འབུད་པ་བཅས་ཀྱི་བྱ་བ་གང་རུང་བཟོ་བའམ་བཅོས་སྐབས་སྤྱོད། — drawers, sheets, ཕྱོགས་བསྐྱོད་ཀྱིས་ཕྱིར་འབུད་པའི་ toasts དང་ cards, འདྲུད་ནས་གོ་རིམ་བསྒྲིགས་པ། འཐེན་ནས་གསར་སྒྱུར། མནན་ནས་གཏན་འཁེལ། — ཡང་ན་ལག་བརྡ་དལ་བའམ་མཛུབ་མོ་དང་མི་མཐུན་པ། གློད་སྐབས་མཆོང་བ། animation བར་དུ་འཛིན་མི་ཐུབ་པ་བཅས་བྱུང་སྐབས་སྤྱོད། འདི་དག་གིས་སྐུལ་སློང་བྱེད། — gesture, drag, swipe, fling, sheet, snap points, Vaul, Motion drag props, rubber-band, pull to refresh, hold to delete, touch-action, \"doesn't follow my finger\", \"jumps when I let go\", \"can't grab it mid-animation\"."
+  },
+  "arjun988/blender-skills:.claude/skills/godot-export": {
+    "name": "godot-export",
+    "description": "Godot ཆེད་ཀྱི་Blender export ནི་ MCP བརྒྱུད་ནས་ཚད་གཞི་དང་། རྒྱུ་ཆ། animation clips, collision shapes བཅས་ཡང་དག་པའི་ GLTF/GLB ལ་གཙོ་བོར་འཇོག"
+  },
+  "arjun988/blender-skills:.cursor/skills/godot-export": {
+    "name": "godot-export",
+    "description": "Godot ཆེད་ཀྱི་Blender export ནི་ MCP བརྒྱུད་ནས་ཚད་གཞི་དང་། རྒྱུ་ཆ། animation clips, collision shapes བཅས་ཡང་དག་པའི་ GLTF/GLB ལ་གཙོ་བོར་འཇོག"
+  },
+  "arjun988/blender-skills:.claude/skills/hair-groom": {
+    "name": "hair-groom",
+    "description": "Blender ནང་ curves, particle hair, geometry nodes དང་རྩེད་མོའི་ hair-card ལས་རིམ་སྤྱད་ནས་སྐྲ་དང་སྤུ་བཅོས་སྒྲིག་བྱེད་པ། MCP བརྒྱུད་ནས་མི་སྣ་དང་། སེམས་ཅན། real-time hair cards བཅས་ལ་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/hair-groom": {
+    "name": "hair-groom",
+    "description": "Blender ནང་ curves, particle hair, geometry nodes དང་རྩེད་མོའི་ hair-card ལས་རིམ་སྤྱད་ནས་སྐྲ་དང་སྤུ་བཅོས་སྒྲིག་བྱེད་པ། MCP བརྒྱུད་ནས་མི་སྣ་དང་། སེམས་ཅན། real-time hair cards བཅས་ལ་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/hand-painted-style": {
+    "name": "hand-painted-style",
+    "description": "Blender ལ་ལག་བྲིས་རྒྱུ་ཆའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། པིར་རྩལ་གྱི་ albedo, འོད་ཚད་འགྱུར་བ་འཇམ་པོ། བཟོ་བཅོས་ཅན་གྱི་ PBR ཚོད་འཛིན་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.cursor/skills/hand-painted-style": {
+    "name": "hand-painted-style",
+    "description": "Blender ལ་ལག་བྲིས་རྒྱུ་ཆའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། པིར་རྩལ་གྱི་ albedo, འོད་ཚད་འགྱུར་བ་འཇམ་པོ། བཟོ་བཅོས་ཅན་གྱི་ PBR ཚོད་འཛིན་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.claude/skills/hard-surface": {
+    "name": "hard-surface",
+    "description": "ཚན་རིག་འཆར་ཡན་དང་། བཟོ་ལས། དམག་དོན། འཁོར་རིགས། མཚོན་ཆ། འཕྲུལ་མི། འཕྲུལ་ཆས་ཡོ་བྱད་བཅས་ལ་ AAA hard surface modeling. MCP བརྒྱུད་ནས་ Blender ནང་ boolean/bevel ལས་རིམ་དང་། panel lines, greebles, chamfers, བཟོ་སྐྲུན་ཚད་དང་མཐུན་པའི་ངོས་བཅས་ལ་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/hard-surface": {
+    "name": "hard-surface",
+    "description": "ཚན་རིག་འཆར་ཡན་དང་། བཟོ་ལས། དམག་དོན། འཁོར་རིགས། མཚོན་ཆ། འཕྲུལ་མི། འཕྲུལ་ཆས་ཡོ་བྱད་བཅས་ལ་ AAA hard surface modeling. MCP བརྒྱུད་ནས་ Blender ནང་ boolean/bevel ལས་རིམ་དང་། panel lines, greebles, chamfers, བཟོ་སྐྲུན་ཚད་དང་མཐུན་པའི་ངོས་བཅས་ལ་སྤྱོད།"
+  },
+  "cexll/myclaude:skills/harness": {
+    "name": "harness",
+    "description": "རྩེད་ཐབས་འདི་ session མང་པོའི་རང་སྐྱོང་ agent ལས་ཀར་སྤྱོད་དགོས། དེར་འཕེལ་རིམ་ checkpoint འཇོག་པ་དང་། ཕམ་ཉེས་སླར་གསོ། ལས་འགན་བར་གྱི་བརྟེན་འབྲེལ་དོ་དམ་བཅས་དགོས། '/harness' བཀའ་ཚིག་གིས་སྐུལ་སློང་བྱེད། ཡང་ན་ལས་འགན་ཞིག་ལ་ཡན་ལག་ལས་འགན་མང་པོ་ཡོད་ཅིང་འཕེལ་རིམ་རྒྱུན་གནས་དགོས་པའམ། context windows བར་ sleep/resume འཁོར་སྐྱོད་དགོས་པའམ། ལས་འགན་བར་དུ་ཕམ་ཉེས་བྱུང་ནས་གནས་བབ་ཆ་ཤས་ལས་སླར་གསོ་དགོས་པའམ། agent sessions མང་པོའི་བར་ལས་ཀ་བགོ་འགྲེམས་བྱེད་དགོས་སྐབས་སྤྱོད། Anthropic དང་ OpenAI ཡི་ཡུན་རིང་སྤྱོད་པའི་ agent ལག་ལེན་ལས་བསྡུས་སྒྲིག་བྱས།"
+  },
+  "arjun988/blender-skills:.claude/skills/hd-2d-style": {
+    "name": "hd-2d-style",
+    "description": "HD-2D སྒྱུ་རྩལ་ཁ་ཕྱོགས་ཏེ། pixel མི་སྣ/sprites དང་ 3D ཁོར་ཡུག མཐོང་ཚད་གཏིང་ཞེང་། ཟློས་གར་ལྟ་བུའི་འོད་སྣང་བཅས་ཟུང་དུ་སྦྲེལ་བ།"
+  },
+  "arjun988/blender-skills:.cursor/skills/hd-2d-style": {
+    "name": "hd-2d-style",
+    "description": "HD-2D སྒྱུ་རྩལ་ཁ་ཕྱོགས་ཏེ། pixel མི་སྣ/sprites དང་ 3D ཁོར་ཡུག མཐོང་ཚད་གཏིང་ཞེང་། ཟློས་གར་ལྟ་བུའི་འོད་སྣང་བཅས་ཟུང་དུ་སྦྲེལ་བ།"
+  },
+  "arjun988/blender-skills:.claude/skills/historical-worlds": {
+    "name": "ལོ་རྒྱུས་ཀྱི་འཇིག་རྟེན་ཁག",
+    "description": "Blender ཆེད་དུ་ནུབ་ཕྱོགས་དང་། རྒྱ་ཇག་པ། ས་མུ་རའེ/ནིན་ཇ། ཝའི་ཀིང་། གནའ་བོའི་ཨི་ཇིབ/གི་རི་སི/རོ་མ། ཝིག་ཊོ་རི་ཡའི་དུས་རབས། དེང་རབས། དམག་དོན་བཅས་ཀྱི་དུས་སྐབས་ཚུད་པའི་ལོ་རྒྱུས་དང་དུས་སྐབས་སོ་སོའི་འཇིག་རྟེན་གྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/historical-worlds": {
+    "name": "ལོ་རྒྱུས་ཀྱི་འཇིག་རྟེན་ཁག",
+    "description": "Blender ཆེད་དུ་ནུབ་ཕྱོགས་དང་། རྒྱ་ཇག་པ། ས་མུ་རའེ/ནིན་ཇ། ཝའི་ཀིང་། གནའ་བོའི་ཨི་ཇིབ/གི་རི་སི/རོ་མ། ཝིག་ཊོ་རི་ཡའི་དུས་རབས། དེང་རབས། དམག་དོན་བཅས་ཀྱི་དུས་སྐབས་ཚུད་པའི་ལོ་རྒྱུས་དང་དུས་སྐབས་སོ་སོའི་འཇིག་རྟེན་གྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.claude/skills/horror-style": {
+    "name": "འཇིགས་སྣང་གི་བཟོ་ལྟ།",
+    "description": "Silent Hill, Resident Evil, Chilla's Art, Fear to Fathom, Iron Lung བཅས་ཀྱི་བློ་སྐུལ་ཐོབ་པའི་ Blender རྒྱུ་ཆ་ཆེད་ཀྱི་སེམས་ཁམས་འཇིགས་སྣང་གི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། བཟོ་ལས་ཀྱི་ཁོར་ཡུག་སྟོང་སང་ངེ་དང་། ཨ་ན་ལོག་གི་མཛེས་རྩལ། ཛ་དྲག་གི་ཚོར་བ་སྐུལ་བའི་འོད་སྣང་བཅས་ལ་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/horror-style": {
+    "name": "འཇིགས་སྣང་གི་བཟོ་ལྟ།",
+    "description": "Silent Hill, Resident Evil, Chilla's Art, Fear to Fathom, Iron Lung བཅས་ཀྱི་བློ་སྐུལ་ཐོབ་པའི་ Blender རྒྱུ་ཆ་ཆེད་ཀྱི་སེམས་ཁམས་འཇིགས་སྣང་གི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། བཟོ་ལས་ཀྱི་ཁོར་ཡུག་སྟོང་སང་ངེ་དང་། ཨ་ན་ལོག་གི་མཛེས་རྩལ། ཛ་དྲག་གི་ཚོར་བ་སྐུལ་བའི་འོད་སྣང་བཅས་ལ་སྤྱོད།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/imitation-learning": {
+    "name": "ལད་ཟློས་སློབ་སྦྱོང་།",
+    "description": "འཕྲུལ་མིའི་ལག་བསྟར་བཀོལ་སྤྱོད་ཆེད་ཀྱི་ལག་ལེན་དངོས་ཀྱི་ལད་ཟློས་སློབ་སྦྱོང་ (སྟོན་བཤད་ལས་སློབ་སྦྱོང་): IL འཚམ་མིན་ཐག་གཅོད་པ། སྟོན་བཤད་བསྡུ་ལེན་ཇུས་འགོད། ལྟ་ཞིབ་དང་བྱ་སྤྱོད་ཀྱི་བར་སྟོང་འདེམས་པ། སྲིད་ཇུས་ (behaviour cloning, ACT, Diffusion Policy, flow matching, OpenVLA-OFT, Octo, pi0/pi0.5, SmolVLA, GR00T ལྟ་བུའི་ VLA) འདེམས་ཤིང་སྒྲིག་འགོད་བྱེད་པ། སྦྱོང་བརྡར་དང་ checkpoint འདེམས་པ། ཡིད་ཆེས་ཀྱི་བར་ཚད་དང་བཅས་དྲང་བདེན་གྱི་ rollout དཔྱད་ཞིབ། བཀོལ་སྤྱོད་ཀྱི་དུས་ཚོད་སྒྲིག་པ། ཕམ་ཉེས་ཀྱི་རྒྱུ་རྐྱེན་བརྟག་དཔྱད་བཅས། སྤྱོད་མཁན་གྱིས་ behaviour cloning, teleoperation demos, leader-follower arms, action chunking, temporal ensembling, VLA ཞིབ་སྦྱོང་། \"how many demos\", ལེགས་གྲུབ་ཀྱི་ཚད། སྲིད་ཇུས་དཔྱད་ཞིབ། DAgger ཡང་ན་ intervention data, covariate shift, འཁེངས་འགྲོ་བའམ་འདར་བའམ་འཛིན་ཐབས་ཤོར་བའི་སྲིད་ཇུས། སྦྱོང་བརྡར་ནང་ལེགས་ཀྱང་འཕྲུལ་མིའི་ཐོག་ཕམ་པ། ཡང་ན་ sim དང་དངོས་ཡོད་མཉམ་སྦྱོང་བཅས་གླེང་སྐབས་ནུས་རྩལ་འདི་སྤྱོད།"
+  },
+  "emilkowalski/skills:skills/improve-animations": {
+    "name": "འགུལ་རིས་ལེགས་བཅོས།",
+    "description": "འགུལ་སྐྱོད་ཀྱི་བློ་འདྲི་ཡུལ་རྒན་པ་ཞིག་གི་ངོས་ནས་ codebase ཞིག་གི་འགུལ་རིས་དང་འགུལ་སྐྱོད་ཀྱི་ code ལ་བརྟག་ཞིབ་བྱས་རྗེས། གོ་རིམ་སྒྲིག་པའི་ཞིབ་བཤེར་སྙན་ཐོ་དང་། agent གཞན་ (ཡང་ན་རིན་གོང་ཆུང་བའི་ model) གྱིས་ལག་བསྟར་བྱེད་ཐུབ་པའི་རང་ཚང་གི་ལག་བསྟར་འཆར་གཞི་བཟོ། འབྱུང་ཁུངས་ code ལ་ཀློག་ཙམ་ལས་བྱེད་མི་ཆོག — ལེགས་བཅོས་འཆར་འགོད་བྱེད་པ་ལས་དངོས་སུ་ལག་བསྟར་མི་བྱེད། སྤྱོད་མཁན་གྱིས་ \"improve the animations\", \"audit the motion\", \"make this app feel better\" ཞེས་འབོད་སྐབས། ཡང་ན་ diff གཅིག་གི་བསྐྱར་ཞིབ་མིན་པར་འགུལ་རིས་བཅོས་སྒྲིག་གི་ལམ་ཐིག་དགོས་སྐབས་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/indie-horror-aesthetics": {
+    "name": "རང་སྒྲུབ་འཇིགས་སྣང་གི་མཛེས་རྩལ།",
+    "description": "Blender ཆེད་ཀྱི་རང་སྒྲུབ་ (indie) འཇིགས་སྣང་མཛེས་རྩལ་གྱི་ཐུམ་སྒྲིལ། Silent Hill, Fear to Fathom, Puppet Combo, ལས་ཁུངས་ཀྱི་འཇིགས་སྣང་། སྤྱིལ་ཆུང་/ནགས་ཚལ/སྨན་ཁང་གི་འཇིགས་སྣང་། དེ་དང་འབྲེལ་བའི་རྣམ་པ་བཅས་ཚུད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/indie-horror-aesthetics": {
+    "name": "རང་སྒྲུབ་འཇིགས་སྣང་གི་མཛེས་རྩལ།",
+    "description": "Blender ཆེད་ཀྱི་རང་སྒྲུབ་ (indie) འཇིགས་སྣང་མཛེས་རྩལ་གྱི་ཐུམ་སྒྲིལ། Silent Hill, Fear to Fathom, Puppet Combo, ལས་ཁུངས་ཀྱི་འཇིགས་སྣང་། སྤྱིལ་ཆུང་/ནགས་ཚལ/སྨན་ཁང་གི་འཇིགས་སྣང་། དེ་དང་འབྲེལ་བའི་རྣམ་པ་བཅས་ཚུད།"
+  },
+  "anthropics/skills:skills/internal-comms": {
+    "name": "ནང་ཁུལ་འབྲེལ་བ།",
+    "description": "ངའི་ཀུང་སིས་སྤྱོད་བཞིན་པའི་རྣམ་གཞག་བེད་སྤྱད་དེ་ནང་ཁུལ་གྱི་འབྲེལ་བ་སྣ་ཚོགས་འབྲི་བར་རོགས་རམ་བྱེད་པའི་ཐོན་ཁུངས་ཆ་ཚང་ཞིག Claude ཡིས་ནང་ཁུལ་གྱི་འབྲེལ་བ་རིགས་ཤིག་ (གནས་ཚུལ་སྙན་ཐོ། འགོ་ཁྲིད་ལ་གནས་ཚུལ་གསར་བསྒྱུར། 3P གསར་བསྒྱུར། ཀུང་སིའི་གསར་འགྱུར་དེབ། FAQ། དོན་རྐྱེན་སྙན་ཐོ། ལས་གཞིའི་གསར་བསྒྱུར་སོགས་) འབྲི་དགོས་ཞེས་བཀའ་ཐོབ་ཚེ་ནུས་རྩལ་འདི་སྤྱོད་དགོས།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/isaac-sim": {
+    "name": "isaac-sim",
+    "description": "འཕྲུལ་མིའི་སློབ་སྦྱོང་ཆེད་ཀྱི་ NVIDIA Isaac Sim དང་ Isaac Lab: སྒྲིག་འཇུག་ (uv, pip, binary, Docker, cloud), RTX GPU དང་ driver གི་བླང་བྱ། headless འཁོར་སྐྱོད་དང་ livestreaming, OpenUSD རྒྱུ་ཆ། URDF/MJCF ནང་འདྲེན། ArticulationCfg དང་ actuator། manager-based དང་ direct env། configclass, gymnasium ལས་འགན་ཐོ་འགོད། rsl_rl, rl_games, skrl ཡང་ན་ sb3 བཅས་ཀྱིས་སྦྱོང་བརྡར་དང་ play བྱེད་པ། parallel env། tiled camera། contact sensor། ray caster། IMU། frame transformer། event བརྒྱུད་ domain randomisation། teleoperation། Isaac Lab Mimic། ROS 2 bridge། PhysX/Newton preset། solver ལེགས་སྒྲིག་དང་ articulation འཐོར་ཞིག་འགྲོ་བ། སྤྱོད་མཁན་གྱིས་ Isaac Sim, Isaac Lab, Omniverse, Kit, isaacsim ཡང་ན་ isaaclab import, omni.isaac module, USD འཕྲུལ་མི། URDF ནང་འདྲེན། num_envs, Mimic, isaaclab train ཡང་ན་ play, ManagerBasedRLEnv, DirectRLEnv, PresetCfg, Isaac Lab ནང་གི་ Newton ཡང་ན་ OvPhysX, ཡང་ན་ Isaac Gym ཡང་ན་ Isaac Lab 2.x ནས་སྤོ་བསྒྱུར་བཅས་གླེང་སྐབས་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/isometric-style": {
+    "name": "ཟུར་མཉམ་གྱི་བཟོ་ལྟ།",
+    "description": "Blender ཆེད་ཀྱི་ཟུར་མཉམ་ (isometric) དང་ཐབས་ཇུས་རྩེད་མོའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། diorama ཡི་སྒྲོམ་སྒྲིག ཟུར་མཉམ་ངོ་མའི་ camera སྒྲིག་འགོད། ཀློག་བདེ་བའི་གྲིབ་གཟུགས། tile རྒྱུ་ཆའི་སྒྲིག་གཞི་བཅས་ཚུད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/isometric-style": {
+    "name": "ཟུར་མཉམ་གྱི་བཟོ་ལྟ།",
+    "description": "Blender ཆེད་ཀྱི་ཟུར་མཉམ་ (isometric) དང་ཐབས་ཇུས་རྩེད་མོའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། diorama ཡི་སྒྲོམ་སྒྲིག ཟུར་མཉམ་ངོ་མའི་ camera སྒྲིག་འགོད། ཀློག་བདེ་བའི་གྲིབ་གཟུགས། tile རྒྱུ་ཆའི་སྒྲིག་གཞི་བཅས་ཚུད།"
+  },
+  "emilkowalski/skills:skills/learn-taste": {
+    "name": "བློ་མིག་སློབ་སྦྱོང་།",
+    "description": "གྲོས་མོལ་ཐེངས་ཤིག་གི་ཇུས་འགོད་བཅོས་སྒྲིག་རྣམས་དེ་དག་གི་རྒྱུ་མཚན་དང་བཅས་ DESIGN.md དང་། ལས་གཞིའི་ནུས་རྩལ། ཡང་ན་ lint ཞིབ་བཤེར་ནང་སྒྲིག་གཞིར་བསྒྱུར།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/lerobot": {
+    "name": "lerobot",
+    "description": "Hugging Face LeRobot མགོ་ནས་མཇུག་བར: སྒྲིག་འཇུག སྲ་ཆས་གྲ་སྒྲིག dataset ཕབ་ལེན། སྦྱོང་བརྡར། འཕྲུལ་མིའི་སློབ་སྦྱོང་སྲིད་ཇུས་བཀོལ་སྤྱོད་བཅས། སྤྱོད་མཁན་གྱིས་ LeRobot, lerobot-record, lerobot-train, lerobot-rollout, lerobot-teleoperate, lerobot-calibrate, lerobot-setup-motors, lerobot-find-port, lerobot-find-cameras, lerobot-eval, lerobot-edit-dataset, LeRobotDataset, SO-100, SO-101, SO-ARM100, Koch, LeKiwi, OMX, OpenArm, Feetech STS3215 servo, leader/follower teleoperation, calibration ཡིག་ཆ། ACT, Diffusion Policy, SmolVLA, pi0/pi0.5, GR00T ཡང་ན་ LeRobot ནང་ X-VLA ཞིབ་སྦྱོང་། Hugging Face Hub ཐོག་གི་འཕྲུལ་མིའི་ dataset, dataset v2.1 ནས་ v3.0 བསྒྱུར་བ། RTC ཡང་ན་རྒྱང་རིང་ (async) inference, ཡང་ན་ LeRobot ནང་ HIL-SERL བཅས་གླེང་སྐབས་ནུས་རྩལ་འདི་སྤྱོད། དེ་བཞིན་ calibration མི་མཐུན་པ། FrameTimestampError ཡང་ན་ timestamp tolerance ལས་བརྒལ་བ། dataset དང་སྲིད་ཇུས་བར་ camera ཡང་ན་ feature མིང་མི་མཐུན་པ། q01/q99 གྲངས་ཐོ་ཆད་པ། Feetech ཡི་ \"Incorrect status packet\" ལྟ་བུའི་ LeRobot ནོར་འཁྲུལ་བྱུང་སྐབས་ཀྱང་སྐུལ་འདེད་གཏོང་།"
+  },
+  "arjun988/blender-skills:.claude/skills/lighting": {
+    "name": "འོད་སྒྲིག",
+    "description": "Blender ནང་གི་གློག་བརྙན་དང་རྩེད་མོའི་འོད་སྒྲིག་སྟེ། ཚིགས་གསུམ་འོད་སྒྲིག་དང་ HDRI, འཇིགས་སྣང་འོད་སྒྲིག, གཞི་ཁྱོན་འོད་ (volumetrics), མཐའ་འོད་ (rim lighting), དེ་བཞིན་སེམས་ཚོར་གཙོ་བོར་བྱས་པའི་འོད་སྣང་བཅས་ཚུད། MCP བརྒྱུད་ནས་མཐོང་སྣང་གསར་སྤེལ་དང་ཡུལ་ལྗོངས་ཀྱི་ཁོར་ཡུག་སྣང་བ་བཟོ་བར་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/lighting": {
+    "name": "འོད་སྒྲིག",
+    "description": "Blender ནང་གི་གློག་བརྙན་དང་རྩེད་མོའི་འོད་སྒྲིག་སྟེ། ཚིགས་གསུམ་འོད་སྒྲིག་དང་ HDRI, འཇིགས་སྣང་འོད་སྒྲིག, གཞི་ཁྱོན་འོད་ (volumetrics), མཐའ་འོད་ (rim lighting), དེ་བཞིན་སེམས་ཚོར་གཙོ་བོར་བྱས་པའི་འོད་སྣང་བཅས་ཚུད། MCP བརྒྱུད་ནས་མཐོང་སྣང་གསར་སྤེལ་དང་ཡུལ་ལྗོངས་ཀྱི་ཁོར་ཡུག་སྣང་བ་བཟོ་བར་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/liminal-space-style": {
+    "name": "liminal-space-style",
+    "description": "Blender ཆེད་ཀྱི་ Liminal space དང་ Backrooms སྒྱུ་རྩལ་ལམ་སྟོན་ཏེ། སྟོང་པའི་བར་བརྒལ་བཟོ་བཀོད་དང་། ནོར་བའི་རྒྱུས་མངའའི་ཚོར་བ། མཐའ་མེད་ཡང་བསྐྱར་ཟློས་པ་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.cursor/skills/liminal-space-style": {
+    "name": "liminal-space-style",
+    "description": "Blender ཆེད་ཀྱི་ Liminal space དང་ Backrooms སྒྱུ་རྩལ་ལམ་སྟོན་ཏེ། སྟོང་པའི་བར་བརྒལ་བཟོ་བཀོད་དང་། ནོར་བའི་རྒྱུས་མངའའི་ཚོར་བ། མཐའ་མེད་ཡང་བསྐྱར་ཟློས་པ་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.claude/skills/lod-pipeline": {
+    "name": "lod-pipeline",
+    "description": "MCP བརྒྱུད་ནས་ Blender ནང་གི་རྩེད་མོའི་ mesh ལ་ LOD ཆེད་སྤྱོད་བཟོ་སྐྲུན་དང་། མིང་འདོགས། བརྙན་ཤེལ་ཆེ་ཆུང་གི་དམིགས་ཚད། ཞིབ་བཤེར་བཅས་བྱེད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/lod-pipeline": {
+    "name": "lod-pipeline",
+    "description": "MCP བརྒྱུད་ནས་ Blender ནང་གི་རྩེད་མོའི་ mesh ལ་ LOD ཆེད་སྤྱོད་བཟོ་སྐྲུན་དང་། མིང་འདོགས། བརྙན་ཤེལ་ཆེ་ཆུང་གི་དམིགས་ཚད། ཞིབ་བཤེར་བཅས་བྱེད།"
+  },
+  "arjun988/blender-skills:.claude/skills/lookdev": {
+    "name": "lookdev",
+    "description": "MCP བརྒྱུད་ནས་ Blender ཡི་རྒྱུ་ཆའི་མཐོང་སྣང་གསར་སྤེལ་གྱི་འཁོར་རིམ་སྟེ། རྒྱུ་ཆ་དང་འོད་སྒྲིག པར་ཆས། བརྙན་ཤེལ་པར་རིས་བསྡུར་བ་བཅས་ཟུང་འབྲེལ་བྱས་ནས་ shading ཡང་དག་པར་མངོན་པའི་བར་བསྐྱར་ཞིབ་བྱེད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/lookdev": {
+    "name": "lookdev",
+    "description": "MCP བརྒྱུད་ནས་ Blender ཡི་རྒྱུ་ཆའི་མཐོང་སྣང་གསར་སྤེལ་གྱི་འཁོར་རིམ་སྟེ། རྒྱུ་ཆ་དང་འོད་སྒྲིག པར་ཆས། བརྙན་ཤེལ་པར་རིས་བསྡུར་བ་བཅས་ཟུང་འབྲེལ་བྱས་ནས་ shading ཡང་དག་པར་མངོན་པའི་བར་བསྐྱར་ཞིབ་བྱེད།"
+  },
+  "arjun988/blender-skills:.claude/skills/lowpoly-style": {
+    "name": "lowpoly-style",
+    "description": "PS1/PS2, Lethal Company, Mouthwashing, Fear to Fathom བཅས་ཀྱི་ཤུགས་རྐྱེན་ཐེབས་པའི་ Blender ཆེད་ཀྱི་ low-poly སྒྱུ་རྩལ་ལམ་སྟོན། གསལ་པོར་མཐོང་ཐུབ་པའི་ཕྱི་དབྱིབས་གྲིབ་གཟུགས་དང་། polygon ཉུང་ཤས། རྒྱུ་ཆ་སྟབས་བདེ། ཁོར་ཡུག་སྣང་བ་སྟོབས་ཆེན་བཅས་ལ་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/lowpoly-style": {
+    "name": "lowpoly-style",
+    "description": "PS1/PS2, Lethal Company, Mouthwashing, Fear to Fathom བཅས་ཀྱི་ཤུགས་རྐྱེན་ཐེབས་པའི་ Blender ཆེད་ཀྱི་ low-poly སྒྱུ་རྩལ་ལམ་སྟོན། གསལ་པོར་མཐོང་ཐུབ་པའི་ཕྱི་དབྱིབས་གྲིབ་གཟུགས་དང་། polygon ཉུང་ཤས། རྒྱུ་ཆ་སྟབས་བདེ། ཁོར་ཡུག་སྣང་བ་སྟོབས་ཆེན་བཅས་ལ་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/manga-style": {
+    "name": "manga-style",
+    "description": "Blender ཆེད་ཀྱི་ manga ལས་བྱུང་བའི་སྒྱུ་རྩལ་ལམ་སྟོན་ཏེ། ཁ་དོག་གཅིག་ལྡན་གྱི་སྐྱ་མདངས་ཇུས་འགོད་དང་། མྱུར་ཚད་ཐིག་རིས། screentone ཡི་ཚོར་སྣང་། manga པར་ཁྲའི་སྒྲིག་སྟངས་བཅས་ལ་གཙོ་གནད་འཛིན།"
+  },
+  "arjun988/blender-skills:.cursor/skills/manga-style": {
+    "name": "manga-style",
+    "description": "Blender ཆེད་ཀྱི་ manga ལས་བྱུང་བའི་སྒྱུ་རྩལ་ལམ་སྟོན་ཏེ། ཁ་དོག་གཅིག་ལྡན་གྱི་སྐྱ་མདངས་ཇུས་འགོད་དང་། མྱུར་ཚད་ཐིག་རིས། screentone ཡི་ཚོར་སྣང་། manga པར་ཁྲའི་སྒྲིག་སྟངས་བཅས་ལ་གཙོ་གནད་འཛིན།"
+  },
+  "arjun988/blender-skills:.claude/skills/mascot-puppet-horror": {
+    "name": "mascot-puppet-horror",
+    "description": "Blender ཆེད་ཀྱི་ mascot དང་ཤིང་བུའི་འཇིགས་སྣང་སྒྱུ་རྩལ་ལམ་སྟོན་ཏེ། ནོར་འཁྲུལ་དུ་གྱུར་པའི་དགའ་སྤྲོའི་ཚོང་རྟགས་མི་སྣ་དང་། felt/foam རྒྱུ་ཆ། ཡ་མཚན་ཞིང་མི་བདེ་བའི་འཁྲབ་སྟོན་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.cursor/skills/mascot-puppet-horror": {
+    "name": "mascot-puppet-horror",
+    "description": "Blender ཆེད་ཀྱི་ mascot དང་ཤིང་བུའི་འཇིགས་སྣང་སྒྱུ་རྩལ་ལམ་སྟོན་ཏེ། ནོར་འཁྲུལ་དུ་གྱུར་པའི་དགའ་སྤྲོའི་ཚོང་རྟགས་མི་སྣ་དང་། felt/foam རྒྱུ་ཆ། ཡ་མཚན་ཞིང་མི་བདེ་བའི་འཁྲབ་སྟོན་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.claude/skills/materials": {
+    "name": "རྒྱུ་ཆ།",
+    "description": "ལྕགས་དང་ཤིང་། ཨར་འདམ། རས། ཤེལ། དྲེག་པ། བཙའ། དེ་བཞིན་ procedural shader བཅས་ཀྱི་ Blender PBR དང་བཟོ་རྩལ་ཅན་གྱི་རྒྱུ་ཆ་བཟོ་སྐྲུན། MCP བརྒྱུད་ནས་ Blender ནང་མཐོང་སྣང་གསར་སྤེལ་དང་། རྒྱུ་ཆ་བསྐྱར་སྤྱོད། ཐོན་སྐྱེད་ཀྱི་ shading བཅས་ལ་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/materials": {
+    "name": "རྒྱུ་ཆ།",
+    "description": "ལྕགས་དང་ཤིང་། ཨར་འདམ། རས། ཤེལ། དྲེག་པ། བཙའ། དེ་བཞིན་ procedural shader བཅས་ཀྱི་ Blender PBR དང་བཟོ་རྩལ་ཅན་གྱི་རྒྱུ་ཆ་བཟོ་སྐྲུན། MCP བརྒྱུད་ནས་ Blender ནང་མཐོང་སྣང་གསར་སྤེལ་དང་། རྒྱུ་ཆ་བསྐྱར་སྤྱོད། ཐོན་སྐྱེད་ཀྱི་ shading བཅས་ལ་སྤྱོད།"
+  },
+  "anthropics/skills:skills/mcp-builder": {
+    "name": "mcp-builder",
+    "description": "LLM ཚོས་ཇུས་འགོད་ལེགས་པའི་ལག་ཆ་བརྒྱུད་ནས་ཕྱི་རོལ་ཞབས་ཞུ་དང་ཕན་ཚུན་འབྲེལ་བ་བྱེད་ཐུབ་པའི་སྤུས་ཚད་མཐོ་བའི་ MCP (Model Context Protocol) server བཟོ་བའི་ལམ་སྟོན། Python (FastMCP) ཡང་ན་ Node/TypeScript (MCP SDK) གང་ཡིན་རུང་། ཕྱི་རོལ་ API ཡང་ན་ཞབས་ཞུ་མཉམ་སྦྲེལ་བྱེད་པའི་ MCP server བཟོ་སྐབས་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/minimalist-style": {
+    "name": "minimalist-style",
+    "description": "Blender ཆེད་ཀྱི་ minimalist དང་ abstract ལ་ཕྱོགས་པའི་སྒྱུ་རྩལ་ལམ་སྟོན་ཏེ། ཉུང་དུ་བཏང་བའི་དབྱིབས་གཟུགས་དང་། ཚད་ཡོད་པའི་ཚོན་མདངས་ཚོགས་པ། སྟོང་ཆ་ (negative space) བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.cursor/skills/minimalist-style": {
+    "name": "minimalist-style",
+    "description": "Blender ཆེད་ཀྱི་ minimalist དང་ abstract ལ་ཕྱོགས་པའི་སྒྱུ་རྩལ་ལམ་སྟོན་ཏེ། ཉུང་དུ་བཏང་བའི་དབྱིབས་གཟུགས་དང་། ཚད་ཡོད་པའི་ཚོན་མདངས་ཚོགས་པ། སྟོང་ཆ་ (negative space) བཅས་ལྡན།"
+  },
+  "emilkowalski/skills:skills/mobile-native": {
+    "name": "mobile-native",
+    "description": "དྲ་བའི་ཉེར་སྤྱོད་ཅིག་ཁ་པར་ནང་རང་བཞིན་གྱི་ཉེར་སྤྱོད་ལྟ་བུའི་ཚོར་བ་སྟེར་བ། — CSS དང་ meta-tag གི་བཅོས་ཆུང་ངུ་དེ་དག་གིས་ \"བལྟ་ཆས་ནང་གི་དྲ་ཚིགས་ཤིག\" དང་ \"སྒྲིག་འཇུག་བྱས་ཟིན་པ་ལྟ་བུའི་ཚོར་བ་སྟེར་མཁན་ཞིག\" གཉིས་དབྱེ་བ་འབྱེད། hover གནས་སྟངས་འབྱར་བ། མནན་པའི་འོད་འཁྱུག ་100vh གི་ནོར་འཁྲུལ། ནང་འཇུག་གིས་ཤོག་ངོས་ཆེ་རུ་གཏོང་བ། མནན་པ་ཕྱིར་འགྱངས་པ། pull-to-refresh ཡིས་འདྲེད་འགུལ་འཕྲོག་པ། notch འོག་ཏུ་ནང་དོན་ཤོར་བ། ཡུན་རིང་མནན་པས་མཐེབ་གནོན་གྱི་ཡི་གེ་འདེམས་པ། carousel ཕྱོགས་ནོར་དུ་འདྲེད་པ། status bar མི་མཐུན་པ། དངོས་ཡོད་སྒྲིག་ཆས་ཐོག་ཚོད་ལྟ་བྱེད་དགོས་པའི་སྒྲིག་གཞི་བཅས་ཚུད། དྲ་བའི་ཉེར་སྤྱོད་ཅིག་ཁ་པར་ཆེད་བཟོ་བའམ་ཁ་པར་ཐོག་ཞིབ་བཤེར་བྱེད་སྐབས། ReactChrome ནང་ལས་ཀ་བྱེད་ཀྱང་ངའི་ཁ་པར་ཐོག་ཚོར་བ་ནོར་འདུགZXQPROT5ZXQ ཟེར་སྐབས། PWA དང་ bottom sheet, carousel, བརྙན་ཤེལ་གང་བའི་བཀོད་སྒྲིག ཡང་ན་རེག་འབྲེལ་གང་རུང་བཟོ་སྐབས་སྤྱོད། འགུལ་རིས་རང་ཉིད་ལ་ animate སྤྱོད། ZXQPROT6ZXQNative ལ་ animate-expo སྤྱོད།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/mujoco": {
+    "name": "mujoco",
+    "description": "འཕྲུལ་མིའི་ཆེད་ཀྱི་ MuJoCo དངོས་ཁམས་ལད་ཟློས། MJCF དཔེ་གཞི་འབྲི་བ་དང་ནོར་བཅོས། URDF ནང་འདྲེན། Python ནས་ལད་ཟློས་དང་ཚོད་འཛིན། རིས་སུ་འགོད་པ། ཐུག་རེག་ལེགས་སྒྲིག GPU ཐོག་ཚོགས་སྒྲིག་ལད་ཟློས་གཏོང་བ་བཅས། སྤྱོད་མཁན་གྱིས་ MuJoCo, MJCF, mujoco.MjModel / MjData, mj_step, MjSpec, mujoco.Renderer, MUJOCO_GL, EGL/OSMesa headless rendering, passive viewer ཡང་ན་ MuJoCo Studio, MuJoCo Menagerie (Franka, UR5e, SO-100/SO-101, ALOHA, G1), MJX, MuJoCo Warp (mujoco_warp), MuJoCo Playground, dm_control, ཡང་ན་ Gymnasium MuJoCo envs གླེང་སྐབས་ནུས་རྩལ་འདི་སྤྱོད། དེ་བཞིན་ཐུག་རེག་ལེགས་སྒྲིག (solref, solimp, condim, friction, impratio, noslip)། ལད་ཟློས་གས་འཐོར་རམ་འདར་བ། དངོས་པོ་ནུབ་པའམ་འཛིན་པ་ཤོར་བ། position actuator kp/kv། joint armature དང་ damping། contype/conaffinity གི་གདོང་ཐུག་ཚགས་འདེམས། keyframes། integrator དང་ timestep འདེམས་པ། sim-to-real ཆེད་ MuJoCo དཔེ་གཞིའི་ཁོངས་ངོས་འཛིན་ནམ་ domain randomisation བཅས་ལའང་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/neon-retrofuturism": {
+    "name": "neon-retrofuturism",
+    "description": "Blender ཆེད་ཀྱི་ Neon, vaporwave, synthwave དང་སྔར་སྲོལ་མ་འོངས་རིང་ལུགས་ཀྱི་ཉམས་འགྱུར་དང་སྒྱུ་རྩལ་ཁ་ཕྱོགས། དྲ་མིག་གི་མཐོང་མཐའ། chrome དང་སྲོད་ཁའི་ཚོན་མདངས་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.cursor/skills/neon-retrofuturism": {
+    "name": "neon-retrofuturism",
+    "description": "Blender ཆེད་ཀྱི་ Neon, vaporwave, synthwave དང་སྔར་སྲོལ་མ་འོངས་རིང་ལུགས་ཀྱི་ཉམས་འགྱུར་དང་སྒྱུ་རྩལ་ཁ་ཕྱོགས། དྲ་མིག་གི་མཐོང་མཐའ། chrome དང་སྲོད་ཁའི་ཚོན་མདངས་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.claude/skills/noir-style": {
+    "name": "noir-style",
+    "description": "Blender ཆེད་ཀྱི་ Noir སྒྱུ་རྩལ་ཁ་ཕྱོགས། འོད་ཀྱི་ཁྱད་པར་ཆེ་བ། སྲང་ལམ་རློན་པ། གྲིབ་གཟུགས། ཚོན་གཅིག་གམ་ཚོན་ཚད་ཡོད་ཀྱི་མདངས་སྒྲིག་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.cursor/skills/noir-style": {
+    "name": "noir-style",
+    "description": "Blender ཆེད་ཀྱི་ Noir སྒྱུ་རྩལ་ཁ་ཕྱོགས། འོད་ཀྱི་ཁྱད་པར་ཆེ་བ། སྲང་ལམ་རློན་པ། གྲིབ་གཟུགས། ཚོན་གཅིག་གམ་ཚོན་ཚད་ཡོད་ཀྱི་མདངས་སྒྲིག་བཅས་ལྡན།"
+  },
+  "cexll/myclaude:skills/omo": {
+    "name": "omo",
+    "description": "`/omo` མཐོང་སྐབས་ནུས་རྩལ་འདི་སྤྱོད། \"ཨང་རྟགས་དབྱེ་ཞིབ། ནོར་འཁྲུལ་རྟོག་ཞིབ། བཅོས་ཐབས་འཆར་འགོད། ལག་བསྟར\" བཅས་ཀྱི་ agent མང་པོའི་མཐུན་སྦྱོར་དོ་དམ། ལས་འགན་གྱི་རིགས་དང་ཉེན་ཁར་གཞིགས་ནས་ agent ཉུང་ཤོས་ཀྱི་ཚོགས་དང་གོ་རིམ་འདེམས། གཤམ་གྱི་ཐབས་ཚུལ་གྱིས་རྒྱུན་མཐོང་གི་དཔེ་སྲོལ་སྟོན།"
+  },
+  "arjun988/blender-skills:.claude/skills/painterly-style": {
+    "name": "painterly-style",
+    "description": "Blender ཆེད་ཀྱི་རི་མོའི་ཉམས་ལྡན་སྒྱུ་རྩལ་ཁ་ཕྱོགས། ཆུ་ཚོན་དང་སྣུམ་ཚོན་རི་མོའི་རྣམ་པ་གཉིས་ཁྱབ། མཐའ་འཇམ་པོ། ཚོན་རྩིའི་རྒྱུ་སྤུས། པར་རིས་ཀྱི་འོད་སྣང་བཅས་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/painterly-style": {
+    "name": "painterly-style",
+    "description": "Blender ཆེད་ཀྱི་རི་མོའི་ཉམས་ལྡན་སྒྱུ་རྩལ་ཁ་ཕྱོགས། ཆུ་ཚོན་དང་སྣུམ་ཚོན་རི་མོའི་རྣམ་པ་གཉིས་ཁྱབ། མཐའ་འཇམ་པོ། ཚོན་རྩིའི་རྒྱུ་སྤུས། པར་རིས་ཀྱི་འོད་སྣང་བཅས་སྤྱོད།"
+  },
+  "anthropics/skills:skills/pdf": {
+    "name": "pdf",
+    "description": "སྤྱོད་མཁན་གྱིས་ PDF ཡིག་ཆར་ལས་ཀ་གང་རུང་བྱེད་འདོད་སྐབས་ནུས་རྩལ་འདི་སྤྱོད། དེའི་ནང་ PDF ནས་ཡི་གེ་དང་རེའུ་མིག་ཀློག་པའམ་འདོན་པ། PDF མང་པོ་གཅིག་ཏུ་སྦྲེལ་བ། PDF ཁ་ཕྲལ་བ། ཤོག་ངོས་སྐོར་བ། ཆུ་རྟགས་སྣོན་པ། PDF གསར་པ་བཟོ་བ། PDF རེའུ་མིག་ཁ་སྐོང་བ། PDF གསང་སྡོམ་བྱེད་པ་དང་འགྲོལ་བ། པར་རིས་འདོན་པ། བཤར་འབེབས་བྱས་པའི་ PDF ཐོག་ OCR བྱས་ནས་འཚོལ་ཐུབ་པར་བཟོ་བ་བཅས་ཚུད། སྤྱོད་མཁན་གྱིས་ .pdf ཡིག་ཆ་གླེང་བའམ་གཅིག་བཟོ་རོགས་ཞུ་ན་ནུས་རྩལ་འདི་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/physics-sim": {
+    "name": "physics-sim",
+    "description": "Blender ནང་གི་སྲ་གཟུགས་དང་མཉེན་གཟུགས། གཏོར་བཤིག་གི་བཀོད་སྒྲིག constraints དང་ cell fracture གི་ཆག་རོ། MCP བརྒྱུད་ baked cache བཅས་ཚུད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/physics-sim": {
+    "name": "physics-sim",
+    "description": "Blender ནང་གི་སྲ་གཟུགས་དང་མཉེན་གཟུགས། གཏོར་བཤིག་གི་བཀོད་སྒྲིག constraints དང་ cell fracture གི་ཆག་རོ། MCP བརྒྱུད་ baked cache བཅས་ཚུད།"
+  },
+  "emilkowalski/skills:skills/pick-ui-library": {
+    "name": "pick-ui-library",
+    "description": "frontend ལས་འགན་ཞིག་ལ་བདམས་སྒྲུག་བྱས་པའི་ཐོ་གཞུང་ནས་དཔེ་མཛོད་འདེམས། — primitives, toasts, drawers, command menus, OTP, གྲངས་ཀ charts, virtualization, འདྲུད་འཇོག state, styling བཅས།"
+  },
+  "arjun988/blender-skills:.claude/skills/pixel-art-style": {
+    "name": "pixel-art-style",
+    "description": "Blender ཡི་རྒྱུ་ཆ་ pixel rendering དང་ low-res texture ཡང་ན་ HD-2D དང་ཉེ་བའི་ pixel མཐོང་སྣང་ལ་དམིགས་པའི་ Pixel-art དང་ texel ཚད་བཀག་ཅན་གྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/pixel-art-style": {
+    "name": "pixel-art-style",
+    "description": "Blender ཡི་རྒྱུ་ཆ་ pixel rendering དང་ low-res texture ཡང་ན་ HD-2D དང་ཉེ་བའི་ pixel མཐོང་སྣང་ལ་དམིགས་པའི་ Pixel-art དང་ texel ཚད་བཀག་ཅན་གྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "anthropics/skills:skills/pptx": {
+    "name": "pptx",
+    "description": ".pptx ཡང་ན་ .potx ཡིག་ཆ་ཞིག་ཐབས་ལམ་གང་རུང་གིས་འབྲེལ་བ་ཡོད་ཚེ། ནང་འཇུག་དང་ཕྱིར་འདོན། ཡང་ན་གཉིས་ཀ་གང་ཡིན་ཡང་། ནུས་རྩལ་འདི་བེད་སྤྱོད་གཏོང་། འདིའི་ནང་དུ་འདུས་པ་ནི། བརྙན་ཤེལ་ཚོགས་སྒྲིག་དང་། ཚོང་སྐུལ་བརྙན་ཤེལ། ཡང་ན་ངོ་སྤྲོད་བརྙན་ཤེལ་གསར་བཟོ། .pptx ཡང་ན་ .potx ཡིག་ཆ་གང་རུང་ནས་ཡི་གེ་ཀློག་པ་དང་དབྱེ་ཞིབ། ཡང་ན་ཕྱིར་འདོན་བྱེད་པ (ཕྱིར་བཏོན་པའི་ནང་དོན་གློག་འཕྲིན་ནམ་སྙིང་བསྡུས་སོགས་ས་གཞན་དུ་བེད་སྤྱོད་བྱེད་རྒྱུ་ཡིན་ཡང་)། ད་ཡོད་ངོ་སྤྲོད་བརྙན་ཤེལ་རྩོམ་སྒྲིག་དང་བཅོས་སྒྱུར། གསར་སྒྱུར་བྱེད་པ། བརྙན་ཤེལ་ཡིག་ཆ་སྦྲེལ་བའམ་ཁ་ཕྲལ་བ། མ་དཔེ (.potx) དང་བཀོད་སྒྲིག གཏམ་བཤད་པའི་མཆན་འགོད། ཡང་ན་དཔྱད་གཏམ་བཅས་ལ་ལས་ཀ་བྱེད་པ། སྤྱོད་མཁན་གྱིས་ \\\"deck,\\\" \\\"slides,\\\" \\\"presentation,\\\" ཞེས་བརྗོད་པའམ། .pptx ཡང་ན་ .potx ཡིག་ཆའི་མིང་འབོད་པ་གང་རུང་བྱུང་ཚེ། རྗེས་སུ་ནང་དོན་དེས་ཅི་བྱེད་རྩིས་ཡོད་མེད་ལ་མ་ལྟོས་པར་ནུས་རྩལ་འདི་སྐུལ་སློང་བྱེད། .pptx ཡང་ན་ .potx ཡིག་ཆ་ཞིག་ཁ་ཕྱེ་བའམ་གསར་བཟོ། ཡང་ན་རེག་དགོས་ཚེ་ནུས་རྩལ་འདི་བེད་སྤྱོད་གཏོང་།"
+  },
+  "arjun988/blender-skills:.claude/skills/procedural-modeling": {
+    "name": "procedural-modeling",
+    "description": "Blender ནང་དུ་ MCP བརྒྱུད་ནས་ Geometry Nodes དང་ modifier ལ་གཞི་བཅོལ་བའི་ལས་རིམ་བེད་སྤྱོད་དེ། རྡོ་དང་ཁང་པ། སྐྱེ་ཤིང་། ལམ་ཁ། ས་གཞིའི་དབྱིབས། སྦུག་ལམ། གློག་སྐུད། ཚན་རིག་འཕྲུལ་རྩལ་གྱི་པང་ལེབ་བཅས་ཀྱི་རྒྱུ་ཆ་བརྒྱུད་རིམ་ཅན་གྱིས་གསར་བཟོ་བྱེད་པ།"
+  },
+  "arjun988/blender-skills:.cursor/skills/procedural-modeling": {
+    "name": "procedural-modeling",
+    "description": "Blender ནང་དུ་ MCP བརྒྱུད་ནས་ Geometry Nodes དང་ modifier ལ་གཞི་བཅོལ་བའི་ལས་རིམ་བེད་སྤྱོད་དེ། རྡོ་དང་ཁང་པ། སྐྱེ་ཤིང་། ལམ་ཁ། ས་གཞིའི་དབྱིབས། སྦུག་ལམ། གློག་སྐུད། ཚན་རིག་འཕྲུལ་རྩལ་གྱི་པང་ལེབ་བཅས་ཀྱི་རྒྱུ་ཆ་བརྒྱུད་རིམ་ཅན་གྱིས་གསར་བཟོ་བྱེད་པ།"
+  },
+  "cexll/myclaude:skills/product-requirements": {
+    "name": "product-requirements",
+    "description": "དགོས་མཁོ་བསྡུ་ལེན་དང་དབྱེ་ཞིབ། PRD གསར་བཟོ་བཅས་ཀྱི་ཕན་ཚུན་འབྲེལ་མཐུད་ཅན་གྱི་ཐོན་རྫས་བདག་པོའི་ནུས་རྩལ། སྤྱོད་མཁན་གྱིས་ཐོན་རྫས་ཀྱི་དགོས་མཁོ་དང་ཁྱད་ཆོས་ཀྱི་གསལ་བཤད། PRD གསར་བཟོ་བཅས་རེ་ཞུ་བྱེད་པའམ། ལས་གཞིའི་དགོས་མཁོ་གོ་བ་ལེན་པ་དང་ཡིག་ཐོག་ཏུ་འགོད་པར་རོགས་རམ་དགོས་ཚེ་སྐུལ་སློང་བྱེད། སྤུས་ཚད་སྐར་གྲངས་དང་ཡང་ཡང་གླེང་མོལ་བྱེད་པ་བེད་སྤྱོད་དེ། ཆེད་ལས་ཅན་གྱི་ PRD ཡིག་ཆ་གསར་བཟོ་མ་བྱས་གོང་དགོས་མཁོ་ཆ་ཚང་ཡོང་བར་ཁག་ཐེག་བྱེད།"
+  },
+  "arjun988/blender-skills:.claude/skills/prop-artist": {
+    "name": "prop-artist",
+    "description": "ཁྱིམ་ཆས་དང་ལག་ཆ། ཁྱིམ་སྤྱོད་དངོས་པོ། kitbash ལྷུ་ལག རྩེད་མོའི་ནང་ངོས་འཛིན་ཐུབ་པའི་ཡོ་བྱད་བཅས་ཀྱི་ཉིན་རེའི་དང་གཙོ་བོའི་ཡོ་བྱད་དཔེ་བཟོ། hard-surface ནི་ཚན་རིག་འཕྲུལ་རྩལ་དང་འཕྲུལ་ཆས་ཀྱི་ཁྱད་ཆོས་ཆེ་དྲགས་ཤིང་། རྒྱུ་ཆ་དེ་དངོས་ཡོད་ཀྱི་ཡོ་བྱད་ཅིག་ཡིན་ཚེ་བེད་སྤྱོད་གཏོང་།"
+  },
+  "arjun988/blender-skills:.cursor/skills/prop-artist": {
+    "name": "prop-artist",
+    "description": "ཁྱིམ་ཆས་དང་ལག་ཆ། ཁྱིམ་སྤྱོད་དངོས་པོ། kitbash ལྷུ་ལག རྩེད་མོའི་ནང་ངོས་འཛིན་ཐུབ་པའི་ཡོ་བྱད་བཅས་ཀྱི་ཉིན་རེའི་དང་གཙོ་བོའི་ཡོ་བྱད་དཔེ་བཟོ། hard-surface ནི་ཚན་རིག་འཕྲུལ་རྩལ་དང་འཕྲུལ་ཆས་ཀྱི་ཁྱད་ཆོས་ཆེ་དྲགས་ཤིང་། རྒྱུ་ཆ་དེ་དངོས་ཡོད་ཀྱི་ཡོ་བྱད་ཅིག་ཡིན་ཚེ་བེད་སྤྱོད་གཏོང་།"
+  },
+  "emilkowalski/skills:skills/prototype": {
+    "name": "prototype",
+    "description": "ཁྱོད་ཀྱིས་བཤད་པའི་ UI ཆ་ཤས་ཤིག་གི་ངོ་བོ་ཐ་དད་པའི་པར་གཞི་མང་པོ་བཟོས་ཏེ། མཐོང་ཐུབ་པའི་འདེམས་ཆས་ཀྱི་རྒྱབ་ཏུ་བཀོད་ནས། ཁྱོད་ཀྱིས་དེ་དག་དངོས་སུ་བརྗེ་བཞིན་བལྟ་ཐུབ་ཅིང་། འོས་འཚམ་དུ་སྣང་བ་དེ་གདམ་ནས་གོ་གནས་སྤར་ཐུབ།"
+  },
+  "cexll/myclaude:skills/prototype-prompt-generator": {
+    "name": "prototype-prompt-generator",
+    "description": "སྤྱོད་མཁན་གྱིས་ UI/UX མ་དཔེ་གསར་བཟོའི་ཆེད་དུ་ཞིབ་ཕྲ་དང་གྲུབ་ཚུལ་ལྡན་པའི་ prompt གསར་བཟོ་བྱེད་དགོས་ཚེ་ནུས་རྩལ་འདི་བེད་སྤྱོད་གཏོང་དགོས། སྤྱོད་མཁན་གྱིས་ \"create a prototype prompt\", \"design a mobile app\", \"generate UI specifications\" བཅས་ཀྱི་རོགས་རམ་རེ་ཞུ་བྱེད་པའམ། དྲ་ངོས་དང་ཁ་པར་གྱི་ཉེར་སྤྱོད་ལ་ཇུས་འགོད་ཡིག་ཆ་ཆ་ཚང་དགོས་ཚེ་སྐུལ་སློང་བྱེད། WeChat Work དང་ iOS Native, Material Design, Ant Design Mobile སོགས་ཇུས་འགོད་མ་ལག་མང་པོར་ལས་ཀ་བྱེད་ཐུབ།"
+  },
+  "arjun988/blender-skills:.claude/skills/psx-horror-style": {
+    "name": "psx-horror-style",
+    "description": "Blender རྒྱུ་ཆའི་ཆེད་དུ་ low-poly affine རི་མོའི་ཁྱད་ཆོས་དང་ཚོན་མདོག་གི་ཟབ་ཚད་ཚད་བཀག སྨུག་པ། སེམས་ཁམས་ཀྱི་འཇིགས་སྣང་སྒྲིག་སྦྱོར་བཅས་ཟུང་དུ་སྦྲེལ་བའི་ PS1/PSX དུས་རབས་ཀྱི་འཇིགས་སྣང་སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/psx-horror-style": {
+    "name": "psx-horror-style",
+    "description": "Blender རྒྱུ་ཆའི་ཆེད་དུ་ low-poly affine རི་མོའི་ཁྱད་ཆོས་དང་ཚོན་མདོག་གི་ཟབ་ཚད་ཚད་བཀག སྨུག་པ། སེམས་ཁམས་ཀྱི་འཇིགས་སྣང་སྒྲིག་སྦྱོར་བཅས་ཟུང་དུ་སྦྲེལ་བའི་ PS1/PSX དུས་རབས་ཀྱི་འཇིགས་སྣང་སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.claude/skills/qa-review": {
+    "name": "qa-review",
+    "description": "MCP བརྒྱུད་ནས་ viewport བརྙན་པར་དང་། ཞིབ་བཤེར་རེའུ་མིག མིང་འདོགས་ཀྱི་རྩིས་ཞིབ། འགྲེམས་སྤེལ་བྱེད་ཆོག་མིན་གྱི་ཐག་གཅོད་བཅས་བེད་སྤྱོད་དེ། Blender རྒྱུ་ཆའི་ཐོན་སྐྱེད་ QA སྒོ་མོ།"
+  },
+  "arjun988/blender-skills:.cursor/skills/qa-review": {
+    "name": "qa-review",
+    "description": "MCP བརྒྱུད་ནས་ viewport བརྙན་པར་དང་། ཞིབ་བཤེར་རེའུ་མིག མིང་འདོགས་ཀྱི་རྩིས་ཞིབ། འགྲེམས་སྤེལ་བྱེད་ཆོག་མིན་གྱི་ཐག་གཅོད་བཅས་བེད་སྤྱོད་དེ། Blender རྒྱུ་ཆའི་ཐོན་སྐྱེད་ QA སྒོ་མོ།"
+  },
+  "arjun988/blender-skills:.claude/skills/realistic-style": {
+    "name": "realistic-style",
+    "description": "Blender ཡི་པར་རིས་དངོས་མཚུངས་ AAA སྒྱུ་རྩལ་ཁ་ཕྱོགས། འདིའི་ནང་ photogrammetry གཙང་སེལ་དང་། འཇིག་རྟེན་དངོས་ཀྱི་ཚད་གཞི། high-poly ལས་རིམ། PBR ཡི་ཏག་ཏག་རང་བཞིན། scan ལེགས་སྒྱུར་བཅས་འདུས། གློག་བརྙན་དང་ AAA རྩེད་མོའི་དངོས་ཡོད་རང་བཞིན་གྱི་ཆེད་དུ་བེད་སྤྱོད་གཏོང་།"
+  },
+  "arjun988/blender-skills:.cursor/skills/realistic-style": {
+    "name": "realistic-style",
+    "description": "Blender ཡི་པར་རིས་དངོས་མཚུངས་ AAA སྒྱུ་རྩལ་ཁ་ཕྱོགས། འདིའི་ནང་ photogrammetry གཙང་སེལ་དང་། འཇིག་རྟེན་དངོས་ཀྱི་ཚད་གཞི། high-poly ལས་རིམ། PBR ཡི་ཏག་ཏག་རང་བཞིན། scan ལེགས་སྒྱུར་བཅས་འདུས། གློག་བརྙན་དང་ AAA རྩེད་མོའི་དངོས་ཡོད་རང་བཞིན་གྱི་ཆེད་དུ་བེད་སྤྱོད་གཏོང་།"
+  },
+  "JimLiu/baoyu-skills:.claude/skills/release-skills": {
+    "name": "release-skills",
+    "description": "ཀུན་ཁྱབ་འགྲེམས་སྤེལ་ལས་རིམ། པར་གཞིའི་ཡིག་ཆ་དང་འགྱུར་བའི་ཐོ་གཞུང་རང་འགུལ་གྱིས་ངོས་འཛིན་བྱེད། Node.js, Python, Rust, Claude Plugin, GitHub Releases, མཆན་འགོད་ཅན་གྱི་ tag, ལོ་རྒྱུས་ཀྱི་འགྲེམས་སྤེལ་ཕྱིར་སྐོང་། སྤྱིར་བཏང་ལས་གཞི་བཅས་ལ་རྒྱབ་སྐྱོར་བྱེད། སྤྱོད་མཁན་གྱིས་ \"release\", \"发布\", \"new version\", \"bump version\", \"push\", \"推送\", \"release notes\", \"GitHub Release\", ཡང་ན་ \"回填 Release\" ཞེས་བརྗོད་ཚེ་བེད་སྤྱོད་གཏོང་།"
+  },
+  "emilkowalski/skills:skills/remove-animations": {
+    "name": "remove-animations",
+    "description": "མཐུད་ངོས་ལ་མི་དགོས་པའི་འགུལ་རིས་རྣམས་བཙལ་ནས་སུབས། — མཐེབ་གཞོང་གི་བྱ་བ། ཟློས་ཕྱོད་མཐོ་བའི་ངོས། བྱེད་ནུས་ཅན་གྱི་གཞི་གྲངས། དགོས་པ་མེད་པའི་རྒྱན་སྤྲོས་བཅས་ཀྱི་འགུལ་སྐྱོད། — དེ་ནས་དེ་ཚོས་ཤུལ་དུ་བཞག་པ་རྣམས་གཙང་སེལ་བྱོས། ཨང་རྟགས་རྩོམ་སྒྲིག་བྱེད་ཀྱང་ཉུང་དུ་གཏོང་བ་ཙམ་ཡིན། འགུལ་སྐྱོད་གསར་སྣོན་ནམ་བསྐྱར་སྒྲིག་གཏན་ནས་མི་བྱེད། སྤྱོད་མཁན་གྱིས་ཉེར་སྤྱོད་ \"དལ་པོ་ཡིན་པའི་ཚོར་བ་འདུག\", \"འགུལ་རིས་མང་དྲགས་འདུག\", \"འགུལ་རིས་ཆེ་དྲགས་པའི་ཚོར་བ་འདུག\" ཞེས་པའམ། \"འགུལ་སྐྱོད་ཇེ་ཞིར་གཏོང་དགོས\" ཞེས་པའམ། འགུལ་རིས་གང་སུབ་དགོས་ཞེས་དྲིས་ཚེ་སྤྱོད། འགུལ་རིས་དགོས་པའི་ས་ཆ་འཚོལ་བར་ find-animation-opportunities སྤྱོད། གནས་དགོས་པའི་འགུལ་རིས་བཅོས་པར་ improve-animations ཡང་ན་ review-animations སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/rendering": {
+    "name": "rendering",
+    "description": "Cycles དང་ Eevee ཡིས་ Blender རེན་ཌར་བྱེད་པ། དཔེ་ལེན་(sampling)། ཟིང་སེལ་(denoising)། པར་ཆས་སྒྲིག་འགོད། render passes། ཚོན་མདོག་དོ་དམ། རེན་ཌར་ལེགས་སྒྲིག་བཅས་ཚུད། མཐའ་མའི་ཐོན་རྫས་དང་ MCP བརྒྱུད་ནས་རྣམ་པ་ར་སྤྲོད་བྱེད་པར་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/rendering": {
+    "name": "rendering",
+    "description": "Cycles དང་ Eevee ཡིས་ Blender རེན་ཌར་བྱེད་པ། དཔེ་ལེན་(sampling)། ཟིང་སེལ་(denoising)། པར་ཆས་སྒྲིག་འགོད། render passes། ཚོན་མདོག་དོ་དམ། རེན་ཌར་ལེགས་སྒྲིག་བཅས་ཚུད། མཐའ་མའི་ཐོན་རྫས་དང་ MCP བརྒྱུད་ནས་རྣམ་པ་ར་སྤྲོད་བྱེད་པར་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/retopology": {
+    "name": "retopology",
+    "description": "འགུལ་རིས་ལ་གྲ་སྒྲིག་ཡོད་པའི་ low-poly དང་ quad གཙོ་བོའི་ mesh ལ་ཐིག་མཐའི་འཁོར་ལམ་(edge loops) ལེགས་པ་དང་ polygon རྒྱུན་ནུས་ཆེ་བ་བཅས་ཀྱི་ཐོན་སྐྱེད་ retopology། བརྐོས་བཟོ་(sculpting) ཡང་ན་ high-poly མ་དཔེ་བཟོས་རྗེས། Blender ནང་ MCP བརྒྱུད་ནས་ rigging དང་ UV ལས་ཀ་མ་བྱས་གོང་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/retopology": {
+    "name": "retopology",
+    "description": "འགུལ་རིས་ལ་གྲ་སྒྲིག་ཡོད་པའི་ low-poly དང་ quad གཙོ་བོའི་ mesh ལ་ཐིག་མཐའི་འཁོར་ལམ་(edge loops) ལེགས་པ་དང་ polygon རྒྱུན་ནུས་ཆེ་བ་བཅས་ཀྱི་ཐོན་སྐྱེད་ retopology། བརྐོས་བཟོ་(sculpting) ཡང་ན་ high-poly མ་དཔེ་བཟོས་རྗེས། Blender ནང་ MCP བརྒྱུད་ནས་ rigging དང་ UV ལས་ཀ་མ་བྱས་གོང་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/retro-16bit-style": {
+    "name": "retro-16bit-style",
+    "description": "Blender ཡི་རམ་འདེགས་ཡོད་པའི་ SNES/Genesis དུས་རབས་ཀྱི་ཚོན་མདོག་ཕུན་སུམ་ཚོགས་པ། dither གི་མཚོན་རྟགས། sprite ལྟ་བུའི་གསལ་ཆ་བཅས་ཀྱི་ Retro 16-bit སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/retro-16bit-style": {
+    "name": "retro-16bit-style",
+    "description": "Blender ཡི་རམ་འདེགས་ཡོད་པའི་ SNES/Genesis དུས་རབས་ཀྱི་ཚོན་མདོག་ཕུན་སུམ་ཚོགས་པ། dither གི་མཚོན་རྟགས། sprite ལྟ་བུའི་གསལ་ཆ་བཅས་ཀྱི་ Retro 16-bit སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.claude/skills/retro-8bit-style": {
+    "name": "retro-8bit-style",
+    "description": "NES དུས་རབས་ཀྱི་ཚད་བཀག་ལས་སེམས་འགུལ་ཐེབས་པའི་ pixel/low-res མཛེས་ཉམས་ཀྱི་ Blender རམ་འདེགས་ཡོད་པའི་ Retro 8-bit སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "arjun988/blender-skills:.cursor/skills/retro-8bit-style": {
+    "name": "retro-8bit-style",
+    "description": "NES དུས་རབས་ཀྱི་ཚད་བཀག་ལས་སེམས་འགུལ་ཐེབས་པའི་ pixel/low-res མཛེས་ཉམས་ཀྱི་ Blender རམ་འདེགས་ཡོད་པའི་ Retro 8-bit སྒྱུ་རྩལ་ཁ་ཕྱོགས།"
+  },
+  "emilkowalski/skills:skills/review-animations": {
+    "name": "review-animations",
+    "description": "Emil Kowalski ཡི་བཟོ་བཀོད་ལག་རྩལ་ལྟ་གྲུབ་ལས་བྱུང་བའི་ལག་རྩལ་ཚད་གཞི་མཐོན་པོར་གཞིགས་ནས་འགུལ་རིས་དང་འགུལ་སྐྱོད་ཀྱི་ཨང་རྟགས་ལ་ཞིབ་བཤེར་བྱེད། སྔོན་སྒྲིག་ཏུ་སྐྱོན་འཛུགས་བྱེད་པ་ཡིན། ཆོག་མཆན་ནི་འཐོབ་དགོས་པ་ཞིག་ཡིན།"
+  },
+  "arjun988/blender-skills:.claude/skills/rigging": {
+    "name": "rigging",
+    "description": "Blender ནང་ armature། IK/FK། ཚད་འཛིན་(constraints)། weight painting། འཕྲུལ་ཆས་ rig། གདོང་པའི་ rig། driver བཅས་ཀྱི་ཐོན་སྐྱེད་ rigging། གཟུགས་འགྱུར་ཅན་གྱི་རྒྱུ་ཆར་ MCP བརྒྱུད་ནས་འགུལ་རིས་མ་བཟོས་གོང་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/rigging": {
+    "name": "rigging",
+    "description": "Blender ནང་ armature། IK/FK། ཚད་འཛིན་(constraints)། weight painting། འཕྲུལ་ཆས་ rig། གདོང་པའི་ rig། driver བཅས་ཀྱི་ཐོན་སྐྱེད་ rigging། གཟུགས་འགྱུར་ཅན་གྱི་རྒྱུ་ཆར་ MCP བརྒྱུད་ནས་འགུལ་རིས་མ་བཟོས་གོང་སྤྱོད།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-app-harness": {
+    "name": "robot-app-harness",
+    "description": "མཛོད་འདིའི་ནང་གི་ `rah` harness སྤྱད་ནས་ rig (འཕྲུལ་མི་དང་དེའི་ sensor དང་ actuator) ལ་གཞིགས་ཏེ་འཕྲུལ་མིའི་ཉེར་སྤྱོད་མཉེན་ཆས་འབྲི་བའི་ཁ་རྒྱུན་ཟུམ་པའི་ལས་རིམ། སྒྲིག་ཆས་བརྟག་པ། driver དང་ལས་འགན་གྱི་ཨང་རྟགས་འབྲི་བ། ལད་ཟློས་(simulation) ནང་གཏོང་བ། དཔྱད་ཞིབ་སྙན་ཐོ་ཀློག་པ། held-out seeds ལ་ཨང་ཐོན་པའི་བར་བསྐྱར་ཟློས་བྱེད་པ། སྤྱོད་མཁན་གྱིས་འཕྲུལ་མིར་ལས་འགན་ཞིག་སྒྲུབ་ཏུ་འཇུག་པའམ། sensor ཡང་ན་ actuator ཞིག་འཕྲུལ་མིའི་ཉེར་སྤྱོད་ནང་སྦྲེལ་བའམ། rig ལ་ pick-and-place སོགས་ཀྱི་བཀོལ་སྤྱོད་ཨང་རྟགས་འབྲི་བའམ། འཕྲུལ་མིའི་མཉེན་ཆས་ \"vibe code\" བྱས་ནས་ simulator ནང་ར་སྤྲོད་བྱེད་དགོས་ཞེས་ཞུས་ཚེ་རྐྱེན་འདི་སྤྱོད། rah དང་ rig manifest། འཕྲུལ་མིའི་ལས་འགན་གྱི་ spec། ARMATURE simulator། འཕྲུལ་མིའི་སྒྲིག་ཆས་བརྟག་པ། device descriptor། འཕྲུལ་མིའི་ཉེར་སྤྱོད་གཏོང་བའམ་ར་སྤྲོད་བྱེད་པ། held-out seeds། ཡང་ན་ལད་ཟློས་ཀྱི་འཕྲུལ་མིའི་ལས་འགན་མི་འགྲུབ་པའི་རྒྱུ་མཚན་བརྟག་པ་བཅས་གླེང་ཚེ་འགུལ་སློང་བྱོས།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-bringup": {
+    "name": "robot-bringup",
+    "description": "འཕྲུལ་མིའི་ནང་སྒྲིག་གློག་ཀླད་ཐོག་ ROS2 མ་ལག་ཆ་ཚང་ཞིག་སྒྲིག་སྦྱོར་བྱེད་པ། systemd ཞབས་ཞུ། launch ཡིག་ཆའི་སྦྱོར་སྒྲིག གོ་རིམ་ལྡན་པའི་འགོ་འཛུགས། ཐོན་སྐྱེད་ལྟ་ཞིབ་བཅས། སྤྱོད་མཁན་གྱིས་འཕྲུལ་མི་སྒོ་ཕྱེ་མ་ཐག་ ROS2 node འགོ་འཛུགས་པར་སྒྲིག་འགོད་བྱེད་པའམ། ROS2 launch ལ་ systemd unit ཡིག་ཆ་འབྲི་བའམ། འཕྲུལ་མིའི་མ་ལག་ཧྲིལ་པོར་རིམ་པ་ཅན་གྱི་ launch ཡིག་ཆ་སྦྱོར་བའམ། watchdog ལྟ་ཞིབ་སྒྲིག་འགོད་བྱེད་པའམ། སྒྲིག་ཆས་ཀྱི་མིང་གཏན་འཁེལ་ཡོང་བར་ udev སྒྲིག་གཞི་སྒྲིག་པའམ། འགོ་འཛུགས་དུས་ཀྱི་ race condition སྐྱོན་སེལ་བྱེད་ཚེ་རྐྱེན་འདི་སྤྱོད། སྤྱོད་མཁན་གྱིས་ robot bringup དང་འཕྲུལ་མིའི་འགོ་འཛུགས། ROS2 ལ་ systemd། སྒོ་ཕྱེ་མ་ཐག་ ROS2། launch ཡིག་ཆའི་སྦྱོར་སྒྲིག འཕྲུལ་མིའི་འགོ་འཛུགས་གོ་རིམ། པར་ཆས་སམ་ serial port ལ་ udev སྒྲིག་གཞི། ROS2 node རང་འགུལ་བསྐྱར་འགོ། འཕྲུལ་ཆས་མང་པོའི་ ROS2 དྲ་རྒྱ་སྒྲིག་འགོད། འཕྲུལ་མིའི་ log rotation། འཕྲུལ་མིའི་མ་ལག་འཇམ་པོས་སྒོ་རྒྱག་པ། SSH ལ་བརྟེན་པའི་རྒྱང་སྐྱོང་སྐྱོན་སེལ་བཅས་གླེང་ཚེ་འགུལ་སློང་བྱོས། systemd ནང་ workspace source བྱེད་པའམ། health check དང་བཅས་གོ་རིམ་ལྡན་པའི་འགོ་འཛུགས། ཡང་ན་ ROS2 མ་ལག་ཡུན་རིང་གཏོང་བའི་ཐོན་སྐྱེད་ཞབས་ཞུར་གཏོང་བ་བཅས་ལའང་འགུལ་སློང་བྱོས། Ubuntu 22.04/24.04 ཐོག་ ROS2 Humble, Iron, Jazzy བཅས་ཀྱི་ systemd ཁྱབ་ཁོངས་སུ་འདུ།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-data-quality": {
+    "name": "robot-data-quality",
+    "description": "འཕྲུལ་མིའི་སློབ་སྦྱོང་གཞི་གྲངས་ཚོགས་(teleoperation ཡི་སྟོན་བཤམས། episode) ཀྱི་སྤུས་ཚད་ལ་དཔྱད་ཞིབ་དང་ལེགས་བཅོས་བྱེད་པ། དེ་བཞིན་ Robotics Data Toolkit ཡིན་པའི་ forge སྤྱད་ནས་དེ་ཚོར་ཞིབ་བཤེར། lint། སྐར་གྲངས་སྤྲོད་པ། མཐོང་ཐུབ་ཏུ་བཟོ་བ། ཚགས་འདེམས། dedup། གཞི་གྲངས་གཟུགས་བསྒྱུར་བཅས་བྱེད། སྤྱོད་མཁན་གྱིས་གཞི་གྲངས་ཚོགས་ཀྱི་སྤུས་ཚད་དང་གཞི་གྲངས་གཙང་སེལ་ལམ་དོ་དམ། episode ཞིབ་བཤེར། ངན་པའམ་ཟིང་ཆ་ཅན་གྱི་ demo། idle frame། འདར་བའམ་རྣོ་ལྕོག་ཅན་གྱི་ action། gripper chatter། timestamp བར་སྟོང་ངམ་ frame ཤོར་བ། པར་ཆས་ཀྱི་ blur ལམ་ exposure། episode ཟློས་མ། task-string གཙང་སྦྲ། normalisation གྲངས་ཐོ། episode ལྟར་ train/val དབྱེ་བ། སྟོན་བཤམས་ཀྱི་ཁྱབ་ཚད་དམ་སྣ་མང་རང་བཞིན། ཡང་ན་ policy ཞིག་གཞི་གྲངས་ཀྱི་དབང་གིས་འགོ་མི་ཚུགས་པའམ་འགག་པའམ་ mode རྣམས་ཆ་སྙོམས་སུ་འགྱུར་བའི་རྒྱུ་མཚན་བཅས་གླེང་ཚེ་རྐྱེན་འདི་སྤྱོད། forge བཀའ་བརྡ་(forge inspect, lint, stats, quality, filter, dedup, visualize, convert, catalog, ingest, curate) དང་། RLDS, LeRobot v2/v3, Zarr, HDF5, MCAP, rosbag, RoboDM བར་གྱི་གཟུགས་བསྒྱུར། Hugging Face Hub ཐོག་གི་ hf:// གཞི་གྲངས་ཚོགས་བཅས་ཚུད་པར་ཡང་འགུལ་སློང་བྱོས།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-perception": {
+    "name": "robot-perception",
+    "description": "འཕྲུལ་མིའི་ཚོར་ཤེས་མ་ལག་གི་ཕྱོགས་ཡོངས་ཀྱི་ལག་ལེན་བཟང་ཤོས། པར་ཆས་དང་ LiDAR、གཏིང་ཚད་ཚོར་ཆས། IMU དང་ཚོར་ཆས་མང་པོའི་སྒྲིག་སྦྱོར་བཅས་ཚུད། RGB པར་རིས་བཀོལ་སྤྱོད་དང་གཏིང་ཚད་ས་ཁྲ། ཚེག་སྤྲིན། ཚོར་ཆས་ཚད་སྒྲིག (ནང་ཁུལ། ཕྱི་རོལ། ལག་མིག)、དངོས་པོ་ངོས་འཛིན། དོན་གྱི་དབྱེ་མཚམས་འབྱེད་པ། 3D བསྐྱར་བཞེངས། མཐོང་ཚོར་ཞབས་ཞུའི་ཚོད་འཛིན། ཡང་ན་ཚོར་ཤེས་ལས་རིམ་ལེགས་སྒྲིག་བཅས་ལ་ལས་ཀ་བྱེད་སྐབས་ནུས་རྩལ་འདི་བེད་སྤྱོད་གཏོང་། སྤྱོད་མཁན་གྱིས་ OpenCV、Open3D、PCL、RealSense、ZED、OAK-D、པར་ཆས་ཚད་སྒྲིག、AprilTags、ArUco རྟགས། ཟུང་མཐོང་། RGBD、ཚེག་སྤྲིན་ཚགས་འདེམས། ICP ཐོ་འགོད། གནས་ཡུལ་སྒྱུར་བརྗེ། པར་ཆས་ནང་ཁུལ་གྲངས་ཚད། འཁྱོག་སྐྱོན་བཅོས་སྒྲིག པར་རིས་འཁྱོག་སེལ། ཚོར་ཆས་རྒྱུན་གཏོང་། སྒྲོམ་དུས་མཉམ་སྒྲིག ཡང་ན་འཕྲུལ་མིའི་ཁོར་ཡུག་ནང་གི་རྩིས་འཁོར་མཐོང་ཚོར་ལས་འགན་གང་རུང་གླེང་སྐབས་འབོད་སྐུལ་གཏོང་། པར་ཆས་མང་པོའི་སྒྲིག་ཆས་དང་ཚོར་ཆས་བར་གྱི་དུས་ཚོད་མཉམ་སྒྲིག ཚོར་ཤེས་ཕྱིར་འགྱངས་ཀྱི་དུས་ཚོད་སྔོན་རྩིས། ཚོར་ཤེས་ལས་རིམ་ཐོན་སྐྱེད་ཁོར་ཡུག་ཏུ་བཀྲམ་སྤྱོད་བཅས་ཀྱང་ཚུད།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-reinforcement-learning": {
+    "name": "robot-reinforcement-learning",
+    "description": "འཕྲུལ་མིའི་ཤུགས་སྣོན་སློབ་སྦྱོང་། RL གང་འདྲ་བྱས་ནས་ལད་ཟློས་སློབ་སྦྱོང་ངམ་སྲོལ་རྒྱུན་ཚོད་འཛིན་ལས་རྒྱལ་བ། MDP ཇུས་འགོད (ལྟ་ཞིབ། བྱ་སྤྱོད་བར་སྟོང་། ཚོད་འཛིན་ཚད། terminated དང་ truncated གི་ཁྱད་པར)། བྱ་དགའི་ཇུས་འགོད་དང་བྱ་དགའ་གཡོ་ཐབས། རྩིས་ཐབས་འདེམས་པ། ཆེས་ཆེ་བའི་མཉམ་སྤྱོད་ལད་བཟློས་སྦྱོང་བརྡར། བདེ་འཇགས་ཀྱི་དངོས་ཡོད་འཕྲུལ་མིའི་ RL། སྦྱོང་བརྡར་འཁྱོག་ཐིག་གི་སྐྱོན་སེལ་བཅས། སྤྱོད་མཁན་གྱིས་ཤུགས་སྣོན་སློབ་སྦྱོང་། RL、PPO、SAC、TD3、GAE、བྱ་དགའི་ལས་རྟགས། བྱ་དགའ་བཟོ་སྒྲིག curriculum、ཁྱབ་ཁོངས་གང་བྱུང་ཅན། sim-to-real、actuator network、asymmetric actor-critic、teacher-student distillation、rsl_rl、rl_games、skrl、Stable-Baselines3、CleanRL、Brax སྦྱོང་བརྡར། FastTD3、HIL-SERL、SERL、RLPD、DrQ、residual RL、DSRL、BC ངམ་ diffusion ཡང་ན་ VLA སྲིད་ཇུས་ཀྱི་ RL ཞིབ་སྒྲིག time-out bootstrapping、entropy collapse、value loss explosion、སྦྱོང་བརྡར་སྐབས་ཀྱི་ NaN། ཡང་ན་ seeds དང་ IQM བེད་སྤྱད་ནས་ RL ཚད་འཇལ་བ་བཅས་གླེང་སྐབས་བེད་སྤྱོད་གཏོང་། Isaac Lab、mjlab ཡང་ན་ Playground གི་འགྲོ་སྐྱོད་དང་ལག་བཀོལ་སྲིད་ཇུས་ལའང་སྤྱོད།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-design-patterns": {
+    "name": "robotics-design-patterns",
+    "description": "བརྟན་ཚུགས་ལྡན་པའི་འཕྲུལ་མིའི་མཉེན་ཆས་བཟོ་སྐྲུན་གྱི་བཀོད་སྒྲིག་དཔེ་གཞི་དང་ཇུས་འགོད་རྩ་དོན། ཁུངས་བཙན་ཐབས་ལམ་བཅས། འཕྲུལ་མིའི་མཉེན་ཆས་བཀོད་སྒྲིག་ཇུས་འགོད་དང་སྤྱོད་ལམ་སྒྲོམ་གཞི་འདེམས་པ། ཚོར་ཤེས་–འཆར་འགོད་–ཚོད་འཛིན་ལས་རིམ་གྱི་གྲུབ་ཆ་སྒྲིག་པ། གནས་སྟངས་འཕྲུལ་ཆས་ལག་བསྟར། བདེ་འཇགས་མ་ལག་ཇུས་འགོད། ཡང་ན་འཕྲུལ་མི་མང་པོའི་མ་ལག་བཀོད་སྒྲིག་བཅས་བྱེད་སྐབས་ནུས་རྩལ་འདི་བེད་སྤྱོད་གཏོང་། སྤྱོད་མཁན་གྱིས་སྤྱོད་ལམ་ཤིང་སྡོང་། ཚད་ཡོད་གནས་སྟངས་འཕྲུལ་ཆས། subsumption བཀོད་སྒྲིག ཚོར་ཆས་ཟླ་སྦྱོར། འཕྲུལ་མིའི་བདེ་འཇགས། watchdog、heartbeat、རིམ་གྱིས་ནུས་པ་ཆག་པ། སྲ་ཆས་བར་བརྒལ་རིམ་པ། དུས་ཐོག་ཚད་བཀག ཡང་ན་འཕྲུལ་མིའི་མཉེན་ཆས་བཀོད་སྒྲིག་བཅས་གླེང་སྐབས་འབོད་སྐུལ་གཏོང་། sim-to-real སྤོ་སྒྱུར་དང་གྲངས་ཀའི་ཟུང་འབྲེལ། འཕྲུལ་མི་ཚོགས་སྡེའི་དོ་དམ་བཅས་ལའང་འཚམ།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-security": {
+    "name": "robotics-security",
+    "description": "འཕྲུལ་མིའི་མ་ལག་གི་བདེ་འཇགས་སྲ་སྐྱེད་དང་ལག་ལེན་བཟང་ཤོས། SROS2 DDS བདེ་འཇགས་དང་དྲ་རྒྱ་དབྱེ་མཚམས་འབྱེད་པ། གསང་གནད་དོ་དམ། བདེ་འཇགས་འགོ་འཛུགས། དངོས་ཁམས་དང་དྲ་རྒྱའི་བདེ་འཇགས་ཀྱི་འབྲེལ་མཚམས་བཅས་ཚུད། ROS2 འབྲེལ་བ་བདེ་སྲུང་དང་DDS གསང་སྡོམ་དང་འཛུལ་སྤྱོད་ཚོད་འཛིན་སྒྲིག་འགོད། འཕྲུལ་མིའི་ནང་སྒྲིག་རྩིས་འཁོར་སྲ་སྐྱེད། ལག་ཁྱེར་དང་ངོ་སྤྲོད་ཡིག་ཆ་དོ་དམ། འཕྲུལ་མི་ཚོགས་སྡེའི་དྲ་རྒྱ་དབྱེ་མཚམས་སྒྲིག་འཛུགས། ཡང་ན་དྲ་རྒྱའི་ཞན་ཆ་དངོས་ཁམས་བདེ་འཇགས་ཀྱི་ཉེན་ཁར་འགྱུར་བའི་ཐུན་མོང་མ་ཡིན་པའི་བདེ་འཇགས་དཀའ་གནད་ཐག་གཅོད་བྱེད་སྐབས་ནུས་རྩལ་འདི་བེད་སྤྱོད་གཏོང་། སྤྱོད་མཁན་གྱིས་ SROS2、DDS བདེ་འཇགས། འཕྲུལ་མིའི་བདེ་འཇགས། འཕྲུལ་མི་སྲ་སྐྱེད། ROS2 གསང་སྡོམ། ROS2 འཛུལ་སྤྱོད་ཚོད་འཛིན། འཕྲུལ་མིའི་དྲ་རྒྱ་བདེ་འཇགས། འཕྲུལ་མི་བདེ་འཇགས་ངང་བཀྲམ་སྤྱོད། འཕྲུལ་མིའི་ལག་ཁྱེར། keystore བཟོ་སྐྲུན། འཕྲུལ་མིའི་མེ་འགོག་གྱང་། e-stop བདེ་འཇགས། བདེ་འཇགས་ཚོད་འཛིན་ཆས་ལོགས་སུ་འཇོག་པ། ཡང་ན་འཕྲུལ་མིའི་ཆེད་ཀྱི་ IEC 62443 བཅས་གླེང་སྐབས་འབོད་སྐུལ་གཏོང་།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-software-principles": {
+    "name": "robotics-software-principles",
+    "description": "འཕྲུལ་མིའི་ཚན་པ་གསར་སྤེལ་ལ་དམིགས་སུ་སྤྱད་པའི་མཉེན་ཆས་ཇུས་འགོད་ཀྱི་རྩ་བའི་རྩ་དོན། འཕྲུལ་མིའི་མཉེན་ཆས་ཚན་པ་ཇུས་འགོད་དང་ཨང་རྟགས་མཛོད་ཀྱི་གྲུབ་ཆ་སྒྲིག་པ། བཀོད་སྒྲིག་གི་ཐག་གཅོད་བྱེད་པ། འཕྲུལ་མིའི་ཨང་རྟགས་ཞིབ་བཤེར། ཡང་ན་བསྐྱར་སྤྱོད་ཐུབ་པའི་འཕྲུལ་མིའི་མཛོད་བཟོ་སྐྲུན་བཅས་བྱེད་སྐབས་ནུས་རྩལ་འདི་བེད་སྤྱོད་གཏོང་། སྤྱོད་མཁན་གྱིས་འཕྲུལ་མིའི་ SOLID རྩ་དོན་དང་ཚན་པ་ཅན་གྱི་འཕྲུལ་མིའི་མཉེན་ཆས། འཕྲུལ་མིའི་གཙང་མའི་བཀོད་སྒྲིག འཕྲུལ་མིའི་ནང་གི་བརྟེན་འབྲེལ་ནང་འཇུག སྲ་ཆས་ཀྱི་མཐུད་ངོས་ཇུས་འགོད། དུས་ཐོག་ཇུས་འགོད་ཀྱི་ཚད་བཀག འཕྲུལ་མིའི་ནོར་འཁྲུལ་ཐག་གཅོད་ཐབས་ཇུས། སྒྲིག་འགོད་དོ་དམ། ཚོར་ཤེས་–འཆར་འགོད་–ཚོད་འཛིན་ནང་གི་འགན་འཁྲི་དབྱེ་བ། འཕྲུལ་མིའི་སྤྱོད་ལམ་སྦྱོར་སྒྲིག་ཐུབ་ཚད། ཡང་ན་འཕྲུལ་མིའི་ཁོར་ཡུག་ནང་གི་མཉེན་ཆས་བཟོ་རྩལ་སྐོར་གྱི་གྲོས་བསྡུར་གང་རུང་གླེང་སྐབས་འབོད་སྐུལ་གཏོང་། འཕྲུལ་མིའི་ཨང་རྟགས་ཞིབ་བཤེར་དང་འཕྲུལ་མིའི་མཉེན་ཆས་བསྐྱར་སྒྲིག ཡང་ན་འཕྲུལ་མིའི་མཛོད་ཀྱི་ API ཇུས་འགོད་བཅས་ལའང་འབོད་སྐུལ་གཏོང་།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-testing": {
+    "name": "robotics-testing",
+    "description": "འཕྲུལ་མིའི་མཉེན་ཆས་ཀྱི་ཚོད་ལྟའི་ཐབས་ཇུས་དང་། དཔེ་གཞི། ལག་ཆ་བཅས། འཕྲུལ་མིའི་མ་ལག་ལ་ unit tests, integration tests, simulation tests ཡང་ན་ hardware-in-the-loop tests འབྲི་སྐབས་ནུས་པ་འདི་བེད་སྤྱོད་གྱིས། སྤྱོད་མཁན་གྱིས ROS nodes ཚོད་ལྟ་དང་། ROS དང་མཉམ་དུ pytest, launch_testing, simulation testing, འཕྲུལ་མིའི་ CI/CD, ཚོར་ཆས་ཀྱི test fixtures, mock hardware, deterministic replay, འཕྲུལ་མིའི་བྱ་སྤྱོད་ཀྱི regression testing, ཡང་ན perception/planning/control pipelines ཞིབ་བཤེར་བཅས་གླེང་སྐབས་གང་རུང་དུ་འགུལ་སློང་བྱོས། ད་དུང kinematics ཀྱི property-based testing, message handlers ཀྱི fuzz testing, trajectories ཀྱི golden-file testing བཅས་ཀྱང་ཁྱབ།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros1": {
+    "name": "ros1",
+    "description": "ROS1 (Robot Operating System 1) གསར་སྤེལ་གྱི་ལག་ལེན་བཟང་ཤོས་དང་། ཇུས་འགོད་དཔེ་གཞི། རྒྱུན་མཐོང་ནོར་འཁྲུལ་བཅས། ROS1 nodes, packages, launch files བཟོ་སྐབས་སམ ROS1 མ་ལག་གི་སྐྱོན་སེལ་སྐབས་ནུས་པ་འདི་བེད་སྤྱོད་གྱིས། སྤྱོད་མཁན་གྱིས ROS1, catkin, rospy, roscpp, roslaunch, roscore, rostopic, tf, actionlib, message types, services ཡང་ན ROS1 དུས་རབས་ཀྱི་འཕྲུལ་མིའི middleware གང་རུང་གླེང་སྐབས་འགུལ་སློང་བྱོས། ROS1 ཨང་རྟགས ROS2 ལ་སྤོ་བ་དང་། ROS1 མ་ལག་རྙིང་པ་རྒྱུན་སྐྱོང་། ROS1-ROS2 bridges བཟོ་བ་བཅས་ལའང་འགུལ་སློང་བྱོས། catkin workspaces, nodelets, dynamic reconfigure, pluginlib དང ROS1 སྐྱེ་ཁམས་མ་ལག་ཧྲིལ་པོ་ཁྱབ།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros2": {
+    "name": "ros2",
+    "description": "ROS2 (Robot Operating System 2) གསར་སྤེལ་གྱི་ལག་ལེན་བཟང་ཤོས་ཆ་ཚང་དང་། ཇུས་འགོད་དཔེ་གཞི། རྒྱུན་མཐོང་ནོར་འཁྲུལ་བཅས། ROS2 nodes, packages, launch files, components བཟོ་སྐབས་སམ ROS2 མ་ལག་གི་སྐྱོན་སེལ་སྐབས་ནུས་པ་འདི་བེད་སྤྱོད་གྱིས། སྤྱོད་མཁན་གྱིས ROS2, colcon, rclpy, rclcpp, DDS, QoS, lifecycle nodes, managed nodes, ROS2 launch, ROS2 parameters, ROS2 actions, nav2, MoveIt2, micro-ROS ཡང་ན ROS2 དུས་རབས་ཀྱི་འཕྲུལ་མིའི middleware གང་རུང་གླེང་སྐབས་འགུལ་སློང་བྱོས། ROS2 workspace སྒྲིག་འགོད་དང་། DDS ལེགས་སྒྲིག intra-process communication, ROS2 བདེ་འཇགས། ROS2 ཐོན་སྐྱེད་ཁོར་ཡུག་ཏུ་འགྲེམས་སྤེལ་བཅས་ལའང་འགུལ་སློང་བྱོས། colcon build གནད་དོན་དང་། ament_cmake, ament_python, ROS2 ཡི CMakeLists.txt, package.xml dependencies, rosdep, workspace overlays, custom message generation, ROS2 build སྐྱོན་སེལ་བཅས་ལའང་འགུལ་སློང་བྱོས། Humble, Iron, Jazzy, Rolling བཅས་ཀྱི distributions ཁྱབ།"
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros2-web-integration": {
+    "name": "ros2-web-integration",
+    "description": "ROS2 མ་ལག་དང web ལག་རྩལ་མཉམ་སྦྲེལ་གྱི་དཔེ་གཞི་དང་ལག་ལེན་བཟང་ཤོས། REST APIs, WebSocket bridges, browser གཞིར་བཞག་འཕྲུལ་མིའི interfaces བཅས་ཚུད། འཕྲུལ་མིའི web dashboards བཟོ་བ་དང་། camera feeds བརྙན་ཤེལ་browser ལ་རྒྱུན་གཏོང་། ROS2 services ལ REST endpoints སུ་ཕྱིར་སྟོན། web UIs དང ROS2 nodes བར་ཕྱོགས་གཉིས་ WebSocket འབྲེལ་མཐུད་ལག་བསྟར་བཅས་ལ་ནུས་པ་འདི་བེད་སྤྱོད་གྱིས། སྤྱོད་མཁན་གྱིས rosbridge, rosbridge_suite, roslibjs, ROS2 དང་མཉམ་དུ FastAPI, rclpy དང་མཉམ་དུ Flask, འཕྲུལ་མིའི telemetry ལ WebSocket, MJPEG streaming, འཕྲུལ་མི་ལ WebRTC, ROS2 services ལ REST API ཤུན་སྒྲིལ། web གཞིར་བཞག་འཕྲུལ་མི་ཚོད་འཛིན། browser འཕྲུལ་མིའི interface, robot dashboard, འཕྲུལ་མི་ལ CORS configuration ཡང་ན web-to-ROS2 bridge དཔེ་གཞི་གང་རུང་གླེང་སྐབས་འགུལ་སློང་བྱོས། འཕྲུལ་མིའི web interfaces ཐོག་authentication, sensor streams ལ rate limiting, འཕྲུལ་མིའི cameras ནས browsers ལ video streaming, ROS2 executor དང་མཉམ་དུ async web frameworks འཁོར་སྐྱོད་བཅས་ལའང་འགུལ་སློང་བྱོས། rosbridge_suite, FastAPI, Flask, WebSocket, WebRTC བཅས་ཀྱི་ཐབས་ལམ་ཁྱབ།"
+  },
+  "arjun988/blender-skills:.claude/skills/scene-assembly": {
+    "name": "scene-assembly",
+    "description": "Blender ནང collections, linking, overrides, streaming དང་འཚམ་པའི་སྒྲིག་འཛུགས། MCP བརྒྱུད set assembly བཅས་བེད་སྤྱད་དེ་ཡུལ་ལྗོངས་ཆེན་པོའི་བཀོད་སྒྲིག"
+  },
+  "arjun988/blender-skills:.cursor/skills/scene-assembly": {
+    "name": "scene-assembly",
+    "description": "Blender ནང collections, linking, overrides, streaming དང་འཚམ་པའི་སྒྲིག་འཛུགས། MCP བརྒྱུད set assembly བཅས་བེད་སྤྱད་དེ་ཡུལ་ལྗོངས་ཆེན་པོའི་བཀོད་སྒྲིག"
+  },
+  "arjun988/blender-skills:.claude/skills/sci-fi-punk-worlds": {
+    "name": "ཚན་རིག་བསམ་འཆར་དང་པང་ཁི་འཇིག་རྟེན།",
+    "description": "Blender ཆེད་དུ་ཚན་རིག་བསམ་འཆར་དང་པང་ཁི་འཇིག་རྟེན་གྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། ནང་དུ་ཚན་རིག་ངོ་མ། བར་སྣང་། སའི་བྷར་པང་ཁི། སི་ཊིམ་པང་ཁི། ཌི་ཛལ་པང་ཁི། ཨེ་ཊོམ་པང་ཁི། སོ་ལར་པང་ཁི། བྷའོ་པང་ཁི། ཀློག་པང་ཁི་བཅས་ཡོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/sci-fi-punk-worlds": {
+    "name": "ཚན་རིག་བསམ་འཆར་དང་པང་ཁི་འཇིག་རྟེན།",
+    "description": "Blender ཆེད་དུ་ཚན་རིག་བསམ་འཆར་དང་པང་ཁི་འཇིག་རྟེན་གྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། ནང་དུ་ཚན་རིག་ངོ་མ། བར་སྣང་། སའི་བྷར་པང་ཁི། སི་ཊིམ་པང་ཁི། ཌི་ཛལ་པང་ཁི། ཨེ་ཊོམ་པང་ཁི། སོ་ལར་པང་ཁི། བྷའོ་པང་ཁི། ཀློག་པང་ཁི་བཅས་ཡོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/sculpting": {
+    "name": "འབུར་བཟོ།",
+    "description": "Blender ནང་ Dyntopo, multiresolution, པིར། alpha ལས་རིམ། གཉེར་མ། གནོད་སྐྱོན་བཅས་བེད་སྤྱོད་ནས་སྐྱེ་ལྡན་དང་མཁྲེགས་ངོས་ཀྱི་ཞིབ་ཕྲའི་འབུར་བཟོ། Blender ནང་ MCP བརྒྱུད་ retopology མ་བྱས་གོང་ཟློས་མཐོའི་ངོས་ཞིབ་ཕྲ་དགོས་སྐབས་བེད་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/sculpting": {
+    "name": "འབུར་བཟོ།",
+    "description": "Blender ནང་ Dyntopo, multiresolution, པིར། alpha ལས་རིམ། གཉེར་མ། གནོད་སྐྱོན་བཅས་བེད་སྤྱོད་ནས་སྐྱེ་ལྡན་དང་མཁྲེགས་ངོས་ཀྱི་ཞིབ་ཕྲའི་འབུར་བཟོ། Blender ནང་ MCP བརྒྱུད་ retopology མ་བྱས་གོང་ཟློས་མཐོའི་ངོས་ཞིབ་ཕྲ་དགོས་སྐབས་བེད་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/set-dressing": {
+    "name": "ཡུལ་ལྗོངས་རྒྱན་སྤྲས།",
+    "description": "MCP བརྒྱུད་ནས་ནང་དང་ཕྱིའི་ཡུལ་ལྗོངས་ཀྱི་རྒྱན་སྤྲས་དང་ཁོར་ཡུག་གཏམ་རྒྱུད་འཇོག་སྟངས། ལག་ཆའི་མཐུག་ཚད། གཏམ་རྒྱུད་ཚོགས་པ། ཀློག་བདེའི་སྒྲིག་གཞི་བཅས་བེད་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/set-dressing": {
+    "name": "ཡུལ་ལྗོངས་རྒྱན་སྤྲས།",
+    "description": "MCP བརྒྱུད་ནས་ནང་དང་ཕྱིའི་ཡུལ་ལྗོངས་ཀྱི་རྒྱན་སྤྲས་དང་ཁོར་ཡུག་གཏམ་རྒྱུད་འཇོག་སྟངས། ལག་ཆའི་མཐུག་ཚད། གཏམ་རྒྱུད་ཚོགས་པ། ཀློག་བདེའི་སྒྲིག་གཞི་བཅས་བེད་སྤྱོད།"
+  },
+  "anthropics/skills:skills/skill-creator": {
+    "name": "skill-creator",
+    "description": "ནུས་རྩལ་གསར་པ་བཟོ་བ། ཡོད་པའི་ནུས་རྩལ་བཅོས་ཤིང་ལེགས་སུ་གཏོང་བ། ནུས་རྩལ་གྱི་ལས་ཆོད་ཚད་འཇལ་བ། སྤྱོད་མཁན་གྱིས་ནུས་རྩལ་གསར་པ་ཐོག་མ་ནས་བཟོ་བའམ། ཡོད་པའི་ནུས་རྩལ་རྩོམ་སྒྲིག་གམ་ལེགས་བཅོས་བྱེད་པའམ། evals བཏང་ནས་ནུས་རྩལ་ཚོད་ལྟ་བྱེད་པའམ། ཁྱད་པའི་དབྱེ་ཞིབ་ཀྱིས་ནུས་རྩལ་གྱི་ལས་ཆོད་དཔྱད་ཞིབ་བྱེད་པའམ། འབོད་སློང་གི་ཏག་ཚད་ལེགས་སུ་གཏོང་ཆེད་ནུས་རྩལ་གྱི་འགྲེལ་བཤད་ལེགས་བཅོས་བྱེད་འདོད་སྐབས་བེད་སྤྱོད།"
+  },
+  "cexll/myclaude:skills/skill-install": {
+    "name": "skill-install",
+    "description": "GitHub མཛོད་ནས་ Claude ནུས་རྩལ་རྣམས་རང་འགུལ་བདེ་འཇགས་བརྟག་དཔྱད་དང་བཅས་སྒྲིག་འཇུག་བྱེད། སྤྱོད་མཁན་གྱིས་ GitHub URL ནས་ནུས་རྩལ་སྒྲིག་འཇུག་བྱེད་འདོད་པའམ། མཛོད་ནང་ཡོད་པའི་ནུས་རྩལ་ལ་ལྟ་ཞིབ་བྱེད་དགོས་པའམ། རང་གི་ Claude ཁོར་ཡུག་ཏུ་ནུས་རྩལ་གསར་པ་བདེ་འཇགས་ངང་སྣོན་འདོད་སྐབས་འབོད་སློང་བྱེད།"
+  },
+  "anthropics/skills:skills/slack-gif-creator": {
+    "name": "slack-gif-creator",
+    "description": "Slack ཆེད་ལེགས་བཅོས་བྱས་པའི་འགུལ་རིས་ GIF བཟོ་བའི་ཤེས་བྱ་དང་ལག་ཆ། ཚད་བཀག ཞིབ་བཤེར་ལག་ཆ། འགུལ་རིས་ཀྱི་ལྟ་བ་བཅས་འདོན་སྤྲོད་བྱེད། སྤྱོད་མཁན་གྱིས་ Slack ཆེད་འགུལ་རིས་ GIF ཞུ་སྐབས་བེད་སྤྱོད། དཔེར་ན་ \"Slack ཆེད་ X ཡིས་ Y བྱེད་པའི་ GIF ཞིག་བཟོས་ཞེས་པ་ལྟ་བུ།"
+  },
+  "cexll/myclaude:skills/sparv": {
+    "name": "sparv",
+    "description": "SPARV ལས་རིམ་ཉུང་མཐའི་རྣམ་པ (Specify→Plan→Act→Review→Vault)། ཚད་གཞིའི་སྒོ་ཆ་ཚང་ ༡༠ ཅན། གཅིག་གྱུར་ཉིན་ཐོ། བྱ་བ་ ༢ རེར་ཉར་ཚགས། ཕམ་ཉེས་ ༣ གྱི་སྒྲིག་ལམ། EHRB ཉེན་ཁ་ངོས་འཛིན་བཅས་ཡོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/stop-motion-craft-style": {
+    "name": "stop-motion-craft-style",
+    "description": "Blender ཆེད་ཀྱི་ stop-motion དང་ལག་བཟོའི་མཛེས་རྩལ། ནང་དུ་འཇིམ་པའི་འགུལ་རིས། ཤོག་བུའི་ལག་བཟོ། ལག་བཟོ་དངོས་པོའི་རྒྱུ་ཆའི་ཁྱད་རྟགས་བཅས་ཡོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/stop-motion-craft-style": {
+    "name": "stop-motion-craft-style",
+    "description": "Blender ཆེད་ཀྱི་ stop-motion དང་ལག་བཟོའི་མཛེས་རྩལ། ནང་དུ་འཇིམ་པའི་འགུལ་རིས། ཤོག་བུའི་ལག་བཟོ། ལག་བཟོ་དངོས་པོའི་རྒྱུ་ཆའི་ཁྱད་རྟགས་བཅས་ཡོད།"
+  },
+  "arjun988/blender-skills:.claude/skills/stylized-style": {
+    "name": "stylized-style",
+    "description": "Blender ཆེད་ཀྱི་བཟོ་བཅོས་སྒྱུ་རྩལ་ཁ་ཕྱོགས། དབྱིབས་ཀྱི་སྐད་བརྡ། ཆེར་སྐྱེད། ཚོན་མདོག་མཐུན་སྦྱོར། NPR rendering། ལག་བྲིས་རྒྱུ་ཆའི་ལས་རིམ་བཅས་ཡོད། པར་ངོ་མ་མིན་པའི་རོལ་རྩེད་དང་འགུལ་རིས་ལས་གཞིར་བེད་སྤྱོད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/stylized-style": {
+    "name": "stylized-style",
+    "description": "Blender ཆེད་ཀྱི་བཟོ་བཅོས་སྒྱུ་རྩལ་ཁ་ཕྱོགས། དབྱིབས་ཀྱི་སྐད་བརྡ། ཆེར་སྐྱེད། ཚོན་མདོག་མཐུན་སྦྱོར། NPR rendering། ལག་བྲིས་རྒྱུ་ཆའི་ལས་རིམ་བཅས་ཡོད། པར་ངོ་མ་མིན་པའི་རོལ་རྩེད་དང་འགུལ་རིས་ལས་གཞིར་བེད་སྤྱོད།"
+  },
+  "anthropics/skills:template": {
+    "name": "template-skill",
+    "description": "ནུས་རྩལ་གྱི་འགྲེལ་བཤད་དང་ Claude ཡིས་ནམ་བེད་སྤྱོད་དགོས་པའི་སྐོར་གྱིས་ཚབ་འཇོག་བྱོས།"
+  },
+  "cexll/myclaude:skills/test-cases": {
+    "name": "ཚོད་ལྟའི་གནས་ཚུལ།",
+    "description": "PRD ཡིག་ཆའམ་སྤྱོད་མཁན་གྱི་དགོས་མཁོ་ལས་ཆ་ཚང་བའི་ཚོད་ལྟའི་གནས་ཚུལ་བཟོ་དགོས་སྐབས་ནུས་པ་འདི་བེད་སྤྱོད་བྱེད་དགོས། སྤྱོད་མཁན་གྱིས་ཚོད་ལྟའི་གནས་ཚུལ་བཟོ་བའམ། QA འཆར་འགོད། ཚོད་ལྟའི་གནས་སྟངས་གསར་བཟོ། ཡང་ན་གྲུབ་ཚུལ་ལྡན་པའི་ཚོད་ལྟའི་ཡིག་ཆ་དགོས་ཞེས་རེ་སྐུལ་བྱེད་སྐབས་འགུལ་སློང་བྱེད། བྱེད་ནུས་དང་། མཐའ་མཚམས་གནས་ཚུལ། ནོར་འཁྲུལ་ཐག་གཅོད། གནས་སྟངས་བརྗེ་སྒྱུར་བཅས་ཀྱི་གནས་སྟངས་ཁྱབ་པའི་ཞིབ་ཕྲའི་ཚོད་ལྟའི་གནས་ཚུལ་ཐོན་སྐྱེད་བྱེད།"
+  },
+  "arjun988/blender-skills:.claude/skills/texture-workflow": {
+    "name": "texture-workflow",
+    "description": "atlas དང་། AO/curvature/normal/roughness map སྲེག་པ། decal། texture དྲན་ཤེས་ལེགས་སྒྱུར་བཅས་ཀྱི་ཐོན་སྐྱེད་ texture ལས་རིམ། Blender ནང་ MCP བརྒྱུད་ནས་རྩེད་མོར་གྲ་སྒྲིག་ཟིན་པའི་ texture ལས་རིམ་ལ་བེད་སྤྱོད་བྱེད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/texture-workflow": {
+    "name": "texture-workflow",
+    "description": "atlas དང་། AO/curvature/normal/roughness map སྲེག་པ། decal། texture དྲན་ཤེས་ལེགས་སྒྱུར་བཅས་ཀྱི་ཐོན་སྐྱེད་ texture ལས་རིམ། Blender ནང་ MCP བརྒྱུད་ནས་རྩེད་མོར་གྲ་སྒྲིག་ཟིན་པའི་ texture ལས་རིམ་ལ་བེད་སྤྱོད་བྱེད།"
+  },
+  "anthropics/skills:skills/theme-factory": {
+    "name": "theme-factory",
+    "description": "artifact ལ་བརྗོད་གཞིའི་བཟོ་ལྟ་སྤྲོད་པའི་ལག་ཆའི་སྒམ། artifact འདི་དག་ནི་ slide དང་། ཡིག་ཆ། སྙན་ཞུ། HTML landing page སོགས་ཡིན་ཆོག སྔོན་སྒྲིག་བརྗོད་གཞི་ 10 ཡོད་ཅིང་། དེ་དག་གི་ཁ་དོག་དང་ཡིག་གཟུགས་ནི་བཟོས་ཟིན་པའི་ artifact གང་རུང་ལ་སྦྱོར་ཆོག་པའམ། ཡང་ན་བརྗོད་གཞི་གསར་པ་འཕྲལ་དུ་བཟོ་ཆོག"
+  },
+  "arjun988/blender-skills:.claude/skills/unity-export": {
+    "name": "unity-export",
+    "description": "Unity ཆེད་ཀྱི་ Blender ཕྱིར་འདྲེན། scale དང་། axis། material། humanoid/generic rig། LOD། collision ནང་འདྲེན་བཅས་ MCP བརྒྱུད་ནས་བྱེད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/unity-export": {
+    "name": "unity-export",
+    "description": "Unity ཆེད་ཀྱི་ Blender ཕྱིར་འདྲེན། scale དང་། axis། material། humanoid/generic rig། LOD། collision ནང་འདྲེན་བཅས་ MCP བརྒྱུད་ནས་བྱེད།"
+  },
+  "arjun988/blender-skills:.claude/skills/unreal-export": {
+    "name": "unreal-export",
+    "description": "Unreal Engine ཆེད་ཀྱི་ Blender ཕྱིར་འདྲེན། FBX scale དང་། LOD། UCX collision། socket། material། skeletal mesh ལས་རིམ་བཅས་ MCP བརྒྱུད་ནས་བྱེད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/unreal-export": {
+    "name": "unreal-export",
+    "description": "Unreal Engine ཆེད་ཀྱི་ Blender ཕྱིར་འདྲེན། FBX scale དང་། LOD། UCX collision། socket། material། skeletal mesh ལས་རིམ་བཅས་ MCP བརྒྱུད་ནས་བྱེད།"
+  },
+  "arjun988/blender-skills:.claude/skills/uv-workflow": {
+    "name": "uv-workflow",
+    "description": "seam འཇོག་ས་དང་། UV packing། texel density། UDIM། lightmap UV། modular UV བཀོད་སྒྲིག་བཅས་ཀྱི་ཐོན་སྐྱེད་ UV གྲོལ་ལས། Blender ནང་ MCP བརྒྱུད་ནས་ mesh ལ་ texture སྦྱོར་བ་དང་ engine ལ་ཕྱིར་འདྲེན་གྲ་སྒྲིག་བྱེད་སྐབས་བེད་སྤྱོད་བྱེད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/uv-workflow": {
+    "name": "uv-workflow",
+    "description": "seam འཇོག་ས་དང་། UV packing། texel density། UDIM། lightmap UV། modular UV བཀོད་སྒྲིག་བཅས་ཀྱི་ཐོན་སྐྱེད་ UV གྲོལ་ལས། Blender ནང་ MCP བརྒྱུད་ནས་ mesh ལ་ texture སྦྱོར་བ་དང་ engine ལ་ཕྱིར་འདྲེན་གྲ་སྒྲིག་བྱེད་སྐབས་བེད་སྤྱོད་བྱེད།"
+  },
+  "arjun988/blender-skills:.claude/skills/vector-style": {
+    "name": "vector-style",
+    "description": "Blender ཆེད་ཀྱི་ vector གཙང་མའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། ཁ་དོག་སྙོམས་པོའི་ཁ་སྐོང་དང་། རྣོ་བའི་ཕྱི་དབྱིབས། UI ལྟ་བུའི་རི་མོའི་གསལ་ཆ་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.cursor/skills/vector-style": {
+    "name": "vector-style",
+    "description": "Blender ཆེད་ཀྱི་ vector གཙང་མའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། ཁ་དོག་སྙོམས་པོའི་ཁ་སྐོང་དང་། རྣོ་བའི་ཕྱི་དབྱིབས། UI ལྟ་བུའི་རི་མོའི་གསལ་ཆ་བཅས་ལྡན།"
+  },
+  "arjun988/blender-skills:.claude/skills/vegetation-artist": {
+    "name": "vegetation-artist",
+    "description": "Blender ཆེད་ཀྱི་སྐྱེ་ཤིང་དང་ལོ་འདབ་བཟོ་སྐྲུན། ཤིང་སྡོང་དང་། སྐྱེ་ཚལ། grass card། canopy LOD། རྩེད་མོར་འཚམ་པའི་ལོ་མའི་ atlas བཅས་ MCP བརྒྱུད་ནས་བྱེད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/vegetation-artist": {
+    "name": "vegetation-artist",
+    "description": "Blender ཆེད་ཀྱི་སྐྱེ་ཤིང་དང་ལོ་འདབ་བཟོ་སྐྲུན། ཤིང་སྡོང་དང་། སྐྱེ་ཚལ། grass card། canopy LOD། རྩེད་མོར་འཚམ་པའི་ལོ་མའི་ atlas བཅས་ MCP བརྒྱུད་ནས་བྱེད།"
+  },
+  "arjun988/blender-skills:.claude/skills/vehicle-artist": {
+    "name": "vehicle-artist",
+    "description": "རླངས་འཁོར་དང་། དོས་འཁོར། གནམ་གྲུ། གྲུ་ཆེན། གྲུ་ཆུང་། mech། འགྲིམ་འགྲུལ་ asset བཅས་ཀྱི་ཆེད་སྤྱོད་འཁོར་ལོའི་བཟོ་སྐྲུན། Blender ནང་ MCP བརྒྱུད་ནས་ཆ་ཚད་དང་། panel རྒྱུན། རྩེད་མོའི་ LOD ལ་དོ་སྣང་བཅས་བྱེད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/vehicle-artist": {
+    "name": "vehicle-artist",
+    "description": "རླངས་འཁོར་དང་། དོས་འཁོར། གནམ་གྲུ། གྲུ་ཆེན། གྲུ་ཆུང་། mech། འགྲིམ་འགྲུལ་ asset བཅས་ཀྱི་ཆེད་སྤྱོད་འཁོར་ལོའི་བཟོ་སྐྲུན། Blender ནང་ MCP བརྒྱུད་ནས་ཆ་ཚད་དང་། panel རྒྱུན། རྩེད་མོའི་ LOD ལ་དོ་སྣང་བཅས་བྱེད།"
+  },
+  "arjun988/blender-skills:.claude/skills/vfx-fx": {
+    "name": "vfx-fx",
+    "description": "Blender ནང་གི་གློག་བརྙན་དང་རྩེད་མོའི་ VFX། དུ་བ་དང་། མེ། particle། trail། Geometry Nodes FX སྒྲིག་འགོད་བཅས་ MCP བརྒྱུད་ནས་བྱེད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/vfx-fx": {
+    "name": "vfx-fx",
+    "description": "Blender ནང་གི་གློག་བརྙན་དང་རྩེད་མོའི་ VFX། དུ་བ་དང་། མེ། particle། trail། Geometry Nodes FX སྒྲིག་འགོད་བཅས་ MCP བརྒྱུད་ནས་བྱེད།"
+  },
+  "arjun988/blender-skills:.claude/skills/visual-console-eras": {
+    "name": "visual-console-eras",
+    "description": "Blender ཡི་མཐོང་ཚོར་དུས་རབས་ཀྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། PS1–PS5 ཡི་བཟོ་དབྱིབས་ཁྱད་རྟགས་དང་། དུས་རྙིང་ arcade རྩེད་འཕྲུལ། DOS, CRT, VHS བཅས་དང་གློག་བརྙན་གྱི་འབྲུ་རིས་མངོན་སྟངས་བཅས་ཚུད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/visual-console-eras": {
+    "name": "visual-console-eras",
+    "description": "Blender ཡི་མཐོང་ཚོར་དུས་རབས་ཀྱི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། PS1–PS5 ཡི་བཟོ་དབྱིབས་ཁྱད་རྟགས་དང་། དུས་རྙིང་ arcade རྩེད་འཕྲུལ། DOS, CRT, VHS བཅས་དང་གློག་བརྙན་གྱི་འབྲུ་རིས་མངོན་སྟངས་བཅས་ཚུད།"
+  },
+  "arjun988/blender-skills:.claude/skills/voxel-style": {
+    "name": "voxel-style",
+    "description": "Blender ཡི་ Voxel དང་ Minecraft དང་འབྲེལ་བའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། གྲུ་བཞིའི་དྲ་མིག་གི་དབྱིབས་བཟོ་དང་། ཚོན་མདོག་ཚད་ཡོད་པའི་ཚོན་སྡེབ། chunk དང་མཐུན་པའི་རྒྱུ་ཆ་བཅས་ཚུད།"
+  },
+  "arjun988/blender-skills:.cursor/skills/voxel-style": {
+    "name": "voxel-style",
+    "description": "Blender ཡི་ Voxel དང་ Minecraft དང་འབྲེལ་བའི་སྒྱུ་རྩལ་ཁ་ཕྱོགས། གྲུ་བཞིའི་དྲ་མིག་གི་དབྱིབས་བཟོ་དང་། ཚོན་མདོག་ཚད་ཡོད་པའི་ཚོན་སྡེབ། chunk དང་མཐུན་པའི་རྒྱུ་ཆ་བཅས་ཚུད།"
+  },
+  "anthropics/skills:skills/web-artifacts-builder": {
+    "name": "web-artifacts-builder",
+    "description": "དེང་རབས་ཀྱི་ frontend དྲ་རྒྱའི་ལག་རྩལ་ (React, Tailwind CSS, shadcn/ui) སྤྱད་ནས་ claude.ai ཡི་ HTML artifact རྒྱས་ཤིང་གྲུབ་ཆ་མང་པོ་ཅན་བཟོ་བའི་ལག་ཆའི་ཚོགས། state དོ་དམ་དང་ routing ཡང་ན་ shadcn/ui ཡི་གྲུབ་ཆ་དགོས་པའི་ artifact རྙོག་འཛིང་ཅན་ལ་སྤྱོད། ཡིག་ཆ་གཅིག་ཅན་གྱི་ HTML/JSX artifact སྟབས་བདེ་ལ་མི་སྤྱོད།"
+  },
+  "anthropics/skills:skills/webapp-testing": {
+    "name": "webapp-testing",
+    "description": "Playwright བེད་སྤྱད་ནས་ས་གནས་ཀྱི་དྲ་བའི་ཉེར་སྤྱོད་ལ་འབྲེལ་འདྲིས་དང་ཚོད་ལྟ་བྱེད་པའི་ལག་ཆའི་སྡེབ། མདུན་ངོས་ཀྱི་བྱེད་ནུས་ར་སྤྲོད་དང་། UI ཡི་སྤྱོད་ཚུལ་སྐྱོན་སེལ། དྲ་ལྟ་ཆས་ཀྱི་བརྙན་ངོས་པར་ལེན། དྲ་ལྟ་ཆས་ཀྱི་ཐོ་འགོད་ལྟ་ཀློག་བཅས་ལ་རྒྱབ་སྐྱོར་བྱེད།"
+  },
+  "emilkowalski/skills:skills/write-swift": {
+    "name": "write-swift",
+    "description": "དེང་རབས་ Swift ཇི་ལྟར་ལེགས་པར་འབྲི་ཚུལ། — value type ཡིས་དབྱིབས་བཟོ་བ། Swift 6 ཡི་ data-race བདེ་འཇགས་དང་སྤྱོད་བདེ་བའི་ concurrency (@concurrent, main-actor-by-default, actors, task groups)། protocols དང་ generics (some དང་ any)། API ཇུས་འགོད། ནུས་ཚད་དང་ ARC། Swift Testing། macros། དེ་བཞིན་ agent ཚོས་ད་དུང་མི་ཤེས་པའི་དེང་རབས་སྐད་ཡིག་གི་ཁྱད་ཆོས་བཅས། Swift འབྲི་བའམ་ཞིབ་བཤེར། སྤོ་སྒྱུར་བྱེད་སྐབས་དང་། ཡང་ན་ concurrency ནོར་འཁྲུལ། འགག་འཁྱིལ། data race། retain cycle། ནུས་ཚད་ཀྱི་གནད་དོན་བཅོས་དགོས་སྐབས་བེད་སྤྱོད།"
+  },
+  "anthropics/skills:skills/xlsx": {
+    "name": "xlsx",
+    "description": "རེའུ་མིག་ཡིག་ཆ་གཙོ་བོའི་ནང་འཇུག་གམ་ཐོན་འབྲས་ཡིན་སྐབས་གང་རུང་དུ་ནུས་པ་འདི་བེད་སྤྱོད། དེ་ནི་སྤྱོད་མཁན་གྱིས་གཤམ་གསལ་འདོད་པའི་ལས་ཀ་གང་རུང་སྟེ། ཡོད་བཞིན་པའི .xlsx, .xlsm, .xltx, .csv, .tsv ཡིག་ཆ་ཁ་ཕྱེ་བའམ་ཀློག་པ། རྩོམ་སྒྲིག་གམ་བཅོས་སྒྲིག་བྱེད་པ (དཔེར་ན་ཀ་བ་སྣོན་པ། སྤྱི་འགྲོས་རྩིས་རྒྱག་པ། རྣམ་གཞག་སྒྲིག་པ། རེའུ་རིས་བཟོ་བ། གཞི་གྲངས་འཛིང་པོ་གཙང་སེལ་བྱེད་པ)། ཡང་ན་ཐོག་མ་ནས་སམ་གཞི་གྲངས་ཁུངས་གཞན་ནས་རེའུ་མིག་གསར་པ་བཟོ་བ། ཡང་ན་རེའུ་མིག་ཡིག་ཆའི་རྣམ་གཞག་བར་སྒྱུར་བ་བཅས་སོ། ལྷག་པར་སྤྱོད་མཁན་གྱིས་རེའུ་མིག་ཡིག་ཆ་མིང་ངམ་ལམ་བུས་འབོད་སྐབས — གློ་བུར་དུ་བཤད་པ་ཡིན་ཡང་ (དཔེར་ན་ \\\"the xlsx in my downloads\\\") — དེ་ལ་ལས་ཀ་ཞིག་བྱེད་འདོད་པའམ་དེ་ནས་ཐོན་འབྲས་ཤིག་བཟོ་འདོད་ན་འདི་སྐུལ་སློང་བྱོས། དེ་བཞིན་རེའུ་མིག་གཞི་གྲངས་ཡིག་ཆ་འཛིང་པོ (གྲལ་ཐིག་ནོར་བ། ཁ་བྱང་གནས་ནོར་བ། གཞི་གྲངས་སྙིགས་མ) གཙང་སེལ་ལམ་བསྐྱར་སྒྲིག་བྱས་ནས་རེའུ་མིག་ཚད་ལྡན་དུ་བཟོ་བའི་ཆེད་དུའང་སྐུལ་སློང་བྱོས། འབུལ་དགོས་པའི་ཐོན་འབྲས་ནི་ངེས་པར་རེའུ་མིག་ཡིག་ཆ་ཞིག་ཡིན་དགོས། གཙོ་བོའི་ཐོན་འབྲས་ Word ཡིག་ཆའམ། HTML སྙན་ཞུ། རང་རྐྱ་འཕེར་བའི་ Python script། གཞི་གྲངས་མཛོད་ཀྱི་ pipeline། Google Sheets API མཐུད་སྦྱོར་བཅས་ཡིན་ན། རེའུ་མིག་གཞི་གྲངས་ཚུད་ཡོད་ཀྱང་སྐུལ་སློང་མ་བྱེད།"
+  }
+}

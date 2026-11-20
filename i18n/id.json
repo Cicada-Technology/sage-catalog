@@ -1,0 +1,1930 @@
+{
+  "ComposioHQ/awesome-claude-skills:composio-skills/-21risk-automation": {
+    "name": "-21otomatisasi-risiko",
+    "description": "Otomatiskan tugas 21risk melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/-2chat-automation": {
+    "name": "-2otomatisasi-chat",
+    "description": "Otomatiskan tugas 2chat melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ahrefs-automation": {
+    "name": "Otomatisasi Ahrefs",
+    "description": "Otomatiskan riset SEO dengan Ahrefs -- analisis profil backlink, riset kata kunci, lacak riwayat metrik domain, audit peringkat organik, dan lakukan analisis URL massal melalui integrasi Composio Ahrefs."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apify-automation": {
+    "name": "Otomatisasi Apify",
+    "description": "Otomatiskan web scraping dan ekstraksi data dengan Apify -- jalankan Aktor, kelola dataset, buat tugas yang dapat digunakan kembali, dan ambil hasil crawling melalui integrasi Composio Apify."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apollo-automation": {
+    "name": "Otomatisasi Apollo",
+    "description": "Otomatiskan generasi prospek Apollo.io -- cari organisasi, temukan kontak, lengkapi data prospek, kelola tahap kontak, dan buat daftar outreach yang ditargetkan -- menggunakan bahasa alami melalui integrasi Composio MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ashby-automation": {
+    "name": "Otomatisasi Ashby",
+    "description": "Otomatiskan alur kerja rekrutmen dan perekrutan di Ashby -- kelola kandidat, lowongan pekerjaan, lamaran, wawancara, dan catatan melalui perintah bahasa alami."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/attio-automation": {
+    "name": "Otomatisasi Attio",
+    "description": "Otomatiskan operasi CRM Attio -- cari rekaman, query kontak dan perusahaan dengan filter canggih, kelola catatan, daftar atribut, dan navigasikan data hubungan Anda -- menggunakan bahasa alami melalui integrasi Composio MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/braintree-automation": {
+    "name": "Otomatisasi Braintree",
+    "description": "Otomatisasi Braintree: kelola pemrosesan pembayaran melalui alat kompatibel Stripe untuk pelanggan, langganan, metode pembayaran, dan transaksi"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/capsule-crm-automation": {
+    "name": "Otomatisasi Capsule CRM",
+    "description": "Otomatiskan operasi Capsule CRM -- kelola kontak (pihak), jalankan query filter terstruktur, lacak tugas dan proyek, catat entri, dan tangani organisasi -- menggunakan bahasa alami melalui integrasi Composio MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clockify-automation": {
+    "name": "Otomatisasi Clockify",
+    "description": "Otomatiskan alur kerja pelacakan waktu di Clockify -- buat dan kelola entri waktu, ruang kerja, dan pengguna melalui perintah bahasa alami."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudinary-automation": {
+    "name": "Otomatisasi Cloudinary",
+    "description": "Otomatiskan manajemen media Cloudinary termasuk pengaturan folder, preset unggahan, pencarian aset, transformasi, dan pemantauan penggunaan melalui perintah bahasa alami"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinbase-automation": {
+    "name": "Otomatisasi Coinbase",
+    "description": "Otomatisasi Coinbase: daftar dan kelola dompet mata uang kripto, akun, dan data portofolio melalui Coinbase CDP SDK"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/contentful-automation": {
+    "name": "Otomatisasi Contentful",
+    "description": "Otomatiskan operasi headless CMS di Contentful -- daftar ruang, ambil metadata ruang, dan perbarui konfigurasi ruang melalui integrasi Composio Contentful."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ably-automation": {
+    "name": "ably-otomatisasi",
+    "description": "Otomatiskan tugas Ably melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abstract-automation": {
+    "name": "abstract-otomatisasi",
+    "description": "Otomatiskan tugas Abstract melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abuselpdb-automation": {
+    "name": "abuselpdb-otomatisasi",
+    "description": "Otomatiskan tugas Abuselpdb melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abyssale-automation": {
+    "name": "abyssale-otomatisasi",
+    "description": "Otomatiskan tugas Abyssale melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "TingxiYu/academic-figure-skill:academic-figure-skill": {
+    "name": "academic-figure-skill",
+    "description": "Pembuatan gambar ilmiah tingkat akademik untuk jurnal Nature/Cell/Science. Gunakan ketika pengguna meminta untuk membuat, menyempurnakan, meninjau, atau mengekspor gambar ilmiah untuk pengiriman naskah. JANGAN aktifkan untuk: dasbor interaktif (Plotly/Bokeh/Altair), analisis data eksploratif tanpa niat publikasi, grafik fungsi matematika, diagram pai/3D, slide PowerPoint, atau desain awal Illustrator/Figma. LEWATKAN permintaan tentang pengujian statistik, pembersihan data, tinjauan literatur, atau debugging kode — ini bukan tugas pembuatan gambar."
+  },
+  "anthropics/skills:skills/academy-guide": {
+    "name": "academy-guide",
+    "description": "Hentikan dan periksa keterampilan ini sebelum menyelesaikan balasan apa pun atas pertanyaan tentang cara menggunakan Claude atau produk Claude — ini merekomendasikan kursus, tutorial, dan kasus penggunaan yang sesuai dari Claude Academy (academy.claude.com), pusat pembelajaran Anthropic. Aktifkan pada: \"how do I\", \"how can I\", \"getting started with\", \"what can Claude do\", \"teach me\", \"learn to use\"; pertanyaan tentang artefak, proyek, keterampilan, plugin, konektor, MCP; permintaan tentang peluncuran berkelanjutan Claude ke tim, kelas, atau organisasi; dan setiap permintaan materi pelatihan, konten onboarding, atau sumber belajar. Gunakan ketika pengguna sedang belajar cara menggunakan fitur atau produk — bukan ketika mereka sedang dalam tugas dan hanya ingin tugas tersebut diselesaikan. Keterampilan ini dapat digabungkan dengan keterampilan lain: setelah merujuk dokumentasi produk untuk menjawab bagaimana fitur Claude bekerja, periksa juga di sini untuk kursus atau tutorial yang sesuai — jawaban berbasis dokumentasi dan rekomendasi Academy harus berjalan bersama. Hanya rekomendasikan jika ada kesesuaian yang kuat; jangan pernah menciptakan konten Academy."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/accelo-automation": {
+    "name": "accelo-otomatisasi",
+    "description": "Otomatiskan tugas Accelo melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/accredible-certificates-automation": {
+    "name": "accredible-certificates-otomatisasi",
+    "description": "Otomatiskan tugas Accredible Certificates melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/acculynx-automation": {
+    "name": "acculynx-otomatisasi",
+    "description": "Otomatiskan tugas Acculynx melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/active-campaign-automation": {
+    "name": "active-campaign-otomatisasi",
+    "description": "Otomatiskan tugas ActiveCampaign melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/addresszen-automation": {
+    "name": "addresszen-otomatisasi",
+    "description": "Otomatiskan tugas Addresszen melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adobe-automation": {
+    "name": "adobe-otomatisasi",
+    "description": "Otomatiskan tugas Adobe melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adrapid-automation": {
+    "name": "adrapid-otomatisasi",
+    "description": "Otomatiskan tugas Adrapid melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adyntel-automation": {
+    "name": "adyntel-otomatisasi",
+    "description": "Otomatiskan tugas Adyntel melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aero-workflow-automation": {
+    "name": "aero-workflow-otomatisasi",
+    "description": "Otomatiskan tugas Aero Workflow melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aeroleads-automation": {
+    "name": "aeroleads-otomatisasi",
+    "description": "Otomatiskan tugas Aeroleads melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/affinda-automation": {
+    "name": "affinda-otomatisasi",
+    "description": "Otomatiskan tugas Affinda melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/affinity-automation": {
+    "name": "automasi-affinity",
+    "description": "Otomatiskan tugas Affinity melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agencyzoom-automation": {
+    "name": "automasi-agencyzoom",
+    "description": "Otomatiskan tugas Agencyzoom melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agent-mail-automation": {
+    "name": "automasi-agent-mail",
+    "description": "Otomatiskan tugas Agent Mail melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agentql-automation": {
+    "name": "automasi-agentql",
+    "description": "Otomatiskan tugas Agentql melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agenty-automation": {
+    "name": "automasi-agenty",
+    "description": "Otomatiskan tugas Agenty melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agiled-automation": {
+    "name": "automasi-agiled",
+    "description": "Otomatiskan tugas Agiled melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agility-cms-automation": {
+    "name": "automasi-agility-cms",
+    "description": "Otomatiskan tugas Agility CMS melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ai-ml-api-automation": {
+    "name": "automasi-ai-ml-api",
+    "description": "Otomatiskan tugas AI ML API melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aivoov-automation": {
+    "name": "automasi-aivoov",
+    "description": "Otomatiskan tugas Aivoov melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alchemy-automation": {
+    "name": "automasi-alchemy",
+    "description": "Otomatiskan tugas Alchemy melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/algodocs-automation": {
+    "name": "automasi-algodocs",
+    "description": "Otomatiskan tugas Algodocs melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/algolia-automation": {
+    "name": "automasi-algolia",
+    "description": "Otomatiskan tugas Algolia melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "anthropics/skills:skills/algorithmic-art": {
+    "name": "seni-algoritmik",
+    "description": "Membuat seni algoritmik menggunakan p5.js dengan keacakan berbasis benih dan eksplorasi parameter interaktif. Gunakan ini ketika pengguna meminta pembuatan seni menggunakan kode, seni generatif, seni algoritmik, bidang aliran, atau sistem partikel. Buatlah seni algoritmik orisinal daripada meniru karya seniman yang sudah ada untuk menghindari pelanggaran hak cipta."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/all-images-ai-automation": {
+    "name": "automasi-all-images-ai",
+    "description": "Otomatiskan tugas All Images AI melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alpha-vantage-automation": {
+    "name": "automasi-alpha-vantage",
+    "description": "Otomatiskan tugas Alpha Vantage melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/altoviz-automation": {
+    "name": "automasi-altoviz",
+    "description": "Otomatiskan tugas Altoviz melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alttext-ai-automation": {
+    "name": "automasi-alttext-ai",
+    "description": "Otomatiskan tugas Alttext AI melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amara-automation": {
+    "name": "automasi-amara",
+    "description": "Otomatiskan tugas Amara melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amazon-automation": {
+    "name": "automasi-amazon",
+    "description": "Otomatiskan tugas Amazon melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ambee-automation": {
+    "name": "automasi-ambee",
+    "description": "Otomatiskan tugas Ambee melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ambient-weather-automation": {
+    "name": "automasi-ambient-weather",
+    "description": "Otomatiskan tugas Ambient Weather melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amcards-automation": {
+    "name": "automasi-amcards",
+    "description": "Otomatiskan tugas Amcards melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "arjun988/blender-skills:.claude/skills/analog-found-footage-horror": {
+    "name": "horor-analog-found-footage",
+    "description": "Estetika horor analog, VHS, CRT, dan found-footage untuk shot Blender termasuk ketidaksempurnaan kamera dan framing dokumenter."
+  },
+  "arjun988/blender-skills:.cursor/skills/analog-found-footage-horror": {
+    "name": "horor-analog-found-footage",
+    "description": "Estetika horor analog, VHS, CRT, dan found-footage untuk shot Blender termasuk ketidaksempurnaan kamera dan framing dokumenter."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anchor-browser-automation": {
+    "name": "automasi-anchor-browser",
+    "description": "Otomatiskan tugas Anchor Browser melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "emilkowalski/skills:skills/animate": {
+    "name": "animate",
+    "description": "Bangun animasi dari nol, membuat keputusan sesuai urutan yang menentukan apakah hasilnya terasa tepat — apakah perlu dianimasikan sama sekali, untuk tujuan apa, menggunakan alat apa, properti apa, kurva dan durasi berapa, bagaimana cara menginterupsinya, dan bagaimana cara keluarnya. Menulis implementasinya. Gunakan ketika diminta untuk menganimasikan sesuatu, menambahkan gerakan, membuat komponen terasa hidup, atau membangun transisi. Untuk menilai gerakan yang sudah ada gunakan review-animations; untuk audit seluruh basis kode gunakan improve-animations."
+  },
+  "emilkowalski/skills:skills/animate-expo": {
+    "name": "animate-expo",
+    "description": "Bangun animasi di React Native dan Expo, membuat keputusan sesuai urutan yang menentukan apakah hasilnya terasa tepat — apakah perlu dianimasikan, pada thread mana ia berjalan, properti apa, spring atau timing, bagaimana gesture meneruskan kontrol, dan bagaimana penurunan kinerjanya. Menulis implementasinya dengan Reanimated, Gesture Handler, Expo Router, dan expo-haptics. Gunakan ketika menganimasikan apa pun dalam aplikasi Expo, menambahkan gesture, sheet, transisi layar, umpan balik tekan, atau haptics, atau memperbaiki gerakan yang tersendat di perangkat. Untuk animasi web gunakan `animate`."
+  },
+  "arjun988/blender-skills:.claude/skills/animation": {
+    "name": "animation",
+    "description": "Animasi siap game di Blender termasuk siklus berjalan/lari/idle, pertarungan, animasi mekanis, animasi kamera, constraints, Graph Editor, dan alur kerja NLA melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/animation": {
+    "name": "animation",
+    "description": "Animasi siap game di Blender termasuk siklus berjalan/lari/idle, pertarungan, animasi mekanis, animasi kamera, constraints, Graph Editor, dan alur kerja NLA melalui MCP."
+  },
+  "emilkowalski/skills:skills/animation-performance": {
+    "name": "performance-animasi",
+    "description": "Jaga animasi web tetap dalam anggaran frame — animasikan hanya properti komposit, jauhkan gerakan dari thread utama saat halaman sibuk, dan temukan penyebabnya ketika animasi turun frame. Gunakan ketika animasi terasa kasar, tersendat, gagap, atau turun frame; ketika memilih properti mana yang akan dianimasikan; ketika memutuskan antara animasi CSS dan JS berdasarkan kinerja; atau ketika mencari `will-change` atau lapisan GPU. Untuk memilih easing, durasi, atau apakah perlu dianimasikan sama sekali gunakan animate; untuk meninjau gerakan secara keseluruhan gunakan review-animations."
+  },
+  "emilkowalski/skills:skills/animation-vocabulary": {
+    "name": "vocabulary-animasi",
+    "description": "Glosarium pencarian balik yang mengubah deskripsi samar tentang animasi web atau efek gerakan menjadi istilah yang tepat (\" benda memantul saat popover terbuka\" → Pop in; \" gulir karet-bandiOS → Rubber-banding). Gunakan ketika pengguna bertanya \" apa namanya ketika…\", atau mendeskripsikan efek gerakan tanpa mengetahui namanya dan ingin kata yang tepat untuk memberi petunjuk kepada AI atau desainer. Untuk memberi nama suatu efek, bukan merancang atau membangunnya."
+  },
+  "arjun988/blender-skills:.claude/skills/anime-style": {
+    "name": "gaya-anime",
+    "description": "Arahan seni anime dan cel-shaded untuk Blender dengan pemutusan warna yang tegas, toon shaders, siluet bersih, dan bahasa proporsi anime."
+  },
+  "arjun988/blender-skills:.cursor/skills/anime-style": {
+    "name": "gaya-anime",
+    "description": "Arahan seni anime dan cel-shaded untuk Blender dengan pemutusan warna yang tegas, toon shaders, siluet bersih, dan bahasa proporsi anime."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anonyflow-automation": {
+    "name": "anonyflow-automation",
+    "description": "Otomatiskan tugas Anonyflow melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anthropic-administrator-automation": {
+    "name": "anthropic-administrator-automation",
+    "description": "Otomatiskan tugas Anthropic Admin melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anthropic_administrator-automation": {
+    "name": "anthropic_administrator-automation",
+    "description": "Otomatiskan tugas Anthropic Admin melalui Rube MCP (Composio): kunci API, penggunaan, ruang kerja, dan manajemen organisasi. Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apaleo-automation": {
+    "name": "apaleo-automation",
+    "description": "Otomatiskan tugas Apaleo melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apex27-automation": {
+    "name": "apex27-automation",
+    "description": "Otomatiskan tugas Apex27 melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-bible-automation": {
+    "name": "api-bible-automation",
+    "description": "Otomatiskan tugas API Bible melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-labz-automation": {
+    "name": "api-labz-automation",
+    "description": "Otomatiskan tugas API Labz melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-ninjas-automation": {
+    "name": "api-ninjas-automation",
+    "description": "Otomatiskan tugas API Ninjas melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-sports-automation": {
+    "name": "api-sports-automation",
+    "description": "Otomatiskan tugas API Sports melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api2pdf-automation": {
+    "name": "api2pdf-automation",
+    "description": "Otomatiskan tugas Api2pdf melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apiflash-automation": {
+    "name": "apiflash-automation",
+    "description": "Otomatiskan tugas Apiflash melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apilio-automation": {
+    "name": "apilio-automation",
+    "description": "Otomatiskan tugas Apilio melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apipie-ai-automation": {
+    "name": "apipie-ai-automation",
+    "description": "Otomatiskan tugas Apipie AI melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apitemplate-io-automation": {
+    "name": "apitemplate-io-automation",
+    "description": "Otomatiskan tugas Apitemplate IO melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apiverve-automation": {
+    "name": "apiverve-automation",
+    "description": "Otomatiskan tugas Apiverve melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "arjun988/blender-skills:.claude/skills/apocalypse-worlds": {
+    "name": "apocalypse-worlds",
+    "description": "Arahan seni dunia apokaliptik dan distopia untuk Blender termasuk set kontras pasca-apokaliptik, zombie, invasi alien, pasca-manusia, distopia, dan utopia."
+  },
+  "arjun988/blender-skills:.cursor/skills/apocalypse-worlds": {
+    "name": "apocalypse-worlds",
+    "description": "Arahan seni dunia apokaliptik dan distopia untuk Blender termasuk set kontras pasca-apokaliptik, zombie, invasi alien, pasca-manusia, distopia, dan utopia."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appcircle-automation": {
+    "name": "appcircle-automation",
+    "description": "Otomatiskan tugas Appcircle melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appdrag-automation": {
+    "name": "appdrag-automation",
+    "description": "Otomatiskan tugas Appdrag melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "emilkowalski/skills:skills/apple-design": {
+    "name": "apple-design",
+    "description": "Pendekatan Apple terhadap desain antarmuka dan gerakan fisik yang halus, diterjemahkan untuk web. Gunakan saat membangun atau meninjau UI berbasis gestur, animasi pegas, interaksi seret/geser/lembar, transisi momentum dan dapat diganggu, material tembus pandang dan kedalaman, tipografi (ukuran optik, tracking, leading), pengurangan gerakan, atau fondasi desain (umpan balik, konsistensi spasial, pengendalian) di balik antarmuka bergaya Apple."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appointo-automation": {
+    "name": "appointo-automation",
+    "description": "Otomatiskan tugas Appointo melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appsflyer-automation": {
+    "name": "appsflyer-automation",
+    "description": "Otomatiskan tugas Appsflyer melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appveyor-automation": {
+    "name": "appveyor-automation",
+    "description": "Otomatiskan tugas Appveyor melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "arjun988/blender-skills:.claude/skills/archviz": {
+    "name": "archviz",
+    "description": "Visualisasi arsitektur dalam Blender untuk interior/eksterior dengan skala dunia nyata, komposisi kamera, material PBR, dan pengiriman gambar diam/animasi melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/archviz": {
+    "name": "archviz",
+    "description": "Visualisasi arsitektur dalam Blender untuk interior/eksterior dengan skala dunia nyata, komposisi kamera, material PBR, dan pengiriman gambar diam/animasi melalui MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:artifacts-builder": {
+    "name": "artifacts-builder",
+    "description": "Kumpulan alat untuk membuat artefak HTML claude.ai yang rumit dan multi-komponen menggunakan teknologi web frontend modern (React, Tailwind CSS, shadcn/ui). Gunakan untuk artefak kompleks yang memerlukan manajemen state, routing, atau komponen shadcn/ui — bukan untuk artefak HTML/JSX sederhana satu file."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aryn-automation": {
+    "name": "aryn-automation",
+    "description": "Otomatiskan tugas Aryn melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ascora-automation": {
+    "name": "ascora-automation",
+    "description": "Otomatiskan tugas Ascora melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/asin-data-api-automation": {
+    "name": "asin-data-api-automation",
+    "description": "Otomatiskan tugas Asin Data API melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "emilkowalski/skills:skills/ask-emil": {
+    "name": "ask-emil",
+    "description": "Tanyakan keterampilan atau alur mana yang sesuai dengan situasi Anda. Merupakan router atas keterampilan dalam repositori ini."
+  },
+  "emilkowalski/skills:skills/ask-sonner": {
+    "name": "ask-sonner",
+    "description": "Panduan untuk Sonner, perpustakaan toast React — instalasi dan pengaturan Toaster, pemilihan panggilan toast() yang tepat, toast promise dan loading, pembaruan, penonaktifan dan persistensi toast, styling, theming dan ikon, penempatan serta multiple toasters. Gunakan saat bekerja dengan Sonner atau memecahkan masalahnya — toast yang tidak muncul, muncul dua kali, kehilangan gaya, mengabaikan kelas Tailwind, berada di belakang modal, atau tidak mengikuti mode gelap."
+  },
+  "arjun988/blender-skills:.claude/skills/asset-optimization": {
+    "name": "asset-optimization",
+    "description": "Memvalidasi dan mengoptimalkan aset Blender untuk polycount, topologi, efisiensi UV, jumlah material, penamaan, koleksi, dan performa siap game. Gunakan sebelum ekspor pada semua aset produksi melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/asset-optimization": {
+    "name": "asset-optimization",
+    "description": "Memvalidasi dan mengoptimalkan aset Blender untuk polycount, topologi, efisiensi UV, jumlah material, penamaan, koleksi, dan performa siap game. Gunakan sebelum ekspor pada semua aset produksi melalui MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/astica-ai-automation": {
+    "name": "astica-ai-automation",
+    "description": "Otomatiskan tugas Astica AI melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/async-interview-automation": {
+    "name": "async-interview-automation",
+    "description": "Otomatiskan tugas Async Interview melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/atlassian-automation": {
+    "name": "atlassian-automation",
+    "description": "Otomatiskan tugas Atlassian melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/auth0-automation": {
+    "name": "auth0-automation",
+    "description": "Otomatiskan tugas Auth0 melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/autobound-automation": {
+    "name": "autobound-automation",
+    "description": "Otomatiskan tugas Autobound melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/autom-automation": {
+    "name": "autom-automation",
+    "description": "Otomatiskan tugas Autom melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/axonaut-automation": {
+    "name": "axonaut-automation",
+    "description": "Otomatiskan tugas Axonaut melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ayrshare-automation": {
+    "name": "ayrshare-automation",
+    "description": "Otomatiskan tugas Ayrshare melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/backendless-automation": {
+    "name": "backendless-automation",
+    "description": "Otomatiskan tugas Backendless melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bannerbear-automation": {
+    "name": "bannerbear-automation",
+    "description": "Otomatiskan tugas Bannerbear melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-article-illustrator": {
+    "name": "baoyu-article-illustrator",
+    "description": "Menganalisis struktur artikel, mengidentifikasi posisi yang memerlukan bantuan visual, dan menghasilkan ilustrasi dengan pendekatan tiga dimensi Type × Style × Palette. Gunakan ketika pengguna meminta untuk \"illustrate article\", \"add images\", \"generate images for article\", atau \"为文章配图\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-comic": {
+    "name": "baoyu-comic",
+    "description": "Pembuat komik pengetahuan yang mendukung berbagai gaya seni dan nada. Membuat komik edukasi asli dengan tata letak panel yang rinci dan kemampuan pembuatan gambar secara batch. Gunakan ketika pengguna meminta untuk membuat \"知识漫画\", \"教育漫画\", \"biography comic\", \"tutorial comic\", atau \"Logicomix-style comic\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-compress-image": {
+    "name": "baoyu-compress-image",
+    "description": "Mengompresi gambar ke WebP (default) atau PNG dengan pemilihan alat otomatis. Gunakan ketika pengguna meminta untuk \"compress image\", \"optimize image\", \"convert to webp\", atau mengurangi ukuran file gambar."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-cover-image": {
+    "name": "baoyu-cover-image",
+    "description": "Menghasilkan gambar sampul artikel dengan 5 dimensi (jenis, palet warna, rendering, teks, suasana hati) yang menggabungkan 11 palet warna dan 7 gaya rendering. Mendukung aspek sinematik (2.35:1), layar lebar (16:9), dan persegi (1:1). Gunakan ketika pengguna meminta untuk \"generate cover image\", \"create article cover\", atau \"make cover\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-danger-gemini-web": {
+    "name": "baoyu-danger-gemini-web",
+    "description": "Menghasilkan gambar dan teks melalui API Gemini Web yang direkayasa balik. Mendukung generasi teks, generasi gambar dari prompt, gambar referensi untuk input visi, dan percakapan multi-putaran. Gunakan ketika keterampilan lain membutuhkan backend generasi gambar, atau ketika pengguna meminta \"generate image with Gemini\", \"Gemini text generation\", atau memerlukan generasi AI berkemampuan visi."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-danger-x-to-markdown": {
+    "name": "baoyu-danger-x-to-markdown",
+    "description": "Mengonversi tweet dan artikel X (Twitter) ke markdown dengan front matter YAML. Menggunakan API yang direkayasa balik dan memerlukan persetujuan pengguna. Gunakan ketika pengguna menyebutkan \"X to markdown\", \"tweet to markdown\", \"save tweet\", atau memberikan URL x.com/twitter.com untuk konversi."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-diagram": {
+    "name": "baoyu-diagram",
+    "description": "Membuat diagram profesional dengan tema gelap/terang yang dapat dikonfigurasi melalui properti khusus CSS. Gunakan keterampilan ini setiap kali pengguna meminta segala jenis diagram teknis atau konseptual, visualisasi sistem, alur proses, alur data, hubungan komponen, topologi jaringan, pohon keputusan, bagan organisasi, mesin keadaan, atau representasi visual apa pun dari struktur/logika/proses. Juga aktifkan ketika pengguna berkata \"画个图\" \"画一个架构图\" \"diagram\" \"flowchart\" \"sequence diagram\" \"draw me a ...\" atau mengunggah konten dan meminta untuk divisualisasikan. Menghasilkan SVG tema gelap, SVG tema terang, dan PNG @2x untuk masing-masing."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-electron-extract": {
+    "name": "baoyu-electron-extract",
+    "description": "Mengekstrak sumber daya dan JavaScript dari aplikasi Electron apa pun yang terpasang (`.asar` bundle), memulihkan sumber asli dari `.js.map` files jika tersedia atau memformat kode yang diminifikasi dengan Prettier jika tidak. Gunakan ketika pengguna ingin \"extract Electron app\", \"decompile Electron\", \"get the source code of <app>\", \"inspect app.asar\", \"看 Electron 应用源码\", \"提取 .asar\", atau bertanya bagaimana sebuah aplikasi desktop Electron dibangun. Melewati `node_modules` dan mendukung baik macOS maupun Windows."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-format-markdown": {
+    "name": "baoyu-format-markdown",
+    "description": "Memformat teks biasa atau file markdown dengan front matter, judul, ringkasan, heading, tebal, daftar, dan blok kode. Gunakan ketika pengguna meminta untuk \"format markdown\", \"beautify article\", \"add formatting\", atau meningkatkan tata letak artikel. Menghasilkan output ke {filename}-formatted.md."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-image-gen": {
+    "name": "baoyu-image-gen",
+    "description": "Generasi gambar AI dengan OpenAI GPT Image 2.5, Azure OpenAI, Google, OpenRouter, DashScope, Z.AI GLM-Image, MiniMax, Jimeng, Seedream, Replicate dan Agnes APIs. Mendukung text-to-image, gambar referensi, rasio aspek, dan pembuatan batch dari file prompt yang disimpan. Secara default berurutan; gunakan pembuatan paralel batch ketika pengguna sudah memiliki banyak prompt atau menginginkan throughput multi-gambar yang stabil. Gunakan ketika pengguna meminta untuk menghasilkan, membuat, atau menggambar gambar."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-infographic": {
+    "name": "baoyu-infographic",
+    "description": "Menghasilkan infografis profesional dengan 21 jenis tata letak dan 22 gaya visual. Menganalisis konten, merekomendasikan kombinasi tata letak×gaya, dan menghasilkan infografis siap publikasi. Gunakan ketika pengguna meminta untuk membuat \"infographic\", \"信息图\", \"visual summary\", \"可视化\", atau \"高密度信息大图\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-markdown-to-html": {
+    "name": "baoyu-markdown-to-html",
+    "description": "Mengonversi Markdown ke HTML bergaya dengan tema kompatibel WeChat. Mendukung penyorotan kode, matematika, Mermaid (dirender ke PNG via headless Chrome), PlantUML, catatan kaki, peringatan, infografis, dan kutipan bawah opsional untuk tautan eksternal. Gunakan ketika pengguna meminta \"markdown to html\", \"convert md to html\", \"md 转 html\", \"微信外链转底部引用\", atau memerlukan output HTML bergaya dari markdown."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-podcast-summary": {
+    "name": "baoyu-podcast-summary",
+    "description": "Merangkum podcast, wawancara, panel, dan transkrip percakapan lainnya menjadi ringkasan objektif yang berorientasi pada pembaca dalam bahasa pilihan pengguna. Dimulai dengan beberapa poin penting yang patut diingat, menceritakan kembali dengan jujur dengan atribusi pembicara yang jelas, dan tidak menambahkan opini sendiri. Menerima transkrip yang ditempel, file transkrip, atau URL YouTube (transkrip diambil melalui baoyu-youtube-transcript), menyimpulkan pembicara tanpa nama dari konteks, dan menggunakan pencarian web untuk memverifikasi nama serta menyediakan latar belakang. Gunakan ketika pengguna memberikan transkrip atau tautan podcast/wawancara dan meminta untuk \"summarize this podcast\", \"podcast summary\", \"interview summary\", \"key takeaways\", \"总结播客\", \"播客总结\", \"访谈总结\", \"总结一下这期播客\", \"总结这个访谈\", atau berbagi wawancara YouTube dan menginginkan ringkasan tertulis daripada transkrip mentah."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-wechat": {
+    "name": "baoyu-post-to-wechat",
+    "description": "Mempublikasikan konten ke Akun Resmi WeChat (微信公众号) melalui API atau Chrome CDP. Mendukung posting artikel (文章) dengan input HTML, markdown, atau teks biasa, serta posting gambar-teks (贴图, sebelumnya 图文) dengan banyak gambar. Alur kerja artikel markdown secara default mengonversi tautan eksternal biasa menjadi kutipan bawah untuk output yang ramah WeChat. Gunakan ketika pengguna menyebutkan \"发布公众号\", \"post to wechat\", \"微信公众号\", atau \"贴图/图文/文章\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-weibo": {
+    "name": "baoyu-post-to-weibo",
+    "description": "Mempublikasikan konten ke Weibo (微博). Mendukung posting reguler dengan teks, gambar, dan video, serta artikel utama (头条文章) dengan input Markdown melalui Chrome CDP. Gunakan ketika pengguna meminta untuk \"post to Weibo\", \"发微博\", \"发布微博\", \"publish to Weibo\", \"share on Weibo\", \"写微博\", atau \"微博头条文章\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-x": {
+    "name": "baoyu-post-to-x",
+    "description": "Mempublikasikan konten dan artikel ke X (Twitter). Mendukung posting reguler dengan gambar/video dan Artikel X (Markdown bentuk panjang). Dalam Codex, hormati permintaan eksplisit untuk plugin/X Codex Chrome/@chrome dengan menggunakan alur kerja Ekstensi Chrome; jika tidak, gunakan Chrome Computer Use ketika tersedia dan hanya kembali ke skrip Chrome CDP nyata jika diizinkan. Gunakan ketika pengguna meminta untuk \"post to X\", \"tweet\", \"publish to Twitter\", atau \"share on X\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-slide-deck": {
+    "name": "baoyu-slide-deck",
+    "description": "Menghasilkan gambar dek slide profesional dari konten. Membuat garis besar dengan instruksi gaya, lalu menghasilkan gambar slide individual. Gunakan ketika pengguna meminta untuk \"create slides\", \"make a presentation\", \"generate deck\", \"slide deck\", atau \"PPT\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-translate": {
+    "name": "baoyu-translate",
+    "description": "Keterampilan ini harus digunakan ketika pengguna meminta untuk \"translate\", \"翻译\", \"精翻\", \"translate article\", \"translate to Chinese\", \"translate to English\", \"改成中文\", \"改成英文\", \"convert to Chinese\", \"localize\", \"本地化\", \"refined translation\", \"精细翻译\", \"proofread translation\", \"快速翻译\", \"快翻\", \"这篇文章翻译一下\", atau memberikan URL/file dengan niat menerjemahkan. Mendukung tiga mode (cepat/biasa/refined) dengan dukungan glosarium khusus."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-url-to-markdown": {
+    "name": "baoyu-url-to-markdown",
+    "description": "Mengambil URL apa pun dan mengonversinya ke markdown menggunakan baoyu-fetch CLI (Chrome CDP dengan adaptor spesifik situs). Adaptor bawaan untuk X/Twitter, transkrip YouTube, thread Hacker News, dan halaman umum via Defuddle. Menangani login/CAPTCHA melalui mode tunggu interaksi. Gunakan ketika pengguna ingin menyimpan halaman web sebagai markdown."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-wechat-summary": {
+    "name": "baoyu-wechat-summary",
+    "description": "Merangkum sorotan obrolan grup WeChat menjadi ringkasan terstruktur menggunakan biner wx-cli lokal (https://github.com/jackwener/wx-cli). Menghasilkan ringkasan normal secara default; versi sindiran (毒舌) bersifat opt-in. Mempertahankan riwayat per-grup (history.json + history-digests.jsonl), profil per-pengguna, dan memori fakta per-grup (memory.md) lintas jalannya, dengan pagar pengaman privasi yang terpasang. Gunakan ketika pengguna meminta untuk \"总结群聊\", \"群聊精华\", \"群聊摘要\", \"summarize group chat\", \"group chat digest\", menyebutkan nama grup WeChat dengan rentang waktu, berkata \"帮我看看 XX 群最近聊了什么\", \"XX 群有什么值得看的\", atau meminta untuk \"回溯画像\" / \"初始化画像\" / \"backfill profiles\". Tambahkan versi sindiran ketika pengguna berkata \"毒舌版\", \"roast 版\", \"再来个毒舌的\", atau serupa."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-xhs-images": {
+    "name": "baoyu-xhs-images",
+    "description": "Menghasilkan rangkaian kartu gambar infografis dengan 12 gaya visual, 8 tata letak, dan 3 palet warna. Membagi konten menjadi 1-10 kartu gambar bergaya kartun yang dioptimalkan untuk keterlibatan media sosial. Gunakan ketika pengguna menyebut \"小红书图片\", \"小红书种草\", \"小绿书\", \"微信图文\", \"微信贴图\", \"image cards\", \"图片卡片\", baoyu-xhs-images, atau menginginkan rangkaian infografis media sosial."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-youtube-transcript": {
+    "name": "baoyu-youtube-transcript",
+    "description": "Mengunduh transkrip/subtitle video YouTube serta gambar sampul berdasarkan URL atau ID video. Mendukung banyak bahasa, terjemahan, bab, dan identifikasi pembicara. Menyimpan data mentah untuk pemformatan ulang yang cepat. Gunakan ketika pengguna meminta \"get YouTube transcript\", \"download subtitles\", \"get captions\", \"YouTube字幕\", \"YouTube封面\", \"视频封面\", \"video thumbnail\", \"video cover image\", atau memberikan URL YouTube dan ingin mengekstrak teks transkrip/subtitle atau gambar sampulnya."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bart-automation": {
+    "name": "bart-automation",
+    "description": "Mengotomatiskan tugas Bart melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/baselinker-automation": {
+    "name": "baselinker-automation",
+    "description": "Mengotomatiskan tugas Baselinker melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/baserow-automation": {
+    "name": "baserow-automation",
+    "description": "Mengotomatiskan tugas Baserow melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/basin-automation": {
+    "name": "basin-automation",
+    "description": "Mengotomatiskan tugas Basin melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/battlenet-automation": {
+    "name": "battlenet-automation",
+    "description": "Mengotomatiskan tugas Battlenet melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beaconchain-automation": {
+    "name": "beaconchain-automation",
+    "description": "Mengotomatiskan tugas Beaconchain melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beaconstac-automation": {
+    "name": "beaconstac-automation",
+    "description": "Mengotomatiskan tugas Beaconstac melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beamer-automation": {
+    "name": "beamer-automation",
+    "description": "Mengotomatiskan tugas Beamer melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beeminder-automation": {
+    "name": "beeminder-automation",
+    "description": "Mengotomatiskan tugas Beeminder melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bench-automation": {
+    "name": "bench-automation",
+    "description": "Mengotomatiskan tugas Bench melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/benchmark-email-automation": {
+    "name": "benchmark-email-automation",
+    "description": "Mengotomatiskan tugas Benchmark Email melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/benzinga-automation": {
+    "name": "benzinga-automation",
+    "description": "Mengotomatiskan tugas Benzinga melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bestbuy-automation": {
+    "name": "bestbuy-automation",
+    "description": "Mengotomatiskan tugas Bestbuy melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/better-proposals-automation": {
+    "name": "better-proposals-automation",
+    "description": "Mengotomatiskan tugas Better Proposals melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/better-stack-automation": {
+    "name": "better-stack-automation",
+    "description": "Mengotomatiskan tugas Better Stack melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bidsketch-automation": {
+    "name": "bidsketch-automation",
+    "description": "Mengotomatiskan tugas Bidsketch melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/big-data-cloud-automation": {
+    "name": "big-data-cloud-automation",
+    "description": "Mengotomatiskan tugas Big Data Cloud melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigmailer-automation": {
+    "name": "bigmailer-automation",
+    "description": "Mengotomatiskan tugas Bigmailer melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigml-automation": {
+    "name": "bigml-automation",
+    "description": "Mengotomatiskan tugas Bigml melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigpicture-io-automation": {
+    "name": "bigpicture-io-automation",
+    "description": "Mengotomatiskan tugas Bigpicture IO melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "arjun988/blender-skills:.claude/skills/biome-worlds": {
+    "name": "biome-worlds",
+    "description": "Memberikan arahan seni untuk Biome dan latar belakang, mencakup lingkungan bawah air, gurun, kutub, hutan, bawah tanah, dan pulau terapung."
+  },
+  "arjun988/blender-skills:.cursor/skills/biome-worlds": {
+    "name": "biome-worlds",
+    "description": "Memberikan arahan seni untuk Biome dan latar belakang, mencakup lingkungan bawah air, gurun, kutub, hutan, bawah tanah, dan pulau terapung."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bitquery-automation": {
+    "name": "bitquery-automation",
+    "description": "Mengotomatiskan tugas Bitquery melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bitwarden-automation": {
+    "name": "bitwarden-automation",
+    "description": "Mengotomatiskan tugas Bitwarden melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blackbaud-automation": {
+    "name": "blackbaud-automation",
+    "description": "Mengotomatiskan tugas Blackbaud melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blackboard-automation": {
+    "name": "blackboard-automation",
+    "description": "Mengotomatiskan tugas Blackboard melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "arjun988/blender-skills:.claude/skills/blender-director": {
+    "name": "blender-director",
+    "description": "Digunakan saat memulai tugas aset Blender apa pun, merencanakan alur produksi, mengoordinasikan beberapa disiplin ilmu, atau mencocokkan foto referensi/karya seni konsep. Panggil untuk aset siap game, permukaan keras, lingkungan, karakter, makhluk, ekspor, atau alur kerja multi-keterampilan Blender melalui ZXQPROT2ZXQ."
+  },
+  "arjun988/blender-skills:.cursor/skills/blender-director": {
+    "name": "blender-director",
+    "description": "Digunakan saat memulai tugas aset Blender apa pun, merencanakan alur produksi, mengoordinasikan beberapa disiplin ilmu, atau mencocokkan foto referensi/karya seni konsep. Panggil untuk aset siap game, permukaan keras, lingkungan, karakter, makhluk, ekspor, atau alur kerja multi-keterampilan Blender melalui ZXQPROT2ZXQ."
+  },
+  "arjun988/blender-skills:.claude/skills/blender-modeler": {
+    "name": "blender-modeler",
+    "description": "Spesialis pemodelan inti Blender untuk Mode Edit, modifier, koleksi, pemodelan presisi, dan organisasi adegan. Gunakan untuk pemodelan 3D umum, blockout, pembersihan, alur kerja non-destruktif, dan struktur adegan dalam Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/blender-modeler": {
+    "name": "blender-modeler",
+    "description": "Spesialis pemodelan inti Blender untuk Mode Edit, modifier, koleksi, pemodelan presisi, dan organisasi adegan. Gunakan untuk pemodelan 3D umum, blockout, pembersihan, alur kerja non-destruktif, dan struktur adegan dalam Blender melalui MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blocknative-automation": {
+    "name": "blocknative-automation",
+    "description": "Mengotomatiskan tugas Blocknative melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "arjun988/blender-skills:.claude/skills/body-horror-style": {
+    "name": "bergaya horor tubuh",
+    "description": "Arahan seni horor tubuh untuk Blender yang berfokus pada ketidakwajaran daging, mutasi, fusi, dan penceritaan materi yang bersifat visceral."
+  },
+  "arjun988/blender-skills:.cursor/skills/body-horror-style": {
+    "name": "bergaya horor tubuh",
+    "description": "Arahan seni horor tubuh untuk Blender yang berfokus pada ketidakwajaran daging, mutasi, fusi, dan penceritaan materi yang bersifat visceral."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boldsign-automation": {
+    "name": "otomatisasi boldsign",
+    "description": "Otomatiskan tugas Boldsign melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bolna-automation": {
+    "name": "otomatisasi bolna",
+    "description": "Otomatiskan tugas Bolna melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boloforms-automation": {
+    "name": "otomatisasi boloforms",
+    "description": "Otomatiskan tugas Boloforms melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bolt-iot-automation": {
+    "name": "otomatisasi bolt-iot",
+    "description": "Otomatiskan tugas Bolt Iot melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bonsai-automation": {
+    "name": "otomatisasi bonsai",
+    "description": "Otomatiskan tugas Bonsai melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "virgiliojr94/book-to-skill:book-to-skill": {
+    "name": "buku-ke-keterampilan",
+    "description": "Mengonversi buku dan dokumen menjadi keterampilan agen terstruktur dari file lokal (PDF, EPUB, DOCX, HTML, Markdown, TXT, RTF, MOBI/AZW) atau pencarian buku MCP jarak jauh (`/book-to-skill search <query>`), dengan mengekstrak kerangka kerja, model mental, prinsip, teknik, dan pola buruk. Gunakan melalui GitHub Copilot CLI, Amp, Claude Code, Hermes Agent, OpenCode, atau OpenClaw untuk mempelajari dokumen atau menerapkan kerangka kerja penulis."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bookingmood-automation": {
+    "name": "otomatisasi bookingmood",
+    "description": "Otomatiskan tugas Bookingmood melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/booqable-automation": {
+    "name": "otomatisasi booqable",
+    "description": "Otomatiskan tugas Booqable melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/borneo-automation": {
+    "name": "otomatisasi borneo",
+    "description": "Otomatiskan tugas Borneo melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botbaba-automation": {
+    "name": "otomatisasi botbaba",
+    "description": "Otomatiskan tugas Botbaba melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botpress-automation": {
+    "name": "otomatisasi botpress",
+    "description": "Otomatiskan tugas Botpress melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botsonic-automation": {
+    "name": "otomatisasi botsonic",
+    "description": "Otomatiskan tugas Botsonic melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botstar-automation": {
+    "name": "otomatisasi botstar",
+    "description": "Otomatiskan tugas Botstar melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bouncer-automation": {
+    "name": "otomatisasi bouncer",
+    "description": "Otomatiskan tugas Bouncer melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boxhero-automation": {
+    "name": "otomatisasi boxhero",
+    "description": "Otomatiskan tugas Boxhero melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "anthropics/skills:skills/brand-guidelines": {
+    "name": "pedoman merek",
+    "description": "Menerapkan warna merek resmi Anthropic dan tipografi pada segala jenis artefak yang dapat diuntungkan dengan tampilan dan nuansa Anthropic. Gunakan ketika berlaku warna merek atau pedoman gaya, format visual, atau standar desain perusahaan."
+  },
+  "ComposioHQ/awesome-claude-skills:brand-guidelines": {
+    "name": "pedoman merek",
+    "description": "Menerapkan warna merek resmi Anthropic dan tipografi pada segala jenis artefak yang dapat diuntungkan dengan tampilan dan nuansa Anthropic. Gunakan ketika berlaku warna merek atau pedoman gaya, format visual, atau standar desain perusahaan."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brandfetch-automation": {
+    "name": "otomatisasi brandfetch",
+    "description": "Otomatiskan tugas Brandfetch melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "emilkowalski/skills:skills/break-ui": {
+    "name": "break-ui",
+    "description": "Coba pecahkan sebuah elemen UI dengan memberinya data kasus terburuk — nama panjang, email yang tidak dapat diputus, nama satu huruf, bidang yang hilang, jumlah besar, item nol, label panjang, teks non-Latin, emoji, angka ekstrem — lalu render di balik tombol \"Demo data / Kasus terburuk\" dan laporkan semua yang rusak, beserta solusi untuk masing-masing. Gunakan ketika pengguna meminta untuk melakukan uji stres, merusak, atau mencari kasus batas pada komponen atau layar, atau untuk \"mencoba kasus terburuk\". Untuk kritik desain visual gunakan emil-design-eng; untuk animasi gunakan review-animations."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/breeze-automation": {
+    "name": "otomatisasi breeze",
+    "description": "Otomatiskan tugas Breeze melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/breezy-hr-automation": {
+    "name": "otomatisasi breezy-hr",
+    "description": "Otomatiskan tugas Breezy HR melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brex-automation": {
+    "name": "otomatisasi brex",
+    "description": "Otomatiskan tugas Brex melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brex-staging-automation": {
+    "name": "otomatisasi brex-staging",
+    "description": "Otomatiskan tugas Brex Staging melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brightdata-automation": {
+    "name": "otomatisasi brightdata",
+    "description": "Otomatiskan tugas Brightdata melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brightpearl-automation": {
+    "name": "otomatisasi brightpearl",
+    "description": "Otomatiskan tugas Brightpearl melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brilliant-directories-automation": {
+    "name": "otomatisasi brilliant-directories",
+    "description": "Otomatiskan tugas Brilliant Directories melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browseai-automation": {
+    "name": "otomatisasi browseai",
+    "description": "Otomatiskan tugas Browseai melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "cexll/myclaude:skills/browser": {
+    "name": "browser",
+    "description": "Keterampilan ini harus digunakan untuk tugas otomatisasi browser menggunakan Chrome DevTools Protocol (CDP). Dipicu ketika pengguna perlu meluncurkan Chrome dengan debugging jarak jauh, menavigasi halaman, mengeksekusi JavaScript dalam konteks browser, mengambil tangkapan layar, atau secara interaktif memilih elemen DOM. Tidak diperlukan server MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browser-tool-automation": {
+    "name": "otomatisasi browser-tool",
+    "description": "Otomatiskan tugas Browser Tool melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserbase-tool-automation": {
+    "name": "otomatisasi browserbase-tool",
+    "description": "Otomatiskan tugas Browserbase Tool melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserhub-automation": {
+    "name": "automasi_browserhub",
+    "description": "Otomatiskan tugas Browserhub melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserless-automation": {
+    "name": "automasi_tanpa_browser",
+    "description": "Otomatiskan tugas Tanpa Browser melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "arjun988/blender-skills:.claude/skills/brutalist-mood": {
+    "name": "suasana_brutalis",
+    "description": "Arahan suasana Brutalis dan monumen beton untuk arsitektur dan adegan Blender dengan beton mentah, skala monumental, dan komposisi yang sederhana."
+  },
+  "arjun988/blender-skills:.cursor/skills/brutalist-mood": {
+    "name": "suasana_brutalis",
+    "description": "Arahan suasana Brutalis dan monumen beton untuk arsitektur dan adegan Blender dengan beton mentah, skala monumental, dan komposisi yang sederhana."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/btcpay-server-automation": {
+    "name": "automasi_btcpay_server",
+    "description": "Otomatiskan tugas Btcpay Server melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bubble-automation": {
+    "name": "automasi_bubble",
+    "description": "Otomatiskan tugas Bubble melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugbug-automation": {
+    "name": "automasi_bugbug",
+    "description": "Otomatiskan tugas Bugbug melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugherd-automation": {
+    "name": "automasi_bugherd",
+    "description": "Otomatiskan tugas Bugherd melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugsnag-automation": {
+    "name": "automasi_bugsnag",
+    "description": "Otomatiskan tugas Bugsnag melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/buildkite-automation": {
+    "name": "automasi_buildkite",
+    "description": "Otomatiskan tugas Buildkite melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/builtwith-automation": {
+    "name": "automasi_builtwith",
+    "description": "Otomatiskan tugas Builtwith melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bunnycdn-automation": {
+    "name": "automasi_bunnycdn",
+    "description": "Otomatiskan tugas Bunnycdn melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/byteforms-automation": {
+    "name": "automasi_byteforms",
+    "description": "Otomatiskan tugas Byteforms melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cabinpanda-automation": {
+    "name": "automasi_cabinpanda",
+    "description": "Otomatiskan tugas Cabinpanda melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cal-automation": {
+    "name": "automasi_cal",
+    "description": "Otomatiskan tugas Cal melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/calendarhero-automation": {
+    "name": "automasi_calendarhero",
+    "description": "Otomatiskan tugas Calendarhero melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callerapi-automation": {
+    "name": "automasi_callerapi",
+    "description": "Otomatiskan tugas Callerapi melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callingly-automation": {
+    "name": "automasi_callingly",
+    "description": "Otomatiskan tugas Callingly melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callpage-automation": {
+    "name": "automasi_callpage",
+    "description": "Otomatiskan tugas Callpage melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "arjun988/blender-skills:.claude/skills/camera-cinematography": {
+    "name": "kamera_sinematografi",
+    "description": "Kerja kamera sinematik dalam Blender termasuk framing, lensa, komposisi, animasi kamera, dan bahasa shot di luar pengaturan rendering dasar melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/camera-cinematography": {
+    "name": "kamera_sinematografi",
+    "description": "Kerja kamera sinematik dalam Blender termasuk framing, lensa, komposisi, animasi kamera, dan bahasa shot di luar pengaturan rendering dasar melalui MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/campaign-cleaner-automation": {
+    "name": "automasi_campaign_cleaner",
+    "description": "Otomatiskan tugas Campaign Cleaner melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/campayn-automation": {
+    "name": "automasi_campaign",
+    "description": "Otomatiskan tugas Campayn melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/canny-automation": {
+    "name": "automasi_canny",
+    "description": "Otomatiskan tugas Canny melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/canvas-automation": {
+    "name": "automasi_canvas",
+    "description": "Otomatiskan tugas Canvas melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "anthropics/skills:skills/canvas-design": {
+    "name": "desain_canvas",
+    "description": "Buat karya seni visual yang indah dalam dokumen .png dan .pdf menggunakan filosofi desain. Anda harus menggunakan keterampilan ini ketika pengguna meminta pembuatan poster, karya seni, desain, atau elemen statis lainnya. Buat desain visual orisinal, jangan pernah meniru karya seniman yang sudah ada untuk menghindari pelanggaran hak cipta."
+  },
+  "ComposioHQ/awesome-claude-skills:canvas-design": {
+    "name": "desain_canvas",
+    "description": "Buat karya seni visual yang indah dalam dokumen .png dan .pdf menggunakan filosofi desain. Anda harus menggunakan keterampilan ini ketika pengguna meminta pembuatan poster, karya seni, desain, atau elemen statis lainnya. Buat desain visual orisinal, jangan pernah meniru karya seniman yang sudah ada untuk menghindari pelanggaran hak cipta."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/capsule_crm-automation": {
+    "name": "automasi_capsule_crm",
+    "description": "Otomatiskan tugas Capsule CRM melalui Rube MCP (Composio): kontak, peluang, kasus, tugas, dan manajemen pipeline. Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/carbone-automation": {
+    "name": "automasi_carbone",
+    "description": "Otomatiskan tugas Carbone melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cardly-automation": {
+    "name": "automasi_cardly",
+    "description": "Otomatiskan tugas Cardly melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "arjun988/blender-skills:.claude/skills/cartoon-style": {
+    "name": "gaya_kartun",
+    "description": "Arahan seni Kartun untuk Blender dengan bentuk squash-stretch yang mudah dibaca, warna-warna mencolok, dan siluet grafis untuk game dan animasi."
+  },
+  "arjun988/blender-skills:.cursor/skills/cartoon-style": {
+    "name": "gaya_kartun",
+    "description": "Arahan seni Kartun untuk Blender dengan bentuk squash-stretch yang mudah dibaca, warna-warna mencolok, dan siluet grafis untuk game dan animasi."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/castingwords-automation": {
+    "name": "automasi_castingwords",
+    "description": "Otomatiskan tugas Castingwords melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cats-automation": {
+    "name": "automasi_cats",
+    "description": "Otomatiskan tugas Cats melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cdr-platform-automation": {
+    "name": "otomatisasi-platform-cdr",
+    "description": "Otomatiskan tugas Platform Cdr melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/census-bureau-automation": {
+    "name": "otomatisasi-biro-sensus",
+    "description": "Otomatiskan tugas Biro Sensus melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/centralstationcrm-automation": {
+    "name": "otomatisasi-centralstationcrm",
+    "description": "Otomatiskan tugas Centralstationcrm melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/certifier-automation": {
+    "name": "otomatisasi-certifier",
+    "description": "Otomatiskan tugas Certifier melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:changelog-generator": {
+    "name": "generator-changelog",
+    "description": "Secara otomatis membuat changelog yang dilihat pengguna dari commit git dengan menganalisis riwayat commit, mengategorikan perubahan, dan mengubah commit teknis menjadi catatan rilis yang jelas dan ramah pelanggan. Mengubah berjam-jam penulisan changelog manual menjadi beberapa menit pembuatan otomatis."
+  },
+  "arjun988/blender-skills:.claude/skills/character-archetypes": {
+    "name": "arketipe-karakter",
+    "description": "Arah seni arketipe karakter untuk Blender yang mencakup ras fantasi, makhluk horor, peran (ksatria, pembunuh, detektif), dan tipe tubuh (mecha, android, chibi, dll.)."
+  },
+  "arjun988/blender-skills:.cursor/skills/character-archetypes": {
+    "name": "arketipe-karakter",
+    "description": "Arah seni arketipe karakter untuk Blender yang mencakup ras fantasi, makhluk horor, peran (ksatria, pembunuh, detektif), dan tipe tubuh (mecha, android, chibi, dll.)."
+  },
+  "arjun988/blender-skills:.claude/skills/character-artist": {
+    "name": "artis-karakter",
+    "description": "Pemodelan karakter AAA untuk anatomi manusia, stilisasi, topologi wajah, pakaian, rambut, dan mesh siap animasi. Digunakan untuk karakter game, ekspresi wajah, dan aset karakter produksi dalam Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/character-artist": {
+    "name": "artis-karakter",
+    "description": "Pemodelan karakter AAA untuk anatomi manusia, stilisasi, topologi wajah, pakaian, rambut, dan mesh siap animasi. Digunakan untuk karakter game, ekspresi wajah, dan aset karakter produksi dalam Blender melalui MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chaser-automation": {
+    "name": "otomatisasi-chaser",
+    "description": "Otomatiskan tugas Chaser melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatbotkit-automation": {
+    "name": "otomatisasi-chatbotkit",
+    "description": "Otomatiskan tugas Chatbotkit melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatfai-automation": {
+    "name": "otomatisasi-chatfai",
+    "description": "Otomatiskan tugas Chatfai melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatwork-automation": {
+    "name": "otomatisasi-chatwork",
+    "description": "Otomatiskan tugas Chatwork melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "arjun988/blender-skills:.claude/skills/chibi-style": {
+    "name": "gaya-chibi",
+    "description": "Arah seni chibi dan proporsi SD untuk karakter Blender dengan kepala besar, anatomi disederhanakan, dan aturan siluet imut."
+  },
+  "arjun988/blender-skills:.cursor/skills/chibi-style": {
+    "name": "gaya-chibi",
+    "description": "Arah seni chibi dan proporsi SD untuk karakter Blender dengan kepala besar, anatomi disederhanakan, dan aturan siluet imut."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chmeetings-automation": {
+    "name": "otomatisasi-chmeetings",
+    "description": "Otomatiskan tugas Chmeetings melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "emilkowalski/skills:skills/choreograph": {
+    "name": "koreografi",
+    "description": "Koordinasikan beberapa elemen yang bergerak bersama — tentukan apa yang bergerak, dalam urutan apa, seberapa besar tumpang tindihnya, dan apa yang tetap diam — sehingga sekumpulan elemen terlihat sebagai satu gerakan yang disengaja alih-alih tumpukan animasi terpisah. Gunakan saat membangun atau memperbaiki daftar bertingkat, masuknya pahlawan, pergantian tampilan di dalam kontainer, alur multi-langkah, elemen yang keluar sementara saudaranya menutup celah, morph antara keadaan yang kaya, atau interaksi apa pun dengan beberapa bagian yang bergerak (ikon + latar belakang + garis, panel + konten, item yang terbang menuju target). Pemicu — stagger, sequence, choreography, \" satu demi satu\", crossfade, mode AnimatePresence, masuknya pahlawan, multi-langkah, useAnimate, \" terasa mekanis\", \" terlalu banyak yang terjadi\", \" terasa lambat untuk dibuka\"."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cincopa-automation": {
+    "name": "otomatisasi-cincopa",
+    "description": "Otomatiskan tugas Cincopa melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/claid-ai-automation": {
+    "name": "otomatisasi-claid-ai",
+    "description": "Otomatiskan tugas Claid AI melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/classmarker-automation": {
+    "name": "otomatisasi-classmarker",
+    "description": "Otomatiskan tugas Classmarker melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "anthropics/skills:skills/claude-api": {
+    "name": "claude-api",
+    "description": "Reference for the Claude API / Anthropic SDK — model ids, pricing, params, streaming, tool use, MCP, agents, caching, token counting, model migration. TRIGGER — read BEFORE opening the target file; don't skip because it \"looks like a one-liner\" — whenever: the prompt names Claude/Anthropic in any form (Claude, Anthropic, Fable, Opus, Sonnet, Haiku, `anthropic`, `@anthropic-ai`, `claude-*`, `us.anthropic.*`, `[1m]`); the user asks about an LLM (pricing/model choice/limits/caching) — never answer from memory; OR the task is LLM-shaped with provider unstated (agent/MCP/tool-definition/multi-agent/RAG/LLM-judge/computer-use; generate/summarize/extract/classify/rewrite/converse over NL; debugging refusals/cutoffs/streaming/tool-calls/tokens). SKIP only when another provider is being worked on (overrides all triggers): OpenAI/GPT/Gemini/Llama/Mistral/Cohere/Ollama named in the query; OR `grep -rE 'openai|langchain_openai|google.generativeai|genai|mistralai|cohere|ollama'` over the project hits (run this grep FIRST if no provider named — don't Read the file)."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clearout-automation": {
+    "name": "otomatisasi-clearout",
+    "description": "Otomatiskan tugas Clearout melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clickmeeting-automation": {
+    "name": "otomatisasi-clickmeeting",
+    "description": "Otomatiskan tugas Clickmeeting melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "arjun988/blender-skills:.claude/skills/cloth-sim": {
+    "name": "simulasi-kain",
+    "description": "Blockout pakaian, simulasi kain, grup pin, dan bake ke key shape atau cache untuk karakter dan properti dalam Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/cloth-sim": {
+    "name": "simulasi-kain",
+    "description": "Blockout pakaian, simulasi kain, grup pin, dan bake ke key shape atau cache untuk karakter dan properti dalam Blender melalui MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudcart-automation": {
+    "name": "otomatisasi-cloudcart",
+    "description": "Otomatiskan tugas Cloudcart melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudconvert-automation": {
+    "name": "otomatisasi-cloudconvert",
+    "description": "Otomatiskan tugas Cloudconvert melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-api-key-automation": {
+    "name": "otomatisasi-cloudflare-api-key",
+    "description": "Otomatiskan tugas API Cloudflare melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-automation": {
+    "name": "otomatisasi-cloudflare",
+    "description": "Otomatiskan tugas Cloudflare melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-browser-rendering-automation": {
+    "name": "otomatisasi-cloudflare-browser-rendering",
+    "description": "Otomatiskan tugas Browser Rendering Cloudflare melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudlayer-automation": {
+    "name": "otomatisasi-cloudlayer",
+    "description": "Otomatiskan tugas Cloudlayer melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudpress-automation": {
+    "name": "otomatisasi-cloudpress",
+    "description": "Otomatiskan tugas Cloudpress melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coassemble-automation": {
+    "name": "otomatisasi-coassemble",
+    "description": "Otomatiskan tugas Coassemble melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codacy-automation": {
+    "name": "otomatisasi-codacy",
+    "description": "Otomatiskan tugas Codacy melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema terkini."
+  },
+  "cexll/myclaude:skills/codeagent": {
+    "name": "codeagent",
+    "description": "Jalankan codeagent-wrapper untuk tugas kode AI multi-backend. Mendukung backend Codex, Claude, Gemini, dan OpenCode dengan preset agen, penyisipan keterampilan, referensi file (@syntax), isolasi worktree, eksekusi paralel, dan output terstruktur."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codeinterpreter-automation": {
+    "name": "codeinterpreter-automation",
+    "description": "Otomatiskan tugas Codeinterpreter melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codereadr-automation": {
+    "name": "codereadr-automation",
+    "description": "Otomatiskan tugas Codereadr melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinmarketcal-automation": {
+    "name": "coinmarketcal-automation",
+    "description": "Otomatiskan tugas Coinmarketcal melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinmarketcap-automation": {
+    "name": "coinmarketcap-automation",
+    "description": "Otomatiskan tugas Coinmarketcap melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinranking-automation": {
+    "name": "coinranking-automation",
+    "description": "Otomatiskan tugas Coinranking melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/college-football-data-automation": {
+    "name": "college-football-data-automation",
+    "description": "Otomatiskan tugas College Football Data melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "arjun988/blender-skills:.claude/skills/collision-proxy": {
+    "name": "collision-proxy",
+    "description": "Penyusunan proxy tabrakan untuk game termasuk penamaan UCX/UHX, hull cembung, kapsul, dan mesh collider sederhana dalam Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/collision-proxy": {
+    "name": "collision-proxy",
+    "description": "Penyusunan proxy tabrakan untuk game termasuk penamaan UCX/UHX, hull cembung, kapsul, dan mesh collider sederhana dalam Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/comic-book-style": {
+    "name": "comic-book-style",
+    "description": "Arahan seni buku komik dan novel grafis untuk Blender dengan penekanan garis tinta, petunjuk halftone, dan pembingkaian kontras tinggi."
+  },
+  "arjun988/blender-skills:.cursor/skills/comic-book-style": {
+    "name": "comic-book-style",
+    "description": "Arahan seni buku komik dan novel grafis untuk Blender dengan penekanan garis tinta, petunjuk halftone, dan pembingkaian kontras tinggi."
+  },
+  "ComposioHQ/awesome-claude-skills:competitive-ads-extractor": {
+    "name": "competitive-ads-extractor",
+    "description": "Mengekstrak dan menganalisis iklan pesaing dari perpustakaan iklan (Facebook, LinkedIn, dll.) untuk memahami pesan, masalah, dan pendekatan kreatif apa yang berhasil. Membantu menginspirasi dan meningkatkan kampanye iklan Anda sendiri."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/composio-automation": {
+    "name": "composio-automation",
+    "description": "Otomatiskan tugas Composio melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/composio-search-automation": {
+    "name": "composio-search-automation",
+    "description": "Otomatiskan tugas Composio Search melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "arjun988/blender-skills:.claude/skills/compositing": {
+    "name": "compositing",
+    "description": "Alur kerja komposer Blender untuk stack kecantikan, render pass, color grade, glare, dan output pengiriman melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/compositing": {
+    "name": "compositing",
+    "description": "Alur kerja komposer Blender untuk stack kecantikan, render pass, color grade, glare, dan output pengiriman melalui MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/connecteam-automation": {
+    "name": "connecteam-automation",
+    "description": "Otomatiskan tugas Connecteam melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/contentful-graphql-automation": {
+    "name": "contentful-graphql-automation",
+    "description": "Otomatiskan tugas Contentful Graphql melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/control-d-automation": {
+    "name": "control-d-automation",
+    "description": "Otomatiskan tugas Control D melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/conversion-tools-automation": {
+    "name": "conversion-tools-automation",
+    "description": "Otomatiskan tugas Conversion Tools melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/convertapi-automation": {
+    "name": "convertapi-automation",
+    "description": "Otomatiskan tugas Convertapi melalui Rube MCP (Composio). Selalu cari alat terlebih dahulu untuk skema saat ini."
+  },
+  "arjun988/blender-skills:.claude/skills/cosmic-eldritch-horror": {
+    "name": "cosmic-eldritch-horror",
+    "description": "Arahan seni horor kosmik, eldritch, dan Lovecraftian untuk Blender dengan petunjuk non-Euclidean, skala mustahil, dan bentuk yang tak dapat dipahami."
+  },
+  "arjun988/blender-skills:.cursor/skills/cosmic-eldritch-horror": {
+    "name": "cosmic-eldritch-horror",
+    "description": "Arahan seni horor kosmik, eldritch, dan Lovecraftian untuk Blender dengan petunjuk non-Euclidean, skala mustahil, dan bentuk yang tak dapat dipahami."
+  },
+  "arjun988/blender-skills:.claude/skills/cozy-wholesome-mood": {
+    "name": "cozy-wholesome-mood",
+    "description": "Arahan suasana hati yang nyaman, imut, sehat, santai, dan damai untuk aset dan adegan Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/cozy-wholesome-mood": {
+    "name": "cozy-wholesome-mood",
+    "description": "Arahan suasana hati yang nyaman, imut, sehat, santai, dan damai untuk aset dan adegan Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/creature-artist": {
+    "name": "creature-artist",
+    "description": "Pemodelan makhluk AAA untuk fantasi, alien, monster, dan desain makhluk organik dengan anatomi dan gerakan yang meyakinkan. Digunakan untuk blockout makhluk, aliran otot, struktur tulang, dan aset makhluk siap animasi dalam Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/creature-artist": {
+    "name": "creature-artist",
+    "description": "Pemodelan makhluk AAA untuk fantasi, alien, monster, dan desain makhluk organik dengan anatomi dan gerakan yang meyakinkan. Digunakan untuk blockout makhluk, aliran otot, struktur tulang, dan aset makhluk siap animasi dalam Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/dark-gritty-mood": {
+    "name": "dark-gritty-mood",
+    "description": "Arahan suasana hati gelap, suram, kasar, berkarat, terbengkalai, lapuk, industrial, sepi, dan melankolis untuk Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/dark-gritty-mood": {
+    "name": "dark-gritty-mood",
+    "description": "Arahan suasana hati gelap, suram, kasar, berkarat, terbengkalai, lapuk, industrial, sepi, dan melankolis untuk Blender."
+  },
+  "Leonxlnx/taste-skill:skills/taste-skill": {
+    "name": "design-taste-frontend",
+    "description": "tasteskill 2.5.1, keterampilan frontend anti-slop. Membangun situs web perusahaan profesional setara figma.com dan x.ai: teks sederhana dengan suara tersendiri, satu sistem, satu bagian per layar, tepi rata, foto asli dan UI produk asli (foto pengganti berlisensi jika klien tidak memiliki; rendering produk hanya jika brief meminta 3D), entri hero dan satu atau dua momen penting di setiap halaman, efek shader dan adegan hanya pada halaman teknologi, game, dan perangkat lunak, interaksi mikro yang tenang, serta pemeriksa dan gerbang akhir yang menegakkannya di browser nyata. Gunakan ini setiap kali Anda membangun, mendesain, mendesain ulang, merestyle, memoles, atau meninjau halaman arahan, perusahaan, produk, toko, kafe, hotel, studio, SaaS, AI, alat pengembang, atau situs game, baik sebagai HTML/CSS statis maupun di dalam proyek React, Next.js, Vue, Svelte, Astro, atau Tailwind yang sudah ada, atau ketika pengguna mengatakan sebuah halaman terlihat generik, templated, atau \"AI-made\"."
+  },
+  "cexll/myclaude:skills/dev": {
+    "name": "dev",
+    "description": "Alur kerja pengembangan end-to-end yang sangat ringan dengan klarifikasi persyaratan, pemilihan backend cerdas, eksekusi parallel codeagent, dan cakupan pengujian wajib 90%"
+  },
+  "anthropics/skills:skills/discernment-nudge": {
+    "name": "discernment-nudge",
+    "description": "Setelah Anda memberikan jawaban substantif atau draf yang dapat ditindaklanjuti oleh pengguna — nasihat atau rekomendasi, artefak yang dirancang seperti tujuan, rencana, pitch, proposal, atau email, perkiraan atau proyeksi, analisis atau interpretasi data, klaim faktual yang dapat mereka andalkan, atau argumen multi-langkah — aktifkan keterampilan ini SEBELUM menyelesaikan balasan Anda dan kemudian, jika relevan, tambahkan 2-3 pertanyaan lanjutan singkat, masing-masing terkait dengan sesuatu yang spesifik dari apa yang baru saja Anda hasilkan, yang membantu pengguna memeriksa fakta kunci, menyelidiki alasan atau asumsi, dan memperhatikan konteks yang hilang. Lakukan ini maksimal sekali per percakapan. Lewati jika pengguna bertanya tentang cara-cara sederhana atau pencarian mudah, menginginkan penjelasan edukatif murni, hanya meminta Anda memformat, mengonversi, atau merakit file dari konten yang mereka sediakan, sedang menulis kode yang akan dijalankan, melakukan penulisan kreatif atau obrolan santai, atau sudah meminta Anda memeriksa ulang, mengutip, atau meninjau — file keterampilan menjelaskan batasan-batasan ini dan format keluaran yang tepat."
+  },
+  "cexll/myclaude:skills/do": {
+    "name": "do",
+    "description": "Keterampilan ini harus digunakan untuk pengembangan fitur terstruktur dengan pemahaman basis kode. Dipicu oleh perintah /do. Menyediakan alur kerja 5 fase (Pahami, Perjelas, Rancang, Implementasikan, Selesaikan) menggunakan codeagent-wrapper untuk mengoordinasikan code-explorer, code-architect, code-reviewer, dan mengembangkan agen secara paralel."
+  },
+  "anthropics/skills:skills/doc-coauthoring": {
+    "name": "doc-coauthoring",
+    "description": "Pandu pengguna melalui alur kerja terstruktur untuk penulisan bersama dokumentasi. Gunakan ketika pengguna ingin menulis dokumentasi, proposal, spesifikasi teknis, dokumen keputusan, atau konten terstruktur serupa. Alur kerja ini membantu pengguna mentransfer konteks secara efisien, menyempurnakan konten melalui iterasi, dan memverifikasi bahwa dokumen tersebut berfungsi bagi pembaca. Picu ketika pengguna menyebutkan menulis dokumen, membuat proposal, menyusun spesifikasi, atau tugas dokumentasi serupa."
+  },
+  "arpitg1304/robotics-agent-skills:skills/docker-ros2-development": {
+    "name": "docker-ros2-development",
+    "description": "Praktik terbaik untuk pengembangan ROS2 berbasis Docker termasuk file Docker multi-tahap, docker-compose untuk sistem robot multi-kontainer, DDS discovery lintas kontainer, GPU passthrough untuk persepsi, dan pola container dev-vs-deploy. Gunakan keterampilan ini saat mengcontainerize ruang kerja ROS2, menyiapkan docker-compose untuk stack perangkat lunak robot, debugging komunikasi DDS antar kontainer, mengonfigurasi NVIDIA Container Toolkit untuk beban kerja GPU, meneruskan X11/Wayland untuk rviz2 dan alat GUI, atau mengelola USB device passthrough untuk kamera dan perangkat serial. Picu setiap kali pengguna menyebutkan Docker dengan ROS2, docker-compose untuk robot, Dockerfile untuk ruang kerja colcon, jaringan container untuk DDS, devcontainer untuk ROS2, build multi-tahap untuk ROS2, atau deploying ROS2 in containers. Juga picu untuk CI/CD dengan build ROS2 berbasis Docker, konfigurasi CycloneDDS atau FastDDS dalam kontainer, atau shared memory dalam Docker. Mencakup distribusi Humble, Jazzy, dan Rolling di atas base image Ubuntu 22.04 dan 24.04."
+  },
+  "anthropics/skills:skills/docx": {
+    "name": "docx",
+    "description": "Gunakan keterampilan ini setiap kali pengguna ingin membuat, membaca, mengedit, atau memanipulasi dokumen Word (.docx files) atau template Word (.dotx files). Pemicu mencakup: segala penyebutan 'Word doc', 'word document', '.docx', '.dotx', atau permintaan untuk menghasilkan dokumen profesional dengan format seperti daftar isi, heading, nomor halaman, atau kop surat. Juga gunakan saat mengekstrak atau mereorganisasi konten dari file .docx atau .dotx, menyisipkan atau mengganti gambar dalam dokumen, melakukan find-and-replace dalam file Word, bekerja dengan tracked changes atau comments, atau mengonversi konten menjadi dokumen Word yang dipoles. Jika pengguna meminta 'laporan', 'memo', 'surat', 'template', atau deliverable serupa sebagai file Word atau .docx, gunakan keterampilan ini. JANGAN GUNAKAN untuk PDFs, spreadsheet, Google Docs, atau tugas coding umum yang tidak terkait dengan pembuatan dokumen."
+  },
+  "arjun988/blender-skills:.claude/skills/dream-surreal-mood": {
+    "name": "dream-surreal-mood",
+    "description": "Arahan suasana hati mimpi, surealis, misterius, mistis, penuh harapan, dan kacau untuk adegan Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/dream-surreal-mood": {
+    "name": "dream-surreal-mood",
+    "description": "Arahan suasana hati mimpi, surealis, misterius, mistis, penuh harapan, dan kacau untuk adegan Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/dream-weirdcore-style": {
+    "name": "gaya dream-weirdcore",
+    "description": "Arahan seni untuk Blender yang terinspirasi dari Dreamcore, weirdcore, dan traumacore, dengan nuansa nostalgia yang salah, nostalgia liminal, dan ruang masa kecil yang surealis."
+  },
+  "arjun988/blender-skills:.cursor/skills/dream-weirdcore-style": {
+    "name": "gaya dream-weirdcore",
+    "description": "Arahan seni untuk Blender yang terinspirasi dari Dreamcore, weirdcore, dan traumacore, dengan nuansa nostalgia yang salah, nostalgia liminal, dan ruang masa kecil yang surealis."
+  },
+  "emilkowalski/skills:skills/emil-design-eng": {
+    "name": "emil-design-eng",
+    "description": "Filosofi rekayasa desain Emil Kowalski untuk penyempurnaan UI, desain komponen, keputusan animasi, dan detail tak kasatmata yang membuat perangkat lunak terasa luar biasa. Gunakan saat membangun atau meninjau interaksi dan sentuhan akhir sebuah komponen UI (keadaan tekan dan hover, asal popover, timing tooltip, transisi vs keyframes, teknik clip-path, detail drag) ketika tidak ada keterampilan lain yang lebih spesifik."
+  },
+  "arjun988/blender-skills:.claude/skills/environment-artist": {
+    "name": "environment-artist",
+    "description": "Seni lingkungan AAA untuk kit modular, bangunan, medan, vegetasi, arsitektur, dan komposisi adegan. Gunakan untuk lingkungan yang dioptimalkan bagi game, penceritaan melalui ruang, dan pipeline aset modular di Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/environment-artist": {
+    "name": "environment-artist",
+    "description": "Seni lingkungan AAA untuk kit modular, bangunan, medan, vegetasi, arsitektur, dan komposisi adegan. Gunakan untuk lingkungan yang dioptimalkan bagi game, penceritaan melalui ruang, dan pipeline aset modular di Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/export-pipeline": {
+    "name": "export-pipeline",
+    "description": "Ekspor produksi dari Blender ke FBX, GLTF, OBJ, USD, dan Alembic dengan verifikasi skala, pivot, rotasi, normal, material, animasi, dan tabrakan melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/export-pipeline": {
+    "name": "export-pipeline",
+    "description": "Ekspor produksi dari Blender ke FBX, GLTF, OBJ, USD, dan Alembic dengan verifikasi skala, pivot, rotasi, normal, material, animasi, dan tabrakan melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/fantasy-worlds": {
+    "name": "fantasy-worlds",
+    "description": "Arahan seni pembangunan dunia fantasi untuk Blender yang mencakup bahasa aset medieval, high fantasy, dark fantasy, dan urban fantasy."
+  },
+  "arjun988/blender-skills:.cursor/skills/fantasy-worlds": {
+    "name": "fantasy-worlds",
+    "description": "Arahan seni pembangunan dunia fantasi untuk Blender yang mencakup bahasa aset medieval, high fantasy, dark fantasy, dan urban fantasy."
+  },
+  "emilkowalski/skills:skills/find-animation-opportunities": {
+    "name": "find-animation-opportunities",
+    "description": "Cari dalam basis kode atau UI tempat yang seharusnya memiliki animasi namun belum, dan tolak semua yang tidak seharusnya. Hanya baca; mengusulkan gerakan dengan nilai pasti, tetapi tidak menerapkannya. Gunakan ketika pengguna bertanya \"apa yang bisa dianimasikan di sini?\" atau ingin \"membuat ini terasa lebih hidup\". Untuk memperbaiki animasi yang sudah ada, gunakan improve-animations atau review-animations sebagai gantinya."
+  },
+  "arjun988/blender-skills:.claude/skills/folk-horror-style": {
+    "name": "folk-horror-style",
+    "description": "Arahan seni horor rakyat untuk Blender dengan ketakutan ritual pedesaan yang aneh, ketakutan siang hari pastoral, dan penceritaan tentang ketidaksesuaian komunitas."
+  },
+  "arjun988/blender-skills:.cursor/skills/folk-horror-style": {
+    "name": "folk-horror-style",
+    "description": "Arahan seni horor rakyat untuk Blender dengan ketakutan ritual pedesaan yang aneh, ketakutan siang hari pastoral, dan penceritaan tentang ketidaksesuaian komunitas."
+  },
+  "anthropics/skills:skills/frontend-design": {
+    "name": "frontend-design",
+    "description": "Panduan untuk desain visual yang khas dan disengaja saat membangun UI baru atau merombak yang sudah ada. Membantu dalam arah estetika, tipografi, dan membuat pilihan yang tidak terlihat seperti default berbasis templat."
+  },
+  "arjun988/blender-skills:.claude/skills/frutiger-aero-style": {
+    "name": "frutiger-aero-style",
+    "description": "Arahan seni Frutiger Aero untuk Blender dengan skeuomorfisme mengkilap, petunjuk UI warna aqua, optimisme teknologi alam, dan futurisme pertengahan 2000-an."
+  },
+  "arjun988/blender-skills:.cursor/skills/frutiger-aero-style": {
+    "name": "frutiger-aero-style",
+    "description": "Arahan seni Frutiger Aero untuk Blender dengan skeuomorfisme mengkilap, petunjuk UI warna aqua, optimisme teknologi alam, dan futurisme pertengahan 2000-an."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-action-combat": {
+    "name": "genre-action-combat",
+    "description": "Arahan seni untuk ruang pertarungan dan bahasa properti yang mudah dibaca pada game aksi, hack-and-slash, beat 'em up, dan fighting game di Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-action-combat": {
+    "name": "genre-action-combat",
+    "description": "Arahan seni untuk ruang pertarungan dan bahasa properti yang mudah dibaca pada game aksi, hack-and-slash, beat 'em up, dan fighting game di Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-card-party-idle": {
+    "name": "genre-card-party-idle",
+    "description": "Arahan seni untuk ruang presentasi game kartu, deck builder, party game, idle/incremental, edukasi, dan rhythm game di Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-card-party-idle": {
+    "name": "genre-card-party-idle",
+    "description": "Arahan seni untuk ruang presentasi game kartu, deck builder, party game, idle/incremental, edukasi, dan rhythm game di Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-metroidvania-roguelike": {
+    "name": "genre-metroidvania-roguelike",
+    "description": "Arahan seni untuk game metroidvania, roguelike, dan roguelite di Blender dengan gerbang bioma, modul ruangan, dan properti yang mudah dibaca saat berlari."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-metroidvania-roguelike": {
+    "name": "genre-metroidvania-roguelike",
+    "description": "Arahan seni untuk game metroidvania, roguelike, dan roguelite di Blender dengan gerbang bioma, modul ruangan, dan properti yang mudah dibaca saat berlari."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-narrative-vn": {
+    "name": "genre-narrative-vn",
+    "description": "Arahan seni untuk novel visual, film interaktif, walking simulator, dan ruang presentasi berbasis cerita di Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-narrative-vn": {
+    "name": "genre-narrative-vn",
+    "description": "Arahan seni untuk novel visual, film interaktif, walking simulator, dan ruang presentasi berbasis cerita di Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-open-world-sandbox": {
+    "name": "genre-open-world-sandbox",
+    "description": "Arahan seni untuk game open world dan sandbox di Blender dengan landmark bioma, skala yang dapat dilalui, dan properti penemuan."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-open-world-sandbox": {
+    "name": "genre-open-world-sandbox",
+    "description": "Arahan seni untuk game open world dan sandbox di Blender dengan landmark bioma, skala yang dapat dilalui, dan properti penemuan."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-puzzle-platformer": {
+    "name": "genre-puzzle-platformer",
+    "description": "Arahan seni untuk game puzzle dan platformer di Blender dengan objek interaktif yang mudah dibaca, volume lompatan, dan bahasa bahaya yang jelas."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-puzzle-platformer": {
+    "name": "genre-puzzle-platformer",
+    "description": "Arahan seni untuk game puzzle dan platformer di Blender dengan objek interaktif yang mudah dibaca, volume lompatan, dan bahasa bahaya yang jelas."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-racing-sports": {
+    "name": "genre-racing-sports",
+    "description": "Arahan seni untuk game balap dan olahraga di Blender dengan landmark lintasan, kit stadion, dan kemudahan pembacaan kecepatan tinggi."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-racing-sports": {
+    "name": "genre-racing-sports",
+    "description": "Arahan seni untuk game balap dan olahraga di Blender dengan landmark lintasan, kit stadion, dan kemudahan pembacaan kecepatan tinggi."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-rpg": {
+    "name": "genre-rpg",
+    "description": "Arahan seni untuk dunia RPG, JRPG, CRPG, ARPG, dan MMORPG di Blender termasuk pembacaan kelangkaan loot dan identitas wilayah."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-rpg": {
+    "name": "genre-rpg",
+    "description": "Arahan seni untuk dunia RPG, JRPG, CRPG, ARPG, dan MMORPG di Blender termasuk pembacaan kelangkaan loot dan identitas wilayah."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-shooter": {
+    "name": "genre-shooter",
+    "description": "Arahan seni untuk peta dan properti FPS, TPS, shooter, battle royale, dan extraction-shooter di Blender dengan bahasa garis pandang dan perlindungan."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-shooter": {
+    "name": "genre-shooter",
+    "description": "Arahan seni untuk peta dan properti FPS, TPS, shooter, battle royale, dan extraction-shooter di Blender dengan bahasa garis pandang dan perlindungan."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-soulslike": {
+    "name": "genre-soulslike",
+    "description": "Arahan seni untuk game soulslike di Blender dengan ruang melankolis monumental, gerbang kabut, landmark api unggun, dan kemudahan pembacaan yang mematikan."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-soulslike": {
+    "name": "genre-soulslike",
+    "description": "Arahan seni untuk game soulslike di Blender dengan ruang melankolis monumental, gerbang kabut, landmark api unggun, dan kemudahan pembacaan yang mematikan."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-stealth": {
+    "name": "genre-stealth",
+    "description": "Arahan seni untuk ruang game stealth di Blender dengan volume bayangan, tata letak ramah patroli, dan material penyembunyian."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-stealth": {
+    "name": "genre-stealth",
+    "description": "Arahan seni untuk ruang game stealth di Blender dengan volume bayangan, tata letak ramah patroli, dan material penyembunyian."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-strategy-sim": {
+    "name": "genre-strategy-sim",
+    "description": "Arahan seni untuk game strategi, RTS, strategi berbasis giliran, tower defense, MOBA, city builder, colony sim, dan simulasi di Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-strategy-sim": {
+    "name": "genre-strategy-sim",
+    "description": "Arahan seni untuk game strategi, RTS, strategi berbasis giliran, tower defense, MOBA, city builder, colony sim, dan simulasi di Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-survival": {
+    "name": "genre-survival",
+    "description": "Arahan seni untuk ruang gameplay survival dan survival-horror di Blender dengan penekanan pada properti sumber daya, kemudahan pembuatan, dan jalur ketegangan."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-survival": {
+    "name": "genre-survival",
+    "description": "Arahan seni untuk ruang gameplay survival dan survival-horror di Blender dengan penekanan pada properti sumber daya, kemudahan pembuatan, dan jalur ketegangan."
+  },
+  "arjun988/blender-skills:.claude/skills/geometry-nodes": {
+    "name": "geometry-nodes",
+    "description": "Geometry Nodes Blender untuk pemodelan prosedural, sistem penyebaran, vegetasi, bangunan, pipa, kabel, dan grup node yang dapat digunakan kembali. Gunakan untuk generasi aset prosedural dan pipeline instancing melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/geometry-nodes": {
+    "name": "geometry-nodes",
+    "description": "Geometry Nodes Blender untuk pemodelan prosedural, sistem penyebaran, vegetasi, bangunan, pipa, kabel, dan grup node yang dapat digunakan kembali. Gunakan untuk generasi aset prosedural dan pipeline instancing melalui MCP."
+  },
+  "emilkowalski/skills:skills/gestures": {
+    "name": "gestures",
+    "description": "Bangun interaksi seret, geser, dan lembar yang melacak jari secara 1:1 dan tetap dapat diinterupsi. Gunakan saat membangun atau memperbaiki apa pun yang pengguna seret, geser, lempar, tahan, atau tutup dengan gestur — laci, lembar, toast dan kartu swipe-to-dismiss, drag-to-reorder, pull-to-refresh, hold-to-confirm — atau ketika gestur terasa lambat, tidak terhubung dengan jari, melompat saat dilepas, atau tidak dapat ditangkap saat animasi berlangsung. Pemicu pada — gestur, seret, geser, lempar, lembar, titik snap, Vaul, properti Motion drag, karet gelang, pull to refresh, hold to delete, touch-action, \"tidak mengikuti jari saya\", \"melompat saat saya melepaskan\", \"tidak dapat menangkapnya saat animasi berlangsung\"."
+  },
+  "arjun988/blender-skills:.claude/skills/godot-export": {
+    "name": "godot-export",
+    "description": "Ekspor khusus Godot Blender yang mendukung GLTF/GLB dengan skala, material, klip animasi, dan bentuk tabrakan yang benar melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/godot-export": {
+    "name": "godot-export",
+    "description": "Ekspor khusus Godot Blender yang mendukung GLTF/GLB dengan skala, material, klip animasi, dan bentuk tabrakan yang benar melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/hair-groom": {
+    "name": "hair-groom",
+    "description": "Perawatan rambut dan bulu di Blender menggunakan kurva, rambut partikel, geometry nodes, dan alur kerja kartu rambut game. Gunakan untuk karakter, makhluk, dan kartu rambut real-time melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/hair-groom": {
+    "name": "hair-groom",
+    "description": "Perawatan rambut dan bulu di Blender menggunakan kurva, rambut partikel, geometry nodes, dan alur kerja kartu rambut game. Gunakan untuk karakter, makhluk, dan kartu rambut real-time melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/hand-painted-style": {
+    "name": "hand-painted-style",
+    "description": "Arahan seni tekstur lukisan tangan untuk Blender dengan albedo hasil kuas, transisi nilai lembut, dan batasan PBR bergaya."
+  },
+  "arjun988/blender-skills:.cursor/skills/hand-painted-style": {
+    "name": "hand-painted-style",
+    "description": "Arahan seni tekstur lukisan tangan untuk Blender dengan albedo hasil kuas, transisi nilai lembut, dan batasan PBR bergaya."
+  },
+  "arjun988/blender-skills:.claude/skills/hard-surface": {
+    "name": "hard-surface",
+    "description": "Pemodelan permukaan keras AAA untuk sci-fi, industri, militer, kendaraan, senjata, robotika, dan properti mekanis. Gunakan untuk alur kerja boolean/bevel, garis panel, greebles, chamfer, dan permukaan akurat manufaktur di Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/hard-surface": {
+    "name": "hard-surface",
+    "description": "Pemodelan permukaan keras AAA untuk sci-fi, industri, militer, kendaraan, senjata, robotika, dan properti mekanis. Gunakan untuk alur kerja boolean/bevel, garis panel, greebles, chamfer, dan permukaan akurat manufaktur di Blender melalui MCP."
+  },
+  "cexll/myclaude:skills/harness": {
+    "name": "harness",
+    "description": "Keterampilan ini harus digunakan untuk pekerjaan agen otonom multi-sesi yang memerlukan pencatatan progres, pemulihan kegagalan, dan manajemen ketergantungan tugas. Pemicu pada perintah '/harness', atau ketika suatu tugas melibatkan banyak sub-tugas yang memerlukan persistensi progres, siklus tidur/lanjut melintasi jendela konteks, pemulihan dari kegagalan tengah tugas dengan status parsial, atau pekerjaan terdistribusi lintas beberapa sesi agen. Disintesis dari praktik rekayasa Anthropic dan OpenAI untuk agen berjalan lama."
+  },
+  "arjun988/blender-skills:.claude/skills/hd-2d-style": {
+    "name": "hd-2d-style",
+    "description": "Arahan seni HD-2D yang menggabungkan karakter/sprite piksel dengan lingkungan 3D, depth of field, dan pencahayaan teatrikal."
+  },
+  "arjun988/blender-skills:.cursor/skills/hd-2d-style": {
+    "name": "hd-2d-style",
+    "description": "Arahan seni HD-2D yang menggabungkan karakter/sprite piksel dengan lingkungan 3D, depth of field, dan pencahayaan teatrikal."
+  },
+  "arjun988/blender-skills:.claude/skills/historical-worlds": {
+    "name": "dunia-sejarah",
+    "description": "Arah seni dunia sejarah dan periode untuk Blender termasuk era Barat, bajak laut, samurai/ninja, Viking, Mesir/Kekaisaran Yunani/Romawi kuno, Victoria, modern, dan militer."
+  },
+  "arjun988/blender-skills:.cursor/skills/historical-worlds": {
+    "name": "dunia-sejarah",
+    "description": "Arah seni dunia sejarah dan periode untuk Blender termasuk era Barat, bajak laut, samurai/ninja, Viking, Mesir/Kekaisaran Yunani/Romawi kuno, Victoria, modern, dan militer."
+  },
+  "arjun988/blender-skills:.claude/skills/horror-style": {
+    "name": "gaya horor",
+    "description": "Arah seni horor psikologis untuk aset Blender yang terinspirasi oleh Silent Hill, Resident Evil, Chilla's Art, Fear to Fathom, dan Iron Lung. Gunakan untuk lingkungan industri yang jarang, estetika analog, dan pencahayaan yang mengutamakan ketegangan."
+  },
+  "arjun988/blender-skills:.cursor/skills/horror-style": {
+    "name": "gaya horor",
+    "description": "Arah seni horor psikologis untuk aset Blender yang terinspirasi oleh Silent Hill, Resident Evil, Chilla's Art, Fear to Fathom, dan Iron Lung. Gunakan untuk lingkungan industri yang jarang, estetika analog, dan pencahayaan yang mengutamakan ketegangan."
+  },
+  "arpitg1304/robotics-agent-skills:skills/imitation-learning": {
+    "name": "pembelajaran tiruan",
+    "description": "Pembelajaran tiruan praktis (belajar dari demonstrasi) untuk manipulasi robot: memutuskan apakah IL cocok, merancang koleksi demonstrasi, memilih ruang pengamatan dan tindakan, memilih dan mengonfigurasi kebijakan (kloning perilaku, ACT, Kebijakan Difusi, pencocokan aliran, VLA seperti OpenVLA-OFT, Octo, pi0/pi0.5, SmolVLA, GR00T), pelatihan dan pemilihan titik pemeriksaan, evaluasi roll-out yang jujur dengan interval kepercayaan, waktu penyebaran, dan diagnosis kegagalan. Gunakan keterampilan ini ketika pengguna menyebutkan kloning perilaku, demo teleoperasi, lengan pemimpin-pengikut, pemotongan tindakan, ensambel temporal, fine-tuning VLA, \"berapa banyak demo\", tingkat keberhasilan, evaluasi kebijakan, data DAgger atau intervensi, pergeseran kovariat, kebijakan yang membeku, getaran, gagal mencengkeram, atau berfungsi saat pelatihan tetapi gagal pada robot, atau co-training simulasi dan nyata."
+  },
+  "emilkowalski/skills:skills/improve-animations": {
+    "name": "tingkatkan-animasi",
+    "description": "Survei kode animasi dan gerak suatu basis kode sebagai penasihat senior gerak, lalu hasilkan audit prioritas dan rencana implementasi mandiri agar agen lain (atau model lebih murah) dapat melaksanakannya. Hanya baca pada kode sumber — merencanakan perbaikan, tidak menerapkannya. Gunakan ketika pengguna meminta \"meningkatkan animasi\", \"mengaudit gerak\", \"membuat aplikasi ini terasa lebih baik\", atau menginginkan peta jalan perbaikan animasi daripada ulasan satu diff saja."
+  },
+  "arjun988/blender-skills:.claude/skills/indie-horror-aesthetics": {
+    "name": "estetika-horor-indie",
+    "description": "Paket estetika horor indie untuk Blender yang mencakup Silent Hill, Fear to Fathom, Puppet Combo, horor korporat, horor pondok/hutan/rumah sakit, dan tampilan terkait lainnya."
+  },
+  "arjun988/blender-skills:.cursor/skills/indie-horror-aesthetics": {
+    "name": "estetika-horor-indie",
+    "description": "Paket estetika horor indie untuk Blender yang mencakup Silent Hill, Fear to Fathom, Puppet Combo, horor korporat, horor pondok/hutan/rumah sakit, dan tampilan terkait lainnya."
+  },
+  "anthropics/skills:skills/internal-comms": {
+    "name": "komunikasi internal",
+    "description": "Sekumpulan sumber daya untuk membantu saya menulis segala jenis komunikasi internal, menggunakan format yang disukai perusahaan saya. Claude harus menggunakan keterampilan ini setiap kali diminta menulis semacam komunikasi internal (laporan status, pembaruan kepemimpinan, pembaruan 3P, buletin perusahaan, FAQ, laporan insiden, pembaruan proyek, dll.)."
+  },
+  "arpitg1304/robotics-agent-skills:skills/isaac-sim": {
+    "name": "isaac-sim",
+    "description": "NVIDIA Isaac Sim dan Isaac Lab untuk pembelajaran robot: instalasi (uv, pip, binary, Docker, cloud), persyaratan GPU RTX dan driver, jalankan headless dan livestreaming, aset OpenUSD, impor URDF/MJCF, ArticulationCfg dan aktuator, env berbasis manajer dan langsung, configclass, registrasi tugas gymnasium, pelatihan dan bermain dengan rsl_rl, rl_games, skrl atau sb3, env paralel, kamera ubin, sensor kontak, ray caster, IMU, transformator frame, domain randomisation via events, teleoperasi, Isaac Lab Mimic, jembatan ROS 2, preset PhysX/Newton, tuning solver dan artikulasi yang meledak. Gunakan ketika pengguna menyebutkan Isaac Sim, Isaac Lab, Omniverse, Kit, isaacsim atau isaaclab imports, modul omni.isaac, robot USD, impor URDF, num_envs, Mimic, isaaclab train or play, ManagerBasedRLEnv, DirectRLEnv, PresetCfg, Newton atau OvPhysX di Isaac Lab, atau migrasi dari Isaac Gym atau Isaac Lab 2.x."
+  },
+  "arjun988/blender-skills:.claude/skills/isometric-style": {
+    "name": "gaya isometrik",
+    "description": "Arah seni isometrik dan game strategi untuk Blender termasuk framing diorama, pengaturan kamera isometrik sejati, siluet yang mudah dibaca, dan aturan aset ubin."
+  },
+  "arjun988/blender-skills:.cursor/skills/isometric-style": {
+    "name": "gaya isometrik",
+    "description": "Arah seni isometrik dan game strategi untuk Blender termasuk framing diorama, pengaturan kamera isometrik sejati, siluet yang mudah dibaca, dan aturan aset ubin."
+  },
+  "emilkowalski/skills:skills/learn-taste": {
+    "name": "pelajari-rasa",
+    "description": "Ubah koreksi desain sesi menjadi aturan, beserta alasannya, dalam DESIGN.md, keterampilan proyek, atau pemeriksaan lint."
+  },
+  "arpitg1304/robotics-agent-skills:skills/lerobot": {
+    "name": "lerobot",
+    "description": "LeRobot Hugging Face end to end: instalasi, bring-up hardware, rekaman dataset, pelatihan, dan penyebaran kebijakan pembelajaran robot. Gunakan keterampilan ini ketika pengguna menyebutkan LeRobot, lerobot-record, lerobot-train, lerobot-rollout, lerobot-teleoperate, lerobot-calibrate, lerobot-setup-motors, lerobot-find-port, lerobot-find-cameras, lerobot-eval, lerobot-edit-dataset, LeRobotDataset, SO-100, SO-101, SO-ARM100, Koch, LeKiwi, OMX, OpenArm, servos Feetech STS3215, teleoperasi pemimpin/pengikut, file kalibrasi, ACT, Kebijakan Difusi, SmolVLA, pi0/pi0.5, GR00T atau fine-tuning X-VLA di LeRobot, dataset robot di Hugging Face Hub, konversi dataset v2.1 ke v3.0, RTC atau inferensi jarak jauh (async), atau HIL-SERL di LeRobot. Juga picu pada kesalahan LeRobot seperti ketidakcocokan kalibrasi, FrameTimestampError atau pelanggaran toleransi timestamp, ketidakcocokan nama kamera atau fitur antara dataset dan kebijakan, statistik q01/q99 yang hilang, dan Feetech \"Paket status salah\"."
+  },
+  "arjun988/blender-skills:.claude/skills/lighting": {
+    "name": "pencahayaan",
+    "description": "Pencahayaan sinematik dan game dalam Blender termasuk pencahayaan tiga titik, HDRI, pencahayaan horor, volumetrics, rim lighting, dan iluminasi yang dipengaruhi suasana hati. Gunakan untuk pengembangan tampilan dan atmosfer adegan melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/lighting": {
+    "name": "pencahayaan",
+    "description": "Pencahayaan sinematik dan game dalam Blender termasuk pencahayaan tiga titik, HDRI, pencahayaan horor, volumetrics, rim lighting, dan iluminasi yang dipengaruhi suasana hati. Gunakan untuk pengembangan tampilan dan atmosfer adegan melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/liminal-space-style": {
+    "name": "gaya ruang liminal",
+    "description": "Arah seni ruang liminal dan Backrooms untuk Blender dengan arsitektur transisi kosong, keakraban yang salah, dan repetisi tak berujung."
+  },
+  "arjun988/blender-skills:.cursor/skills/liminal-space-style": {
+    "name": "gaya ruang liminal",
+    "description": "Arah seni ruang liminal dan Backrooms untuk Blender dengan arsitektur transisi kosong, keakraban yang salah, dan repetisi tak berujung."
+  },
+  "arjun988/blender-skills:.claude/skills/lod-pipeline": {
+    "name": "pipeline-lod",
+    "description": "Generasi LOD khusus, penamaan, target ukuran layar, dan validasi untuk mesh game dalam Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/lod-pipeline": {
+    "name": "pipeline-lod",
+    "description": "Generasi LOD khusus, penamaan, target ukuran layar, dan validasi untuk mesh game dalam Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/lookdev": {
+    "name": "lookdev",
+    "description": "Loop pengembangan tampilan untuk aset Blender yang menggabungkan material, pencahayaan, kamera, dan perbandingan tangkapan layar hingga shading terbaca dengan benar melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/lookdev": {
+    "name": "lookdev",
+    "description": "Loop pengembangan tampilan untuk aset Blender yang menggabungkan material, pencahayaan, kamera, dan perbandingan tangkapan layar hingga shading terbaca dengan benar melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/lowpoly-style": {
+    "name": "gaya lowpoly",
+    "description": "Arah seni low-poly untuk Blender yang terinspirasi oleh PS1/PS2, Lethal Company, Mouthwashing, dan Fear to Fathom. Gunakan untuk siluet yang mudah dibaca, poligon minimal, material sederhana, dan atmosfer yang kuat."
+  },
+  "arjun988/blender-skills:.cursor/skills/lowpoly-style": {
+    "name": "gaya lowpoly",
+    "description": "Arah seni low-poly untuk Blender yang terinspirasi oleh PS1/PS2, Lethal Company, Mouthwashing, dan Fear to Fathom. Gunakan untuk siluet yang mudah dibaca, poligon minimal, material sederhana, dan atmosfer yang kuat."
+  },
+  "arjun988/blender-skills:.claude/skills/manga-style": {
+    "name": "gaya manga",
+    "description": "Arah seni terinspirasi manga untuk Blender yang menekankan desain nilai monokrom, garis kecepatan, nuansa screentone, dan penyusunan panel manga."
+  },
+  "arjun988/blender-skills:.cursor/skills/manga-style": {
+    "name": "gaya manga",
+    "description": "Arah seni terinspirasi manga untuk Blender yang menekankan desain nilai monokrom, garis kecepatan, nuansa screentone, dan penyusunan panel manga."
+  },
+  "arjun988/blender-skills:.claude/skills/mascot-puppet-horror": {
+    "name": "horor-maskot-boneka",
+    "description": "Arah seni horor maskot dan boneka untuk Blender dengan karakter merek ceria yang dibuat salah, material felt/foam, dan performa yang aneh."
+  },
+  "arjun988/blender-skills:.cursor/skills/mascot-puppet-horror": {
+    "name": "horor-maskot-boneka",
+    "description": "Arah seni horor maskot dan boneka untuk Blender dengan karakter merek ceria yang dibuat salah, material felt/foam, dan performa yang aneh."
+  },
+  "arjun988/blender-skills:.claude/skills/materials": {
+    "name": "material",
+    "description": "PBR dan pembuatan material bergaya untuk logam, kayu, beton, kain, kaca, tanah, karat, dan shader prosedural dalam Blender. Gunakan untuk pengembangan tampilan, penggunaan kembali material, dan shading produksi dalam Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/materials": {
+    "name": "material",
+    "description": "PBR dan pembuatan material bergaya untuk logam, kayu, beton, kain, kaca, tanah, karat, dan shader prosedural dalam Blender. Gunakan untuk pengembangan tampilan, penggunaan kembali material, dan shading produksi dalam Blender melalui MCP."
+  },
+  "anthropics/skills:skills/mcp-builder": {
+    "name": "pembangun-mcp",
+    "description": "Panduan untuk membuat server MCP (Model Context Protocol) berkualitas tinggi yang memungkinkan LLM berinteraksi dengan layanan eksternal melalui alat yang dirancang dengan baik. Gunakan saat membangun server MCP untuk mengintegrasikan API atau layanan eksternal, baik dalam Python (FastMCP) maupun Node/TypeScript (MCP SDK)."
+  },
+  "arjun988/blender-skills:.claude/skills/minimalist-style": {
+    "name": "gaya minimalis",
+    "description": "Arah seni minimalis dan condong abstrak untuk Blender dengan bentuk yang disederhanakan, palet terbatas, dan ruang negatif."
+  },
+  "arjun988/blender-skills:.cursor/skills/minimalist-style": {
+    "name": "gaya minimalis",
+    "description": "Arah seni minimalis dan condong abstrak untuk Blender dengan bentuk yang disederhanakan, palet terbatas, dan ruang negatif."
+  },
+  "emilkowalski/skills:skills/mobile-native": {
+    "name": "mobile-native",
+    "description": "Buat aplikasi web terasa native di ponsel — perbaikan kecil CSS dan meta-tag yang membedakan situs web \" di browser\" dari sesuatu yang terasa terpasang. Mencakup status hover yang lengket, kilatan sorot ketuk, bug 100vh, input yang memperbesar halaman, ketukan yang lambat, pembajakan scroll saat pull-to-refresh, konten di bawah notch, tekan lama untuk memilih teks tombol, carousel yang menggulir ke arah yang salah, status bar yang tidak sesuai, dan aturan bahwa Anda harus menguji pada perangkat keras nyata. Gunakan ketika sebuah aplikasi web sedang dibangun atau ditinjau di perangkat seluler, ketika sesuatu \"berfungsi di Chrome tetapi terasa salah di ponsel saya\", saat membangun PWA, bottom sheet, carousel, tata letak layar penuh, atau interaksi sentuh apa pun. Untuk gerak itu sendiri gunakan animate; untuk React Native gunakan animate-expo."
+  },
+  "arpitg1304/robotics-agent-skills:skills/mujoco": {
+    "name": "mujoco",
+    "description": "Simulasi fisika MuJoCo untuk robotika: menulis dan debugging model MJCF, impor URDF, simulasi, kontrol, dan rendering dari Python, tuning kontak, serta menjalankan simulasi GPU batch. Gunakan keterampilan ini ketika pengguna menyebutkan MuJoCo, MJCF, mujoco.MjModel / MjData, mj_step, MjSpec, mujoco.Renderer, MUJOCO_GL, EGL/OSMesa headless rendering, passive viewer atau MuJoCo Studio, MuJoCo Menagerie (Franka, UR5e, SO-100/SO-101, ALOHA, G1), MJX, MuJoCo Warp (mujoco_warp), MuJoCo Playground, dm_control, atau Gymnasium MuJoCo envs. Juga picu untuk tuning kontak (solref, solimp, condim, gesekan, impratio, noslip), simulasi yang meledak atau bergetar, objek tenggelam atau cengkeraman tergelincir, posisi aktuator kp/kv, joint armature and damping, collison filtering contype/conaffinity, keyframes, integrator and timestep choice, serta identifikasi sistem atau domain randomisation of MuJoCo model fields for sim-to-real."
+  },
+  "arjun988/blender-skills:.claude/skills/neon-retrofuturism": {
+    "name": "neon-retrofuturisme",
+    "description": "Neon, vaporwave, synthwave, dan arah seni/suasana retrofuturistik untuk Blender dengan horizon grid, chrome, dan palet senja."
+  },
+  "arjun988/blender-skills:.cursor/skills/neon-retrofuturism": {
+    "name": "neon-retrofuturisme",
+    "description": "Neon, vaporwave, synthwave, dan arah seni/suasana retrofuturistik untuk Blender dengan horizon grid, chrome, dan palet senja."
+  },
+  "arjun988/blender-skills:.claude/skills/noir-style": {
+    "name": "gaya noir",
+    "description": "Arah seni noir untuk Blender dengan pencahayaan kontras tinggi, jalan basah, siluet, dan grading monokrom atau warna terbatas."
+  },
+  "arjun988/blender-skills:.cursor/skills/noir-style": {
+    "name": "gaya noir",
+    "description": "Arah seni noir untuk Blender dengan pencahayaan kontras tinggi, jalan basah, siluet, dan grading monokrom atau warna terbatas."
+  },
+  "cexll/myclaude:skills/omo": {
+    "name": "omo",
+    "description": "Gunakan keterampilan ini ketika Anda melihat `/omo`. Orkestrasi multi-agenn untuk \"analisis kode / investigasi bug / perencanaan perbaikan / implementasi\". Pilih set agen minimal dan urutan berdasarkan jenis tugas + risiko; resep di bawah menunjukkan pola umum."
+  },
+  "arjun988/blender-skills:.claude/skills/painterly-style": {
+    "name": "gaya pelukis",
+    "description": "Arah seni pelukis yang mencakup tampilan cat air dan cat minyak untuk Blender menggunakan tepi lembut, tekstur pigmen, dan pencahayaan ilustratif."
+  },
+  "arjun988/blender-skills:.cursor/skills/painterly-style": {
+    "name": "gaya pelukis",
+    "description": "Arah seni pelukis yang mencakup tampilan cat air dan cat minyak untuk Blender menggunakan tepi lembut, tekstur pigmen, dan pencahayaan ilustratif."
+  },
+  "anthropics/skills:skills/pdf": {
+    "name": "pdf",
+    "description": "Gunakan keterampilan ini setiap kali pengguna ingin melakukan apa pun dengan file PDF. Ini termasuk membaca atau mengekstrak teks/tabel dari PDFs, menggabungkan atau menggabungkan beberapa PDFs menjadi satu, memisahkan PDFs, memutar halaman, menambahkan watermark, membuat PDFs baru, mengisi formulir PDFs, mengenkripsi/mendekripsi PDFs, mengekstrak gambar, dan OCR pada PDFs yang dipindai agar dapat dicari. Jika pengguna menyebutkan file .pdf atau meminta untuk membuatnya, gunakan keterampilan ini."
+  },
+  "arjun988/blender-skills:.claude/skills/physics-sim": {
+    "name": "simulasi-fisika",
+    "description": "Pengaturan rigid body, soft body, dan destruksi dalam Blender termasuk constraints, debris fraktur sel, dan baked caches melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/physics-sim": {
+    "name": "simulasi-fisika",
+    "description": "Pengaturan rigid body, soft body, dan destruksi dalam Blender termasuk constraints, debris fraktur sel, dan baked caches melalui MCP."
+  },
+  "emilkowalski/skills:skills/pick-ui-library": {
+    "name": "pilih-perpustakaan-ui",
+    "description": "Pilih perpustakaan untuk tugas frontend dari daftar kurasi — primitif, toast, drawer, menu perintah, OTP, angka, grafik, virtualisasi, drag and drop, state, styling."
+  },
+  "arjun988/blender-skills:.claude/skills/pixel-art-style": {
+    "name": "gaya pixel-art",
+    "description": "Arah seni pixel-art dan terbatas texel untuk aset Blender yang ditujukan untuk rendering piksel, tekstur resolusi rendah, atau pembacaan piksel yang berdekatan dengan HD-2D."
+  },
+  "arjun988/blender-skills:.cursor/skills/pixel-art-style": {
+    "name": "gaya pixel-art",
+    "description": "Arah seni pixel-art dan terbatas texel untuk aset Blender yang ditujukan untuk rendering piksel, tekstur resolusi rendah, atau pembacaan piksel yang berdekatan dengan HD-2D."
+  },
+  "anthropics/skills:skills/pptx": {
+    "name": "pptx",
+    "description": "Gunakan keterampilan ini setiap kali file .pptx atau .potx terlibat dalam bentuk apa pun — sebagai input, output, atau keduanya. Ini mencakup: membuat dek slide, dek presentasi, atau presentasi; membaca, mengurai, atau mengekstrak teks dari file .pptx atau .potx mana pun (bahkan jika konten yang diekstrak akan digunakan di tempat lain, seperti dalam email atau ringkasan); mengedit, memodifikasi, atau memperbarui presentasi yang ada; menggabungkan atau memisahkan file slide; bekerja dengan templat (.potx), tata letak, catatan pembicara, atau komentar. Pemicu setiap kali pengguna menyebut \\\"deck,\\\" \\\"slides,\\\" \\\"presentation,\\\" atau merujuk pada nama file .pptx atau .potx, terlepas dari apa yang mereka rencanakan untuk dilakukan dengan konten tersebut setelahnya. Jika sebuah file .pptx atau .potx perlu dibuka, dibuat, atau dimodifikasi, gunakan keterampilan ini."
+  },
+  "arjun988/blender-skills:.claude/skills/procedural-modeling": {
+    "name": "pemodelan-prosedural",
+    "description": "Pembuatan aset prosedural untuk batu, bangunan, vegetasi, jalan, medan, pipa, kabel, dan panel fiksi ilmiah menggunakan Geometry Nodes dan alur kerja berbasis modifier di Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/procedural-modeling": {
+    "name": "pemodelan-prosedural",
+    "description": "Pembuatan aset prosedural untuk batu, bangunan, vegetasi, jalan, medan, pipa, kabel, dan panel fiksi ilmiah menggunakan Geometry Nodes dan alur kerja berbasis modifier di Blender melalui MCP."
+  },
+  "cexll/myclaude:skills/product-requirements": {
+    "name": "persyaratan-produk",
+    "description": "Keterampilan Product Owner interaktif untuk pengumpulan persyaratan, analisis, dan pembuatan PRD. Dipicu ketika pengguna meminta persyaratan produk, spesifikasi fitur, pembuatan PRD, atau membutuhkan bantuan untuk memahami dan mendokumentasikan persyaratan proyek. Menggunakan penilaian kualitas dan dialog iteratif untuk memastikan persyaratan yang komprehensif sebelum menghasilkan dokumen PRD profesional."
+  },
+  "arjun988/blender-skills:.claude/skills/prop-artist": {
+    "name": "seniman-properti",
+    "description": "Pemodelan properti sehari-hari dan hero untuk furnitur, alat, benda rumah tangga, komponen kitbash, dan properti game yang mudah dibaca. Gunakan ketika permukaan keras terlalu bernuansa fiksi ilmiah/mekanis dan aset tersebut adalah properti yang realistis."
+  },
+  "arjun988/blender-skills:.cursor/skills/prop-artist": {
+    "name": "seniman-properti",
+    "description": "Pemodelan properti sehari-hari dan hero untuk furnitur, alat, benda rumah tangga, komponen kitbash, dan properti game yang mudah dibaca. Gunakan ketika permukaan keras terlalu bernuansa fiksi ilmiah/mekanis dan aset tersebut adalah properti yang realistis."
+  },
+  "emilkowalski/skills:skills/prototype": {
+    "name": "prototipe",
+    "description": "Bangun beberapa versi yang benar-benar berbeda dari elemen UI yang Anda jelaskan, render di balik pemilih visual sehingga Anda dapat membalik-baliknya secara langsung dan mempromosikan yang terasa tepat."
+  },
+  "cexll/myclaude:skills/prototype-prompt-generator": {
+    "name": "generator-prompt-prototipe",
+    "description": "Keterampilan ini harus digunakan ketika pengguna perlu menghasilkan prompt terperinci dan terstruktur untuk membuat prototipe UI/UX. Pemicu ketika pengguna meminta bantuan untuk \"membuat prompt prototipe\", \"merancang aplikasi seluler\", \"menghasilkan spesifikasi UI\", atau membutuhkan dokumentasi desain yang komprehensif untuk aplikasi web/seluler. Bekerja dengan berbagai sistem desain termasuk WeChat Work, iOS Native, Material Design, dan Ant Design Mobile."
+  },
+  "arjun988/blender-skills:.claude/skills/psx-horror-style": {
+    "name": "gaya-horor-psx",
+    "description": "Arah seni horor era PS1/PSX yang menggabungkan tekstur affine poligon rendah, kedalaman warna terbatas, kabut, dan pementasan horor psikologis untuk aset Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/psx-horror-style": {
+    "name": "gaya-horor-psx",
+    "description": "Arah seni horor era PS1/PSX yang menggabungkan tekstur affine poligon rendah, kedalaman warna terbatas, kabut, dan pementasan horor psikologis untuk aset Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/qa-review": {
+    "name": "tinjauan-qa",
+    "description": "Gerbang QA produksi untuk aset Blender menggunakan tangkapan layar viewport, daftar periksa validasi, audit penamaan, dan putusan kirim/tidak kirim melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/qa-review": {
+    "name": "tinjauan-qa",
+    "description": "Gerbang QA produksi untuk aset Blender menggunakan tangkapan layar viewport, daftar periksa validasi, audit penamaan, dan putusan kirim/tidak kirim melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/realistic-style": {
+    "name": "gaya-realistis",
+    "description": "Arah seni AAA fotorealistis untuk Blender termasuk pembersihan fotogrametri, skala dunia nyata, alur kerja poligon tinggi, akurasi PBR, dan optimisasi pemindaian. Gunakan untuk realisme sinematik dan game AAA."
+  },
+  "arjun988/blender-skills:.cursor/skills/realistic-style": {
+    "name": "gaya-realistis",
+    "description": "Arah seni AAA fotorealistis untuk Blender termasuk pembersihan fotogrametri, skala dunia nyata, alur kerja poligon tinggi, akurasi PBR, dan optimisasi pemindaian. Gunakan untuk realisme sinematik dan game AAA."
+  },
+  "JimLiu/baoyu-skills:.claude/skills/release-skills": {
+    "name": "keterampilan-rilis",
+    "description": "Alur kerja rilis universal. Secara otomatis mendeteksi file versi dan changelog. Mendukung Node.js, Python, Rust, Claude Plugin, GitHub Rilis, tag beranotasi, pengisian kembali rilis historis, dan proyek generik. Gunakan ketika pengguna mengatakan \"rilis\", \"发布\", \"versi-baru\", \"bump-versi\", \"push\", \"推送\", \"catatan-rilis\", \"GitHub Rilis\", atau \"回填 Rilis\"."
+  },
+  "emilkowalski/skills:skills/remove-animations": {
+    "name": "hapus-animasi",
+    "description": "Temukan animasi yang tidak diperlukan oleh antarmuka dan hapus — gerakan pada aksi keyboard, permukaan frekuensi tinggi, data fungsional, dan hiasan tanpa tujuan — lalu bersihkan sisa-sisa yang tertinggal. Mengedit kode, tetapi hanya untuk mengurangi; tidak pernah menambah atau mengubah nada gerakan. Gunakan ketika pengguna mengatakan aplikasi \"terasa-lambat\", \"memiliki-terlalu-banyak-animasi\", \"terasa-over-animated\", ingin \"menenangkan-gerakan\", atau bertanya animasi mana yang harus dihapus. Untuk menemukan area yang seharusnya dianimasikan, gunakan find-animation-opportunities; untuk memperbaiki animasi yang seharusnya tetap ada, gunakan improve-animations atau review-animations."
+  },
+  "arjun988/blender-skills:.claude/skills/rendering": {
+    "name": "rendering",
+    "description": "Rendering Blender dengan Cycles dan Eevee termasuk sampling, denoising, pengaturan kamera, render passes, manajemen warna, dan optimisasi render. Gunakan untuk output akhir dan validasi tampilan melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/rendering": {
+    "name": "rendering",
+    "description": "Rendering Blender dengan Cycles dan Eevee termasuk sampling, denoising, pengaturan kamera, render passes, manajemen warna, dan optimisasi render. Gunakan untuk output akhir dan validasi tampilan melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/retopology": {
+    "name": "retopologi",
+    "description": "Retopologi produksi untuk mesh siap animasi, poligon rendah, dominan quad dengan loop tepi yang tepat dan aliran poligon yang efisien. Gunakan setelah sculpting atau pemodelan poligon tinggi sebelum rigging dan pekerjaan UV di Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/retopology": {
+    "name": "retopologi",
+    "description": "Retopologi produksi untuk mesh siap animasi, poligon rendah, dominan quad dengan loop tepi yang tepat dan aliran poligon yang efisien. Gunakan setelah sculpting atau pemodelan poligon tinggi sebelum rigging dan pekerjaan UV di Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/retro-16bit-style": {
+    "name": "gaya-retro-16bit",
+    "description": "Arah seni retro 16-bit untuk kekayaan warna era SNES/Genesis yang dibantu Blender, petunjuk dither, dan kejelasan mirip sprite."
+  },
+  "arjun988/blender-skills:.cursor/skills/retro-16bit-style": {
+    "name": "gaya-retro-16bit",
+    "description": "Arah seni retro 16-bit untuk kekayaan warna era SNES/Genesis yang dibantu Blender, petunjuk dither, dan kejelasan mirip sprite."
+  },
+  "arjun988/blender-skills:.claude/skills/retro-8bit-style": {
+    "name": "gaya-retro-8bit",
+    "description": "Arah seni retro 8-bit untuk estetika piksel/resolusi rendah yang dibantu Blender, terinspirasi oleh kendala era NES."
+  },
+  "arjun988/blender-skills:.cursor/skills/retro-8bit-style": {
+    "name": "gaya-retro-8bit",
+    "description": "Arah seni retro 8-bit untuk estetika piksel/resolusi rendah yang dibantu Blender, terinspirasi oleh kendala era NES."
+  },
+  "emilkowalski/skills:skills/review-animations": {
+    "name": "tinjauan-animasi",
+    "description": "Meninjau kode animasi dan gerakan berdasarkan standar kerajinan tinggi yang diambil dari filosofi rekayasa desain Emil Kowalski. Default untuk menandai; persetujuan harus diperoleh."
+  },
+  "arjun988/blender-skills:.claude/skills/rigging": {
+    "name": "rigging",
+    "description": "Rigging produksi di Blender dengan armature, IK/FK, konstrain, weight painting, rig mekanis, rig wajah, dan driver. Gunakan sebelum animasi pada aset yang dapat berubah bentuk melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/rigging": {
+    "name": "rigging",
+    "description": "Rigging produksi di Blender dengan armature, IK/FK, konstrain, weight painting, rig mekanis, rig wajah, dan driver. Gunakan sebelum animasi pada aset yang dapat berubah bentuk melalui MCP."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-app-harness": {
+    "name": "harness-aplikasi-robot",
+    "description": "Alur kerja loop tertutup untuk menulis perangkat lunak aplikasi robot terhadap rig (robot ditambah sensor dan aktuatornya) menggunakan harness `rah` dalam repositori ini: uji perangkat, tulis driver dan kode tugas, jalankan dalam simulasi, baca laporan evaluator, dan iterasi hingga lolos uji coba dengan seed yang disimpan. Gunakan keterampilan ini ketika pengguna meminta agar robot melakukan suatu tugas, untuk mengintegrasikan sensor atau aktuator ke dalam aplikasi robot, untuk menulis kode pick-and-place atau manipulasi lainnya untuk rig, atau untuk \"vibe kode\" perangkat lunak robotik dan verifikasinya dalam simulator. Pemicu pada penyebutan rah, manifest rig, spesifikasi tugas robot, simulator ARMATURE, pengujian perangkat robot, deskripsi perangkat, menjalankan atau memverifikasi aplikasi robot, seed yang disimpan, atau mendiagnosis mengapa tugas robot simulasi gagal."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-bringup": {
+    "name": "inisialisasi-robot",
+    "description": "Inisialisasi sistem ROS2 lengkap pada komputer onboard robot: layanan systemd, komposisi file launch, startup berurutan, dan pemantauan produksi. Gunakan keterampilan ini saat mengonfigurasi robot untuk memulai node ROS2 saat boot, menulis unit file systemd untuk launch ROS2, menyusun file launch berlapis untuk stack robot penuh, menyiapkan pemantauan watchdog, mengonfigurasi aturan udev untuk penamaan perangkat yang deterministik, atau debugging kondisi perlombaan saat boot. Pemicu setiap kali pengguna menyebut inisialisasi robot, startup robot, systemd untuk ROS2, ROS2 saat boot, komposisi file launch, urutan boot robot, aturan udev untuk kamera atau port serial, restart otomatis untuk node ROS2, konfigurasi jaringan untuk ROS2 multi-mesin, rotasi log untuk robot, shutdown anggun dari stack robot, atau debugging jarak jauh berbasis SSH. Juga dipicu saat sourcing workspace dalam systemd, startup berurutan dengan pemeriksaan kesehatan, atau menjalankan sistem ROS2 sebagai layanan produksi berjalan panjang. Mencakup systemd pada Ubuntu 22.04/24.04 dengan ROS2 Humble, Iron, dan Jazzy."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-data-quality": {
+    "name": "kualitas-data-robot",
+    "description": "Nilai dan tingkatkan kualitas dataset pembelajaran robot (demonstrasi teleoperasi, episode) dan gunakan forge, Robotics Data Toolkit, untuk memeriksa, lint, skor, visualisasikan, filter, deduplikasi, dan konversi mereka. Gunakan keterampilan ini ketika pengguna menyebut kualitas dataset, pembersihan atau kurasi data, pemeriksaan episode, demo buruk atau berisik, frame idle, aksi tersentak atau berjerky, getaran gripper, celah timestamp atau drop frame, blur kamera atau eksposur, episode duplikat, kebersihan string tugas, statistik normalisasi, split train/val berdasarkan episode, cakupan atau keragaman demonstrasi, atau mengapa suatu kebijakan tidak mau start, macet, atau rata-rata mode karena datanya. Juga dipicu pada perintah forge (forge inspect, lint, stats, quality, filter, dedup, visualize, convert, catalog, ingest, curate) dan pada konversi antara RLDS, LeRobot v2/v3, Zarr, HDF5, MCAP, rosbag, atau RoboDM, termasuk dataset hf:// di Hugging Face Hub."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-perception": {
+    "name": "persepsi-robot",
+    "description": "Praktik terbaik komprehensif untuk sistem persepsi robot yang mencakup kamera, LiDAR, sensor kedalaman, IMU, dan pengaturan multi-sensor. Gunakan keterampilan ini saat bekerja dengan pemrosesan gambar RGB, peta kedalaman, point cloud, kalibrasi sensor (intrinsik, ekstrinsik, hand-eye), deteksi objek, segmentasi semantik, rekonstruksi 3D, servo visual, atau optimisasi pipeline persepsi. Pemicu setiap kali pengguna menyebut OpenCV, Open3D, PCL, RealSense, ZED, OAK-D, kalibrasi kamera, AprilTags, marker ArUco, stereo vision, RGBD, filtering point cloud, registrasi ICP, transformasi koordinat, intrinsik kamera, koreksi distorsi, undistortion gambar, streaming sensor, sinkronisasi frame, atau tugas visi komputer apa pun dalam konteks robotika. Juga mencakup rig multi-kamera, sinkronisasi waktu antar sensor, anggaran latensi persepsi, dan deployment produksi pipeline persepsi."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-reinforcement-learning": {
+    "name": "pembelajaran-penguatan-robot",
+    "description": "Pembelajaran penguatan untuk robot: ketika RL mengalahkan imitasi atau kontrol klasik, desain MDP (observasi, ruang tindakan, laju kontrol, terminated vs truncated), desain reward dan reward hacking, pilihan algoritma, pelatihan sim paralel masif, RL aman pada robot nyata, dan debugging kurva pelatihan. Gunakan ketika pengguna menyebut pembelajaran penguatan, RL, PPO, SAC, TD3, GAE, fungsi reward, shaping reward, curriculum, domain randomization, sim-to-real, jaringan aktuator, asymmetric actor-critic, distillation guru-murid, rsl_rl, rl_games, skrl, Stable-Baselines3, CleanRL, Brax training, FastTD3, HIL-SERL, SERL, RLPD, DrQ, residual RL, DSRL, fine-tuning RL dari BC, kebijakan difusi atau VLA, bootstrap time-out, entropy collapse, value loss explosion, NaN selama pelatihan, atau evaluasi RL dengan seed dan IQM. Juga untuk Isaac Lab, mjlab atau Playground locomotion and manipulation policies."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-design-patterns": {
+    "name": "pola-desain-robotika",
+    "description": "Pola arsitektur, prinsip desain, dan resep terbukti untuk membangun perangkat lunak robotika yang tangguh. Gunakan keterampilan ini saat merancang arsitektur perangkat lunak robot, memilih antara framework perilaku, menyusun pipeline persepsi-perencanaan-kontrol, mengimplementasikan mesin status, merancang sistem keselamatan, atau mengarsiteki sistem multi-robot. Pemicu setiap kali pengguna menyebut behavior trees, finite state machines, subsumption architecture, sensor fusion, keselamatan robot, watchdogs, heartbeats, graceful degradation, hardware abstraction layers, real-time constraints, atau arsitektur perangkat lunak untuk robot. Juga berlaku untuk transfer sim-to-real, kembar digital, dan manajemen armada robot."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-security": {
+    "name": "keamanan-robotika",
+    "description": "Pengerasan keamanan dan praktik terbaik untuk sistem robotika, mencakup keamanan SROS2 DDS, segmentasi jaringan, manajemen rahasia, secure boot, dan persimpangan keselamatan fisik-siber. Gunakan keterampilan ini saat mengamankan komunikasi ROS2, mengonfigurasi enkripsi DDS dan kontrol akses, mengerasi komputer onboard robot, mengelola sertifikat dan kredensial, menyiapkan segmentasi jaringan untuk armada robot, atau mengatasi tantangan keamanan unik di mana kerentanan siber menjadi risiko keselamatan fisik. Pemicu setiap kali pengguna menyebut SROS2, keamanan DDS, keamanan robot, pengerasan robot, enkripsi ROS2, kontrol akses ROS2, keamanan jaringan robot, deployment robot yang aman, sertifikat robot, generasi keystore, firewall robot, keamanan e-stop, isolasi safety controller, atau IEC 62443 untuk robotika."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-software-principles": {
+    "name": "prinsip-perangkat-lunak-robotika",
+    "description": "Prinsip desain perangkat lunak fondasi yang diterapkan khusus pada pengembangan modul robotika. Gunakan keterampilan ini saat merancang modul perangkat lunak robot, menyusun codebase, membuat keputusan arsitektur, meninjau kode robotika, atau membangun library robotika yang dapat digunakan kembali. Pemicu setiap kali pengguna menyebut prinsip SOLID untuk robot, perangkat lunak robotika modular, arsitektur bersih untuk robot, dependency injection dalam robotika, desain interface untuk hardware, constraint desain real-time, strategi penanganan error untuk robot, manajemen konfigurasi, separation of concerns dalam perception-planning-control, composability of robot behaviors, atau diskusi apa pun tentang software craftsmanship dalam konteks robotika. Juga dipicu saat meninjau kode robotika, refactoring perangkat lunak robot, atau merancang API untuk library robotika."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-testing": {
+    "name": "pengujian-robotika",
+    "description": "Strategi, pola, dan alat pengujian untuk perangkat lunak robotika. Gunakan keterampilan ini saat menulis unit test, integration test, simulation test, atau hardware-in-the-loop test untuk sistem robot. Pemicu setiap kali pengguna menyebut pengujian node ROS, pytest with ROS, launch_testing, simulation testing, CI/CD untuk robotika, test fixtures for sensors, mock hardware, deterministic replay, regression testing for robot behaviors, atau validasi pipeline perception/planning/control. Juga mencakup property-based testing untuk kinematics, fuzz testing untuk message handlers, dan golden-file testing untuk trajectories."
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros1": {
+    "name": "ros1",
+    "description": "Praktik terbaik, pola desain, dan jebakan umum untuk pengembangan ROS1 (Robot Operating System 1). Gunakan keterampilan ini saat membangun node ROS1, package, file launch, atau debugging sistem ROS1. Pemicu setiap kali pengguna menyebut ROS1, catkin, rospy, roscpp, roslaunch, roscore, rostopic, tf, actionlib, jenis pesan, services, atau middleware robotika era ROS1 apa pun. Juga dipicu saat migrasi kode ROS1 ke ROS2, mempertahankan sistem ROS1 warisan, atau membangun jembatan ROS1-ROS2. Mencakup catkin workspaces, nodelets, dynamic reconfigure, pluginlib, dan seluruh ekosistem ROS1."
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros2": {
+    "name": "ros2",
+    "description": "Praktik terbaik komprehensif, pola desain, dan jebakan umum untuk pengembangan ROS2 (Robot Operating System 2). Gunakan keterampilan ini saat membangun node ROS2, package, file launch, komponen, atau debugging sistem ROS2. Pemicu setiap kali pengguna menyebut ROS2, colcon, rclpy, rclcpp, DDS, QoS, lifecycle nodes, managed nodes, ROS2 launch, ROS2 parameters, ROS2 actions, nav2, MoveIt2, micro-ROS, atau middleware robotika era ROS2 apa pun. Juga dipicu saat setup workspace ROS2, tuning DDS, intra-process communication, keamanan ROS2, atau deploying ROS2 in production. Juga dipicu saat masalah build colcon, ament_cmake, ament_python, CMakeLists.txt for ROS2, dependensi package.xml, rosdep, workspace overlays, custom message generation, atau troubleshooting build ROS2. Mencakup distribusi Humble, Iron, Jazzy, dan Rolling."
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros2-web-integration": {
+    "name": "integrasi-web-ros2",
+    "description": "Pola dan praktik terbaik untuk mengintegrasikan sistem ROS2 dengan teknologi web termasuk REST APIs, WebSocket bridges, dan browser-based robot interfaces. Gunakan keterampilan ini saat membangun dashboard web untuk robot, streaming feed kamera ke browser, mengekspos service ROS2 sebagai endpoint REST, atau mengimplementasikan komunikasi dua arah WebSocket antara UI web dan node ROS2. Pemicu setiap kali pengguna menyebut rosbridge, rosbridge_suite, roslibjs, FastAPI with ROS2, Flask with rclpy, WebSocket for robot telemetry, MJPEG streaming, WebRTC for robots, REST API wrapping ROS2 services, web-based robot control, browser robot interface, robot dashboard, CORS configuration for robots, atau pola jembatan web-to-ROS2 apa pun. Juga dipicu saat autentikasi pada antarmuka web robot, rate limiting sensor streams, video streaming from robot cameras to browsers, atau menjalankan async web frameworks alongside the ROS2 executor. Mencakup rosbridge_suite, FastAPI, Flask, WebSocket, dan pendekatan WebRTC."
+  },
+  "arjun988/blender-skills:.claude/skills/scene-assembly": {
+    "name": "perakitan-adegan",
+    "description": "Tata letak adegan besar di Blender dengan koleksi, linking, overrides, organisasi ramah streaming, dan set assembly melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/scene-assembly": {
+    "name": "perakitan-adegan",
+    "description": "Tata letak adegan besar di Blender dengan koleksi, linking, overrides, organisasi ramah streaming, dan set assembly melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/sci-fi-punk-worlds": {
+    "name": "dunia sci-fi-punk",
+    "description": "Arahan seni dunia fiksi ilmiah dan punk untuk Blender, termasuk hard sci-fi, luar angkasa, cyberpunk, steampunk, dieselpunk, atompunk, solarpunk, biopunk, dan clockpunk."
+  },
+  "arjun988/blender-skills:.cursor/skills/sci-fi-punk-worlds": {
+    "name": "dunia sci-fi-punk",
+    "description": "Arahan seni dunia fiksi ilmiah dan punk untuk Blender, termasuk hard sci-fi, luar angkasa, cyberpunk, steampunk, dieselpunk, atompunk, solarpunk, biopunk, dan clockpunk."
+  },
+  "arjun988/blender-skills:.claude/skills/sculpting": {
+    "name": "pemahatan",
+    "description": "Pemahatan Blender untuk detail permukaan organik dan keras menggunakan Dyntopo, multiresolusi, kuas, alur kerja alpha, kerutan, dan kerusakan. Gunakan ketika diperlukan detail permukaan frekuensi tinggi sebelum retopologi di Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/sculpting": {
+    "name": "pemahatan",
+    "description": "Pemahatan Blender untuk detail permukaan organik dan keras menggunakan Dyntopo, multiresolusi, kuas, alur kerja alpha, kerutan, dan kerusakan. Gunakan ketika diperlukan detail permukaan frekuensi tinggi sebelum retopologi di Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/set-dressing": {
+    "name": "penataan set",
+    "description": "Penataan set dan penempatan cerita lingkungan untuk interior dan eksterior menggunakan kepadatan properti, kelompok naratif, dan aturan keterbacaan melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/set-dressing": {
+    "name": "penataan set",
+    "description": "Penataan set dan penempatan cerita lingkungan untuk interior dan eksterior menggunakan kepadatan properti, kelompok naratif, dan aturan keterbacaan melalui MCP."
+  },
+  "anthropics/skills:skills/skill-creator": {
+    "name": "pembuat keterampilan",
+    "description": "Membuat keterampilan baru, memodifikasi dan meningkatkan keterampilan yang ada, serta mengukur kinerja keterampilan. Gunakan ketika pengguna ingin membuat keterampilan dari awal, mengedit atau mengoptimalkan keterampilan yang sudah ada, menjalankan evaluasi untuk menguji keterampilan, membandingkan kinerja keterampilan dengan analisis varians, atau mengoptimalkan deskripsi keterampilan untuk akurasi pemicuan yang lebih baik."
+  },
+  "cexll/myclaude:skills/skill-install": {
+    "name": "instalasi keterampilan",
+    "description": "Instalasi keterampilan Claude dari repositori GitHub dengan pemindaian keamanan otomatis. Dipicu ketika pengguna ingin menginstal keterampilan dari URL GitHub, perlu menelusuri keterampilan yang tersedia di repositori, atau ingin menambahkan keterampilan baru ke lingkungan Claude mereka dengan aman."
+  },
+  "anthropics/skills:skills/slack-gif-creator": {
+    "name": "pembuat gif slack",
+    "description": "Pengetahuan dan utilitas untuk membuat GIF animasi yang dioptimalkan untuk Slack. Menyediakan batasan, alat validasi, dan konsep animasi. Gunakan ketika pengguna meminta GIF animasi untuk Slack seperti \"buatkan saya GIF X melakukan Y untuk Slack."
+  },
+  "cexll/myclaude:skills/sparv": {
+    "name": "sparv",
+    "description": "Alur kerja SPARV minimal (Spesifikasi→Rencana→Tindakan→Tinjauan→Vault) dengan gerbang spesifikasi 10 poin, jurnal terpadu, penyimpanan 2 tindakan, protokol 3 kegagalan, dan deteksi risiko EHRB."
+  },
+  "arjun988/blender-skills:.claude/skills/stop-motion-craft-style": {
+    "name": "gaya kerajinan stop-motion",
+    "description": "Estetika stop-motion dan kerajinan untuk Blender termasuk claymation, kerajinan kertas, dan petunjuk material fisik buatan tangan."
+  },
+  "arjun988/blender-skills:.cursor/skills/stop-motion-craft-style": {
+    "name": "gaya kerajinan stop-motion",
+    "description": "Estetika stop-motion dan kerajinan untuk Blender termasuk claymation, kerajinan kertas, dan petunjuk material fisik buatan tangan."
+  },
+  "arjun988/blender-skills:.claude/skills/stylized-style": {
+    "name": "gaya bergaya",
+    "description": "Arahan seni bergaya untuk Blender dengan bahasa bentuk, eksagerasi, harmoni warna, rendering NPR, dan alur kerja aset lukis tangan. Gunakan untuk proyek game dan animasi non-fotorealistik."
+  },
+  "arjun988/blender-skills:.cursor/skills/stylized-style": {
+    "name": "gaya bergaya",
+    "description": "Arahan seni bergaya untuk Blender dengan bahasa bentuk, eksagerasi, harmoni warna, rendering NPR, dan alur kerja aset lukis tangan. Gunakan untuk proyek game dan animasi non-fotorealistik."
+  },
+  "anthropics/skills:template": {
+    "name": "keterampilan template",
+    "description": "Ganti dengan deskripsi keterampilan dan kapan Claude harus menggunakannya."
+  },
+  "cexll/myclaude:skills/test-cases": {
+    "name": "kasus uji",
+    "description": "Keterampilan ini harus digunakan saat menghasilkan kasus uji komprehensif dari dokumen PRD atau persyaratan pengguna. Dipicu ketika pengguna meminta pembuatan kasus uji, perencanaan QA, pembuatan skenario uji, atau membutuhkan dokumentasi uji terstruktur. Menghasilkan kasus uji rinci yang mencakup skenario fungsional, kasus tepi, penanganan kesalahan, dan transisi status."
+  },
+  "arjun988/blender-skills:.claude/skills/texture-workflow": {
+    "name": "alur kerja tekstur",
+    "description": "Alur kerja tekstur produksi untuk atlas, pemanggangan peta AO/kurvatur/normal/kekasaran, decal, dan optimasi memori tekstur. Gunakan untuk pipeline tekstur siap game di Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/texture-workflow": {
+    "name": "alur kerja tekstur",
+    "description": "Alur kerja tekstur produksi untuk atlas, pemanggangan peta AO/kurvatur/normal/kekasaran, decal, dan optimasi memori tekstur. Gunakan untuk pipeline tekstur siap game di Blender melalui MCP."
+  },
+  "anthropics/skills:skills/theme-factory": {
+    "name": "pabrik tema",
+    "description": "Toolkit untuk menata artefak dengan tema. Artefak ini bisa berupa slide, dokumen, laporan, halaman arahan HTML, dll. Terdapat 10 tema pra-set dengan warna/font yang dapat Anda terapkan pada artefak apa pun yang telah dibuat, atau dapat menghasilkan tema baru secara langsung."
+  },
+  "arjun988/blender-skills:.claude/skills/unity-export": {
+    "name": "ekspor unity",
+    "description": "Ekspor Blender khusus Unity untuk skala, sumbu, material, rig humanoid/generic, LOD, dan impor kolisi melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/unity-export": {
+    "name": "ekspor unity",
+    "description": "Ekspor Blender khusus Unity untuk skala, sumbu, material, rig humanoid/generic, LOD, dan impor kolisi melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/unreal-export": {
+    "name": "ekspor unreal",
+    "description": "Ekspor Blender khusus Unreal Engine untuk skala FBX, LOD, kolisi UCX, soket, material, dan alur kerja skeletal mesh melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/unreal-export": {
+    "name": "ekspor unreal",
+    "description": "Ekspor Blender khusus Unreal Engine untuk skala FBX, LOD, kolisi UCX, soket, material, dan alur kerja skeletal mesh melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/uv-workflow": {
+    "name": "alur kerja uv",
+    "description": "Pembungkusan UV produksi untuk penempatan sambungan, pengemasan UV, kepadatan texel, UDIM, UV lightmap, dan tata letak UV modular. Gunakan saat mempersiapkan mesh untuk tekstur dan ekspor mesin di Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/uv-workflow": {
+    "name": "alur kerja uv",
+    "description": "Pembungkusan UV produksi untuk penempatan sambungan, pengemasan UV, kepadatan texel, UDIM, UV lightmap, dan tata letak UV modular. Gunakan saat mempersiapkan mesh untuk tekstur dan ekspor mesin di Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/vector-style": {
+    "name": "gaya vektor",
+    "description": "Arahan seni bersih vektor untuk Blender dengan isian datar, siluet tajam, dan kejelasan grafis seperti UI."
+  },
+  "arjun988/blender-skills:.cursor/skills/vector-style": {
+    "name": "gaya vektor",
+    "description": "Arahan seni bersih vektor untuk Blender dengan isian datar, siluet tajam, dan kejelasan grafis seperti UI."
+  },
+  "arjun988/blender-skills:.claude/skills/vegetation-artist": {
+    "name": "artis vegetasi",
+    "description": "Penulis vegetasi dan dedaunan untuk Blender termasuk pohon, tanaman, kartu rumput, LOD kanopi, dan atlas daun ramah game melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/vegetation-artist": {
+    "name": "artis vegetasi",
+    "description": "Penulis vegetasi dan dedaunan untuk Blender termasuk pohon, tanaman, kartu rumput, LOD kanopi, dan atlas daun ramah game melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/vehicle-artist": {
+    "name": "artis kendaraan",
+    "description": "Pemodelan kendaraan khusus untuk mobil, truk, pesawat, kapal, perahu, mechs, dan aset transportasi dengan kesadaran proporsi, alur panel, dan LOD game di Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/vehicle-artist": {
+    "name": "artis kendaraan",
+    "description": "Pemodelan kendaraan khusus untuk mobil, truk, pesawat, kapal, perahu, mechs, dan aset transportasi dengan kesadaran proporsi, alur panel, dan LOD game di Blender melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/vfx-fx": {
+    "name": "efek vfx",
+    "description": "VFX sinematik dan game di Blender termasuk asap, api, partikel, jejak, dan pengaturan FX Geometry Nodes melalui MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/vfx-fx": {
+    "name": "efek vfx",
+    "description": "VFX sinematik dan game di Blender termasuk asap, api, partikel, jejak, dan pengaturan FX Geometry Nodes melalui MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/visual-console-eras": {
+    "name": "era konsol visual",
+    "description": "Arahan seni era visual untuk Blender yang mencakup petunjuk gaya PS1–PS5, arcade retro, DOS, CRT, VHS, dan presentasi grain film."
+  },
+  "arjun988/blender-skills:.cursor/skills/visual-console-eras": {
+    "name": "era konsol visual",
+    "description": "Arahan seni era visual untuk Blender yang mencakup petunjuk gaya PS1–PS5, arcade retro, DOS, CRT, VHS, dan presentasi grain film."
+  },
+  "arjun988/blender-skills:.claude/skills/voxel-style": {
+    "name": "gaya voxel",
+    "description": "Arahan seni voxel dan sejenis Minecraft untuk Blender dengan pemodelan grid blok, palet terbatas, dan aset ramah chunk."
+  },
+  "arjun988/blender-skills:.cursor/skills/voxel-style": {
+    "name": "gaya voxel",
+    "description": "Arahan seni voxel dan sejenis Minecraft untuk Blender dengan pemodelan grid blok, palet terbatas, dan aset ramah chunk."
+  },
+  "anthropics/skills:skills/web-artifacts-builder": {
+    "name": "pembangun artefak web",
+    "description": "Kumpulan alat untuk membuat artefak HTML claude.ai yang rumit dan multi-komponen menggunakan teknologi web frontend modern (React, Tailwind CSS, shadcn/ui). Gunakan untuk artefak kompleks yang memerlukan manajemen state, routing, atau komponen shadcn/ui — bukan untuk artefak HTML/JSX sederhana satu file."
+  },
+  "anthropics/skills:skills/webapp-testing": {
+    "name": "pengujian aplikasi web",
+    "description": "Toolkit untuk berinteraksi dengan dan menguji aplikasi web lokal menggunakan Playwright. Mendukung verifikasi fungsionalitas frontend, debugging perilaku UI, pengambilan tangkapan layar browser, dan melihat log browser."
+  },
+  "emilkowalski/skills:skills/write-swift": {
+    "name": "menulis swift",
+    "description": "Cara menulis Swift modern dengan baik — pemodelan dengan tipe nilai, keamanan race data Swift 6 dan konkurensi yang mudah dipahami (@concurrent, main-actor-by-default, actors, task groups), protokol dan generik (some vs any), desain API, performa dan ARC, Pengujian Swift, makro, dan fitur bahasa modern yang belum diketahui agen. Gunakan saat menulis, meninjau, atau memigrasi Swift, atau ketika kesalahan konkurensi, hang, race data, siklus retain, atau masalah performa perlu diperbaiki."
+  },
+  "anthropics/skills:skills/xlsx": {
+    "name": "xlsx",
+    "description": "Gunakan keterampilan ini kapan saja file spreadsheet menjadi input atau output utama. Ini berarti tugas apa pun di mana pengguna ingin: membuka, membaca, mengedit, atau memperbaiki file .xlsx, .xlsm, .xltx, .csv, atau .tsv yang ada (misalnya, menambahkan kolom, menghitung rumus, memformat, membuat grafik, membersihkan data yang berantakan); membuat spreadsheet baru dari awal atau dari sumber data lain; atau mengonversi antara format file tabular. Terutama dipicu ketika pengguna merujuk pada file spreadsheet berdasarkan nama atau jalur — bahkan secara santai (seperti \\\"the xlsx in my downloads\\\") — dan ingin sesuatu dilakukan padanya atau dihasilkan darinya. Juga dipicu untuk membersihkan atau merestrukturisasi file data tabular yang berantakan (baris bermasalah, header salah tempat, data sampah) menjadi spreadsheet yang benar. Hasil yang harus diserahkan adalah file spreadsheet. JANGAN DIPICU ketika hasil utama adalah dokumen Word, laporan HTML, skrip Python mandiri, pipeline database, atau integrasi Google Sheets API, meskipun data tabular terlibat."
+  }
+}

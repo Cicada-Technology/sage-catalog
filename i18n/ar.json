@@ -1,0 +1,1930 @@
+{
+  "ComposioHQ/awesome-claude-skills:composio-skills/-21risk-automation": {
+    "name": "-21أتمتة المخاطر",
+    "description": "أتمتة مهام 21risk عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/-2chat-automation": {
+    "name": "-2أتمتة الدردشة",
+    "description": "أتمتة مهام 2chat عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ahrefs-automation": {
+    "name": "أتمتة Ahrefs",
+    "description": "أتمتة أبحاث تحسين محركات البحث باستخدام Ahrefs — تحليل ملفات الروابط الخلفية، والبحث عن الكلمات الرئيسية، وتتبع تاريخ مقاييس النطاق، وتدقيق الترتيبات العضوية، وإجراء تحليل دفعات لعناصر URL من خلال تكامل Composio مع Ahrefs."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apify-automation": {
+    "name": "أتمتة Apify",
+    "description": "أتمتة استخراج البيانات وتجريف الويب باستخدام Apify — تشغيل Actors، وإدارة مجموعات البيانات، وإنشاء مهام قابلة لإعادة الاستخدام، واسترجاع نتائج الزحف من خلال تكامل Composio مع Apify."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apollo-automation": {
+    "name": "أتمتة Apollo",
+    "description": "أتمتة توليد العملاء المحتملين عبر Apollo.io — البحث عن المنظمات، واكتشاف جهات الاتصال، وإثراء بيانات العملاء المحتملين، وإدارة مراحل جهات الاتصال، وبناء قوائم للتواصل المستهدف — باستخدام اللغة الطبيعية من خلال تكامل Composio مع MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ashby-automation": {
+    "name": "أتمتة Ashby",
+    "description": "أتمتة سير عمل التوظيف والتعيين في Ashby — إدارة المرشحين، والوظائف، والطلبات، والمقابلات، والملاحظات عبر أوامر باللغة الطبيعية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/attio-automation": {
+    "name": "أتمتة Attio",
+    "description": "أتمتة عمليات CRM في Attio — البحث في السجلات، والاستعلام عن جهات الاتصال والشركات باستخدام مرشحات متقدمة، وإدارة الملاحظات، وقائمة السمات، والتنقل بين بيانات العلاقات — باستخدام اللغة الطبيعية من خلال تكامل Composio مع MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/braintree-automation": {
+    "name": "أتمتة Braintree",
+    "description": "أتمتة Braintree: إدارة معالجة المدفوعات عبر أدوات متوافقة مع Stripe للعملاء، والاشتراكات، وطرق الدفع، والمعاملات"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/capsule-crm-automation": {
+    "name": "أتمتة Capsule CRM",
+    "description": "أتمتة عمليات Capsule CRM — إدارة جهات الاتصال (الأطراف)، وتشغيل استعلامات تصفية منظمة، وتتبع المهام والمشاريع، وتسجيل الإدخالات، والتعامل مع المنظمات — باستخدام اللغة الطبيعية من خلال تكامل Composio مع MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clockify-automation": {
+    "name": "أتمتة Clockify",
+    "description": "أتمتة سير عمل تتبع الوقت في Clockify — إنشاء وإدارة إدخالات الوقت، ومساحات العمل، والمستخدمين عبر أوامر باللغة الطبيعية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudinary-automation": {
+    "name": "أتمتة Cloudinary",
+    "description": "أتمتة إدارة الوسائط في Cloudinary بما في ذلك تنظيم المجلدات، وإعدادات الرفع، والبحث عن الأصول، والتحويلات، ومراقبة الاستخدام عبر أوامر باللغة الطبيعية"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinbase-automation": {
+    "name": "أتمتة Coinbase",
+    "description": "أتمتة Coinbase: إدراج وإدارة محافظ العملات المشفرة، والحسابات، وبيانات المحفظة عبر SDK الخاص بـ Coinbase CDP"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/contentful-automation": {
+    "name": "أتمتة Contentful",
+    "description": "أتمتة عمليات CMS بدون واجهة مستخدم في Contentful — إدراج المساحات، واسترجاع بيانات التعريف الخاصة بالمساحة، وتحديث تكوينات المساحة عبر تكامل Composio مع Contentful."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ably-automation": {
+    "name": "ably-automation",
+    "description": "أتمتة مهام Ably عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abstract-automation": {
+    "name": "abstract-automation",
+    "description": "أتمتة مهام Abstract عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abuselpdb-automation": {
+    "name": "abuselpdb-automation",
+    "description": "أتمتة مهام Abuselpdb عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abyssale-automation": {
+    "name": "abyssale-automation",
+    "description": "أتمتة مهام Abyssale عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "TingxiYu/academic-figure-skill:academic-figure-skill": {
+    "name": "academic-figure-skill",
+    "description": "إنشاء رسوم بيانية علمية بمستوى أكاديمي لمجلات Nature/Cell/Science. استخدمها عندما يطلب المستخدم إنشاء أو صقل أو مراجعة أو تصدير رسوم بيانية علمية لتقديم المخطوطات. لا تقم بتشغيلها لـ: اللوحات البيانية التفاعلية (Plotly/Bokeh/Altair)، وتحليل البيانات الاستكشافية دون نية النشر، ورسوم الدوال الرياضية، والمخططات الدائرية/ثلاثية الأبعاد، وشرائح PowerPoint، أو التصميم الأولي في Illustrator/Figma. تجاوز طلبات الاختبار الإحصائي، وتنظيف البيانات، ومراجعة الأدبيات، أو تصحيح الأخطاء البرمجية — فهذه ليست مهام لإنشاء الرسوم البيانية."
+  },
+  "anthropics/skills:skills/academy-guide": {
+    "name": "academy-guide",
+    "description": "توقف وتحقق من هذه المهارة قبل إنهاء أي رد على سؤال حول كيفية استخدام Claude أو منتج Claude — فهي توصي بمقررات دراسية ودروس تعليمية وحالات استخدام مطابقة من أكاديمية Claude (academy.claude.com)، مركز التعلم التابع لشركة Anthropic. يتم تشغيلها عند: \"how do I\"، \"how can I\"، \"getting started with\"، \"what can Claude do\"، \"teach me\"، \"learn to use\"؛ أسئلة حول القطع الأثرية، والمشاريع، والمهارات، والإضافات، والموصلات، MCP؛ طلبات حول إطلاق Claude على فريق أو صف أو منظمة؛ وأي طلب لمواد تدريبية، أو محتوى علىboarding، أو موارد تعليمية. استخدمها عندما يتعلم المستخدم كيفية استخدام ميزة أو منتج — وليس عندما يكون في منتصف مهمة ويريد فقط إنجازها. تتكامل هذه المهارة مع مهارات أخرى: بعد الرجوع إلى وثائق المنتج للإجابة عن كيفية عمل ميزة Claude، تحقق هنا أيضًا من وجود مقرر أو درس تعليمي مطابق — فالإجابة المستندة إلى الوثائق وتوصية الأكاديمية يندرجان معًا. لا توصي إلا عند وجود تطابق قوي؛ ولا تخترع محتوى الأكاديمية أبدًا."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/accelo-automation": {
+    "name": "accelo-automation",
+    "description": "أتمتة مهام Accelo عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/accredible-certificates-automation": {
+    "name": "accredible-certificates-automation",
+    "description": "أتمتة مهام Accredible Certificates عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/acculynx-automation": {
+    "name": "acculynx-automation",
+    "description": "أتمتة مهام Acculynx عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/active-campaign-automation": {
+    "name": "active-campaign-automation",
+    "description": "أتمتة مهام ActiveCampaign عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/addresszen-automation": {
+    "name": "addresszen-automation",
+    "description": "أتمتة مهام Addresszen عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adobe-automation": {
+    "name": "adobe-automation",
+    "description": "أتمتة مهام Adobe عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adrapid-automation": {
+    "name": "adrapid-automation",
+    "description": "أتمتة مهام Adrapid عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adyntel-automation": {
+    "name": "adyntel-automation",
+    "description": "أتمتة مهام Adyntel عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aero-workflow-automation": {
+    "name": "aero-workflow-automation",
+    "description": "أتمتة مهام Aero Workflow عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aeroleads-automation": {
+    "name": "aeroleads-automation",
+    "description": "أتمتة مهام Aeroleads عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/affinda-automation": {
+    "name": "affinda-automation",
+    "description": "أتمتة مهام Affinda عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/affinity-automation": {
+    "name": "affinity-automation",
+    "description": "أتمتة مهام Affinity عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agencyzoom-automation": {
+    "name": "agencyzoom-automation",
+    "description": "أتمتة مهام Agencyzoom عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agent-mail-automation": {
+    "name": "agent-mail-automation",
+    "description": "أتمتة مهام Agent Mail عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agentql-automation": {
+    "name": "agentql-automation",
+    "description": "أتمتة مهام Agentql عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agenty-automation": {
+    "name": "agenty-automation",
+    "description": "أتمتة مهام Agenty عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agiled-automation": {
+    "name": "agiled-automation",
+    "description": "أتمتة مهام Agiled عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agility-cms-automation": {
+    "name": "agility-cms-automation",
+    "description": "أتمتة مهام Agility CMS عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ai-ml-api-automation": {
+    "name": "ai-ml-api-automation",
+    "description": "أتمتة مهام AI ML API عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aivoov-automation": {
+    "name": "aivoov-automation",
+    "description": "أتمتة مهام Aivoov عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alchemy-automation": {
+    "name": "alchemy-automation",
+    "description": "أتمتة مهام Alchemy عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/algodocs-automation": {
+    "name": "algodocs-automation",
+    "description": "أتمتة مهام Algodocs عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/algolia-automation": {
+    "name": "algolia-automation",
+    "description": "أتمتة مهام Algolia عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "anthropics/skills:skills/algorithmic-art": {
+    "name": "algorithmic-art",
+    "description": "إنشاء فن خوارزمي باستخدام p5.js مع عشوائية مُبادَرة واستكشاف تفاعلي للمعلمات. استخدم هذا الخيار عندما يطلب المستخدمون إنشاء فن باستخدام الكود، أو الفن التوليدي، أو الفن الخوارزمي، أو حقول التدفق، أو أنظمة الجسيمات. قم بإنشاء فن خوارزمي أصيل بدلاً من نسخ أعمال الفنانين الحاليين لتجنب انتهاكات حقوق النشر."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/all-images-ai-automation": {
+    "name": "all-images-ai-automation",
+    "description": "أتمتة جميع مهام صور الذكاء الاصطناعي عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alpha-vantage-automation": {
+    "name": "alpha-vantage-automation",
+    "description": "أتمتة مهام Alpha Vantage عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/altoviz-automation": {
+    "name": "altoviz-automation",
+    "description": "أتمتة مهام Altoviz عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alttext-ai-automation": {
+    "name": "alttext-ai-automation",
+    "description": "أتمتة مهام Alttext AI عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amara-automation": {
+    "name": "amara-automation",
+    "description": "أتمتة مهام Amara عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amazon-automation": {
+    "name": "amazon-automation",
+    "description": "أتمتة مهام Amazon عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ambee-automation": {
+    "name": "ambee-automation",
+    "description": "أتمتة مهام Ambee عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ambient-weather-automation": {
+    "name": "ambient-weather-automation",
+    "description": "أتمتة مهام Ambient Weather عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amcards-automation": {
+    "name": "amcards-automation",
+    "description": "أتمتة مهام Amcards عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "arjun988/blender-skills:.claude/skills/analog-found-footage-horror": {
+    "name": "analog-found-footage-horror",
+    "description": "جمالية الرعب التناظرية، وVHS، وCRT، واللقطات المكتشفة لمشاهد Blender بما في ذلك عيوب الكاميرا وإطار التصوير الوثائقي."
+  },
+  "arjun988/blender-skills:.cursor/skills/analog-found-footage-horror": {
+    "name": "analog-found-footage-horror",
+    "description": "جمالية الرعب التناظرية، وVHS، وCRT، واللقطات المكتشفة لمشاهد Blender بما في ذلك عيوب الكاميرا وإطار التصوير الوثائقي."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anchor-browser-automation": {
+    "name": "anchor-browser-automation",
+    "description": "أتمتة مهام Anchor Browser عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "emilkowalski/skills:skills/animate": {
+    "name": "animate",
+    "description": "بناء رسوم متحركة من الصفر، واتخاذ القرارات بالترتيب الذي يحدد ما إذا كان الشعور صحيحًا — هل يجب أن تكون هناك تحركات أصلاً؟ وما الغرض منها؟ وأي أداة تستخدم؟ وما الخصائص التي سيتم تطبيقها؟ وأي منحنى ومدة للحركة؟ وكيف يتم مقاطعتها؟ وكيف يتم الخروج منها؟ يكتب الكود الخاص بالتنفيذ. استخدم هذا الخيار عند طلب تحريك شيء ما، أو إضافة حركة، أو جعل مكون ما يبدو حيًا، أو بناء انتقال بين مشاهد. ولتقييم الحركات الموجودة، استخدم review-animations؛ ولتدقيق قاعدة كود كاملة، استخدم improve-animations."
+  },
+  "emilkowalski/skills:skills/animate-expo": {
+    "name": "animate-expo",
+    "description": "بناء الرسوم المتحركة في React Native وExpo، واتخاذ القرارات بالترتيب الذي يحدد ما إذا كانت الحركات تبدو صحيحة — هل يجب أن تكون هناك حركة؟ وعلى أي خيط سيتم تشغيلها؟ وما الخصائص التي ستُطبَّق؟ وهل ستستخدم زنبركًا أم توقيتًا؟ وكيف ينتقل التحكم من الإيماءة إلى الحركة؟ وكيف يتم التعامل مع الانخفاض في الأداء؟ يكتب الكود الخاص بالتنفيذ باستخدام Reanimated وGesture Handler وExpo Router وexpo-haptics. استخدم هذا الخيار عند تحريك أي شيء في تطبيق Expo، أو إضافة إيماءات، أو شاشات منبثقة، أو انتقالات بين الشاشات، أو ردود فعل عند الضغط، أو اللمسات اللمسيه، أو إصلاح الحركات التي تتقطع على الجهاز. وللرسوم المتحركة على الويب، استخدم `animate`."
+  },
+  "arjun988/blender-skills:.claude/skills/animation": {
+    "name": "animation",
+    "description": "رسوم متحركة جاهزة للألعاب في Blender، بما في ذلك دورات المشي/الجري/الراحة، والقتال، والرسوم المتحركة الميكانيكية، ورسوم الكاميرا، والقيود، ومحرّك الرسوم البيانية، وسير عمل NLA عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/animation": {
+    "name": "animation",
+    "description": "رسوم متحركة جاهزة للألعاب في Blender، بما في ذلك دورات المشي/الجري/الراحة، والقتال، والرسوم المتحركة الميكانيكية، ورسوم الكاميرا، والقيود، ومحرّك الرسوم البيانية، وسير عمل NLA عبر MCP."
+  },
+  "emilkowalski/skills:skills/animation-performance": {
+    "name": "animation-performance",
+    "description": "الحفاظ على الرسوم المتحركة على الويب ضمن ميزانية الإطارات — تحريك الخصائص المركبة فقط، وإبقاء الحركة خارج الخيط الرئيسي عندما تكون الصفحة مشغولة، واكتشاف السبب عندما تفقد الرسوم المتحركة بعض الإطارات. استخدم هذا الخيار عندما تكون الرسوم المتحركة غير سلسة، أو متقطعة، أو تتلعثم، أو تفقد الإطارات؛ أو عند اختيار الخصوصية التي سيتم تحريكها؛ أو عند المفاضلة بين الرسوم المتحركة باستخدام CSS أو JS من حيث الأداء؛ أو عند اللجوء إلى `will-change` أو طبقات GPU. ولتحديد نوع التسهيل أو المدة أو حتى ما إذا كان يجب التحريك أم لا، استخدم animate؛ ولمراجعة الحركة ككل، استخدم review-animations."
+  },
+  "emilkowalski/skills:skills/animation-vocabulary": {
+    "name": "animation-vocabulary",
+    "description": "Reverse-lookup glossary that turns a vague description of a web animation or motion effect into its exact term (\"the bouncy thing when a popover opens\" → Pop in; \"the iOS rubber-band scroll\" → Rubber-banding). Use when the user asks \"what's it called when…\", or describes a motion effect without knowing its name and wants the right word to prompt an AI or designer with. For naming an effect, not designing or building one."
+  },
+  "arjun988/blender-skills:.claude/skills/anime-style": {
+    "name": "anime-style",
+    "description": "اتجاه فني يشبه الأنمي والرسوم الكرتونية ذات التظليل الصلب للألوان، ومواد تظليل تشبه الرسوم المتحركة، وصور ظلية نظيفة، ولغة تناسب نسب الشخصيات في الأنمي."
+  },
+  "arjun988/blender-skills:.cursor/skills/anime-style": {
+    "name": "anime-style",
+    "description": "اتجاه فني يشبه الأنمي والرسوم الكرتونية ذات التظليل الصلب للألوان، ومواد تظليل تشبه الرسوم المتحركة، وصور ظلية نظيفة، ولغة تناسب نسب الشخصيات في الأنمي."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anonyflow-automation": {
+    "name": "أتمتة Anonyflow",
+    "description": "أتمتة مهام Anonyflow عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anthropic-administrator-automation": {
+    "name": "أتمتة Anthropic-administrator",
+    "description": "أتمتة مهام Anthropic Admin عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anthropic_administrator-automation": {
+    "name": "أتمتة Anthropic_administrator",
+    "description": "أتمتة مهام Anthropic Admin عبر Rube MCP (Composio): مفاتيح API، والاستخدام، ومساحات العمل، وإدارة المنظمة. ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apaleo-automation": {
+    "name": "أتمتة apaleo",
+    "description": "أتمتة مهام Apaleo عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apex27-automation": {
+    "name": "أتمتة apex27",
+    "description": "أتمتة مهام Apex27 عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-bible-automation": {
+    "name": "أتمتة api-bible",
+    "description": "أتمتة مهام API Bible عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-labz-automation": {
+    "name": "أتمتة api-labz",
+    "description": "أتمتة مهام API Labz عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-ninjas-automation": {
+    "name": "أتمتة api-ninjas",
+    "description": "أتمتة مهام API Ninjas عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-sports-automation": {
+    "name": "أتمتة api-sports",
+    "description": "أتمتة مهام API Sports عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api2pdf-automation": {
+    "name": "أتمتة api2pdf",
+    "description": "أتمتة مهام Api2pdf عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apiflash-automation": {
+    "name": "أتمتة apiflash",
+    "description": "أتمتة مهام Apiflash عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apilio-automation": {
+    "name": "أتمتة apilio",
+    "description": "أتمتة مهام Apilio عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apipie-ai-automation": {
+    "name": "أتمتة apipie-ai",
+    "description": "أتمتة مهام Apipie AI عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apitemplate-io-automation": {
+    "name": "أتمتة apitemplate-io",
+    "description": "أتمتة مهام Apitemplate IO عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apiverve-automation": {
+    "name": "أتمتة apiverve",
+    "description": "أتمتة مهام Apiverve عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "arjun988/blender-skills:.claude/skills/apocalypse-worlds": {
+    "name": "عوالم نهاية العالم",
+    "description": "إرشادات فنية لتصميم عوالم نهاية العالم والديستوبيا لـ Blender، بما في ذلك مجموعات التباين لما بعد نهاية العالم، والزومبي، وغزو الكائنات الفضائية، وما بعد الإنسان، والديستوبيا، واليوتوبيا."
+  },
+  "arjun988/blender-skills:.cursor/skills/apocalypse-worlds": {
+    "name": "عوالم نهاية العالم",
+    "description": "إرشادات فنية لتصميم عوالم نهاية العالم والديستوبيا لـ Blender، بما في ذلك مجموعات التباين لما بعد نهاية العالم، والزومبي، وغزو الكائنات الفضائية، وما بعد الإنسان، والديستوبيا، واليوتوبيا."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appcircle-automation": {
+    "name": "أتمتة appcircle",
+    "description": "أتمتة مهام Appcircle عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appdrag-automation": {
+    "name": "أتمتة appdrag",
+    "description": "أتمتة مهام Appdrag عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "emilkowalski/skills:skills/apple-design": {
+    "name": "تصميم آبل",
+    "description": "نهج آبل في تصميم الواجهات والحركات الفيزيائية السلسة، مترجم إلى الويب. استخدمه عند بناء أو مراجعة واجهات المستخدم التي تعتمد على الإيماءات، ورسوم المتحركة النابضة، وتفاعلات السحب/التمرير/الصفحات، والانتقالات القابلة للانقطاع والمتحركة، والمواد الشفافة والعمق، والطباعة (الحجم البصري، والتتبع، والتباعد)، وتقليل الحركة، أو الأسس التصميمية (التغذية الراجعة، والاتساق المكاني، والاعتدال) الكامنة وراء واجهات نمط آبل."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appointo-automation": {
+    "name": "أتمتة appointo",
+    "description": "أتمتة مهام Appointo عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appsflyer-automation": {
+    "name": "أتمتة appsflyer",
+    "description": "أتمتة مهام Appsflyer عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appveyor-automation": {
+    "name": "أتمتة appveyor",
+    "description": "أتمتة مهام Appveyor عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "arjun988/blender-skills:.claude/skills/archviz": {
+    "name": "الرسوميات المعمارية",
+    "description": "التصور المعماري في Blender للداخلية/الخارجية بمقياس الواقع، وتكوين الكاميرا، ومواد PBR، وتسليم الصور الثابتة/الرسوم المتحركة عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/archviz": {
+    "name": "الرسوميات المعمارية",
+    "description": "التصور المعماري في Blender للداخلية/الخارجية بمقياس الواقع، وتكوين الكاميرا، ومواد PBR، وتسليم الصور الثابتة/الرسوم المتحركة عبر MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:artifacts-builder": {
+    "name": "صانع القطع الأثرية",
+    "description": "مجموعة أدوات لإنشاء قطع أثرية معقدة متعددة المكونات بتنسيق HTML باستخدام تقنيات الويب الحديثة للواجهة الأمامية (React، Tailwind CSS، shadcn/ui). استخدمها للقطع الأثرية المعقدة التي تتطلب إدارة الحالة، أو التوجيه، أو مكونات shadcn/ui — وليس للقطع الأثرية البسيطة ذات الملف الواحد بتنسيق HTML/JSX."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aryn-automation": {
+    "name": "أتمتة aryn",
+    "description": "أتمتة مهام Aryn عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ascora-automation": {
+    "name": "أتمتة ascora",
+    "description": "أتمتة مهام Ascora عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/asin-data-api-automation": {
+    "name": "أتمتة asin-data-api",
+    "description": "أتمتة مهام Asin Data API عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "emilkowalski/skills:skills/ask-emil": {
+    "name": "اسأل إميل",
+    "description": "اسأل أي مهارة أو سير عمل يناسب وضعك. موجه للمهارات الموجودة في هذا المستودع."
+  },
+  "emilkowalski/skills:skills/ask-sonner": {
+    "name": "اسأل Sonner",
+    "description": "دليل لـ Sonner، مكتبة التنبيهات في React — تثبيت وربط مكتبة Toaster، واختيار الدالة الصحيحة toast()، وتنبيهات Promise والتحميل، وتحديث التنبيهات وإغلاقها والاحتفاظ بها، والتصميم، والتخصيص، والأيقونات، والوضع، وتعدد التنبيهات. استخدمه عند التعامل مع Sonner أو أثناء استكشاف الأخطاء وإصلاحها — مثل عدم ظهور التنبيهات، أو ظهورها مرتين، أو فقدان أنماطها، أو تجاهل فئات Tailwind، أو وجودها خلف نافذة منبثقة، أو عدم اتباعها لوضع الظلام."
+  },
+  "arjun988/blender-skills:.claude/skills/asset-optimization": {
+    "name": "تحسين الأصول",
+    "description": "يتحقق ويحسن أصول Blender من حيث عدد المضلعات، والتوبولوجيا، وكفاءة UV، وعدد المواد، والتسمية، والمجموعات، وأداء الجاهزية للألعاب. استخدمه قبل التصدير لجميع الأصول الإنتاجية عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/asset-optimization": {
+    "name": "تحسين الأصول",
+    "description": "يتحقق ويحسن أصول Blender من حيث عدد المضلعات، والتوبولوجيا، وكفاءة UV، وعدد المواد، والتسمية، والمجموعات، وأداء الجاهزية للألعاب. استخدمه قبل التصدير لجميع الأصول الإنتاجية عبر MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/astica-ai-automation": {
+    "name": "أستيكا-أتمتة الذكاء الاصطناعي",
+    "description": "أتمتة مهام أستيكا للذكاء الاصطناعي عبر روبو MCP (كومبوزيو). ابحث دائمًا عن الأدوات أولاً للمخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/async-interview-automation": {
+    "name": "أتمتة المقابلات غير المتزامنة",
+    "description": "أتمتة مهام المقابلات غير المتزامنة عبر روبو MCP (كومبوزيو). ابحث دائمًا عن الأدوات أولاً للمخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/atlassian-automation": {
+    "name": "أتمتة أتلانتيس",
+    "description": "أتمتة مهام أتلانتيس عبر روبو MCP (كومبوزيو). ابحث دائمًا عن الأدوات أولاً للمخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/auth0-automation": {
+    "name": "أتمتة أوث0",
+    "description": "أتمتة مهام أوث0 عبر روبو MCP (كومبوزيو). ابحث دائمًا عن الأدوات أولاً للمخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/autobound-automation": {
+    "name": "أتمتة أوتوباوند",
+    "description": "أتمتة مهام أوتوباوند عبر روبو MCP (كومبوزيو). ابحث دائمًا عن الأدوات أولاً للمخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/autom-automation": {
+    "name": "أتمتة أتم",
+    "description": "أتمتة مهام أتم عبر روبو MCP (كومبوزيو). ابحث دائمًا عن الأدوات أولاً للمخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/axonaut-automation": {
+    "name": "أتمتة أكسونوت",
+    "description": "أتمتة مهام أكسونوت عبر روبو MCP (كومبوزيو). ابحث دائمًا عن الأدوات أولاً للمخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ayrshare-automation": {
+    "name": "أتمتة أيرشير",
+    "description": "أتمتة مهام أيرشير عبر روبو MCP (كومبوزيو). ابحث دائمًا عن الأدوات أولاً للمخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/backendless-automation": {
+    "name": "أتمتة باكيندلس",
+    "description": "أتمتة مهام باكيندلس عبر روبو MCP (كومبوزيو). ابحث دائمًا عن الأدوات أولاً للمخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bannerbear-automation": {
+    "name": "أتمتة بانربير",
+    "description": "أتمتة مهام بانربير عبر روبو MCP (كومبوزيو). ابحث دائمًا عن الأدوات أولاً للمخططات الحالية."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-article-illustrator": {
+    "name": "باويو-رسام المقالات",
+    "description": "يحلل بنية المقال، ويحدد المواضع التي تحتاج إلى وسائل إيضاح بصرية، ويولد الرسوم التوضيحية باستخدام نهج ثلاثي الأبعاد يعتمد على النوع × النمط × لوحة الألوان. استخدمه عندما يطلب المستخدم \" illustrate article\"، \" add images\"، \" generate images for article\"، أو \" 为文章配图\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-comic": {
+    "name": "باويو-القصص المصورة",
+    "description": "منشئ قصص مصورة معرفية يدعم أنماط فنية ونبرات متعددة. ينشئ قصصاً تعليمية أصلية مع تخطيطات مفصلة لللوحات وإمكانية توليد الصور دفعة واحدة. استخدمه عندما يطلب المستخدم إنشاء \" 知识漫画\"، \" 教育漫画\"، \" 传记漫画\"، \" 教程漫画\"، أو \" Logicomix-style comic\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-compress-image": {
+    "name": "باويو-ضغط الصور",
+    "description": "يضغط الصور إلى صيغة WebP (افتراضياً) أو PNG مع اختيار الأداة تلقائياً. استخدمه عندما يطلب المستخدم \" compress image\"، \" optimize image\"، \" convert to webp\"، أو تقليل حجم ملف الصورة."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-cover-image": {
+    "name": "باويو-غلاف الصورة",
+    "description": "يولد صور أغلفة المقالات بخمسة أبعاد (النوع، اللوحة، العرض، النص، المزاج) مدمجاً 11 لوحة ألوان و7 أنماط عرض. يدعم أبعاد السينما (2.35:1)، والشاشة العريضة (16:9)، والمربع (1:1). استخدمه عندما يطلب المستخدم \" generate cover image\"، \" create article cover\"، أو \" make cover\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-danger-gemini-web": {
+    "name": "باويو-خطر جيميني ويب",
+    "description": "يولد الصور والنصوص عبر واجهة برمجة تطبيقات جيميني ويب المعكوسة. يدعم توليد النصوص، وتوليد الصور من المطالبات، والصور المرجعية لمدخلات الرؤية، والمحادثات متعددة الأدوار. استخدمه عندما تحتاج المهارات الأخرى إلى خلفية لتوليد الصور، أو عندما يطلب المستخدم \" generate image with Gemini\"، \" Gemini text generation\"، أو يحتاج إلى توليد ذكي قادر على الرؤية."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-danger-x-to-markdown": {
+    "name": "باويو-خطر X إلى Markdown",
+    "description": "يحول تغريدات ومقالات X (تويتر) إلى تنسيق Markdown مع بيانات أولية YAML. يستخدم واجهة برمجة تطبيقات معكوسة تتطلب موافقة المستخدم. استخدمه عندما يذكر المستخدم \" X to markdown\"، \" tweet to markdown\"، \" save tweet\"، أو يقدم روابط X.com/twitter.com للتحويل."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-diagram": {
+    "name": "باويو-المخططات",
+    "description": "ينشئ مخططات احترافية مع سمة داكنة/فاتحة قابلة للتكوين عبر خصائص CSS المخصصة. استخدم هذه المهارة كلما طلب المستخدم أي نوع من المخططات التقنية أو المفاهيمية، أو تصور نظام، أو تدفق عملية، أو تدفق بيانات، أو علاقة مكونات، أو طوبولوجيا شبكة، أو شجرة قرار، أو مخطط تنظيمي، أو آلة حالة، أو أي تمثيل بصري للبنية/المنطق/العملية. أيضاً، قم بالتشغيل عندما يقول المستخدم \"画个图\"، \" 画一个架构图\"، \" diagram\"، \" flowchart\"، \" sequence diagram\"، \" draw me a ...\" أو يحمّل محتوى ويطلب تصوره. يخرج SVG بسمة داكنة، وSVG بسمة فاتحة، وPNG @2x لكل منها."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-electron-extract": {
+    "name": "باويو-استخراج إلكترون",
+    "description": "يستخرج الموارد وJavaScript من أي تطبيق إلكترون مثبت (`.asar` bundle)، ويستعيد المصادر الأصلية من `.js.map` files عند توفرها أو ينسق الكود المضغوط باستخدام Prettier في حال عدم توفرها. استخدمه عندما يريد المستخدم \" extract Electron app\"، \" decompile Electron\"، \" get the source code of <app>\"، \" inspect app.asar\"، \" 看 Electron 应用源码\"، \"提取 .asar\"، أو يسأل كيف يتم بناء تطبيق إلكترون لسطح المكتب. يتخطى `node_modules` ويدعم كلاً من macOS وWindows."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-format-markdown": {
+    "name": "باويو-تنسيق Markdown",
+    "description": "ينسق النصوص العادية أو ملفات Markdown مع البيانات الأولية والعناوين والملخصات والعناوين الفرعية والنص الغامق والقوائم وكتل الشيفرة. استخدمه عندما يطلب المستخدم \" format markdown\"، \" beautify article\"، \" add formatting\"، أو تحسين تخطيط المقال. يخرج إلى {filename}-formatted.md."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-image-gen": {
+    "name": "باويو-توليد الصور",
+    "description": "توليد الصور بالذكاء الاصطناعي باستخدام واجهات برمجة تطبيقات OpenAI GPT Image 2.5، Azure OpenAI، جوجل، OpenRouter، DashScope، Z.AI GLM-Image، MiniMax، Jimeng، Seedream، Replicate وأغنيس. يدعم تحويل النص إلى صورة، والصور المرجعية، ونسب الأبعاد، والتوليد الدفعي من ملفات المطالبات المحفوظة. يعمل بالتسلسل افتراضياً؛ استخدم التوليد المتوازي الدفعي عندما يكون لدى المستخدم بالفعل عدة مطالبات أو يريد إنتاجاً مستقراً متعدد الصور. استخدمه عندما يطلب المستخدم توليد أو إنشاء أو رسم الصور."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-infographic": {
+    "name": "باويو-الإنفوجرافيك",
+    "description": "يولد إنفوجرافيك احترافي بـ21 نوع تخطيط و22 نمط بصري. يحلل المحتوى، ويوصي بمجموعات التخطيط×النمط، ويولد إنفوجرافيك جاهز للنشر. استخدمه عندما يطلب المستخدم إنشاء \" infographic\"، \" 信息图\"، \" visual summary\"، \" 可视化\"، أو \" 高密度信息大图\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-markdown-to-html": {
+    "name": "باويو-تحويل Markdown إلى HTML",
+    "description": "يحول Markdown إلى HTML مُنسَّق بسمات متوافقة مع ويتشات. يدعم تمييز الشيفرة، والرياضيات، وMermaid (المُحوَّل إلى PNG عبر كروم بدون واجهة)، وPlantUML، والحواشي، والتنبيهات، والإنفوجرافيك، والاستشهادات السفلية الاختيارية للروابط الخارجية. استخدمه عندما يطلب المستخدم \" markdown to html\"، \" convert md to html\"، \" md 转 html\"، \" 微信外链转底部引用\"، أو يحتاج إلى إخراج HTML منسق من Markdown."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-podcast-summary": {
+    "name": "باويو-ملخص البودكاست",
+    "description": "يلخص البودكاست والمقابلات والحلقات وغيرها من نصوص المحادثات إلى ملخص موضوعي يركز على القارئ ومكتوب بلغة المستخدم المفضلة. يبدأ بأهم النقاط التي تستحق الاحتفاظ بها، ويعيد سردها بأمانة مع الإشارة الواضحة للمتحدثين، ولا يضيف أي آراء خاصة به. يقبل نصاً ملصقاً أو ملف نصي أو رابطاً على يوتيوب (يُستخرج النص عبر baoyu-youtube-transcript)، ويستنتج المتحدثين غير المسميين من السياق، ويستخدم البحث على الويب للتحقق من الأسماء وتوفير الخلفية. استخدمه عندما يقدم المستخدم نصاً أو رابطاً لبودكاست/مقابلة ويطلب \" summarize this podcast\"، \" podcast summary\"، \" interview summary\"، \" key takeaways\"، \"总结播客\"، \"播客总结\"، \"访谈总结\"، \"总结一下这期播客\"، \"总结这个访谈\"، أو يشارك مقابلة على يوتيوب ويرغب في ملخص مكتوب بدلاً من النص الخام."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-wechat": {
+    "name": "باويو-نشر على ويتشات",
+    "description": "ينشر المحتوى على حساب رسمي على ويتشات (微信公众号) عبر واجهة برمجة التطبيقات أو Chrome CDP. يدعم نشر المقالات (文章) بإدخال HTML أو Markdown أو نص عادي، ونشر الصور والنصوص (贴图، formerly 图文) بعدة صور. تعمل سير عمل مقالات Markdown افتراضياً على تحويل الروابط الخارجية العادية إلى استشهادات سفلية لإخراج متوافق مع ويتشات. استخدمه عندما يذكر المستخدم \" 发布公众号\"، \" post to wechat\"، \" 微信公众号\"، أو \" 贴图/图文/文章\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-weibo": {
+    "name": "باويو-نشر على ويبو",
+    "description": "ينشر المحتوى على ويبو (微博). يدعم المنشورات العادية بالنص والصور والفيديو، ومقالات العناوين الرئيسية (头条文章) بإدخال Markdown عبر Chrome CDP. استخدمه عندما يطلب المستخدم \" post to Weibo\"، \" 发微博\"، \" 发布微博\"، \" publish to Weibo\"، \" share on Weibo\"، \" write Weibo\"، أو \"微博头条文章\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-x": {
+    "name": "باويو-نشر على X",
+    "description": "Posts content and articles to X (Twitter). Supports regular posts with images/videos and X Articles (long-form Markdown). In Codex, honor explicit requests for the Codex Chrome plugin/@chrome by using the Chrome Extension workflow; otherwise use Chrome Computer Use when available and fall back to real Chrome CDP scripts only when allowed. Use when user asks to \"post to X\", \"tweet\", \"publish to Twitter\", or \"share on X\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-slide-deck": {
+    "name": "باويو-مجموعة الشرائح",
+    "description": "يولد صور مجموعة شرائح احترافية من المحتوى. ينشئ الخطوط العريضة مع تعليمات الأسلوب، ثم يولّد صور الشرائح الفردية. استخدمه عندما يطلب المستخدم \" create slides\"، \" make a presentation\"، \" generate deck\"، \" slide deck\"، أو \" PPT\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-translate": {
+    "name": "باويو-الترجمة",
+    "description": "يجب استخدام هذه المهارة عندما يطلب المستخدم \" translate\"، \" 翻译\"، \" 精翻\"، \" translate article\"، \" translate to Chinese\"، \" translate to English\"، \"改成中文\"، \"改成英文\"، \" convert to Chinese\"، \" localize\"، \"本地化\"، \" refined translation\"، \"精细翻译\"، \" proofread translation\"، \"快速翻译\"، \"快翻\"، \"这篇文章翻译一下\"، أو يقدم رابطاً/ملفاً بنية الترجمة. يدعم ثلاثة أوضاع (سريع/عادي/مُنقّح) مع دعم قاموس مخصص."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-url-to-markdown": {
+    "name": "باويو-رابط إلى Markdown",
+    "description": "يجلب أي رابط ويحوله إلى Markdown باستخدام CLI baoyu-fetch (Chrome CDP مع محولات خاصة بالمواقع). يحتوي على محولات مدمجة لـX/تويتر، ونصوص يوتيوب، ومواضيع هاكر نيوز، وصفحات عامة عبر Defuddle. يتعامل مع تسجيل الدخول/CAPTCHA عبر أوضاع انتظار التفاعل. استخدمه عندما يريد المستخدم حفظ صفحة ويب كـMarkdown."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-wechat-summary": {
+    "name": "باويو-ملخص ويتشات",
+    "description": "يلخص أبرز ما جاء في دردشات مجموعات ويتشات إلى ملخص منظم باستخدام ثنائي wx-cli المحلي (https://github.com/jackwener/wx-cli). يولد ملخصاً عادياً افتراضياً؛ ونسخة ساخرة (毒舌) اختيارية. يحافظ على تاريخ كل مجموعة (history.json + history-digests.jsonl)، وملفات تعريف كل مستخدم، وذاكرة الحقائق لكل مجموعة (memory.md) عبر التشغيلات، مع وضع ضوابط خصوصية مدمجة. استخدمه عندما يطلب المستخدم \" summarize group chat\"، \" group chat highlights\"، \" group chat summary\"، \" summarize group chat\"، \" group chat digest\"، ويذكر اسم مجموعة ويتشات مع نطاق زمني، ويقول \"帮我看看 XX 群最近聊了什么\"، \" XX 群有什么值得看的\"، أو يطلب \"回溯画像\" / \"初始化画像\" / \" backfill profiles\". يضيف النسخة الساخرة عندما يقول المستخدم \" 毒舌版\"، \" roast version\"، \"再来个毒舌的\"، أو ما شابه ذلك."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-xhs-images": {
+    "name": "baoyu-xhs-images",
+    "description": "يُنشئ سلسلة بطاقات صور إنفوجرافيك بـ 12 نمطًا بصريًا و8 تخطيطات و3 مجموعات ألوان. يقسّم المحتوى إلى 1-10 بطاقات صور بأسلوب كرتوني مُحسَّنة لتفاعل وسائل التواصل الاجتماعي. استخدمه عندما يذكر المستخدم \"小红书图片\"، \"小红书种草\"، \"小绿书\"، \"微信图文\"، \"微信贴图\"، \"image cards\"، \"图片卡片\"، baoyu-xhs-images، أو يريد سلسلة إنفوجرافيك لوسائل التواصل الاجتماعي."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-youtube-transcript": {
+    "name": "baoyu-youtube-transcript",
+    "description": "يحمّل نصوص/ترجمات فيديوهات يوتيوب وصور الغلاف باستخدام عنوان URL أو معرّف الفيديو. يدعم عدة لغات والترجمة والفصول وتحديد المتحدثين. يخزّن البيانات الخام لتسريع إعادة التنسيق. استخدمه عندما يطلب المستخدم \"get YouTube transcript\"، \"download subtitles\"، \"get captions\"، \"YouTube字幕\"، \"YouTube封面\"، \"视频封面\"، \"video thumbnail\"، \"video cover image\"، أو يقدم رابط يوتيوب ويريد استخراج نص النقل/الترجمة أو صورة الغلاف."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bart-automation": {
+    "name": "bart-automation",
+    "description": "أتمتة مهام Bart عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/baselinker-automation": {
+    "name": "baselinker-automation",
+    "description": "أتمتة مهام Baselinker عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/baserow-automation": {
+    "name": "baserow-automation",
+    "description": "أتمتة مهام Baserow عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/basin-automation": {
+    "name": "basin-automation",
+    "description": "أتمتة مهام Basin عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/battlenet-automation": {
+    "name": "battlenet-automation",
+    "description": "أتمتة مهام Battlenet عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beaconchain-automation": {
+    "name": "beaconchain-automation",
+    "description": "أتمتة مهام Beaconchain عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beaconstac-automation": {
+    "name": "beaconstac-automation",
+    "description": "أتمتة مهام Beaconstac عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beamer-automation": {
+    "name": "beamer-automation",
+    "description": "أتمتة مهام Beamer عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beeminder-automation": {
+    "name": "beeminder-automation",
+    "description": "أتمتة مهام Beeminder عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bench-automation": {
+    "name": "bench-automation",
+    "description": "أتمتة مهام Bench عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/benchmark-email-automation": {
+    "name": "benchmark-email-automation",
+    "description": "أتمتة مهام Benchmark Email عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/benzinga-automation": {
+    "name": "benzinga-automation",
+    "description": "أتمتة مهام Benzinga عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bestbuy-automation": {
+    "name": "bestbuy-automation",
+    "description": "أتمتة مهام Bestbuy عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/better-proposals-automation": {
+    "name": "better-proposals-automation",
+    "description": "أتمتة مهام Better Proposals عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/better-stack-automation": {
+    "name": "better-stack-automation",
+    "description": "أتمتة مهام Better Stack عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bidsketch-automation": {
+    "name": "bidsketch-automation",
+    "description": "أتمتة مهام Bidsketch عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/big-data-cloud-automation": {
+    "name": "big-data-cloud-automation",
+    "description": "أتمتة مهام Big Data Cloud عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigmailer-automation": {
+    "name": "bigmailer-automation",
+    "description": "أتمتة مهام Bigmailer عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigml-automation": {
+    "name": "bigml-automation",
+    "description": "أتمتة مهام Bigml عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigpicture-io-automation": {
+    "name": "bigpicture-io-automation",
+    "description": "أتمتة مهام Bigpicture IO عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "arjun988/blender-skills:.claude/skills/biome-worlds": {
+    "name": "biome-worlds",
+    "description": "إرشاد فني للمحيطات والبيئات مثل تحت الماء والصحراء والقطب الشمالي والأدغال والبيئات الجوفية والجزر العائمة."
+  },
+  "arjun988/blender-skills:.cursor/skills/biome-worlds": {
+    "name": "biome-worlds",
+    "description": "إرشاد فني للمحيطات والبيئات مثل تحت الماء والصحراء والقطب الشمالي والأدغال والبيئات الجوفية والجزر العائمة."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bitquery-automation": {
+    "name": "bitquery-automation",
+    "description": "أتمتة مهام Bitquery عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bitwarden-automation": {
+    "name": "bitwarden-automation",
+    "description": "أتمتة مهام Bitwarden عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blackbaud-automation": {
+    "name": "blackbaud-automation",
+    "description": "أتمتة مهام Blackbaud عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blackboard-automation": {
+    "name": "blackboard-automation",
+    "description": "أتمتة مهام Blackboard عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "arjun988/blender-skills:.claude/skills/blender-director": {
+    "name": "blender-director",
+    "description": "استخدمه عند بدء أي مهمة لأصول Blender، أو التخطيط لخط إنتاج، أو تنسيق تخصصات متعددة، أو مطابقة صورة مرجعية/فن تصميم مفاهيمي. استدعه للأصول الجاهزة للعبة، والأسطح الصلبة، والبيئة، والشخصية، والمخلوق، والتصدير، أو أي سير عمل متعدد المهارات Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/blender-director": {
+    "name": "blender-director",
+    "description": "استخدمه عند بدء أي مهمة لأصول Blender، أو التخطيط لخط إنتاج، أو تنسيق تخصصات متعددة، أو مطابقة صورة مرجعية/فن تصميم مفاهيمي. استدعه للأصول الجاهزة للعبة، والأسطح الصلبة، والبيئة، والشخصية، والمخلوق، والتصدير، أو أي سير عمل متعدد المهارات Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/blender-modeler": {
+    "name": "blender-modeler",
+    "description": "أخصائي النمذجة الأساسي Blender لوضع التحرير، والمعدلات، والمجموعات، والنمذجة الدقيقة، وتنظيم المشهد. استخدمه للنمذجة ثلاثية الأبعاد العامة، والكتل الأولية، والتنظيف، وسير العمل غير التدميري، وهيكل المشهد في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/blender-modeler": {
+    "name": "blender-modeler",
+    "description": "أخصائي النمذجة الأساسي Blender لوضع التحرير، والمعدلات، والمجموعات، والنمذجة الدقيقة، وتنظيم المشهد. استخدمه للنمذجة ثلاثية الأبعاد العامة، والكتل الأولية، والتنظيف، وسير العمل غير التدميري، وهيكل المشهد في Blender عبر MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blocknative-automation": {
+    "name": "blocknative-automation",
+    "description": "أتمتة مهام Blocknative عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "arjun988/blender-skills:.claude/skills/body-horror-style": {
+    "name": "بأسلوب رعب الجسد",
+    "description": "إخراج فني لرعب الجسد لـ Blender يركز على انحراف اللحم، والطفرة، والاندماج، وسرد القصص بالمواد الحسية."
+  },
+  "arjun988/blender-skills:.cursor/skills/body-horror-style": {
+    "name": "بأسلوب رعب الجسد",
+    "description": "إخراج فني لرعب الجسد لـ Blender يركز على انحراف اللحم، والطفرة، والاندماج، وسرد القصص بالمواد الحسية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boldsign-automation": {
+    "name": "أتمتة Boldsign",
+    "description": "أتمتة مهام Boldsign عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bolna-automation": {
+    "name": "أتمتة Bolna",
+    "description": "أتمتة مهام Bolna عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boloforms-automation": {
+    "name": "أتمتة Boloforms",
+    "description": "أتمتة مهام Boloforms عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bolt-iot-automation": {
+    "name": "أتمتة Bolt Iot",
+    "description": "أتمتة مهام Bolt Iot عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bonsai-automation": {
+    "name": "أتمتة Bonsai",
+    "description": "أتمتة مهام Bonsai عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "virgiliojr94/book-to-skill:book-to-skill": {
+    "name": "تحويل الكتاب إلى مهارة",
+    "description": "يحوّل الكتب والمستندات إلى مهارات عامل منظّمة من الملفات المحلية (PDF، EPUB، DOCX، HTML، Markdown، TXT، RTF، MOBI/AZW) أو من البحث عن الكتب عن بُعد في MCP (`/book-to-skill search <query>`)، مستخرجًا الأطر، والنماذج الذهنية، والمبادئ، والتقنيات، وأنماط العمل غير الفعالة. استخدمه عبر GitHub Copilot CLI، Amp، Claude Code، Hermes Agent، OpenCode، أو OpenClaw لدراسة مستند أو تطبيق أطر المؤلف."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bookingmood-automation": {
+    "name": "أتمتة Bookingmood",
+    "description": "أتمتة مهام Bookingmood عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/booqable-automation": {
+    "name": "أتمتة Booqable",
+    "description": "أتمتة مهام Booqable عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/borneo-automation": {
+    "name": "أتمتة Borneo",
+    "description": "أتمتة مهام Borneo عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botbaba-automation": {
+    "name": "أتمتة Botbaba",
+    "description": "أتمتة مهام Botbaba عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botpress-automation": {
+    "name": "أتمتة Botpress",
+    "description": "أتمتة مهام Botpress عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botsonic-automation": {
+    "name": "أتمتة Botsonic",
+    "description": "أتمتة مهام Botsonic عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botstar-automation": {
+    "name": "أتمتة Botstar",
+    "description": "أتمتة مهام Botstar عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bouncer-automation": {
+    "name": "أتمتة Bouncer",
+    "description": "أتمتة مهام Bouncer عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boxhero-automation": {
+    "name": "أتمتة Boxhero",
+    "description": "أتمتة مهام Boxhero عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "anthropics/skills:skills/brand-guidelines": {
+    "name": "إرشادات العلامة التجارية",
+    "description": "تطبّق ألوان العلامة التجارية الرسمية لأنثروبيك وخطوطها على أي نوع من المنتجات التي قد تستفيد من مظهر وشعور أنثروبيك. استخدمها عندما تنطبق ألوان العلامة التجارية أو إرشادات الأسلوب، أو التنسيق المرئي، أو معايير تصميم الشركة."
+  },
+  "ComposioHQ/awesome-claude-skills:brand-guidelines": {
+    "name": "إرشادات العلامة التجارية",
+    "description": "تطبّق ألوان العلامة التجارية الرسمية لأنثروبيك وخطوطها على أي نوع من المنتجات التي قد تستفيد من مظهر وشعور أنثروبيك. استخدمها عندما تنطبق ألوان العلامة التجارية أو إرشادات الأسلوب، أو التنسيق المرئي، أو معايير تصميم الشركة."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brandfetch-automation": {
+    "name": "أتمتة Brandfetch",
+    "description": "أتمتة مهام Brandfetch عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "emilkowalski/skills:skills/break-ui": {
+    "name": "كسر واجهة المستخدم",
+    "description": "حاول كسر جزء من واجهة المستخدم عن طريق تغذيته بأسوأ البيانات — أسماء طويلة، رسائل بريد إلكتروني لا يمكن تقسيمها، أسماء من حرف واحد، حقول ناقصة، أعداد هائلة، صفر عناصر، تسميات طويلة، نص غير لاتيني، رموز تعبيرية، أرقام متطرفة — ثم قم بعرضه خلف زر تبديل \"Demo data / Worst case\" وأبلغ عن كل ما تعطل، مع الحل لكل منها. استخدمه عندما يطلب المستخدم اختبار الضغط، أو كسر، أو العثور على الحالات الحدية في مكوّن أو شاشة، أو لـ \"تجربة أسوأ حالة\". لانتقاد التصميم المرئي استخدم emil-design-eng؛ وللحركة استخدم review-animations."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/breeze-automation": {
+    "name": "أتمتة Breeze",
+    "description": "أتمتة مهام Breeze عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/breezy-hr-automation": {
+    "name": "أتمتة Breezy HR",
+    "description": "أتمتة مهام Breezy HR عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brex-automation": {
+    "name": "أتمتة Brex",
+    "description": "أتمتة مهام Brex عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brex-staging-automation": {
+    "name": "أتمتة Brex Staging",
+    "description": "أتمتة مهام Brex Staging عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brightdata-automation": {
+    "name": "أتمتة Brightdata",
+    "description": "أتمتة مهام Brightdata عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brightpearl-automation": {
+    "name": "أتمتة Brightpearl",
+    "description": "أتمتة مهام Brightpearl عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brilliant-directories-automation": {
+    "name": "أتمتة Brilliant Directories",
+    "description": "أتمتة مهام Brilliant Directories عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browseai-automation": {
+    "name": "أتمتة Browseai",
+    "description": "أتمتة مهام Browseai عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "cexll/myclaude:skills/browser": {
+    "name": "المتصفح",
+    "description": "يجب استخدام هذه المهارة لمهام أتمتة المتصفح باستخدام بروتوكول أدوات مطوّري Chrome (CDP). يتم تشغيلها عندما يحتاج المستخدمون إلى إطلاق Chrome مع تصحيح الأخطاء عن بُعد، أو تصفح الصفحات، أو تنفيذ JavaScript في سياق المتصفح، أو التقاط لقطات الشاشة، أو اختيار عناصر DOM تفاعليًا. لا يتطلب خادم MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browser-tool-automation": {
+    "name": "أتمتة أداة المتصفح",
+    "description": "أتمتة مهام أداة المتصفح عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserbase-tool-automation": {
+    "name": "أتمتة أداة Browserbase",
+    "description": "أتمتة مهام أداة Browserbase عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للأنماط الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserhub-automation": {
+    "name": "أتمتة متصفح hub",
+    "description": "أتمتة مهام متصفح hub عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserless-automation": {
+    "name": "أتمتة بدون متصفح",
+    "description": "أتمتة المهام بدون متصفح عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "arjun988/blender-skills:.claude/skills/brutalist-mood": {
+    "name": "أجواء بروستاليستية",
+    "description": "توجيه الأجواء البروستالية والنصبية التذكارية لعمارة ومشاهد Blender ذات الخرسانة الخام، والمقاييس التذكارية، والتكوين المتقشف."
+  },
+  "arjun988/blender-skills:.cursor/skills/brutalist-mood": {
+    "name": "أجواء بروستاليستية",
+    "description": "توجيه الأجواء البروستالية والنصبية التذكارية لعمارة ومشاهد Blender ذات الخرسانة الخام، والمقاييس التذكارية، والتكوين المتقشف."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/btcpay-server-automation": {
+    "name": "أتمتة خادم Btcpay",
+    "description": "أتمتة مهام خادم Btcpay عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bubble-automation": {
+    "name": "أتمتة Bubble",
+    "description": "أتمتة مهام Bubble عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugbug-automation": {
+    "name": "أتمتة Bugbug",
+    "description": "أتمتة مهام Bugbug عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugherd-automation": {
+    "name": "أتمتة Bugherd",
+    "description": "أتمتة مهام Bugherd عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugsnag-automation": {
+    "name": "أتمتة Bugsnag",
+    "description": "أتمتة مهام Bugsnag عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/buildkite-automation": {
+    "name": "أتمتة Buildkite",
+    "description": "أتمتة مهام Buildkite عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/builtwith-automation": {
+    "name": "أتمتة Builtwith",
+    "description": "أتمتة مهام Builtwith عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bunnycdn-automation": {
+    "name": "أتمتة Bunnycdn",
+    "description": "أتمتة مهام Bunnycdn عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/byteforms-automation": {
+    "name": "أتمتة Byteforms",
+    "description": "أتمتة مهام Byteforms عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cabinpanda-automation": {
+    "name": "أتمتة Cabinpanda",
+    "description": "أتمتة مهام Cabinpanda عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cal-automation": {
+    "name": "أتمتة Cal",
+    "description": "أتمتة مهام Cal عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/calendarhero-automation": {
+    "name": "أتمتة Calendarhero",
+    "description": "أتمتة مهام Calendarhero عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callerapi-automation": {
+    "name": "أتمتة Callerapi",
+    "description": "أتمتة مهام Callerapi عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callingly-automation": {
+    "name": "أتمتة Callingly",
+    "description": "أتمتة مهام Callingly عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callpage-automation": {
+    "name": "أتمتة Callpage",
+    "description": "أتمتة مهام Callpage عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "arjun988/blender-skills:.claude/skills/camera-cinematography": {
+    "name": "تصوير كاميرا سينمائي",
+    "description": "عمل الكاميرا السينمائية في Blender بما في ذلك الإطار، والعدسات، والتكوين، وتحريك الكاميرا، ولغة اللقطة بما يتجاوز إعدادات العرض الأساسية عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/camera-cinematography": {
+    "name": "تصوير كاميرا سينمائي",
+    "description": "عمل الكاميرا السينمائية في Blender بما في ذلك الإطار، والعدسات، والتكوين، وتحريك الكاميرا، ولغة اللقطة بما يتجاوز إعدادات العرض الأساسية عبر MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/campaign-cleaner-automation": {
+    "name": "أتمتة Campaign Cleaner",
+    "description": "أتمتة مهام Campaign Cleaner عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/campayn-automation": {
+    "name": "أتمتة Campayn",
+    "description": "أتمتة مهام Campayn عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/canny-automation": {
+    "name": "أتمتة Canny",
+    "description": "أتمتة مهام Canny عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/canvas-automation": {
+    "name": "أتمتة Canvas",
+    "description": "أتمتة مهام Canvas عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "anthropics/skills:skills/canvas-design": {
+    "name": "تصميم Canvas",
+    "description": "إنشاء فن بصري جميل في مستندات .png و.pdf باستخدام فلسفة التصميم. يجب استخدام هذه المهارة عندما يطلب المستخدم إنشاء ملصق أو قطعة فنية أو تصميم أو أي قطعة ثابتة أخرى. ابتكر تصميمات بصرية أصلية، ولا تقم أبدًا بنسخ أعمال الفنانين الحاليين لتجنب انتهاك حقوق الطبع والنشر."
+  },
+  "ComposioHQ/awesome-claude-skills:canvas-design": {
+    "name": "تصميم Canvas",
+    "description": "إنشاء فن بصري جميل في مستندات .png و.pdf باستخدام فلسفة التصميم. يجب استخدام هذه المهارة عندما يطلب المستخدم إنشاء ملصق أو قطعة فنية أو تصميم أو أي قطعة ثابتة أخرى. ابتكر تصميمات بصرية أصلية، ولا تقم أبدًا بنسخ أعمال الفنانين الحاليين لتجنب انتهاك حقوق الطبع والنشر."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/capsule_crm-automation": {
+    "name": "أتمتة capsule_crm",
+    "description": "أتمتة مهام Capsule CRM عبر Rube MCP (Composio): جهات الاتصال، والفرص، والقضايا، والمهام، وإدارة خط الأنابيب. ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/carbone-automation": {
+    "name": "أتمتة Carbone",
+    "description": "أتمتة مهام Carbone عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cardly-automation": {
+    "name": "أتمتة Cardly",
+    "description": "أتمتة مهام Cardly عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "arjun988/blender-skills:.claude/skills/cartoon-style": {
+    "name": "أسلوب الرسوم الكرتونية",
+    "description": "توجيه فن الرسوم الكرتونية لـ Blender مع أشكال قابلة للقراءة من الضغط والتمدد، وألوان جريئة، وصور ظلية رسومية للألعاب والرسوم المتحركة."
+  },
+  "arjun988/blender-skills:.cursor/skills/cartoon-style": {
+    "name": "أسلوب الرسوم الكرتونية",
+    "description": "توجيه فن الرسوم الكرتونية لـ Blender مع أشكال قابلة للقراءة من الضغط والتمدد، وألوان جريئة، وصور ظلية رسومية للألعاب والرسوم المتحركة."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/castingwords-automation": {
+    "name": "أتمتة Castingwords",
+    "description": "أتمتة مهام Castingwords عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cats-automation": {
+    "name": "أتمتة Cats",
+    "description": "أتمتة مهام Cats عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cdr-platform-automation": {
+    "name": "أتمتة منصة Cdr",
+    "description": "أتمتة مهام منصة Cdr عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/census-bureau-automation": {
+    "name": "أتمتة مكتب التعداد",
+    "description": "أتمتة مهام مكتب التعداد عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/centralstationcrm-automation": {
+    "name": "أتمتة Centralstationcrm",
+    "description": "أتمتة مهام Centralstationcrm عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/certifier-automation": {
+    "name": "أتمتة Certifier",
+    "description": "أتمتة مهام Certifier عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:changelog-generator": {
+    "name": "مولد سجل التغييرات",
+    "description": "ينشئ تلقائيًا سجلات التغييرات الموجهة للمستخدمين من خلال مراجعات git عن طريق تحليل تاريخ الالتزامات، وتصنيف التغييرات، وتحويل الالتزامات التقنية إلى ملاحظات إصدار واضحة وسهلة الفهم للعملاء. يحوّل ساعات الكتابة اليدوية لسجلات التغييرات إلى دقائق من الإنشاء الآلي."
+  },
+  "arjun988/blender-skills:.claude/skills/character-archetypes": {
+    "name": "نماذج الشخصيات",
+    "description": "توجيه فني لنماذج الشخصيات لـ Blender يشمل الأعراق الخيالية، والمخلوقات المرعبة، والأدوار (فارس، قاتل، محقق)، وأنواع الأجسام (ميكا، آلي، شيبي، وغيرها)."
+  },
+  "arjun988/blender-skills:.cursor/skills/character-archetypes": {
+    "name": "نماذج الشخصيات",
+    "description": "توجيه فني لنماذج الشخصيات لـ Blender يشمل الأعراق الخيالية، والمخلوقات المرعبة، والأدوار (فارس، قاتل، محقق)، وأنواع الأجسام (ميكا، آلي، شيبي، وغيرها)."
+  },
+  "arjun988/blender-skills:.claude/skills/character-artist": {
+    "name": "فنان الشخصيات",
+    "description": "نمذجة شخصيات AAA لتشريح الإنسان، والأسلوب، وتخطيط الوجه، والملابس، والشعر، وشبكات جاهزة للتحريك. يستخدم لشخصيات الألعاب، وتعبيرات الوجه، وأصول الشخصيات في الإنتاج ضمن Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/character-artist": {
+    "name": "فنان الشخصيات",
+    "description": "نمذجة شخصيات AAA لتشريح الإنسان، والأسلوب، وتخطيط الوجه، والملابس، والشعر، وشبكات جاهزة للتحريك. يستخدم لشخصيات الألعاب، وتعبيرات الوجه، وأصول الشخصيات في الإنتاج ضمن Blender عبر MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chaser-automation": {
+    "name": "أتمتة Chaser",
+    "description": "أتمتة مهام Chaser عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatbotkit-automation": {
+    "name": "أتمتة Chatbotkit",
+    "description": "أتمتة مهام Chatbotkit عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatfai-automation": {
+    "name": "أتمتة Chatfai",
+    "description": "أتمتة مهام Chatfai عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatwork-automation": {
+    "name": "أتمتة Chatwork",
+    "description": "أتمتة مهام Chatwork عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "arjun988/blender-skills:.claude/skills/chibi-style": {
+    "name": "أسلوب شيبي",
+    "description": "توجيه فني لرسومات شيبي وSD لنماذج الشخصيات في Blender مع رؤوس كبيرة، وتشريح مبسط، وقواعد ظل جميلة."
+  },
+  "arjun988/blender-skills:.cursor/skills/chibi-style": {
+    "name": "أسلوب شيبي",
+    "description": "توجيه فني لرسومات شيبي وSD لنماذج الشخصيات في Blender مع رؤوس كبيرة، وتشريح مبسط، وقواعد ظل جميلة."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chmeetings-automation": {
+    "name": "أتمتة Chmeetings",
+    "description": "أتمتة مهام Chmeetings عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "emilkowalski/skills:skills/choreograph": {
+    "name": "تصميم الرقصات",
+    "description": "تنسيق عدة عناصر تتحرك معًا — تحديد ما الذي يتحرك، وبأي ترتيب، ومدى تداخلها، وما الذي يبقى ثابتًا — بحيث تبدو المجموعة كحركة واحدة مقصودة بدلًا من كومة من الرسوم المتحركة المنفصلة. يستخدم عند بناء أو إصلاح قائمة متدرجة، أو دخول البطل، أو تبديل العرض داخل حاوية، أو تدفق متعدد الخطوات، أو خروج عنصر بينما يسد أشقاؤه الفجوة، أو التحول بين حالات غنية، أو أي تفاعل مع عدة أجزاء متحركة (أيقونة + خلفية + خطوط، لوحة + محتوى، عناصر تطير إلى هدف). يُفعَّل عند — التدرج، التسلسل، تصميم الرقصات، \"واحد بعد الآخر\"، التلاشي المتقاطع، وضع AnimatePresence، دخول البطل، متعدد الخطوات، استخدام Animate، \"يشعر بأنه ميكانيكي\"، \"الكثير يحدث\"، \"يشعر بأنه بطيء في الفتح\"."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cincopa-automation": {
+    "name": "أتمتة cincopa",
+    "description": "أتمتة مهام Cincopa عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/claid-ai-automation": {
+    "name": "أتمتة claid-ai",
+    "description": "أتمتة مهام Claid AI عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/classmarker-automation": {
+    "name": "أتمتة Classmarker",
+    "description": "أتمتة مهام Classmarker عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "anthropics/skills:skills/claude-api": {
+    "name": "claude-api",
+    "description": "مرجع لواجهة برمجة التطبيقات Claude / SDK من Anthropic — معرفات النماذج، التسعير، المعلمات، البث، استخدام الأدوات، MCP، الوكلاء، التخزين المؤقت، حساب الرموز، ترحيل النماذج. يُفعَّل — اقرأ قبل فتح الملف المستهدف؛ لا تتخطاه لأنه يبدو وكأنه سطر واحد\"/\" — كلما: تذكر الموجه Claude/Anthropic بأي شكل (Claude، Anthropic، Fable، Opus، Sonnet، Haiku، `anthropic`، `@anthropic-ai`، `claude-*`، `us.anthropic.*`، `[1m]`)؛ طلب المستخدم معلومات حول LLM (التسعير/اختيار النموذج/الحدود/التخزين المؤقت) — لا تجب من الذاكرة أبدًا؛ أو كانت المهمة ذات طابع LLM دون ذكر المزود (وكيل/MCP/تعريف الأداة/متعدد الوكلاء/RAG/حكم LLM/استخدام الكمبيوتر؛ توليد/تلخيص/استخراج/تصنيف/إعادة صياغة/محادثة حول NL؛ تصحيح الأخطاء/القطع/البث/استدعاء الأدوات/الرموز). تجاوز فقط عندما يتم العمل على مزود آخر (يتغلب على جميع المشغلات): OpenAI/GPT/Gemini/Llama/Mistral/Cohere/Ollama مذكورون في الاستعلام؛ أو `grep -rE 'openai|langchain_openai|google.generativeai|genai|mistralai|cohere|ollama'` فوق المشاريع التي تم الوصول إليها (قم بتشغيل هذا البحث الأول إذا لم يُذكر مزود — لا تقرأ الملف)."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clearout-automation": {
+    "name": "أتمتة clearout",
+    "description": "أتمتة مهام Clearout عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clickmeeting-automation": {
+    "name": "أتمتة Clickmeeting",
+    "description": "أتمتة مهام Clickmeeting عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "arjun988/blender-skills:.claude/skills/cloth-sim": {
+    "name": "محاكاة القماش",
+    "description": "تجميد الملابس، ومحاكاة القماش، ومجموعات الدبابيس، وخبز مفاتيح الشكل أو الكاشات للشخصيات والدعائم في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/cloth-sim": {
+    "name": "محاكاة القماش",
+    "description": "تجميد الملابس، ومحاكاة القماش، ومجموعات الدبابيس، وخبز مفاتيح الشكل أو الكاشات للشخصيات والدعائم في Blender عبر MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudcart-automation": {
+    "name": "أتمتة cloudcart",
+    "description": "أتمتة مهام Cloudcart عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudconvert-automation": {
+    "name": "أتمتة cloudconvert",
+    "description": "أتمتة مهام Cloudconvert عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-api-key-automation": {
+    "name": "أتمتة cloudflare-api-key",
+    "description": "أتمتة مهام واجهة برمجة تطبيقات Cloudflare عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-automation": {
+    "name": "أتمتة cloudflare",
+    "description": "أتمتة مهام Cloudflare عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-browser-rendering-automation": {
+    "name": "أتمتة cloudflare-browser-rendering",
+    "description": "أتمتة مهام عرض المتصفح Cloudflare عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudlayer-automation": {
+    "name": "أتمتة cloudlayer",
+    "description": "أتمتة مهام Cloudlayer عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudpress-automation": {
+    "name": "أتمتة Cloudpress",
+    "description": "أتمتة مهام Cloudpress عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coassemble-automation": {
+    "name": "أتمتة coassemble",
+    "description": "أتمتة مهام Coassemble عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codacy-automation": {
+    "name": "أتمتة codacy",
+    "description": "أتمتة مهام Codacy عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولاً للحصول على المخططات الحالية."
+  },
+  "cexll/myclaude:skills/codeagent": {
+    "name": "codeagent",
+    "description": "نفّذ مُؤَشِّر الكود لمهام كود الذكاء الاصطناعي متعددة الخوادم. يدعم خوادم Codex، Claude، Gemini، وOpenCode مع إعدادات مسبقة للمؤشر، حقن المهارات، المراجع الملفية (@syntax)، عزل شجرة العمل، التنفيذ المتوازي، والإخراج المنظم."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codeinterpreter-automation": {
+    "name": "codeinterpreter-automation",
+    "description": "أتمتة مهام Codeinterpreter عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codereadr-automation": {
+    "name": "codereadr-automation",
+    "description": "أتمتة مهام Codereadr عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinmarketcal-automation": {
+    "name": "coinmarketcal-automation",
+    "description": "أتمتة مهام Coinmarketcal عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinmarketcap-automation": {
+    "name": "coinmarketcap-automation",
+    "description": "أتمتة مهام Coinmarketcap عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinranking-automation": {
+    "name": "coinranking-automation",
+    "description": "أتمتة مهام Coinranking عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/college-football-data-automation": {
+    "name": "college-football-data-automation",
+    "description": "أتمتة مهام بيانات كرة القدم الجامعية عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "arjun988/blender-skills:.claude/skills/collision-proxy": {
+    "name": "collision-proxy",
+    "description": "تأليف وكيل التصادم للألعاب بما في ذلك تسمية UCX/UHX، والأغطية المحدبة، والكبسولات، وشبكات التصادم البسيطة في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/collision-proxy": {
+    "name": "collision-proxy",
+    "description": "تأليف وكيل التصادم للألعاب بما في ذلك تسمية UCX/UHX، والأغطية المحدبة، والكبسولات، وشبكات التصادم البسيطة في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/comic-book-style": {
+    "name": "comic-book-style",
+    "description": "اتجاه فني للكتب المصورة والروايات المرسومة لـ Blender مع التركيز على خطوط الحبر، وإشارات النصف تون، وإطار عالي التباين."
+  },
+  "arjun988/blender-skills:.cursor/skills/comic-book-style": {
+    "name": "comic-book-style",
+    "description": "اتجاه فني للكتب المصورة والروايات المرسومة لـ Blender مع التركيز على خطوط الحبر، وإشارات النصف تون، وإطار عالي التباين."
+  },
+  "ComposioHQ/awesome-claude-skills:competitive-ads-extractor": {
+    "name": "competitive-ads-extractor",
+    "description": "يستخرج ويحلل إعلانات المنافسين من مكتبات الإعلانات (فيسبوك، لينكدإن، وغيرها) لفهم الرسائل والمشكلات والأساليب الإبداعية الفعالة. يساعد على إلهام وتحسين حملاتك الإعلانية الخاصة."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/composio-automation": {
+    "name": "composio-automation",
+    "description": "أتمتة مهام Composio عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/composio-search-automation": {
+    "name": "composio-search-automation",
+    "description": "أتمتة مهام بحث Composio عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "arjun988/blender-skills:.claude/skills/compositing": {
+    "name": "compositing",
+    "description": "سير عمل المركب في Blender لطبقات الجمال، ومرورات العرض، وتصحيح الألوان، والوهج، ومخرجات التسليم عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/compositing": {
+    "name": "compositing",
+    "description": "سير عمل المركب في Blender لطبقات الجمال، ومرورات العرض، وتصحيح الألوان، والوهج، ومخرجات التسليم عبر MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/connecteam-automation": {
+    "name": "connecteam-automation",
+    "description": "أتمتة مهام Connecteam عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/contentful-graphql-automation": {
+    "name": "contentful-graphql-automation",
+    "description": "أتمتة مهام Contentful Graphql عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/control-d-automation": {
+    "name": "control-d-automation",
+    "description": "أتمتة مهام Control D عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/conversion-tools-automation": {
+    "name": "conversion-tools-automation",
+    "description": "أتمتة مهام أدوات التحويل عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/convertapi-automation": {
+    "name": "convertapi-automation",
+    "description": "أتمتة مهام Convertapi عبر Rube MCP (Composio). ابحث دائمًا عن الأدوات أولًا للحصول على المخططات الحالية."
+  },
+  "arjun988/blender-skills:.claude/skills/cosmic-eldritch-horror": {
+    "name": "cosmic-eldritch-horror",
+    "description": "اتجاه فني للرعب الكوني، والغريب، وحبكروتي للـ Blender مع إشارات غير إقليدية، ومقياس مستحيل، وأشكال غير مفهومة."
+  },
+  "arjun988/blender-skills:.cursor/skills/cosmic-eldritch-horror": {
+    "name": "cosmic-eldritch-horror",
+    "description": "اتجاه فني للرعب الكوني، والغريب، وحبكروتي للـ Blender مع إشارات غير إقليدية، ومقياس مستحيل، وأشكال غير مفهومة."
+  },
+  "arjun988/blender-skills:.claude/skills/cozy-wholesome-mood": {
+    "name": "cozy-wholesome-mood",
+    "description": "اتجاه مزاج دافئ، لطيف، صحي، مريح، وهادئ لأصول المشاهد في Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/cozy-wholesome-mood": {
+    "name": "cozy-wholesome-mood",
+    "description": "اتجاه مزاج دافئ، لطيف، صحي، مريح، وهادئ لأصول المشاهد في Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/creature-artist": {
+    "name": "creature-artist",
+    "description": "نمذجة مخلوقات AAA للخيال، والكائنات الفضائية، والوحوش، وتصميم المخلوقات العضوية مع تشريح وحركة واقعيين. استخدمها لتحديد المواقع الأولية للمخلوقات، وتدفق العضلات، وهيكل العظام، وأصول المخلوقات الجاهزة للتحريك في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/creature-artist": {
+    "name": "creature-artist",
+    "description": "نمذجة مخلوقات AAA للخيال، والكائنات الفضائية، والوحوش، وتصميم المخلوقات العضوية مع تشريح وحركة واقعيين. استخدمها لتحديد المواقع الأولية للمخلوقات، وتدفق العضلات، وهيكل العظام، وأصول المخلوقات الجاهزة للتحريك في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/dark-gritty-mood": {
+    "name": "dark-gritty-mood",
+    "description": "اتجاه مزاج داكن، قاتم، خشن، صدئ، مهجور، متدهور، صناعي، وحيد، وكئيب لـ Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/dark-gritty-mood": {
+    "name": "dark-gritty-mood",
+    "description": "اتجاه مزاج داكن، قاتم، خشن، صدئ، مهجور، متدهور، صناعي، وحيد، وكئيب لـ Blender."
+  },
+  "Leonxlnx/taste-skill:skills/taste-skill": {
+    "name": "design-taste-frontend",
+    "description": "مهارة tasteskill 2.5.1، مهارة الواجهة الأمامية المضادة للإهمال. تبني مواقع شركات احترافية بمستوى figma.com وx.ai: نص عادي بصوت خاص، نظام واحد، قسم واحد لكل شاشة، حواف متساوية، صور حقيقية وواجهة مستخدم حقيقية للمنتج (صور رمزية مرخصة عندما لا يملك العميل أي صورة؛ أو عرض ثلاثي الأبعاد فقط إذا طلب الموجز ذلك)، مدخل بارز ولحظتين أو ثلاث في كل صفحة، تأثيرات الشادر والمشاهد فقط في صفحات التقنية، الألعاب، والبرمجيات، تفاعلات دقيقة هادئة، وبوابة فحص وتشطيب تفرض ذلك في متصفح حقيقي. استخدم هذا كلما بنيت، صممت، أعدت تصميم، جددت، صقلت، أو راجعت صفحة هبوط، شركة، منتج، متجر، مقهى، فندق، استوديو، SaaS، ذكاء اصطناعي، أداة مطور، أو موقع لعبة، سواء كان HTML/CSS ثابتًا أو داخل مشروع موجود من React، Next.js، Vue، Svelte، Astro، أو Tailwind، أو عندما يقول المستخدم إن الصفحة تبدو عامة، نمطية، أو مصنوعة بواسطة \"AI-made\"."
+  },
+  "cexll/myclaude:skills/dev": {
+    "name": "dev",
+    "description": "سير عمل تطوير شامل خفيف الوزن للغاية مع توضيح المتطلبات، اختيار ذكي للخادم الخلفي، تنفيذ موازٍ لـ codeagent، وتغطية اختبار إلزامية بنسبة 90%"
+  },
+  "anthropics/skills:skills/discernment-nudge": {
+    "name": "discernment-nudge",
+    "description": "بعد أن تقدم إجابة جوهرية أو مسودة قد يتخذ المستخدم بناءً عليها إجراء — نصائح أو توصيات، مخطوطات مثل الأهداف، الخطط، العروض، المقترحات، أو رسائل البريد الإلكتروني، تقديرات أو توقعات، تحليل أو تفسير للبيانات، ادعاءات واقعية يمكنهم الاعتماد عليها، أو حجة متعددة الخطوات — استدع هذه المهارة قبل إنهاء ردك، ثم، إذا انطبق الأمر، أضف 2-3 أسئلة متابعة قصيرة، كل منها مرتبط بشيء محدد في ما أنتجته للتو، لمساعدة المستخدم على التحقق من الحقائق الرئيسية، استقصاء المنطق أو الافتراضات، وإدراك السياق المفقود. افعل ذلك مرة واحدة كحد أقصى في كل محادثة. تجاوزها عندما يسأل المستخدم عن كيفية بسيطة أو بحث عادي، يريد شرحًا تعليميًا بحتًا، طلب منك فقط تنسيق، تحويل، أو تجميع ملف من محتوى قدمه، يكتب كودًا سيقوم بتشغيله، يمارس الكتابة الإبداعية أو الدردشة العادية، أو طلب بالفعل منك إعادة التحقق، الاستشهاد، أو المراجعة — ملف المهارة يشرح هذه الحدود وتنسيق الإخراج الدقيق."
+  },
+  "cexll/myclaude:skills/do": {
+    "name": "do",
+    "description": "يجب استخدام هذه المهارة لتطوير الميزات المنظمة مع فهم قاعدة الكود. تُفعَّل بأمر /do. توفر سير عمل من 5 مراحل (فهم، توضيح، تصميم، تنفيذ، إكمال) باستخدام codeagent-wrapper لتنسيق code-explorer، code-architect، code-reviewer، وتطوير الوكلاء بشكل متوازٍ."
+  },
+  "anthropics/skills:skills/doc-coauthoring": {
+    "name": "doc-coauthoring",
+    "description": "إرشاد المستخدمين عبر سير عمل منظم لتأليف الوثائق بشكل مشترك. استخدمها عندما يرغب المستخدم في كتابة الوثائق، المقترحات، المواصفات الفنية، وثائق القرارات، أو محتوى منظم مشابه. يساعد هذا السير العمل المستخدمين على نقل السياق بكفاءة، تحسين المحتوى عبر التكرار، والتحقق من أن الوثيقة تعمل للقراء. تُفعَّل عندما يذكر المستخدم كتابة الوثائق، إنشاء المقترحات، صياغة المواصفات، أو مهام توثيق مماثلة."
+  },
+  "arpitg1304/robotics-agent-skills:skills/docker-ros2-development": {
+    "name": "docker-ros2-development",
+    "description": "أفضل الممارسات لتطوير ROS2 القائم على Docker بما في ذلك ملفات Docker متعددة المراحل، docker-compose لأنظمة الروبوت متعددة الحاويات، اكتشاف DDS عبر الحاويات، تمرير GPU للإدراك، وأنماط حاويات التطوير مقابل النشر. استخدم هذه المهارة عند تحميل مساحات عمل ROS2 في حاويات، إعداد docker-compose لكومات برمجيات الروبوت، تصحيح أخطاء اتصال DDS بين الحاويات، ضبط NVIDIA Container Toolkit لأعباء عمل GPU، إعادة توجيه X11/Wayland لـ rviz2 وأدوات GUI، أو إدارة تمرير أجهزة USB للكاميرات والأجهزة التسلسلية. تُفعَّل كلما ذكر المستخدم Docker مع ROS2، docker-compose للروبوتات، Dockerfile لمساحات عمل colcon، شبكات الحاويات لـ DDS، devcontainer لـ ROS2، بناء متعدد المراحل لـ ROS2، أو نشر ROS2 في حاويات. تُفعَّل أيضًا لـ CI/CD مع بناء ROS2 القائم على Docker، تكوين CycloneDDS أو FastDDS في الحاويات، أو الذاكرة المشتركة في Docker. تغطي توزيعات Humble، Jazzy، وRolling عبر صور Ubuntu الأساسية 22.04 و24.04."
+  },
+  "anthropics/skills:skills/docx": {
+    "name": "docx",
+    "description": "استخدم هذه المهارة كلما أراد المستخدم إنشاء، قراءة، تعديل، أو معالجة مستندات Word (.docx files) أو قوالب Word (.dotx files). تشمل حالات التفعيل: أي ذكر لـ 'Word doc'، 'word document'، '.docx'، '.dotx'، أو طلبات إنتاج مستندات احترافية مع تنسيق مثل جداول المحتويات، العناوين، أرقام الصفحات، أو رؤوس الرسائل. استخدمها أيضًا عند استخراج أو إعادة تنظيم المحتوى من ملفات .docx أو .dotx، إدراج أو استبدال الصور في المستندات، إجراء البحث والاستبدال في ملفات Word، التعامل مع التغييرات المتعقبة أو التعليقات، أو تحويل المحتوى إلى مستند Word مصقول. إذا طلب المستخدم 'تقرير'، 'مذكرة'، 'رسالة'، 'قالب'، أو أي منتج مشابه كملف Word أو .docx، استخدم هذه المهارة. لا تستخدمها لـ PDFs، الجداول، Google Docs، أو مهام البرمجة العامة غير المتعلقة بإنشاء المستندات."
+  },
+  "arjun988/blender-skills:.claude/skills/dream-surreal-mood": {
+    "name": "dream-surreal-mood",
+    "description": "اتجاه مزاج حالم، سريالي، غامض، صوفي، متفائل، وفوضوي لمشاهد Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/dream-surreal-mood": {
+    "name": "dream-surreal-mood",
+    "description": "اتجاه مزاج حالم، سريالي، غامض، صوفي، متفائل، وفوضوي لمشاهد Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/dream-weirdcore-style": {
+    "name": "أسلوب الحلم-الوييركور",
+    "description": "إخراج فني مستوحى من Dreamcore وweirdcore وtraumacore لـ Blender، يتميز بالغرابة ذات الطابع العتيق والحنين الحدّي والفضاءات السريالية للطفولة."
+  },
+  "arjun988/blender-skills:.cursor/skills/dream-weirdcore-style": {
+    "name": "أسلوب الحلم-الوييركور",
+    "description": "إخراج فني مستوحى من Dreamcore وweirdcore وtraumacore لـ Blender، يتميز بالغرابة ذات الطابع العتيق والحنين الحدّي والفضاءات السريالية للطفولة."
+  },
+  "emilkowalski/skills:skills/emil-design-eng": {
+    "name": "emil-design-eng",
+    "description": "فلسفة التصميم والهندسة لدى Emil Kowalski لتحسين واجهة المستخدم وتصميم المكونات واتخاذ قرارات الرسوم المتحركة والتفاصيل الخفية التي تجعل البرمجيات تبدو رائعة. استخدمها عند بناء أو مراجعة تفاعلات وتحسينات مكون واجهة المستخدم (حالات الضغط والتحريك، مصدر النوافذ المنبثقة، توقيت التلميحات، الانتقالات مقابل الإطارات الرئيسية، تقنيات clip-path، تفاصيل السحب) ولا يوجد مهارة أضيق تناسب ذلك."
+  },
+  "arjun988/blender-skills:.claude/skills/environment-artist": {
+    "name": "فنان البيئات",
+    "description": "فن بيئات AAA للمجموعات المعيارية والمباني والتضاريس والنباتات والعمارة وتكوين المشاهد. استخدمها للبيئات المُحسَّنة للألعاب، وسرد القصص عبر الفضاء، وأنابيب عمل الأصول المعيارية في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/environment-artist": {
+    "name": "فنان البيئات",
+    "description": "فن بيئات AAA للمجموعات المعيارية والمباني والتضاريس والنباتات والعمارة وتكوين المشاهد. استخدمها للبيئات المُحسَّنة للألعاب، وسرد القصص عبر الفضاء، وأنابيب عمل الأصول المعيارية في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/export-pipeline": {
+    "name": "أنبوب تصدير الإنتاج",
+    "description": "تصدير الإنتاج من Blender إلى FBX وGLTF وOBJ وUSD وألِمْبك مع التحقق من المقياس والمحور والدوران والأسطح والمواد والرسوم المتحركة والتصادم عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/export-pipeline": {
+    "name": "أنبوب تصدير الإنتاج",
+    "description": "تصدير الإنتاج من Blender إلى FBX وGLTF وOBJ وUSD وألِمْبك مع التحقق من المقياس والمحور والدوران والأسطح والمواد والرسوم المتحركة والتصادم عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/fantasy-worlds": {
+    "name": "عوالم خيالية",
+    "description": "إخراج فني لبناء عوالم خيالية لـ Blender يشمل لغة الأصول الخاصة بالفانتازيا الوسطى والعالية والداكنة والحضرية."
+  },
+  "arjun988/blender-skills:.cursor/skills/fantasy-worlds": {
+    "name": "عوالم خيالية",
+    "description": "إخراج فني لبناء عوالم خيالية لـ Blender يشمل لغة الأصول الخاصة بالفانتازيا الوسطى والعالية والداكنة والحضرية."
+  },
+  "emilkowalski/skills:skills/find-animation-opportunities": {
+    "name": "البحث عن فرص للرسوم المتحركة",
+    "description": "ابحث في قاعدة الشيفرة أو واجهة المستخدم عن المواضع التي لا تتحرك رغم أنها يجب أن تفعل، وارفض كل ما لا ينبغي أن يتحرك. وضع القراءة فقط؛ يقترح الحركة بقيم دقيقة ولكنه لا ينفذها. استخدمه عندما يسأل المستخدم \"ما الذي يمكن تحريكه هنا؟\" أو يريد \"جعل هذا يبدو أكثر حيوية\". ولإصلاح الرسوم المتحركة الموجودة، استخدم improve-animations أو review-animations بدلاً من ذلك."
+  },
+  "arjun988/blender-skills:.claude/skills/folk-horror-style": {
+    "name": "أسلوب الرعب الشعبي",
+    "description": "إخراج فني للرعب الشعبي لـ Blender يتميز بالغرابة في الطقوس الريفية، والرهبة النهارية الرعوية، وسرد القصص عبر غرابة المجتمع."
+  },
+  "arjun988/blender-skills:.cursor/skills/folk-horror-style": {
+    "name": "أسلوب الرعب الشعبي",
+    "description": "إخراج فني للرعب الشعبي لـ Blender يتميز بالغرابة في الطقوس الريفية، والرهبة النهارية الرعوية، وسرد القصص عبر غرابة المجتمع."
+  },
+  "anthropics/skills:skills/frontend-design": {
+    "name": "تصميم الواجهة الأمامية",
+    "description": "إرشادات لتصميم بصري مميز ومتعمد عند بناء واجهة مستخدم جديدة أو إعادة تشكيل واحدة موجودة. يساعد في التوجيه الجمالي والطباعة واتخاذ خيارات لا تبدو كافتراضات قوالب جاهزة."
+  },
+  "arjun988/blender-skills:.claude/skills/frutiger-aero-style": {
+    "name": "أسلوب فروتيغر-إيرو",
+    "description": "إخراج فني لأسلوب Frutiger Aero لـ Blender يتميز بالتشكيك البصري اللامع، وإشارات واجهة المستخدم الزرقاء، والتفاؤل بين التقنية والطبيعة، ومستقبلية منتصف الألفينيات."
+  },
+  "arjun988/blender-skills:.cursor/skills/frutiger-aero-style": {
+    "name": "أسلوب فروتيغر-إيرو",
+    "description": "إخراج فني لأسلوب Frutiger Aero لـ Blender يتميز بالتشكيك البصري اللامع، وإشارات واجهة المستخدم الزرقاء، والتفاؤل بين التقنية والطبيعة، ومستقبلية منتصف الألفينيات."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-action-combat": {
+    "name": "نوع العمل-القتال",
+    "description": "إخراج فني لمساحات القتال المقروءة في ألعاب الحركة، والهكر آند سلاش، والضرب والركض، وألعاب القتال في Blender ولغة الأدوات."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-action-combat": {
+    "name": "نوع العمل-القتال",
+    "description": "إخراج فني لمساحات القتال المقروءة في ألعاب الحركة، والهكر آند سلاش، والضرب والركض، وألعاب القتال في Blender ولغة الأدوات."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-card-party-idle": {
+    "name": "نوع بطاقات-حفلات-أوقات الفراغ",
+    "description": "إخراج فني لألعاب البطاقات، وبناء الأكواد، وألعاب الحفلات، وألعاب الأوقات الفراغية/الزيادة، والتعليمية، ومساحات العرض في ألعاب الإيقاع في Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-card-party-idle": {
+    "name": "نوع بطاقات-حفلات-أوقات الفراغ",
+    "description": "إخراج فني لألعاب البطاقات، وبناء الأكواد، وألعاب الحفلات، وألعاب الأوقات الفراغية/الزيادة، والتعليمية، ومساحات العرض في ألعاب الإيقاع في Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-metroidvania-roguelike": {
+    "name": "نوع ميترويدفانيا-روغلايك",
+    "description": "إخراج فني لألعاب ميترويدفانيا وروغلايك وروغليت في Blender مع بوابات المناطق الحيوية، ووحدات الغرف، وأدوات قابلة للقراءة أثناء الجري."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-metroidvania-roguelike": {
+    "name": "نوع ميترويدفانيا-روغلايك",
+    "description": "إخراج فني لألعاب ميترويدفانيا وروغلايك وروغليت في Blender مع بوابات المناطق الحيوية، ووحدات الغرف، وأدوات قابلة للقراءة أثناء الجري."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-narrative-vn": {
+    "name": "نوع الرواية-الرواية المرئية",
+    "description": "إخراج فني للروايات المرئية، والأفلام التفاعلية، ومحاكيات المشي، ومساحات العرض الموجهة بالقصة في Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-narrative-vn": {
+    "name": "نوع الرواية-الرواية المرئية",
+    "description": "إخراج فني للروايات المرئية، والأفلام التفاعلية، ومحاكيات المشي، ومساحات العرض الموجهة بالقصة في Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-open-world-sandbox": {
+    "name": "نوع العالم المفتوح-الصندوق الرملي",
+    "description": "إخراج فني لألعاب العالم المفتوح والصندوق الرملي في Blender مع معالم المناطق الحيوية، ومقاييس قابلة للتجول، وأدوات الاكتشاف."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-open-world-sandbox": {
+    "name": "نوع العالم المفتوح-الصندوق الرملي",
+    "description": "إخراج فني لألعاب العالم المفتوح والصندوق الرملي في Blender مع معالم المناطق الحيوية، ومقاييس قابلة للتجول، وأدوات الاكتشاف."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-puzzle-platformer": {
+    "name": "نوع الألغاز-المنصات",
+    "description": "إخراج فني لألعاب الألغاز والمنصات في Blender مع أدوات تفاعلية قابلة للقراءة، وحجم القفز، ولغة واضحة للمخاطر."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-puzzle-platformer": {
+    "name": "نوع الألغاز-المنصات",
+    "description": "إخراج فني لألعاب الألغاز والمنصات في Blender مع أدوات تفاعلية قابلة للقراءة، وحجم القفز، ولغة واضحة للمخاطر."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-racing-sports": {
+    "name": "نوع السباقات-الرياضات",
+    "description": "إخراج فني لألعاب السباقات والرياضات في Blender مع معالم المسارات، ومجموعات الملاعب، وقابلية القراءة عالية السرعة."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-racing-sports": {
+    "name": "نوع السباقات-الرياضات",
+    "description": "إخراج فني لألعاب السباقات والرياضات في Blender مع معالم المسارات، ومجموعات الملاعب، وقابلية القراءة عالية السرعة."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-rpg": {
+    "name": "نوع تقمص الأدوار",
+    "description": "إخراج فني لعوالم تقمص الأدوار، وتقمص الأدوار اليابانية، وتقمص الأدوار الحاسوبية، وتقمص الأدوار المحمولة، وألعاب MMORPG في Blender بما في ذلك قراءة ندرة الغنائم وهوية المنطقة."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-rpg": {
+    "name": "نوع تقمص الأدوار",
+    "description": "إخراج فني لعوالم تقمص الأدوار، وتقمص الأدوار اليابانية، وتقمص الأدوار الحاسوبية، وتقمص الأدوار المحمولة، وألعاب MMORPG في Blender بما في ذلك قراءة ندرة الغنائم وهوية المنطقة."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-shooter": {
+    "name": "نوع الألعاب النارية",
+    "description": "إخراج فني لخرائط وأدوات ألعاب FPS وTPS والألعاب النارية ومعركة الملك والمهمات الاستخراجية في Blender مع لغة خطوط الرؤية والغطاء."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-shooter": {
+    "name": "نوع الألعاب النارية",
+    "description": "إخراج فني لخرائط وأدوات ألعاب FPS وTPS والألعاب النارية ومعركة الملك والمهمات الاستخراجية في Blender مع لغة خطوط الرؤية والغطاء."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-soulslike": {
+    "name": "نوع ألعاب مثل soulslike",
+    "description": "إخراج فني لألعاب soulslike في Blender مع مساحات حزينة ضخمة، وبوابات الضباب، ومعالم النار، وقابلية القراءة القاتلة."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-soulslike": {
+    "name": "نوع ألعاب مثل soulslike",
+    "description": "إخراج فني لألعاب soulslike في Blender مع مساحات حزينة ضخمة، وبوابات الضباب، ومعالم النار، وقابلية القراءة القاتلة."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-stealth": {
+    "name": "نوع التخفي",
+    "description": "إخراج فني لمساحات ألعاب التخفي في Blender مع أحجام الظلال، وتخطيطات صديقة للدوريات، ومواد الإخفاء."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-stealth": {
+    "name": "نوع التخفي",
+    "description": "إخراج فني لمساحات ألعاب التخفي في Blender مع أحجام الظلال، وتخطيطات صديقة للدوريات، ومواد الإخفاء."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-strategy-sim": {
+    "name": "نوع الاستراتيجية-المحاكاة",
+    "description": "إخراج فني لألعاب الاستراتيجية، وRTS، والاستراتيجية القائمة على الأدوار، ودفاع البرج، وMOBA، وبناء المدن، ومحاكاة المستعمرات، والألعاب المحاكية في Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-strategy-sim": {
+    "name": "نوع الاستراتيجية-المحاكاة",
+    "description": "إخراج فني لألعاب الاستراتيجية، وRTS، والاستراتيجية القائمة على الأدوار، ودفاع البرج، وMOBA، وبناء المدن، ومحاكاة المستعمرات، والألعاب المحاكية في Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-survival": {
+    "name": "نوع البقاء",
+    "description": "إخراج فني لمساحات لعب البقاء والبقاء-الرعب في Blender مع التركيز على أدوات الموارد، وقابلية القراءة في الصنع، ومسارات التوتر."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-survival": {
+    "name": "نوع البقاء",
+    "description": "إخراج فني لمساحات لعب البقاء والبقاء-الرعب في Blender مع التركيز على أدوات الموارد، وقابلية القراءة في الصنع، ومسارات التوتر."
+  },
+  "arjun988/blender-skills:.claude/skills/geometry-nodes": {
+    "name": "عقد الهندسة",
+    "description": "عقد الهندسة في Blender للنمذجة الإجرائية، وأنظمة التشتت، والنباتات، والمباني، والأنابيب، والكابلات، ومجموعات العقد القابلة لإعادة الاستخدام. استخدمها لتوليد الأصول الإجرائية وأنابيب التصنيع عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/geometry-nodes": {
+    "name": "عقد الهندسة",
+    "description": "عقد الهندسة في Blender للنمذجة الإجرائية، وأنظمة التشتت، والنباتات، والمباني، والأنابيب، والكابلات، ومجموعات العقد القابلة لإعادة الاستخدام. استخدمها لتوليد الأصول الإجرائية وأنابيب التصنيع عبر MCP."
+  },
+  "emilkowalski/skills:skills/gestures": {
+    "name": "الإيماءات",
+    "description": "ابنِ تفاعلات السحب والتمرير والصفائح التي تتبع الإصبع 1:1 وتبقى قابلة للانقطاع. استخدمها عند بناء أو إصلاح أي شيء يسحبه المستخدم أو يمرره أو يقذفه أو يمسكه أو يرفضه بإيماءة — الأدراج، الصفائح، التنبيهات والبطاقات التي تُغلَق بالتمرير، السحب لإعادة الترتيب، السحب لتحديث الصفحة، الإمساك للتأكيد — أو عندما تبدو الإيماءة متأخرة أو غير متصلة بالإصبع أو تقفز عند التحرير أو لا يمكن التقاطها في منتصف الرسوم المتحركة. ينشط عند — الإيماءة، السحب، التمرير، القذف، الصفائح، نقاط الالتقاط، Vaul، مقاطع Motion drag، المطاط، السحب لتحديث الصفحة، الإمساك للحذف، touch-action، \"لا يتبع إصبعي\"، \"تقفز عندما أتركها\"، \"لا يمكن الإمساك بها في منتصف الرسوم المتحركة\"."
+  },
+  "arjun988/blender-skills:.claude/skills/godot-export": {
+    "name": "تصدير غودوت",
+    "description": "تصدير خاص بـ Godot لـ Blender يفضل GLTF/GLB مع المقياس الصحيح والمواد ومقاطع الرسوم المتحركة وأشكال التصادم عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/godot-export": {
+    "name": "تصدير غودوت",
+    "description": "تصدير خاص بـ Godot لـ Blender يفضل GLTF/GLB مع المقياس الصحيح والمواد ومقاطع الرسوم المتحركة وأشكال التصادم عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/hair-groom": {
+    "name": "تمشيط الشعر",
+    "description": "تمشيط الشعر والفراء في Blender باستخدام المنحنيات، وشعر الجسيمات، وعقد الهندسة، وسير عمل بطاقات الشعر للألعاب. استخدمها للشخصيات والمخلوقات وبطاقات الشعر في الوقت الفعلي عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/hair-groom": {
+    "name": "تمشيط الشعر",
+    "description": "تمشيط الشعر والفراء في Blender باستخدام المنحنيات، وشعر الجسيمات، وعقد الهندسة، وسير عمل بطاقات الشعر للألعاب. استخدمها للشخصيات والمخلوقات وبطاقات الشعر في الوقت الفعلي عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/hand-painted-style": {
+    "name": "أسلوب الرسم اليدوي",
+    "description": "إخراج فني للملمس المرسوم يدويًا لـ Blender مع ألبيدو بعمل الفرشاة، وتحولات القيم الناعمة، وضبط PBR الأسلوبي."
+  },
+  "arjun988/blender-skills:.cursor/skills/hand-painted-style": {
+    "name": "أسلوب الرسم اليدوي",
+    "description": "إخراج فني للملمس المرسوم يدويًا لـ Blender مع ألبيدو بعمل الفرشاة، وتحولات القيم الناعمة، وضبط PBR الأسلوبي."
+  },
+  "arjun988/blender-skills:.claude/skills/hard-surface": {
+    "name": "الأسطح الصلبة",
+    "description": "نمذجة الأسطح الصلبة AAA للخيال العلمي والصناعة والعسكرية والمركبات والأسلحة والروبوتات والأدوات الميكانيكية. استخدمها لسير عمل البووليان/الشطب، وخطوط الألواح، والغريبلز، والشطب، والأسطح الدقيقة تصنيعيًا في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/hard-surface": {
+    "name": "الأسطح الصلبة",
+    "description": "نمذجة الأسطح الصلبة AAA للخيال العلمي والصناعة والعسكرية والمركبات والأسلحة والروبوتات والأدوات الميكانيكية. استخدمها لسير عمل البووليان/الشطب، وخطوط الألواح، والغريبلز، والشطب، والأسطح الدقيقة تصنيعيًا في Blender عبر MCP."
+  },
+  "cexll/myclaude:skills/harness": {
+    "name": "الحزام",
+    "description": "يجب استخدام هذه المهارة في أعمال الوكلاء الذاتيين متعددة الجلسات التي تتطلب حفظ تقدم المهام، واستعادة الفشل، وإدارة تبعيات المهام. ينشط عند أمر '/harness'، أو عندما تتضمن مهمة العديد من المهام الفرعية التي تحتاج إلى استمرارية التقدم، ودورات النوم/الاستئناف عبر نوافذ السياق، والتعافي من فشل في منتصف المهمة مع حالة جزئية، أو العمل الموزع عبر جلسات وكيل متعددة. تم توليفها من ممارسات هندسية لـ Anthropic وOpenAI للوكلاء طويلي الأمد."
+  },
+  "arjun988/blender-skills:.claude/skills/hd-2d-style": {
+    "name": "أسلوب HD-2D",
+    "description": "إخراج فني HD-2D يجمع بين شخصيات/رموز البكسل وبيئات ثلاثية الأبعاد، وعمق المجال، والإضاءة المسرحية."
+  },
+  "arjun988/blender-skills:.cursor/skills/hd-2d-style": {
+    "name": "أسلوب HD-2D",
+    "description": "إخراج فني HD-2D يجمع بين شخصيات/رموز البكسل وبيئات ثلاثية الأبعاد، وعمق المجال، والإضاءة المسرحية."
+  },
+  "arjun988/blender-skills:.claude/skills/historical-worlds": {
+    "name": "عوالم تاريخية",
+    "description": "اتجاه فني للعوالم التاريخية والفترة الزمنية لـ Blender بما في ذلك العصور الغربية، والقراصنة، والساموراي/النينجا، والفايكنج، ومصر/اليونان/روما القديمة، والعصر الفيكتوري، والعصر الحديث، والعسكري."
+  },
+  "arjun988/blender-skills:.cursor/skills/historical-worlds": {
+    "name": "عوالم تاريخية",
+    "description": "اتجاه فني للعوالم التاريخية والفترة الزمنية لـ Blender بما في ذلك العصور الغربية، والقراصنة، والساموراي/النينجا، والفايكنج، ومصر/اليونان/روما القديمة، والعصر الفيكتوري، والعصر الحديث، والعسكري."
+  },
+  "arjun988/blender-skills:.claude/skills/horror-style": {
+    "name": "بأسلوب الرعب",
+    "description": "اتجاه فني للرعب النفسي لأصول Blender مستوحى من Silent Hill وResident Evil وChilla's Art وFear to Fathom وIron Lung. يستخدم للبيئات الصناعية القليلة الموارد، والجماليات التناظرية، والإضاءة المدفوعة بالتوتر."
+  },
+  "arjun988/blender-skills:.cursor/skills/horror-style": {
+    "name": "بأسلوب الرعب",
+    "description": "اتجاه فني للرعب النفسي لأصول Blender مستوحى من Silent Hill وResident Evil وChilla's Art وFear to Fathom وIron Lung. يستخدم للبيئات الصناعية القليلة الموارد، والجماليات التناظرية، والإضاءة المدفوعة بالتوتر."
+  },
+  "arpitg1304/robotics-agent-skills:skills/imitation-learning": {
+    "name": "التعلم بالتقليد",
+    "description": "التعلم العملي بالتقليد (التعلم من خلال العرض) للتلاعب بالروبوت: تحديد ما إذا كان IL مناسبًا، وتصميم مجموعة العروض، واختيار مساحات الملاحظة والفعل، واختيار وتكوين السياسة (استنساخ السلوك، ACT، سياسة الانتشار، مطابقة التدفق، VLAs مثل OpenVLA-OFT، Octo، pi0/pi0.5، SmolVLA، GR00T)، والتدريب واختيار نقاط التحقق، والتقييم الصادق مع فترات الثقة، وتوقيت النشر، وتشخيص الأعطال. استخدم هذه المهارة عندما يذكر المستخدم استنساخ السلوك، وعروض التشغيل عن بعد، وأذرع القائد-التالي، وتقطيع الفعل، والتجميع الزمني، وضبط دقيق لـ VLA، \"كم عدد العروض\"، ومعدل النجاح، وتقييم السياسة، وبيانات DAgger أو التدخل، وتحول المتغيرات، والسياسة التي تتجمد، والارتعاش، وفقدان الإمساك، أو العمل أثناء التدريب لكنه يفشل على الروبوت، أو التدريب المشترك بين المحاكاة والحقيقي."
+  },
+  "emilkowalski/skills:skills/improve-animations": {
+    "name": "تحسين الرسوم المتحركة",
+    "description": "مسح كود الرسوم المتحركة والحركة في قاعدة الشيفرة كمستشار رئيسي للحركة، ثم إنتاج تدقيق ذي أولوية وخطط تنفيذ ذاتية الاعتماد لكي يقوم بها وكلاء آخرون (أو نماذج أرخص). قراءة فقط على الكود المصدر — فهو يخطط للتحسينات ولا يطبقها. استخدمه عندما يطلب المستخدم \"تحسين الرسوم المتحركة\"، \"تدقيق الحركة\"، \"جعل هذا التطبيق يبدو أفضل\"، أو يريد خارطة طريق لإصلاحات الرسوم المتحركة بدلاً من مراجعة لمجموعة واحدة من التعديلات."
+  },
+  "arjun988/blender-skills:.claude/skills/indie-horror-aesthetics": {
+    "name": "جماليات الرعب المستقل",
+    "description": "حزمة جمالية للرعب المستقل لـ Blender تشمل Silent Hill وFear to Fathom وPuppet Combo والرعب المؤسسي ورعب الكوخ/الغابة/المستشفى والمظاهر ذات الصلة."
+  },
+  "arjun988/blender-skills:.cursor/skills/indie-horror-aesthetics": {
+    "name": "جماليات الرعب المستقل",
+    "description": "حزمة جمالية للرعب المستقل لـ Blender تشمل Silent Hill وFear to Fathom وPuppet Combo والرعب المؤسسي ورعب الكوخ/الغابة/المستشفى والمظاهر ذات الصلة."
+  },
+  "anthropics/skills:skills/internal-comms": {
+    "name": "الاتصالات الداخلية",
+    "description": "مجموعة من الموارد لمساعدتي في كتابة جميع أنواع الاتصالات الداخلية، باستخدام التنسيقات التي تفضل شركتي استخدامها. يجب على Claude استخدام هذه المهارة كلما طُلب منه كتابة نوع من الاتصالات الداخلية (تقارير الحالة، تحديثات القيادة، تحديثات 3P، النشرات الإخبارية للشركة، الأسئلة الشائعة، تقارير الحوادث، تحديثات المشاريع، إلخ.)."
+  },
+  "arpitg1304/robotics-agent-skills:skills/isaac-sim": {
+    "name": "isaac-sim",
+    "description": "NVIDIA Isaac Sim وIsaac Lab لتعلم الروبوت: التثبيت (uv، pip، ثنائي، Docker، سحابة)، متطلبات GPU RTX والسائق، التشغيل بدون شاشة والبث المباشر، أصول OpenUSD، استيراد URDF/MJCF، ArticulationCfg والمشغلات، بيئات قائمة على المدير ومباشرة، configclass، تسجيل مهام gymnasium، التدريب واللعب باستخدام rsl_rl، rl_games، skrl أو sb3، البيئات المتوازية، الكاميرات الموزعة، مستشعرات الاتصال، مولدات الأشعة، IMU، محولات الإطار، تغيير المجال عبر الأحداث، التشغيل عن بعد، Isaac Lab Mimic، جسر ROS 2، إعدادات PhysX/Newton، ضبط المُحَلّ وانفجار المفاصل. استخدمه عندما يذكر المستخدم Isaac Sim أو Isaac Lab أو Omniverse أو Kit أو استيرادات isaacsim أو isaaclab، أو وحدات omni.isaac، أو روبوتات USD، أو استيراد URDF، أو num_envs، أو Mimic، أو isaaclab train أو play، أو ManagerBasedRLEnv، أو DirectRLEnv، أو PresetCfg، أو Newton أو OvPhysX في Isaac Lab، أو الانتقال من Isaac Gym أو Isaac Lab 2.x."
+  },
+  "arjun988/blender-skills:.claude/skills/isometric-style": {
+    "name": "بأسلوب الأيزومتري",
+    "description": "اتجاه فني للأيزومتري وألعاب الاستراتيجية لـ Blender بما في ذلك تأطير الديوراما، وإعداد كاميرا الأيزومتري الحقيقية، والصور الظلية المقروءة، وقواعد أصول البلاط."
+  },
+  "arjun988/blender-skills:.cursor/skills/isometric-style": {
+    "name": "بأسلوب الأيزومتري",
+    "description": "اتجاه فني للأيزومتري وألعاب الاستراتيجية لـ Blender بما في ذلك تأطير الديوراما، وإعداد كاميرا الأيزومتري الحقيقية، والصور الظلية المقروءة، وقواعد أصول البلاط."
+  },
+  "emilkowalski/skills:skills/learn-taste": {
+    "name": "تعلم الذوق",
+    "description": "حوّل تصحيحات التصميم الخاصة بجلسة ما إلى قواعد، مع توضيح السبب، في DESIGN.md أو مهارة المشروع أو فحص lint."
+  },
+  "arpitg1304/robotics-agent-skills:skills/lerobot": {
+    "name": "lerobot",
+    "description": "Hugging Face LeRobot من البداية إلى النهاية: التثبيت، تشغيل العتاد، تسجيل مجموعة البيانات، التدريب، ونشر سياسات تعلم الروبوت. استخدم هذه المهارة عندما يذكر المستخدم LeRobot أو lerobot-record أو lerobot-train أو lerobot-rollout أو lerobot-teleoperate أو lerobot-calibrate أو lerobot-setup-motors أو lerobot-find-port أو lerobot-find-cameras أو lerobot-eval أو lerobot-edit-dataset أو LeRobotDataset أو SO-100 أو SO-101 أو SO-ARM100 أو Koch أو LeKiwi أو OMX أو OpenArm أو Servos Feetech STS3215 أو التشغيل عن بعد للقائد/التالي أو ملفات المعايرة أو ACT أو Diffusion Policy أو SmolVLA أو pi0/pi0.5 أو GR00T أو X-VLA المُعدّ في LeRobot أو مجموعات بيانات الروبوت على Hugging Face Hub أو تحويل مجموعة البيانات من v2.1 إلى v3.0 أو RTC أو الاستدلال عن بُعد (غير متزامن) أو HIL-SERL في LeRobot. كما يتم التفعيل عند حدوث أخطاء في LeRobot مثل عدم تطابق المعايرة أو FrameTimestampError أو انتهاك حدود التوقيت أو عدم تطابق اسم الكاميرا أو الميزة بين مجموعة البيانات والسياسة أو فقدان إحصائيات q01/q99 أو \"حزمة الحالة غير الصحيحة\" من Feetech."
+  },
+  "arjun988/blender-skills:.claude/skills/lighting": {
+    "name": "الإضاءة",
+    "description": "الإضاءة السينمائية وإضاءة الألعاب في Blender بما في ذلك الإضاءة ثلاثية النقاط، HDRI، إضاءة الرعب، والفيوميتريك، وإضاءة الحواف، والإضاءة المدفوعة بالمزاج. يستخدم لتطوير المظهر والأجواء داخل المشهد عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/lighting": {
+    "name": "الإضاءة",
+    "description": "الإضاءة السينمائية وإضاءة الألعاب في Blender بما في ذلك الإضاءة ثلاثية النقاط، HDRI، إضاءة الرعب، والفيوميتريك، وإضاءة الحواف، والإضاءة المدفوعة بالمزاج. يستخدم لتطوير المظهر والأجواء داخل المشهد عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/liminal-space-style": {
+    "name": "بأسلوب المساحة الحدية",
+    "description": "اتجاه فني للمساحة الحدية وBackrooms لـ Blender بهندسة انتقالية فارغة، وألفة خاطئة، وتكرار لا نهائي."
+  },
+  "arjun988/blender-skills:.cursor/skills/liminal-space-style": {
+    "name": "بأسلوب المساحة الحدية",
+    "description": "اتجاه فني للمساحة الحدية وBackrooms لـ Blender بهندسة انتقالية فارغة، وألفة خاطئة، وتكرار لا نهائي."
+  },
+  "arjun988/blender-skills:.claude/skills/lod-pipeline": {
+    "name": "pipeline LOD",
+    "description": "توليد LOD مخصص، والتسمية، وأهداف حجم الشاشة، والتحقق من صحة شبكات الألعاب في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/lod-pipeline": {
+    "name": "pipeline LOD",
+    "description": "توليد LOD مخصص، والتسمية، وأهداف حجم الشاشة، والتحقق من صحة شبكات الألعاب في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/lookdev": {
+    "name": "lookdev",
+    "description": "حلقة تطوير المظهر لأصول Blender تجمع بين المواد والإضاءة والكاميرا ومقارنة لقطات الشاشة حتى يقرأ التظليل بشكل صحيح عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/lookdev": {
+    "name": "lookdev",
+    "description": "حلقة تطوير المظهر لأصول Blender تجمع بين المواد والإضاءة والكاميرا ومقارنة لقطات الشاشة حتى يقرأ التظليل بشكل صحيح عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/lowpoly-style": {
+    "name": "بأسلوب البولي منخفض",
+    "description": "اتجاه فني للبولي منخفض لـ Blender مستوحى من PS1/PS2 وLethal Company وMouthwashing وFear to Fathom. يستخدم للحصول على صور ظلية مقروءة، وعدد قليل من المضلعات، ومواد بسيطة، وأجواء قوية."
+  },
+  "arjun988/blender-skills:.cursor/skills/lowpoly-style": {
+    "name": "بأسلوب البولي منخفض",
+    "description": "اتجاه فني للبولي منخفض لـ Blender مستوحى من PS1/PS2 وLethal Company وMouthwashing وFear to Fathom. يستخدم للحصول على صور ظلية مقروءة، وعدد قليل من المضلعات، ومواد بسيطة، وأجواء قوية."
+  },
+  "arjun988/blender-skills:.claude/skills/manga-style": {
+    "name": "بأسلوب المانغا",
+    "description": "اتجاه فني مستوحى من المانغا لـ Blender يركز على تصميم القيم أحادية اللون، وخطوط السرعة، وإحساس screentone، وتقسيم لوحات المانغا."
+  },
+  "arjun988/blender-skills:.cursor/skills/manga-style": {
+    "name": "بأسلوب المانغا",
+    "description": "اتجاه فني مستوحى من المانغا لـ Blender يركز على تصميم القيم أحادية اللون، وخطوط السرعة، وإحساس screentone، وتقسيم لوحات المانغا."
+  },
+  "arjun988/blender-skills:.claude/skills/mascot-puppet-horror": {
+    "name": "رعب التميمة والدمية",
+    "description": "اتجاه فني لرعب التميمة والدمية لـ Blender بشخصيات العلامة التجارية المرحة المصممة بشكل خاطئ، ومواد الفوم/الإسفنج، والأداء الغريب."
+  },
+  "arjun988/blender-skills:.cursor/skills/mascot-puppet-horror": {
+    "name": "رعب التميمة والدمية",
+    "description": "اتجاه فني لرعب التميمة والدمية لـ Blender بشخصيات العلامة التجارية المرحة المصممة بشكل خاطئ، ومواد الفوم/الإسفنج، والأداء الغريب."
+  },
+  "arjun988/blender-skills:.claude/skills/materials": {
+    "name": "المواد",
+    "description": "Blender إنشاء مواد PBR ومنمقة للمعادن والخشب والخرسانة والنسيج والزجاج والأوساخ والصدأ والشاشات الإجرائية. يستخدم لتطوير المظهر، وإعادة استخدام المواد، وتظليل الإنتاج في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/materials": {
+    "name": "المواد",
+    "description": "Blender إنشاء مواد PBR ومنمقة للمعادن والخشب والخرسانة والنسيج والزجاج والأوساخ والصدأ والشاشات الإجرائية. يستخدم لتطوير المظهر، وإعادة استخدام المواد، وتظليل الإنتاج في Blender عبر MCP."
+  },
+  "anthropics/skills:skills/mcp-builder": {
+    "name": "mcp-builder",
+    "description": "دليل لإنشاء خوادم MCP عالية الجودة (بروتوكول سياق النموذج) التي تمكن LLMs من التفاعل مع الخدمات الخارجية من خلال أدوات مصممة جيدًا. استخدمه عند بناء خوادم MCP لتكامل واجهات برمجة التطبيقات أو الخدمات الخارجية، سواء في Python (FastMCP) أو Node/TypeScript (SDK MCP)."
+  },
+  "arjun988/blender-skills:.claude/skills/minimalist-style": {
+    "name": "بأسلوب الحد الأدنى",
+    "description": "اتجاه فني للحد الأدنى والميل إلى التجريد لـ Blender بأشكال مخفضة ولوحات محدودة ومساحة سلبية."
+  },
+  "arjun988/blender-skills:.cursor/skills/minimalist-style": {
+    "name": "بأسلوب الحد الأدنى",
+    "description": "اتجاه فني للحد الأدنى والميل إلى التجريد لـ Blender بأشكال مخفضة ولوحات محدودة ومساحة سلبية."
+  },
+  "emilkowalski/skills:skills/mobile-native": {
+    "name": "أصلي للجوال",
+    "description": "اجعل تطبيق الويب يبدو أصليًا على الهاتف — الإصلاحات الصغيرة في CSS والعلامات الوصفية التي تميز موقع \" في المتصفح\" عن شيء يبدو وكأنه مثبت. يشمل حالات التمرير اللاصقة، وومضات تمييز الضغط، وخطأ 100vh، والمدخلات التي تزيد تكبير الصفحة، والضغط البطيء، واختطاف التمرير عند السحب لتحديث الصفحة، والمحتوى تحت الشق، والضغط المطول لتحديد نص الزر، والدوارات التي تتحرك في الاتجاه الخاطئ، وعدم تطابق أشرطة الحالة، والقاعدة التي تقضي باختبارها على عتاد حقيقي. استخدمه عند بناء تطبيق ويب للجوال أو مراجعته عليه، وعندما يعمل شيء ما في Chrome لكنه يبدو خاطئًا على هاتفي\"، وعند بناء PWA أو ورقة سفلية أو دوار أو تخطيط كامل للشاشة أو أي تفاعل باللمس. بالنسبة للحركة نفسها استخدم animate؛ ولـ React Native استخدم animate-expo."
+  },
+  "arpitg1304/robotics-agent-skills:skills/mujoco": {
+    "name": "mujoco",
+    "description": "محاكاة فيزياء MuJoCo للروبوتات: كتابة وتصحيح نماذج MJCF، واستيراد URDF، والمحاكاة، والتحكم والعرض من Python، وضبط الاتصالات، وتشغيل محاكاة GPU الدفعية. استخدم هذه المهارة عندما يذكر المستخدم MuJoCo أو MJCF أو mujoco.MjModel / MjData أو mj_step أو MjSpec أو mujoco.Renderer أو MUJOCO_GL أو EGL/OSMesa للعرض بدون شاشة أو المشاهد السلبي أو MuJoCo Studio أو MuJoCo Menagerie (Franka، UR5e، SO-100/SO-101، ALOHA، G1) أو MJX أو MuJoCo Warp (mujoco_warp) أو MuJoCo Playground أو dm_control أو Gymnasium MuJoCo envs. كما يتم التفعيل لضبط الاتصالات (solref، solimp، condim، الاحتكاك، impratio، noslip)، وانفجار أو ارتعاش المحاكاة، وغرق الأجسام أو انزلاق الإمساك، ووضع مشغل kp/kv، وهيكل المفصل والتخميد، وتصفية تصادم contype/conaffinity، والإطارات الرئيسية، واختيار المُكامل وخطوة الوقت، وتحديد النظام أو تغيير المجال لحقول نموذج MuJoCo للتحويل من المحاكاة إلى الواقع."
+  },
+  "arjun988/blender-skills:.claude/skills/neon-retrofuturism": {
+    "name": "نيون-الرجعية المستقبلية",
+    "description": "نيون، وفابيرويف، وسينثويف، واتجاه فني/مزاج رجعي مستقبلي لـ Blender بآفاق شبكية وكروم ولوحات غسق."
+  },
+  "arjun988/blender-skills:.cursor/skills/neon-retrofuturism": {
+    "name": "نيون-الرجعية المستقبلية",
+    "description": "نيون، وفابيرويف، وسينثويف، واتجاه فني/مزاج رجعي مستقبلي لـ Blender بآفاق شبكية وكروم ولوحات غسق."
+  },
+  "arjun988/blender-skills:.claude/skills/noir-style": {
+    "name": "بأسلوب النوير",
+    "description": "اتجاه فني للنوير لـ Blender بإضاءة عالية التباين، وشوارع مبللة، وصور ظلية، ودرجات ألوان أحادية اللون أو محدودة."
+  },
+  "arjun988/blender-skills:.cursor/skills/noir-style": {
+    "name": "بأسلوب النوير",
+    "description": "اتجاه فني للنوير لـ Blender بإضاءة عالية التباين، وشوارع مبللة، وصور ظلية، ودرجات ألوان أحادية اللون أو محدودة."
+  },
+  "cexll/myclaude:skills/omo": {
+    "name": "omo",
+    "description": "استخدم هذه المهارة عندما ترى `/omo`. تنسيق متعدد الوكلاء لـ \"تحليل الكود / تحقيق الأخطاء / تخطيط الإصلاح / التنفيذ\". اختر الحد الأدنى من مجموعة الوكلاء والترتيب بناءً على نوع المهمة + المخاطرة؛ الوصفات أدناه توضح الأنماط الشائعة."
+  },
+  "arjun988/blender-skills:.claude/skills/painterly-style": {
+    "name": "بأسلوب الرسّام",
+    "description": "اتجاه فني رسامي يمتد بين مظاهر الألوان المائية والزيتية لـ Blender باستخدام الحواف الناعمة وملمس الصبغة والإضاءة التوضيحية."
+  },
+  "arjun988/blender-skills:.cursor/skills/painterly-style": {
+    "name": "بأسلوب الرسّام",
+    "description": "اتجاه فني رسامي يمتد بين مظاهر الألوان المائية والزيتية لـ Blender باستخدام الحواف الناعمة وملمس الصبغة والإضاءة التوضيحية."
+  },
+  "anthropics/skills:skills/pdf": {
+    "name": "pdf",
+    "description": "استخدم هذه المهارة كلما أراد المستخدم فعل أي شيء بملفات PDF. يتضمن ذلك قراءة أو استخراج النص/الجداول من PDFs، ودمج أو دمج عدة PDFs في واحد، وفصل PDFs عن بعضها، وتدوير الصفحات، وإضافة العلامات المائية، وإنشاء PDFs جديدة، وتعبئة نماذج PDF، وتشفير/فك تشفير PDFs، واستخراج الصور، والOCR على PDFs الممسوحة ضوئيًا لجعلها قابلة للبحث. إذا ذكر المستخدم ملف .pdf أو طلب إنتاج واحد، فاستخدم هذه المهارة."
+  },
+  "arjun988/blender-skills:.claude/skills/physics-sim": {
+    "name": "محاكاة الفيزياء",
+    "description": "إعدادات الأجسام الصلبة واللينة والتدمير في Blender بما في ذلك القيود، وحطام كسور الخلايا، وذاكرة التخزين المؤقت المخبوزة عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/physics-sim": {
+    "name": "محاكاة الفيزياء",
+    "description": "إعدادات الأجسام الصلبة واللينة والتدمير في Blender بما في ذلك القيود، وحطام كسور الخلايا، وذاكرة التخزين المؤقت المخبوزة عبر MCP."
+  },
+  "emilkowalski/skills:skills/pick-ui-library": {
+    "name": "pick-ui-library",
+    "description": "اختر المكتبة لمهام الواجهة الأمامية من قائمة منتقاة — البرimitives، والتحذيرات، والأدراج، وقوائم الأوامر، وOTP، والأرقام، والرسوم البيانية، والافتراضية، والسحب والإفلات، والحالة، والتصميم."
+  },
+  "arjun988/blender-skills:.claude/skills/pixel-art-style": {
+    "name": "بأسلوب فن البكسل",
+    "description": "اتجاه فني لفن البكسل والقيود على البكسل لأصول Blender المخصصة لعرض البكسل، والTextures منخفضة الدقة، أو قراءات البكسل القريبة من HD-2D."
+  },
+  "arjun988/blender-skills:.cursor/skills/pixel-art-style": {
+    "name": "بأسلوب فن البكسل",
+    "description": "اتجاه فني لفن البكسل والقيود على البكسل لأصول Blender المخصصة لعرض البكسل، والTextures منخفضة الدقة، أو قراءات البكسل القريبة من HD-2D."
+  },
+  "anthropics/skills:skills/pptx": {
+    "name": "pptx",
+    "description": "استخدم هذه المهارة في أي وقت تُستخدم فيه ملف .pptx أو .potx بأي شكل من الأشكال — كمدخل أو مخرج أو كليهما. يشمل ذلك: إنشاء عروض الشرائح، أو عروض التقديم، أو العروض التقديمية؛ قراءة أو تحليل أو استخراج النصوص من أي ملف .pptx أو .potx (حتى إذا كان المحتوى المستخرج سيُستخدم في مكان آخر، مثل رسالة بريد إلكتروني أو ملخص)؛ تعديل أو تغيير أو تحديث العروض التقديمية الحالية؛ دمج أو تقسيم ملفات الشرائح؛ العمل مع القوالب (.potx)، والتخطيطات، وملاحظات المتحدث، أو التعليقات. يتم تشغيل هذه المهارة كلما ذكر المستخدم \\\"deck,\\\" \\\"slides,\\\" \\\"presentation,\\\" أو أشار إلى اسم ملف .pptx أو .potx، بغض النظر عما يخطط لفعله بالمحتوى لاحقًا. إذا كان هناك حاجة لفتح أو إنشاء أو التعامل مع ملف .pptx أو .potx، فاستخدم هذه المهارة."
+  },
+  "arjun988/blender-skills:.claude/skills/procedural-modeling": {
+    "name": "النمذجة الإجرائية",
+    "description": "إنشاء أصول إجرائية للصخور، والمباني، والنباتات، والطرق، والتضاريس، والأنابيب، والكابلات، ولوحات الخيال العلمي باستخدام عقد الهندسة وسير عمل تعتمد على المعدلات في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/procedural-modeling": {
+    "name": "النمذجة الإجرائية",
+    "description": "إنشاء أصول إجرائية للصخور، والمباني، والنباتات، والطرق، والتضاريس، والأنابيب، والكابلات، ولوحات الخيال العلمي باستخدام عقد الهندسة وسير عمل تعتمد على المعدلات في Blender عبر MCP."
+  },
+  "cexll/myclaude:skills/product-requirements": {
+    "name": "متطلبات المنتج",
+    "description": "مهارة صاحب المنتج التفاعلية لجمع المتطلبات وتحليلها وإنشاء وثائق متطلبات المنتج (PRD). يتم تشغيلها عندما يطلب المستخدمون متطلبات المنتج، أو تحديد الميزات، أو إنشاء وثائق PRD، أو يحتاجون إلى مساعدة في فهم وتوثيق متطلبات المشروع. تستخدم نظام تقييم الجودة والحوار التكراري لضمان شمولية المتطلبات قبل إعداد وثائق PRD احترافية."
+  },
+  "arjun988/blender-skills:.claude/skills/prop-artist": {
+    "name": "فنان الأدوات",
+    "description": "نمذجة أدوات يومية وبطولية للأثاث، والأدوات، والأغراض المنزلية، وأجزاء الكيت باش، وأدوات اللعبة المقروءة. استخدم هذه المهارة عندما يكون السطح الصلب شديدًا في طابعه الخيالي/الميكانيكي ويكون العنصر أداة واقعية."
+  },
+  "arjun988/blender-skills:.cursor/skills/prop-artist": {
+    "name": "فنان الأدوات",
+    "description": "نمذجة أدوات يومية وبطولية للأثاث، والأدوات، والأغراض المنزلية، وأجزاء الكيت باش، وأدوات اللعبة المقروءة. استخدم هذه المهارة عندما يكون السطح الصلب شديدًا في طابعه الخيالي/الميكانيكي ويكون العنصر أداة واقعية."
+  },
+  "emilkowalski/skills:skills/prototype": {
+    "name": "النموذج الأولي",
+    "description": "قم بإنشاء عدة نسخ مختلفة فعليًا من عنصر واجهة المستخدم الذي تصفه، وقم بعرضها خلف منتقي بصري لتتمكن من التنقل بينها مباشرةً والترويج للنسخة التي تبدو الأنسب."
+  },
+  "cexll/myclaude:skills/prototype-prompt-generator": {
+    "name": "مولد موجهات النماذج الأولية",
+    "description": "يجب استخدام هذه المهارة عندما يحتاج المستخدمون إلى توليد موجهات مفصلة ومنظمة لإنشاء نماذج أولية لواجهات المستخدم/تجربة المستخدم. يتم تشغيلها عندما يطلب المستخدمون المساعدة في \"create a prototype prompt\"، \"design a mobile app\"، \"generate UI specifications\"، أو يحتاجون إلى وثائق تصميم شاملة لتطبيقات الويب/الجوال. تعمل مع أنظمة تصميم متعددة بما في ذلك WeChat Work، iOS Native، Material Design، وAnt Design Mobile."
+  },
+  "arjun988/blender-skills:.claude/skills/psx-horror-style": {
+    "name": "أسلوب الرعب الخاص بـ PSX",
+    "description": "توجيه فني للرعب من حقبة PS1/PSX يجمع بين نسيج Affine منخفض البوليغونات، وعمق ألوان محدود، والضباب، وتقنيات إخراج الرعب النفسي لعناصر Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/psx-horror-style": {
+    "name": "أسلوب الرعب الخاص بـ PSX",
+    "description": "توجيه فني للرعب من حقبة PS1/PSX يجمع بين نسيج Affine منخفض البوليغونات، وعمق ألوان محدود، والضباب، وتقنيات إخراج الرعب النفسي لعناصر Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/qa-review": {
+    "name": "مراجعة ضمان الجودة",
+    "description": "بوابة ضمان جودة الإنتاج لعناصر Blender باستخدام لقطات الشاشة من منظر العرض، وقوائم المراجعة للتحقق، وتدقيق التسميات، وأحكام الإرسال أو عدم الإرسال عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/qa-review": {
+    "name": "مراجعة ضمان الجودة",
+    "description": "بوابة ضمان جودة الإنتاج لعناصر Blender باستخدام لقطات الشاشة من منظر العرض، وقوائم المراجعة للتحقق، وتدقيق التسميات، وأحكام الإرسال أو عدم الإرسال عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/realistic-style": {
+    "name": "الأسلوب الواقعي",
+    "description": "توجيه فني AAA واقعي الصورة لعناصر Blender بما في ذلك تنظيف الفوتوغرامmetry، والحجم الحقيقي، وسير عمل البوليغونات العالية، ودقة PBR، وتحسين عمليات المسح. يستخدم لتحقيق واقعية سينمائية ولألعاب AAA."
+  },
+  "arjun988/blender-skills:.cursor/skills/realistic-style": {
+    "name": "الأسلوب الواقعي",
+    "description": "توجيه فني AAA واقعي الصورة لعناصر Blender بما في ذلك تنظيف الفوتوغرامmetry، والحجم الحقيقي، وسير عمل البوليغونات العالية، ودقة PBR، وتحسين عمليات المسح. يستخدم لتحقيق واقعية سينمائية ولألعاب AAA."
+  },
+  "JimLiu/baoyu-skills:.claude/skills/release-skills": {
+    "name": "مهارات الإصدار",
+    "description": "سير عمل إصدار عالمي. يكتشف تلقائيًا ملفات الإصدارات وسجلات التغييرات. يدعم Node.js، Python، Rust، Claude Plugin، GitHub Releases، والعلامات المعلّمة، واسترجاع الإصدارات التاريخية، والمشاريع العامة. استخدم هذه المهارة عندما يقول المستخدم \"release\"، \"发布\"، \"new version\"، \"bump version\"، \"push\"، \"推送\"، \"release notes\"، \"GitHub Release\"، أو \"回填 Release\"."
+  },
+  "emilkowalski/skills:skills/remove-animations": {
+    "name": "إزالة الرسوم المتحركة",
+    "description": "ابحث عن الرسوم المتحركة التي لا تحتاجها الواجهة وأزلها — الحركات المرتبطة بإجراءات لوحة المفاتيح، والأسطح عالية التردد، والبيانات الوظيفية، والزينة عديمة الغرض — ثم نظّف ما تتركه وراءها. يحرر الكود، لكن فقط لحذف الحركات؛ ولا يضيف أو يعيد ضبط الحركات أبدًا. استخدم هذه المهارة عندما يقول المستخدم إن التطبيق \"feels slow\"، \"has too much animation\"، \"feels over-animated\"، ويريد \"tone down the motion\"، أو يسأل عن الرسوم المتحركة التي يجب إزالتها. للعثور على الأماكن التي ينبغي أن تكون متحركة، استخدم find-animation-opportunities؛ ولإصلاح الرسوم المتحركة التي ينبغي أن تبقى، استخدم improve-animations أو review-animations."
+  },
+  "arjun988/blender-skills:.claude/skills/rendering": {
+    "name": "العرض النهائي",
+    "description": "العرض النهائي باستخدام Cycles وEevee بما في ذلك أخذ العينات، وإزالة التشويش، وإعداد الكاميرا، ومرورات العرض، وإدارة الألوان، وتحسين العرض. يستخدم للإخراج النهائي والتحقق من المظهر عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/rendering": {
+    "name": "العرض النهائي",
+    "description": "العرض النهائي باستخدام Cycles وEevee بما في ذلك أخذ العينات، وإزالة التشويش، وإعداد الكاميرا، ومرورات العرض، وإدارة الألوان، وتحسين العرض. يستخدم للإخراج النهائي والتحقق من المظهر عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/retopology": {
+    "name": "إعادة التوبولوجيا",
+    "description": "إعادة التوبولوجيا الإنتاجية لشبكات مناسبة للتحريك، منخفضة البوليغونات، وذات هيكل رباعي رئيسي مع حلقات حواف صحيحة وتدفق كفاءة للبوليغونات. تُستخدم بعد النحت أو النمذجة عالية البوليغونات قبل أعمال التجهيز والUV في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/retopology": {
+    "name": "إعادة التوبولوجيا",
+    "description": "إعادة التوبولوجيا الإنتاجية لشبكات مناسبة للتحريك، منخفضة البوليغونات، وذات هيكل رباعي رئيسي مع حلقات حواف صحيحة وتدفق كفاءة للبوليغونات. تُستخدم بعد النحت أو النمذجة عالية البوليغونات قبل أعمال التجهيز والUV في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/retro-16bit-style": {
+    "name": "أسلوب الرعب 16 بت القديم",
+    "description": "توجيه فني قديم بأسلوب 16 بت لعناصر Blender يساعد على تحقيق ثراء الألوان، وإشارات التدرير، ووضوح يشبه السبرايت من حقبة SNES/Genesis."
+  },
+  "arjun988/blender-skills:.cursor/skills/retro-16bit-style": {
+    "name": "أسلوب الرعب 16 بت القديم",
+    "description": "توجيه فني قديم بأسلوب 16 بت لعناصر Blender يساعد على تحقيق ثراء الألوان، وإشارات التدرير، ووضوح يشبه السبرايت من حقبة SNES/Genesis."
+  },
+  "arjun988/blender-skills:.claude/skills/retro-8bit-style": {
+    "name": "أسلوب الرعب 8 بت القديم",
+    "description": "توجيه فني قديم بأسلوب 8 بت لعناصر Blender يساعد على تحقيق جمالية البكسل/الدقة المنخفضة المستوحاة من قيود حقبة NES."
+  },
+  "arjun988/blender-skills:.cursor/skills/retro-8bit-style": {
+    "name": "أسلوب الرعب 8 بت القديم",
+    "description": "توجيه فني قديم بأسلوب 8 بت لعناصر Blender يساعد على تحقيق جمالية البكسل/الدقة المنخفضة المستوحاة من قيود حقبة NES."
+  },
+  "emilkowalski/skills:skills/review-animations": {
+    "name": "مراجعة الرسوم المتحركة",
+    "description": "تراجع الرسوم المتحركة وكود الحركة مقابل مقياس حرفي عالي مستمد من فلسفة هندسة التصميم لدى Emil Kowalski. الافتراض هو وضع العلامات؛ والموافقة تُكتسب."
+  },
+  "arjun988/blender-skills:.claude/skills/rigging": {
+    "name": "التجهيز",
+    "description": "التجهيز الإنتاجي في Blender باستخدام الهياكل العظمية، وIK/FK، والقيود، ورسم الوزن، والتجهيزات الميكانيكية، وتجهيزات الوجه، والمشغلات. يستخدم قبل التحريك للأصول القابلة للتشوه عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/rigging": {
+    "name": "التجهيز",
+    "description": "التجهيز الإنتاجي في Blender باستخدام الهياكل العظمية، وIK/FK، والقيود، ورسم الوزن، والتجهيزات الميكانيكية، وتجهيزات الوجه، والمشغلات. يستخدم قبل التحريك للأصول القابلة للتشوه عبر MCP."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-app-harness": {
+    "name": "حزام تطبيق الروبوت",
+    "description": "سير عمل مغلق الحلقة لكتابة برمجيات تطبيقات الروبوت ضد هيكل (روبوت بالإضافة إلى مستشعراته ومشغّلاته) باستخدام حزام `rah` في هذا المستودع: اختبر الأجهزة، واكتب المشغلات وكود المهام، وشغّله في المحاكاة، واطّلع على تقرير المقيّم، وكرّر حتى يجتاز البذور المحجوزة. استخدم هذه المهارة عندما يطلب المستخدم جعل الروبوت يؤدي مهمة، أو دمج مستشعر أو مشغّل في تطبيق الروبوت، أو كتابة كود التقاط ووضع أو غيره من عمليات المناولة لهيكل، أو \"vibe code\" robotics software والتحقق منه في المحاكاة. يتم تشغيل المهارة عند ذكر rah، و manifests of rigs، وrobot task specs، وARMATURE simulator، و probing robot devices، وdevice descriptors، و running or verifying a robot app، وheld-out seeds، أو diagnosing why a simulated robot task fails."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-bringup": {
+    "name": "إعداد الروبوت",
+    "description": "إعداد نظام ROS2 كامل على الكمبيوتر المدمج بالروبوت: خدمات systemd، وتركيب ملفات الإطلاق، وبدء التشغيل المرتب، ومراقبة الإنتاج. استخدم هذه المهارة عند تكوين الروبوت لبدء تشغيل عقد ROS2 عند الإقلاع، وكتابة ملفات وحدات systemd لتشغيل ROS2، وتركيب ملفات إطلاق متدرجة لكومات الروبوت الكاملة، وإعداد مراقبة watchdog، وتكوين قواعد udev لتسمية الأجهزة بشكل حتمي، أو تصحيح حالات التعارض عند بدء التشغيل. يتم تشغيل المهارة كلما ذكر المستخدم robot bringup، robot startup، systemd for ROS2، ROS2 on boot، launch file composition، robot boot sequence، udev rules for cameras or serial ports، automatic restart for ROS2 nodes، network configuration for multi-machine ROS2، log rotation for robots، graceful shutdown of robot stacks، أو SSH-based remote debugging. كما يتم تشغيلها عند sourcing workspaces in systemd، ordered startup with health checks، أو running ROS2 systems as long-running production services. تغطي systemd على Ubuntu 22.04/24.04 مع ROS2 Humble، Iron، وJazzy."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-data-quality": {
+    "name": "جودة بيانات الروبوت",
+    "description": "تقييم وتحسين جودة مجموعات بيانات تعلم الروبوت (عروض التحكم عن بُعد، الحلقات) واستخدام forge، مجموعة أدوات بيانات الروبوت، لفحصها، وتنظيفها، وتقييمها، وتصويرها، وفلترتها، وإزالة التكرارات منها، وتحويلها. استخدم هذه المهارة عندما يذكر المستخدم جودة مجموعة البيانات، أو تنظيف البيانات أو تنظيمها، أو فحص الحلقات، أو العروض السيئة أو الضوضائية، أو الإطارات الخاملة، أو الحركات المتعثرة أو المتقطعة، أو تذمر القابض، أو فجوات الطوابع الزمنية أو فقدان الإطارات، أو ضباب الكاميرا أو التعرض الزائد، أو الحلقات المكررة، أو نظافة سلسلة المهام، أو إحصاءات التطبيع، أو تقسيم التدريب/التحقق حسب الحلقة، أو تغطية أو تنوع العروض، أو سبب عدم بدء السياسة أو توقفها أو توسطها بسبب بياناتها. يتم أيضًا تشغيل المهارة عند استخدام أوامر forge (forge inspect، lint، stats، quality، filter، dedup، visualize، convert، catalog، ingest، curate) وعند التحويل بين RLDS، LeRobot v2/v3، Zarr، HDF5، MCAP، rosbag، أو RoboDM، بما في ذلك مجموعات hf:// على Hugging Face Hub."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-perception": {
+    "name": "إدراك الروبوت",
+    "description": "أفضل الممارسات الشاملة لأنظمة إدراك الروبوت التي تغطي الكاميرات، وLiDARs، ومستشعرات العمق، وIMUs، وأنظمة الاستشعار المتعددة. استخدم هذه المهارة عند العمل مع معالجة صور RGB، وخرائط العمق، وسحب النقاط، ومعايرة المستشعرات (الداخلية، الخارجية، واليد-عين)، واكتشاف الأجسام، والتجزئة الدلالية، وإعادة البناء ثلاثي الأبعاد، والتحكم المرئي، أو تحسين خط أنابيب الإدراك. يتم تشغيل المهارة كلما ذكر المستخدم OpenCV، Open3D، PCL، RealSense، ZED، OAK-D، معايرة الكاميرات، AprilTags، علامات ArUco، الرؤية الاستريو، RGBD، ترشيح سحب النقاط، تسجيل ICP، تحويلات الإحداثيات، داخلية الكاميرا، تصحيح التشويه، إزالة تشويه الصورة، بث المستشعر، مزامنة الإطارات، أو أي مهمة رؤية حاسوبية في سياق الروبوتات. تشمل أيضًا هياكل الكاميرات المتعددة، ومزامنة الوقت عبر المستشعرات، وميزانيات زمن الوصول للإدراك، ونشر خطوط أنابيب الإدراك في الإنتاج."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-reinforcement-learning": {
+    "name": "التعلم المعزز للروبوت",
+    "description": "التعلم المعزز للروبوت: عندما يتفوق RL على التقليد أو التحكم الكلاسيكي، وتصميم MDP (الملاحظات، مساحات الفعل، معدل التحكم، النهاية مقابل القطع)، وتصميم المكافآت واختراق المكافآت، واختيار الخوارزمية، والتدريب المحاكي المتوازي للغاية، والتعلم الآمن على الروبوت الحقيقي، وتصحيح منحنى التدريب. استخدم هذه المهارة عندما يذكر المستخدم التعلم المعزز، RL، PPO، SAC، TD3، GAE، دالة المكافأة، تشكيل المكافأة، المنهج الدراسي، عشوائية المجال، sim-to-real، شبكة المشغلات، actor-critic غير المتماثل، تقطير المعلم-الطالب، rsl_rl، rl_games، skrl، Stable-Baselines3، CleanRL، Brax training، FastTD3، HIL-SERL، SERL، RLPD، DrQ، التعلم المعزز المتبقي، DSRL، التحسين الدقيق للتعلم المعزز لـ BC، سياسة التشتت أو VLA، التمهيد المتأخر، انهيار الإنتروبيا، انفجار فقدان القيمة، NaN أثناء التدريب، أو تقييم RL باستخدام البذور وIQM. كما ينطبق على Isaac Lab، mjlab أو Playground locomotion and manipulation policies."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-design-patterns": {
+    "name": "أنماط تصميم الروبوتات",
+    "description": "أنماط العمارة، ومبادئ التصميم، والوصفات المجربة لبناء برمجيات روبوتية متينة. استخدم هذه المهارة عند تصميم هياكل برمجيات الروبوت، والاختيار بين الأطر السلوكية، وهيكلة خطوط أنابيب الإدراك-التخطيط-التحكم، وتنفيذ آلات الحالة، وتصميم أنظمة السلامة، أو هندسة أنظمة الروبوتات المتعددة. يتم تشغيل المهارة كلما ذكر المستخدم أشجار السلوك، آلات الحالة المحدودة، بنية الاستيعاب، دمج المستشعرات، سلامة الروبوت، watchdogs، نبضات القلب، التدهور اللطيف، طبقات تجريد الأجهزة، قيود الوقت الحقيقي، أو هندسة برمجيات الروبوت. كما ينطبق على نقل التكنولوجيا من المحاكاة إلى الواقع، والتوائم الرقمية، وإدارة أساطيل الروبوت."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-security": {
+    "name": "أمن الروبوتات",
+    "description": "تقوية الأمن وأفضل الممارسات لأنظمة الروبوت، بما يشمل أمن SROS2 DDS، وتقسيم الشبكة، وإدارة الأسرار، والإقلاع الآمن، وتقاطع السلامة المادية والسيبرانية. استخدم هذه المهارة عند تأمين اتصالات ROS2، وتكوين تشفير DDS والتحكم في الوصول، وتقوية أجهزة الكمبيوتر المدمجة بالروبوت، وإدارة الشهادات والاعتمادات، وإعداد تقسيم الشبكة لأسطول الروبوت، أو معالجة التحديات الأمنية الفريدة حيث تتحول الثغرات السيبرانية إلى مخاطر سلامة مادية. يتم تشغيل المهارة كلما ذكر المستخدم SROS2، أمن DDS، أمن الروبوت، تقوية الروبوت، تشفير ROS2، التحكم في الوصول لـ ROS2، أمن شبكة الروبوت، نشر الروبوت الآمن، شهادات الروبوت، توليد keystore، جدار الحماية للروبوت، أمن e-stop، عزل وحدة التحكم في السلامة، أو IEC 62443 للروبوتات."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-software-principles": {
+    "name": "مبادئ برمجيات الروبوت",
+    "description": "المبادئ الأساسية لتصميم البرمجيات المطبقة خصيصًا على تطوير وحدات الروبوت. استخدم هذه المهارة عند تصميم وحدات برمجيات الروبوت، وهيكلة قواعد الكود، واتخاذ قرارات الهندسة، ومراجعة كود الروبوت، أو بناء مكتبات روبوتية قابلة لإعادة الاستخدام. يتم تشغيل المهارة كلما ذكر المستخدم مبادئ SOLID للروبوت، برمجيات الروبوت المعيارية، الهندسة النظيفة للروبوت، حقن التبعية في الروبوت، تصميم الواجهات للأجهزة، قيود التصميم في الوقت الحقيقي، استراتيجيات معالجة الأخطاء للروبوت، إدارة التكوين، فصل المخاوف في الإدراك-التخطيط-التحكم، قابلية تجميع سلوكيات الروبوت، أو أي نقاش حول براعة البرمجيات في سياق الروبوتات. يتم أيضًا تشغيل المهارة عند مراجعة كود الروبوت، وإعادة هيكلة برمجيات الروبوت، أو تصميم واجهات برمجية لمكتبات الروبوت."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-testing": {
+    "name": "اختبار الروبوتات",
+    "description": "استراتيجيات وأساليب وأدوات الاختبار لبرمجيات الروبوت. استخدم هذه المهارة عند كتابة اختبارات الوحدة، واختبارات التكامل، واختبارات المحاكاة، أو اختبارات الأجهزة في الحلقة لأنظمة الروبوت. يتم تشغيل المهارة كلما ذكر المستخدم اختبار عقد ROS، pytest مع ROS، launch_testing، اختبار المحاكاة، CI/CD للروبوتات، تركيبات اختبار للمستشعرات، أجهزة محاكاة، إعادة التشغيل الحتمية، اختبار الانحدار لسلوكيات الروبوت، أو التحقق من خطوط أنابيب الإدراك-التخطيط-التحكم. تشمل أيضًا الاختبارات القائمة على الخصائص للكينماتيكا، واختبارات fuzz لمعالجات الرسائل، واختبارات الملف الذهبي للمسارات."
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros1": {
+    "name": "ros1",
+    "description": "أفضل الممارسات، وأنماط التصميم، والمحاذير الشائعة لتطوير ROS1 (نظام تشغيل الروبوت 1). استخدم هذه المهارة عند بناء عقد ROS1، والحزم، وملفات الإطلاق، أو تصحيح أنظمة ROS1. يتم تشغيل المهارة كلما ذكر المستخدم ROS1، catkin، rospy، roscpp، roslaunch، roscore، rostopic، tf، actionlib، أنواع الرسائل، الخدمات، أو أي وسيط روحي من حقبة ROS1. كما يتم تشغيلها عند ترحيل كود ROS1 إلى ROS2، أو صيانة أنظمة ROS1 القديمة، أو بناء جسور ROS1-ROS2. تشمل مساحات عمل catkin، nodelets، إعادة التكوين الديناميكي، pluginlib، وكل النظام البيئي لـ ROS1."
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros2": {
+    "name": "ros2",
+    "description": "أفضل الممارسات الشاملة، وأنماط التصميم، والمحاذير الشائعة لتطوير ROS2 (نظام تشغيل الروبوت 2). استخدم هذه المهارة عند بناء عقد ROS2، والحزم، وملفات الإطلاق، والمكونات، أو تصحيح أنظمة ROS2. يتم تشغيل المهارة كلما ذكر المستخدم ROS2، colcon، rclpy، rclcpp، DDS، QoS، عقد دورة الحياة، العقد المدارة، إطلاق ROS2، معلمات ROS2، إجراءات ROS2، nav2، MoveIt2، micro-ROS، أو أي وسيط روحي من حقبة ROS2. كما يتم تشغيلها عند إعداد مساحة عمل ROS2، وضبط DDS، والاتصال داخل العملية، وأمن ROS2، أو نشر ROS2 في الإنتاج. كما يتم تشغيلها عند مشاكل بناء colcon، ament_cmake، ament_python، CMakeLists.txt لـ ROS2، تبعيات package.xml، rosdep، تراكبات المساحة، توليد الرسائل المخصصة، أو استكشاف أخطاء بناء ROS2. تشمل توزيعات Humble، Iron، Jazzy، وRolling."
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros2-web-integration": {
+    "name": "تكامل ROS2 مع الويب",
+    "description": "الأنماط وأفضل الممارسات لتكامل أنظمة ROS2 مع تقنيات الويب بما في ذلك REST APIs، وجسور WebSocket، وواجهات الروبوت القائمة على المتصفح. استخدم هذه المهارة عند بناء لوحات معلومات ويب للروبوت، وبث تغذية الكاميرا إلى المتصفحات، أو إتاحة خدمات ROS2 كنقاط نهاية REST، أو تنفيذ اتصال ثنائي الاتجاه عبر WebSocket بين واجهات الويب وعقد ROS2. يتم تشغيل المهارة كلما ذكر المستخدم rosbridge، rosbridge_suite، roslibjs، FastAPI مع ROS2، Flask مع rclpy، WebSocket لтелемتري الروبوت، MJPEG streaming، WebRTC للروبوت، تغليف خدمات ROS2 بـ REST API، التحكم في الروبوت عبر الويب، واجهة الروبوت للمتصفح، لوحة معلومات الروبوت، تكوين CORS للروبوت، أو أي نمط جسر بين الويب وROS2. كما يتم تشغيلها عند المصادقة على واجهات الويب للروبوت، وتحديد معدل تدفق مستشعرات البيانات، وبث الفيديو من كاميرات الروبوت إلى المتصفحات، أو تشغيل أطر عمل ويب غير متزامنة جنبًا إلى جنب مع منفذ ROS2. تشمل rosbridge_suite، FastAPI، Flask، WebSocket، ونهج WebRTC."
+  },
+  "arjun988/blender-skills:.claude/skills/scene-assembly": {
+    "name": "تجميع المشهد",
+    "description": "تخطيط المشهد الكبير في Blender باستخدام المجموعات، والربط، والاستبدال، والتنظيم الملائم للبث، وتجميع المجموعات عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/scene-assembly": {
+    "name": "تجميع المشهد",
+    "description": "تخطيط المشهد الكبير في Blender باستخدام المجموعات، والربط، والاستبدال، والتنظيم الملائم للبث، وتجميع المجموعات عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/sci-fi-punk-worlds": {
+    "name": "عوالم الخيال العلمي والبانك",
+    "description": "الإخراج الفني لعالم الخيال العلمي والبانك لـ Blender، بما في ذلك الخيال العلمي الصلب، الفضاء، السيبربنك، الستيمبنك، الديزلبنك، الأتومبنك، السولاربنك، البيوبنك، والكلوكبنك."
+  },
+  "arjun988/blender-skills:.cursor/skills/sci-fi-punk-worlds": {
+    "name": "عوالم الخيال العلمي والبانك",
+    "description": "الإخراج الفني لعالم الخيال العلمي والبانك لـ Blender، بما في ذلك الخيال العلمي الصلب، الفضاء، السيبربنك، الستيمبنك، الديزلبنك، الأتومبنك، السولاربنك، البيوبنك، والكلوكبنك."
+  },
+  "arjun988/blender-skills:.claude/skills/sculpting": {
+    "name": "النحت",
+    "description": "نحت Blender للتفاصيل العضوية وتفاصيل الأسطح الصلبة باستخدام Dyntopo، متعدد الدقة، الفرش، سير عمل ألفا، التجاعيد، والأضرار. استخدمه عند الحاجة إلى تفاصيل سطحية عالية التردد قبل إعادة التشكيل في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/sculpting": {
+    "name": "النحت",
+    "description": "نحت Blender للتفاصيل العضوية وتفاصيل الأسطح الصلبة باستخدام Dyntopo، متعدد الدقة، الفرش، سير عمل ألفا، التجاعيد، والأضرار. استخدمه عند الحاجة إلى تفاصيل سطحية عالية التردد قبل إعادة التشكيل في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/set-dressing": {
+    "name": "تجهيز المواقع",
+    "description": "تجهيز المواقع ووضع سرد القصص البيئي للداخل والخارج باستخدام كثافة الدعائم، مجموعات السرد، وقواعد القراءة عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/set-dressing": {
+    "name": "تجهيز المواقع",
+    "description": "تجهيز المواقع ووضع سرد القصص البيئي للداخل والخارج باستخدام كثافة الدعائم، مجموعات السرد، وقواعد القراءة عبر MCP."
+  },
+  "anthropics/skills:skills/skill-creator": {
+    "name": "منشئ المهارات",
+    "description": "إنشاء مهارات جديدة، تعديل وتحسين المهارات الحالية، وقياس أداء المهارات. استخدمه عندما يرغب المستخدمون في إنشاء مهارة من الصفر، أو تعديل مهارة موجودة، أو تحسينها، أو إجراء اختبارات لتقييم المهارة، أو مقارنة أداء المهارة باستخدام تحليل التباين، أو تحسين وصف المهارة لتحقيق دقة أفضل في التشغيل."
+  },
+  "cexll/myclaude:skills/skill-install": {
+    "name": "تثبيت المهارة",
+    "description": "تثبيت مهارات Claude من مستودعات GitHub مع فحص أمني آلي. يُفعَّل عندما يرغب المستخدمون في تثبيت مهارات من عنوان URL لـ GitHub، أو يحتاجون إلى تصفح المهارات المتاحة في مستودع، أو يريدون إضافة مهارات جديدة بأمان إلى بيئة Claude الخاصة بهم."
+  },
+  "anthropics/skills:skills/slack-gif-creator": {
+    "name": "منشئ صور GIF على Slack",
+    "description": "المعرفة والأدوات لإنشاء صور GIF متحركة مُحسَّنة لـ Slack. يوفر قيودًا وأدوات تحقق ومفاهيم الرسوم المتحركة. استخدمه عندما يطلب المستخدمون صور GIF متحركة لـ Slack مثل \" اصنع لي GIF لـ X وهو يفعل Y لـ Slack."
+  },
+  "cexll/myclaude:skills/sparv": {
+    "name": "sparv",
+    "description": "سير عمل SPARV بسيط (تحديد→تخطيط→تنفيذ→مراجعة→أرشيف) مع بوابة مواصفات من 10 نقاط، مجلة موحدة، حفظ بإجراءين، بروتوكول ثلاث حالات فشل، واكتشاف مخاطر EHRB."
+  },
+  "arjun988/blender-skills:.claude/skills/stop-motion-craft-style": {
+    "name": "أسلوب الحركة المتقطعة والحرفية",
+    "description": "جمالية الحركة المتقطعة والحرفية لـ Blender، بما في ذلك كلايميشن، حرفة الورق، والإشارات المادية اليدوية."
+  },
+  "arjun988/blender-skills:.cursor/skills/stop-motion-craft-style": {
+    "name": "أسلوب الحركة المتقطعة والحرفية",
+    "description": "جمالية الحركة المتقطعة والحرفية لـ Blender، بما في ذلك كلايميشن، حرفة الورق، والإشارات المادية اليدوية."
+  },
+  "arjun988/blender-skills:.claude/skills/stylized-style": {
+    "name": "الأسلوب المصقول",
+    "description": "الإخراج الفني المصقول لـ Blender بلغة الشكل، المبالغة، تناغم الألوان، عرض NPR، وسير عمل الأصول المرسومة يدويًا. استخدمه في مشاريع الألعاب والرسوم المتحركة غير الواقعية."
+  },
+  "arjun988/blender-skills:.cursor/skills/stylized-style": {
+    "name": "الأسلوب المصقول",
+    "description": "الإخراج الفني المصقول لـ Blender بلغة الشكل، المبالغة، تناغم الألوان، عرض NPR، وسير عمل الأصول المرسومة يدويًا. استخدمه في مشاريع الألعاب والرسوم المتحركة غير الواقعية."
+  },
+  "anthropics/skills:template": {
+    "name": "مهارة القالب",
+    "description": "استبدل بوصف المهارة ومتى ينبغي لـ Claude استخدامها."
+  },
+  "cexll/myclaude:skills/test-cases": {
+    "name": "حالات الاختبار",
+    "description": "يجب استخدام هذه المهارة عند إنشاء حالات اختبار شاملة من وثائق PRD أو متطلبات المستخدمين. يُفعَّل عندما يطلب المستخدمون إنشاء حالات اختبار، تخطيط QA، إنشاء سيناريوهات اختبار، أو يحتاجون إلى وثائق اختبار منظمة. ينتج حالات اختبار مفصلة تغطي السيناريوهات الوظيفية، وحالات الحدود، ومعالجة الأخطاء، وسيناريوهات انتقال الحالة."
+  },
+  "arjun988/blender-skills:.claude/skills/texture-workflow": {
+    "name": "سير عمل الملمس",
+    "description": "سير عمل إنتاجي للملمس للأطلس، خبز خرائط AO/الانحناء/العمودي/الخشونة، الملصقات، وتحسين ذاكرة الملمس. استخدمه ل pipelines الملمس الجاهزة للألعاب في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/texture-workflow": {
+    "name": "سير عمل الملمس",
+    "description": "سير عمل إنتاجي للملمس للأطلس، خبز خرائط AO/الانحناء/العمودي/الخشونة، الملصقات، وتحسين ذاكرة الملمس. استخدمه ل pipelines الملمس الجاهزة للألعاب في Blender عبر MCP."
+  },
+  "anthropics/skills:skills/theme-factory": {
+    "name": "مصنع الثيمات",
+    "description": "مجموعة أدوات لتنسيق القطع الفنية بثيمة معينة. يمكن أن تكون هذه القطع عروض شرائح، وثائق، تقارير، صفحات هبوط HTML، وغيرها. هناك 10 ثيمات مسبقة الإعداد بألوان/خطوط يمكنك تطبيقها على أي قطعة تم إنشاؤها، أو يمكنها توليد ثيمة جديدة أثناء العمل."
+  },
+  "arjun988/blender-skills:.claude/skills/unity-export": {
+    "name": "تصدير Unity",
+    "description": "تصدير خاص بـ Unity لـ Blender للحجم، المحاور، المواد، هياكل الإنسان/العام، LODs، واستيراد التصادم عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/unity-export": {
+    "name": "تصدير Unity",
+    "description": "تصدير خاص بـ Unity لـ Blender للحجم، المحاور، المواد، هياكل الإنسان/العام، LODs، واستيراد التصادم عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/unreal-export": {
+    "name": "تصدير Unreal",
+    "description": "تصدير خاص بـ Unreal Engine لـ Blender لمقياس FBX، LODs، تصادم UCX، المقابس، المواد، وسير عمل الشبكة الهيكلية عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/unreal-export": {
+    "name": "تصدير Unreal",
+    "description": "تصدير خاص بـ Unreal Engine لـ Blender لمقياس FBX، LODs، تصادم UCX، المقابس، المواد، وسير عمل الشبكة الهيكلية عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/uv-workflow": {
+    "name": "سير عمل UV",
+    "description": "فك تغليف UV إنتاجي لوضع اللحامات، تعبئة UV، كثافة البكسل، UDIM، UV خرائط الإضاءة، وتخطيطات UV المعيارية. استخدمه عند تحضير الشبكات للتنميش والتصدير للمحرك في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/uv-workflow": {
+    "name": "سير عمل UV",
+    "description": "فك تغليف UV إنتاجي لوضع اللحامات، تعبئة UV، كثافة البكسل، UDIM، UV خرائط الإضاءة، وتخطيطات UV المعيارية. استخدمه عند تحضير الشبكات للتنميش والتصدير للمحرك في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/vector-style": {
+    "name": "الأسلوب المتجهي",
+    "description": "الإخراج الفني النظيف المتجهي لـ Blender بملء مسطح، ظلال حادة، ووضوح رسومي يشبه واجهة المستخدم."
+  },
+  "arjun988/blender-skills:.cursor/skills/vector-style": {
+    "name": "الأسلوب المتجهي",
+    "description": "الإخراج الفني النظيف المتجهي لـ Blender بملء مسطح، ظلال حادة، ووضوح رسومي يشبه واجهة المستخدم."
+  },
+  "arjun988/blender-skills:.claude/skills/vegetation-artist": {
+    "name": "فنان الغطاء النباتي",
+    "description": "تأليف الغطاء النباتي والأخشاب لـ Blender بما في ذلك الأشجار، النباتات، بطاقات العشب، LODs للمظلة، وأطالس الأوراق الصديقة للألعاب عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/vegetation-artist": {
+    "name": "فنان الغطاء النباتي",
+    "description": "تأليف الغطاء النباتي والأخشاب لـ Blender بما في ذلك الأشجار، النباتات، بطاقات العشب، LODs للمظلة، وأطالس الأوراق الصديقة للألعاب عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/vehicle-artist": {
+    "name": "فنان المركبات",
+    "description": "نمذجة مخصصة للمركبات كالسيارات، الشاحنات، الطائرات، السفن، القوارب، الروبوتات، وأصول النقل مع مراعاة النسب، تدفق اللوحات، ووعي LOD للألعاب في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/vehicle-artist": {
+    "name": "فنان المركبات",
+    "description": "نمذجة مخصصة للمركبات كالسيارات، الشاحنات، الطائرات، السفن، القوارب، الروبوتات، وأصول النقل مع مراعاة النسب، تدفق اللوحات، ووعي LOD للألعاب في Blender عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/vfx-fx": {
+    "name": "مؤثرات VFX",
+    "description": "مؤثرات VFX السينمائية والألعابية في Blender بما في ذلك الدخان، النار، الجسيمات، الآثار، وإعدادات Geometry Nodes FX عبر MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/vfx-fx": {
+    "name": "مؤثرات VFX",
+    "description": "مؤثرات VFX السينمائية والألعابية في Blender بما في ذلك الدخان، النار، الجسيمات، الآثار، وإعدادات Geometry Nodes FX عبر MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/visual-console-eras": {
+    "name": "عصور وحدة التحكم المرئية",
+    "description": "الإخراج الفني للعصر المرئي لـ Blender يغطي الإشارات الأسلوبية لـ PS1–PS5، الأركيد القديم، DOS، CRT، VHS، وعرض حبيبات الفيلم."
+  },
+  "arjun988/blender-skills:.cursor/skills/visual-console-eras": {
+    "name": "عصور وحدة التحكم المرئية",
+    "description": "الإخراج الفني للعصر المرئي لـ Blender يغطي الإشارات الأسلوبية لـ PS1–PS5، الأركيد القديم، DOS، CRT، VHS، وعرض حبيبات الفيلم."
+  },
+  "arjun988/blender-skills:.claude/skills/voxel-style": {
+    "name": "الأسلوب الفوكسيلي",
+    "description": "الإخراج الفني المتعلق بالفوكسيل وما يشبه Minecraft لـ Blender بنمذجة شبكة الكتل، لوحة ألوان محدودة، وأصول صديقة للقطع."
+  },
+  "arjun988/blender-skills:.cursor/skills/voxel-style": {
+    "name": "الأسلوب الفوكسيلي",
+    "description": "الإخراج الفني المتعلق بالفوكسيل وما يشبه Minecraft لـ Blender بنمذجة شبكة الكتل، لوحة ألوان محدودة، وأصول صديقة للقطع."
+  },
+  "anthropics/skills:skills/web-artifacts-builder": {
+    "name": "منشئ القطع الفنية للويب",
+    "description": "مجموعة أدوات لإنشاء قطع أثرية معقدة متعددة المكونات بتنسيق HTML باستخدام تقنيات الويب الحديثة للواجهة الأمامية (React، Tailwind CSS، shadcn/ui). استخدمها للقطع الأثرية المعقدة التي تتطلب إدارة الحالة، أو التوجيه، أو مكونات shadcn/ui — وليس للقطع الأثرية البسيطة ذات الملف الواحد بتنسيق HTML/JSX."
+  },
+  "anthropics/skills:skills/webapp-testing": {
+    "name": "اختبار تطبيقات الويب",
+    "description": "مجموعة أدوات للتفاعل مع تطبيقات الويب المحلية واختبارها باستخدام Playwright. يدعم التحقق من وظائف الواجهة الأمامية، تصحيح أخطاء سلوك واجهة المستخدم، التقاط لقطات شاشة للمتصفح، وعرض سجلات المتصفح."
+  },
+  "emilkowalski/skills:skills/write-swift": {
+    "name": "كتابة Swift",
+    "description": "كيفية كتابة Swift الحديثة بشكل جيد — النمذجة بأنواع القيم، سلامة Race البيانات في Swift 6 والتوازي الميسور (@concurrent، main-actor-by-default، actors، task groups)، البروتوكولات والأجناس (some vs any)، تصميم API، الأداء وARC، اختبار Swift، الماكروات، وميزات اللغة الحديثة التي لا يعرفها الوكلاء بعد. استخدمه عند الكتابة، المراجعة، أو الترحيل في Swift، أو عند الحاجة إلى إصلاح خطأ في التوازي، توقف، Race بيانات، حلقة احتفاظ، أو مشكلة أداء."
+  },
+  "anthropics/skills:skills/xlsx": {
+    "name": "xlsx",
+    "description": "استخدم هذه المهارة في أي وقت تكون فيه ملفات الجداول الإلكترونية هي المدخلات أو المخرجات الأساسية. هذا يعني أي مهمة يرغب فيها المستخدم في: فتح، قراءة، تعديل، أو إصلاح ملف .xlsx، .xlsm، .xltx، .csv، أو .tsv موجود (مثل إضافة أعمدة، حساب الصيغ، التنسيق، الرسم البياني، تنظيف البيانات الفوضوية)؛ إنشاء جدول جديد من الصفر أو من مصادر بيانات أخرى؛ أو التحويل بين تنسيقات الملفات الجدولية. يُفعَّل خاصةً عندما يشير المستخدم إلى ملف جدول إلكتروني بالاسم أو المسار — حتى بشكل عرضي (مثل \\\"the xlsx in my downloads\\\") — ويريد إنجاز شيء ما عليه أو إنتاج شيء منه. يُفعَّل أيضًا لتنظيف أو إعادة هيكلة ملفات البيانات الجدولية الفوضوية (صفوف معطوبة، رؤوس في غير مكانها، بيانات زائدة) إلى جداول إلكترونية صحيحة. يجب أن يكون المنتج النهائي ملف جدول إلكتروني. لا تُفعَّل عندما يكون المنتج الأساسي هو مستند Word، تقرير HTML، سكريبت مستقل Python، pipeline قاعدة بيانات، أو تكامل Google Sheets API، حتى لو كانت البيانات الجدولية متضمنة."
+  }
+}

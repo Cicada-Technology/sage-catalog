@@ -1,0 +1,1930 @@
+{
+  "ComposioHQ/awesome-claude-skills:composio-skills/-21risk-automation": {
+    "name": "-21リスク自動化",
+    "description": "Rube MCP（Composio）を通じて21リスクタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/-2chat-automation": {
+    "name": "-2チャット自動化",
+    "description": "Rube MCP（Composio）を通じて2チャットタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ahrefs-automation": {
+    "name": "Ahrefs自動化",
+    "description": "Ahrefsとの連携でSEO調査を自動化します。バックリンクプロファイルの分析、キーワードリサーチ、ドメイン指標の履歴追跡、オーガニックランキングの監査、およびComposioのAhrefs統合を通じたバッチURL分析が可能です。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apify-automation": {
+    "name": "Apify自動化",
+    "description": "Apifyとの連携でウェブスクレイピングとデータ抽出を自動化します。Actorsの実行、データセットの管理、再利用可能なタスクの作成、およびComposioのApify統合を通じたクロール結果の取得が可能です。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apollo-automation": {
+    "name": "Apollo自動化",
+    "description": "Apollo.ioによるリードジェネレーションを自動化します。自然言語を用いて組織を検索し、連絡先を発見し、見込み客データを拡充し、連絡先ステージを管理し、ターゲットを絞ったアプローチリストを作成できます。Composio MCP統合を使用します。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ashby-automation": {
+    "name": "Ashby自動化",
+    "description": "Ashbyにおける採用・雇用ワークフローを自動化します。自然言語コマンドを通じて候補者、求人、応募、面接、メモを管理できます。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/attio-automation": {
+    "name": "Attio自動化",
+    "description": "Attio CRMの運用を自動化します。自然言語を用いてレコードを検索し、高度なフィルターで連絡先や企業をクエリし、メモや属性リストを管理し、関係データをナビゲートできます。Composio MCP統合を使用します。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/braintree-automation": {
+    "name": "Braintree自動化",
+    "description": "Braintree自動化：顧客、サブスクリプション、支払い方法、取引に関するStripe互換ツールで決済処理を管理します。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/capsule-crm-automation": {
+    "name": "Capsule CRM自動化",
+    "description": "Capsule CRMの運用を自動化します。自然言語を用いて連絡先（当事者）を管理し、構造化されたフィルタークエリを実行し、タスクやプロジェクトを追跡し、エントリーを記録し、組織を扱うことができます。Composio MCP統合を使用します。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clockify-automation": {
+    "name": "Clockify自動化",
+    "description": "Clockifyにおけるタイムトラッキングワークフローを自動化します。自然言語コマンドを通じてタイムエントリー、ワークスペース、ユーザーを作成・管理できます。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudinary-automation": {
+    "name": "Cloudinary自動化",
+    "description": "Cloudinaryでのメディア管理を自動化します。フォルダー整理、アップロードプリセット、アセット検索、変換、使用状況モニタリングなどを自然言語コマンドで行えます。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinbase-automation": {
+    "name": "Coinbase自動化",
+    "description": "Coinbase自動化：Coinbase CDP SDKを通じて暗号通貨ウォレット、アカウント、ポートフォリオデータを一覧表示し、管理します。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/contentful-automation": {
+    "name": "Contentful自動化",
+    "description": "ContentfulにおけるヘッドレスCMSの運用を自動化します。スペースの一覧表示、スペースメタデータの取得、スペース設定の更新などをComposio Contentful統合を通じて行えます。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ably-automation": {
+    "name": "ably-automation",
+    "description": "Rube MCP（Composio）を通じてablyタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abstract-automation": {
+    "name": "abstract-automation",
+    "description": "Rube MCP（Composio）を通じてAbstractタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abuselpdb-automation": {
+    "name": "abuselpdb-automation",
+    "description": "Rube MCP（Composio）を通じてAbuselpdbタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abyssale-automation": {
+    "name": "abyssale-automation",
+    "description": "Rube MCP（Composio）を通じてAbyssaleタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "TingxiYu/academic-figure-skill:academic-figure-skill": {
+    "name": "academic-figure-skill",
+    "description": "Nature／Cell／Science誌向けの学術レベルの科学図作成スキルです。論文投稿のために科学図の作成、修正、レビュー、またはエクスポートを求められた場合に使用してください。インタラクティブなダッシュボード（Plotly／Bokeh／Altair）、出版意図のない探索的データ分析、数学関数のグラフ、円グラフ／3Dチャート、PowerPointスライド、またはIllustrator／Figma-firstデザインには適用しないでください。統計検定、データクリーニング、文献レビュー、コードデバッグに関するリクエストはスキップしてください—これらは図作成タスクではありません。"
+  },
+  "anthropics/skills:skills/academy-guide": {
+    "name": "academy-guide",
+    "description": "Stop and check this skill before finishing any reply to a question about how to use Claude or a Claude product — it recommends matching courses, tutorials, and use cases from Claude Academy (academy.claude.com), Anthropic's learning hub. Trigger on: \"how do I\", \"how can I\", \"getting started with\", \"what can Claude do\", \"teach me\", \"learn to use\"; questions about artifacts, projects, skills, plugins, connectors, MCP; requests about rolling Claude out to a team, class, or organization; and any ask for training materials, onboarding content, or learning resources. Use it when the user is learning how to use a feature or product — not when they are mid-task and just want the task done. This skill composes with other skills: after consulting product documentation to answer how a Claude feature works, also check here for a matching course or tutorial — a docs-grounded answer and an Academy recommendation belong together. Only recommend on a strong match; never invent Academy content."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/accelo-automation": {
+    "name": "accelo-automation",
+    "description": "Rube MCP（Composio）を通じてAcceloタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/accredible-certificates-automation": {
+    "name": "accredible-certificates-automation",
+    "description": "Rube MCP（Composio）を通じてAccredible Certificatesタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/acculynx-automation": {
+    "name": "acculynx-automation",
+    "description": "Rube MCP（Composio）を通じてAcculynxタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/active-campaign-automation": {
+    "name": "active-campaign-automation",
+    "description": "Rube MCP（Composio）を通じてActiveCampaignタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/addresszen-automation": {
+    "name": "addresszen-automation",
+    "description": "Rube MCP（Composio）を通じてAddresszenタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adobe-automation": {
+    "name": "adobe-automation",
+    "description": "Rube MCP（Composio）を通じてAdobeタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adrapid-automation": {
+    "name": "adrapid-automation",
+    "description": "Rube MCP（Composio）を通じてAdrapidタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adyntel-automation": {
+    "name": "adyntel-automation",
+    "description": "Rube MCP（Composio）を通じてAdyntelタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aero-workflow-automation": {
+    "name": "aero-workflow-automation",
+    "description": "Rube MCP（Composio）を通じてAero Workflowタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aeroleads-automation": {
+    "name": "aeroleads-automation",
+    "description": "Rube MCP（Composio）を通じてAeroleadsタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/affinda-automation": {
+    "name": "affinda-automation",
+    "description": "Rube MCP（Composio）を通じてAffindaタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/affinity-automation": {
+    "name": "アフィニティ自動化",
+    "description": "Rube MCP（Composio）を通じてアフィニティのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agencyzoom-automation": {
+    "name": "agencyzoom-automation",
+    "description": "Rube MCP（Composio）を通じてAgencyzoomのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agent-mail-automation": {
+    "name": "agent-mail-automation",
+    "description": "Rube MCP（Composio）を通じてAgent Mailのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agentql-automation": {
+    "name": "agentql-automation",
+    "description": "Rube MCP（Composio）を通じてAgentqlのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agenty-automation": {
+    "name": "agenty-automation",
+    "description": "Rube MCP（Composio）を通じてAgentyのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agiled-automation": {
+    "name": "agiled-automation",
+    "description": "Rube MCP（Composio）を通じてAgiledのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agility-cms-automation": {
+    "name": "agility-cms-automation",
+    "description": "Rube MCP（Composio）を通じてAgility CMSのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ai-ml-api-automation": {
+    "name": "ai-ml-api-automation",
+    "description": "Rube MCP（Composio）を通じてAI・ML APIのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aivoov-automation": {
+    "name": "aivoov-automation",
+    "description": "Rube MCP（Composio）を通じてAivoovのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alchemy-automation": {
+    "name": "alchemy-automation",
+    "description": "Rube MCP（Composio）を通じてAlchemyのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/algodocs-automation": {
+    "name": "algodocs-automation",
+    "description": "Rube MCP（Composio）を通じてAlgodocsのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/algolia-automation": {
+    "name": "algolia-automation",
+    "description": "Rube MCP（Composio）を通じてAlgoliaのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "anthropics/skills:skills/algorithmic-art": {
+    "name": "algorithmic-art",
+    "description": "種子による乱数とインタラクティブなパラメータ探索を用いたp5.jsによるアルゴリズムアートの制作。ユーザーがコードによるアート作成、ジェネレーティブアート、アルゴリズムアート、フローフィールド、パーティクルシステムなどの要望を出した際に使用してください。著作権侵害を避けるため、既存アーティストの作品を模倣するのではなく、独自のアルゴリズムアートを作成してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/all-images-ai-automation": {
+    "name": "all-images-ai-automation",
+    "description": "Rube MCP（Composio）を通じてAll Images AIのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alpha-vantage-automation": {
+    "name": "alpha-vantage-automation",
+    "description": "Rube MCP（Composio）を通じてAlpha Vantageのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/altoviz-automation": {
+    "name": "altoviz-automation",
+    "description": "Rube MCP（Composio）を通じてAltovizのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alttext-ai-automation": {
+    "name": "alttext-ai-automation",
+    "description": "Rube MCP（Composio）を通じてAlttext AIのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amara-automation": {
+    "name": "amara-automation",
+    "description": "Rube MCP（Composio）を通じてAmaraのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amazon-automation": {
+    "name": "amazon-automation",
+    "description": "Rube MCP（Composio）を通じてAmazonのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ambee-automation": {
+    "name": "ambee-automation",
+    "description": "Rube MCP（Composio）を通じてAmbeeのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ambient-weather-automation": {
+    "name": "ambient-weather-automation",
+    "description": "Rube MCP（Composio）を通じてAmbient Weatherのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amcards-automation": {
+    "name": "amcards-automation",
+    "description": "Rube MCP（Composio）を通じてAmcardsのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/analog-found-footage-horror": {
+    "name": "analog-found-footage-horror",
+    "description": "Blenderショットにおけるカメラの不具合やドキュメンタリー的なフレーミングを含む、アナログ、VHS、CRT、およびファウンドフッテージホラーの美学。"
+  },
+  "arjun988/blender-skills:.cursor/skills/analog-found-footage-horror": {
+    "name": "analog-found-footage-horror",
+    "description": "Blenderショットにおけるカメラの不具合やドキュメンタリー的なフレーミングを含む、アナログ、VHS、CRT、およびファウンドフッテージホラーの美学。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anchor-browser-automation": {
+    "name": "anchor-browser-automation",
+    "description": "Rube MCP（Composio）を通じてAnchor Browserのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "emilkowalski/skills:skills/animate": {
+    "name": "animate",
+    "description": "ゼロからアニメーションを構築し、それが適切かどうかを決定する順序で判断を行います — そもそもアニメーションさせるべきか、目的は何か、どのツールを使うか、どのプロパティを操作するか、どのカーブと持続時間を選ぶか、どのように中断するか、どのように終了するか。実装も行います。何かをアニメーションさせたい、動きを加えたい、コンポーネントに生命感を与えたい、またはトランジションを作りたいという要望がある場合に使用してください。既存のモーションを評価する場合はreview-animationsを、コード全体を監査する場合はimprove-animationsを使用してください。"
+  },
+  "emilkowalski/skills:skills/animate-expo": {
+    "name": "animate-expo",
+    "description": "React NativeおよびExpoでアニメーションを構築し、それが適切かどうかを決定する順序で判断を行います — アニメーションさせるべきか、どのスレッドで実行するか、どのプロパティを操作するか、スプリングかタイミングか、ジェスチャーがどのように引き継ぐか、劣化はどうするか。Reanimated、Gesture Handler、Expo Router、expo-hapticsを用いて実装を記述します。Expoアプリ内で何かをアニメーションさせたい、ジェスチャー、シート、画面遷移、プレスフィードバックや触覚を追加したい、またはデバイス上でカクつくモーションを修正したい場合に使用してください。Webアニメーションの場合は`animate`を使用してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/animation": {
+    "name": "animation",
+    "description": "Blenderでのゲーム対応アニメーションを含み、歩行/走行/アイドルサイクル、戦闘、機械的アニメーション、カメラアニメーション、制約、Graph Editor、NLAワークフローなどをMCP経由で実現します。"
+  },
+  "arjun988/blender-skills:.cursor/skills/animation": {
+    "name": "animation",
+    "description": "Blenderでのゲーム対応アニメーションを含み、歩行/走行/アイドルサイクル、戦闘、機械的アニメーション、カメラアニメーション、制約、Graph Editor、NLAワークフローなどをMCP経由で実現します。"
+  },
+  "emilkowalski/skills:skills/animation-performance": {
+    "name": "animation-performance",
+    "description": "Webアニメーションをフレームバジェット内に収める — コンポジット専用のプロパティのみをアニメーションさせ、ページがビジー状態の際にはメインスレッド以外で動作させ、アニメーションがフレーム落ちする原因を特定します。アニメーションがカクカクする、途切れる、もたつく、またはフレーム落ちする場合；どのプロパティをアニメーションさせるかを選択する場合；パフォーマンス面からCSSアニメーションとJSアニメーションのどちらを選ぶかを決める場合；または`will-change`やGPUレイヤーに手を伸ばす場合に使用してください。イージング、持続時間、あるいはそもそもアニメーションさせるべきかを決める場合はanimateを使用し、モーション全体を見直す場合はreview-animationsを使用してください。"
+  },
+  "emilkowalski/skills:skills/animation-vocabulary": {
+    "name": "animation-vocabulary",
+    "description": "Webアニメーションやモーションエフェクトの曖昧な説明から正確な用語へ変換する逆引き用語集（\"ポップオーバー開くときの跳ねるやつ\" → Pop in；\"ゴムバンド式スクロールiOS → Rubber-banding）。ユーザーが\"「…って何て言うんですか？」と尋ねたり、名前を知らずにモーションエフェクトを説明してAIやデザイナーに正しい言葉を促したい場合に使用してください。エフェクトをデザインしたり構築するのではなく、命名する場合に使用してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/anime-style": {
+    "name": "anime-style",
+    "description": "Blender向けのアニメおよびセルシェードアートディレクションで、強烈な色の区切り、トゥーンシェーダー、クリーンなシルエット、そしてアニメの比率言語を採用します。"
+  },
+  "arjun988/blender-skills:.cursor/skills/anime-style": {
+    "name": "anime-style",
+    "description": "Blender向けのアニメおよびセルシェードアートディレクションで、強烈な色の区切り、トゥーンシェーダー、クリーンなシルエット、そしてアニメの比率言語を採用します。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anonyflow-automation": {
+    "name": "anonyflow-automation",
+    "description": "Rube MCP（Composio）を通じてAnonyflowのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anthropic-administrator-automation": {
+    "name": "anthropic-administrator-automation",
+    "description": "Rube MCP（Composio）を通じてAnthropic Adminのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anthropic_administrator-automation": {
+    "name": "anthropic_administrator-automation",
+    "description": "Rube MCP（Composio）を通じてAnthropic Adminのタスクを自動化します：APIキー、使用状況、ワークスペース、および組織管理。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apaleo-automation": {
+    "name": "apaleo-automation",
+    "description": "Rube MCP（Composio）を通じてApaleoのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apex27-automation": {
+    "name": "apex27-automation",
+    "description": "Rube MCP（Composio）を通じてApex27のタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-bible-automation": {
+    "name": "api-bible-automation",
+    "description": "Rube MCP（Composio）を通じてAPI Bibleのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-labz-automation": {
+    "name": "api-labz-automation",
+    "description": "Rube MCP（Composio）を通じてAPI Labzのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-ninjas-automation": {
+    "name": "api-ninjas-automation",
+    "description": "Rube MCP（Composio）を通じてAPI Ninjasのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-sports-automation": {
+    "name": "api-sports-automation",
+    "description": "Rube MCP（Composio）を通じてAPI Sportsのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api2pdf-automation": {
+    "name": "api2pdf-automation",
+    "description": "Rube MCP（Composio）を通じてApi2pdfのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apiflash-automation": {
+    "name": "apiflash-automation",
+    "description": "Rube MCP（Composio）を通じてApiflashのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apilio-automation": {
+    "name": "apilio-automation",
+    "description": "Rube MCP（Composio）を通じてApilioのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apipie-ai-automation": {
+    "name": "apipie-ai-automation",
+    "description": "Rube MCP（Composio）を通じてApipie AIのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apitemplate-io-automation": {
+    "name": "apitemplate-io-automation",
+    "description": "Rube MCP（Composio）を通じてApitemplate IOのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apiverve-automation": {
+    "name": "apiverve-automation",
+    "description": "Rube MCP（Composio）を通じてApiverveのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/apocalypse-worlds": {
+    "name": "apocalypse-worlds",
+    "description": "Blender向けの黙示録的・ディストピア的世界観のアートディレクションで、ポストアポカリプス、ゾンビ、エイリアン侵略、ポストヒューマン、ディストピア、ユートピアの対照セットを含みます。"
+  },
+  "arjun988/blender-skills:.cursor/skills/apocalypse-worlds": {
+    "name": "apocalypse-worlds",
+    "description": "Blender向けの黙示録的・ディストピア的世界観のアートディレクションで、ポストアポカリプス、ゾンビ、エイリアン侵略、ポストヒューマン、ディストピア、ユートピアの対照セットを含みます。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appcircle-automation": {
+    "name": "appcircle-automation",
+    "description": "Rube MCP（Composio）を通じてAppcircleのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appdrag-automation": {
+    "name": "appdrag-automation",
+    "description": "Rube MCP（Composio）を通じてAppdragのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "emilkowalski/skills:skills/apple-design": {
+    "name": "apple-design",
+    "description": "Appleのインターフェースデザインと流動的な物理的動きをWeb向けに再現したものです。ジェスチャー駆動UI、スプリングアニメーション、ドラッグ／スワイプ／シートインタラクション、モメンタムや中断可能なトランジション、半透明素材と奥行き感、タイポグラフィ（光学的サイズ調整、トラッキング、リーディング）、モーション低減、またはAppleスタイルのインターフェースの背後にある設計原則（フィードバック、空間的一貫性、抑制）を構築またはレビューする際にご使用ください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appointo-automation": {
+    "name": "appointo-automation",
+    "description": "Rube MCP（Composio）を通じてAppointoのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appsflyer-automation": {
+    "name": "appsflyer-automation",
+    "description": "Rube MCP（Composio）を通じてAppsflyerのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appveyor-automation": {
+    "name": "appveyor-automation",
+    "description": "Rube MCP（Composio）を通じてAppveyorのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/archviz": {
+    "name": "archviz",
+    "description": "Blenderにおける建築ビジュアライゼーションで、実世界スケール、カメラ構図、PBRマテリアル、静止画／アニメーション出力をMCP経由で提供します。"
+  },
+  "arjun988/blender-skills:.cursor/skills/archviz": {
+    "name": "archviz",
+    "description": "Blenderにおける建築ビジュアライゼーションで、実世界スケール、カメラ構図、PBRマテリアル、静止画／アニメーション出力をMCP経由で提供します。"
+  },
+  "ComposioHQ/awesome-claude-skills:artifacts-builder": {
+    "name": "artifacts-builder",
+    "description": "現代的なフロントエンドWeb技術（React、Tailwind CSS、shadcn/ui）を用いた、複雑で多コンポーネントなclaude.ai HTMLアーティファクトを作成するためのツールスイートです。ステート管理、ルーティング、またはshadcn/uiコンポーネントを必要とする複雑なアーティファクトにご利用ください。単純な単一ファイルのHTML/JSXアーティファクトには適していません。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aryn-automation": {
+    "name": "aryn-automation",
+    "description": "Rube MCP（Composio）を通じてArynのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ascora-automation": {
+    "name": "ascora-automation",
+    "description": "Rube MCP（Composio）を通じてAscoraのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/asin-data-api-automation": {
+    "name": "asin-data-api-automation",
+    "description": "Rube MCP（Composio）を通じてAsin Data APIのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "emilkowalski/skills:skills/ask-emil": {
+    "name": "ask-emil",
+    "description": "あなたの状況に合ったスキルやフローを尋ねる機能です。このリポジトリ内のスキルをルーティングする役割を果たします。"
+  },
+  "emilkowalski/skills:skills/ask-sonner": {
+    "name": "ask-sonner",
+    "description": "Sonner、すなわちReactトーストライブラリに関するガイドです。Toasterのインストールと設定、適切なtoast()呼び出しの選択、Promiseおよびローディング中のトースト、トーストの更新・消去・永続化、スタイリング、テーマ設定およびアイコン、位置指定、複数のトーストの同時表示について解説しています。Sonnerの使用時やトラブルシューティング（トーストが表示されない、二重に表示される、スタイルが失われる、Tailwindクラスが無視される、モーダルの背後に隠れる、ダークモードに対応しないなど）にご利用ください。"
+  },
+  "arjun988/blender-skills:.claude/skills/asset-optimization": {
+    "name": "asset-optimization",
+    "description": "Blenderアセットのポリカウント、トポロジー、UV効率、マテリアル数、命名規則、コレクション、およびゲーム対応パフォーマンスを検証し最適化します。すべての本番アセットをエクスポート前にMCP経由でご利用ください。"
+  },
+  "arjun988/blender-skills:.cursor/skills/asset-optimization": {
+    "name": "asset-optimization",
+    "description": "Blenderアセットのポリカウント、トポロジー、UV効率、マテリアル数、命名規則、コレクション、およびゲーム対応パフォーマンスを検証し最適化します。すべての本番アセットをエクスポート前にMCP経由でご利用ください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/astica-ai-automation": {
+    "name": "astica-ai-automation",
+    "description": "Rube MCP（Composio）を通じてAstica AIタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/async-interview-automation": {
+    "name": "async-interview-automation",
+    "description": "Rube MCP（Composio）を通じてAsync Interviewタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/atlassian-automation": {
+    "name": "atlassian-automation",
+    "description": "Rube MCP（Composio）を通じてAtlassianタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/auth0-automation": {
+    "name": "auth0-automation",
+    "description": "Rube MCP（Composio）を通じてAuth0タスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/autobound-automation": {
+    "name": "autobound-automation",
+    "description": "Rube MCP（Composio）を通じてAutoboundタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/autom-automation": {
+    "name": "autom-automation",
+    "description": "Rube MCP（Composio）を通じてAutomタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/axonaut-automation": {
+    "name": "axonaut-automation",
+    "description": "Rube MCP（Composio）を通じてAxonautタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ayrshare-automation": {
+    "name": "ayrshare-automation",
+    "description": "Rube MCP（Composio）を通じてAyrshareタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/backendless-automation": {
+    "name": "backendless-automation",
+    "description": "Rube MCP（Composio）を通じてBackendlessタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bannerbear-automation": {
+    "name": "bannerbear-automation",
+    "description": "Rube MCP（Composio）を通じてBannerbearタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-article-illustrator": {
+    "name": "baoyu-article-illustrator",
+    "description": "記事構造を分析し、視覚補助が必要な箇所を特定し、Type × Style × Palette の三次元アプローチでイラストを生成します。ユーザーが「\"articleにイラストを付ける\"」「\"画像を追加する\"」「\"記事用画像を生成する\"」または「\"文章に画像を添える\"」と依頼した際に使用します。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-comic": {
+    "name": "baoyu-comic",
+    "description": "複数のアートスタイルとトーンに対応した知識漫画クリエーターです。詳細なコマレイアウトとバッチ処理可能な画像生成機能を備えたオリジナルの教育漫画を作成します。ユーザーが「\"知識漫画\"」「\"教育漫画\"」「\"伝記漫画\"」「\"チュートリアル漫画\"」または「\"Logicomix風漫画\"」を作成するよう依頼した際に使用します。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-compress-image": {
+    "name": "baoyu-compress-image",
+    "description": "自動ツール選択により、画像をWebP（デフォルト）またはPNGに圧縮します。ユーザーが「\"imageを圧縮する\"」「\"imageを最適化する\"」「\"webpに変換する\"」または画像ファイルサイズを削減するよう依頼した際に使用します。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-cover-image": {
+    "name": "baoyu-cover-image",
+    "description": "5つの次元（タイプ、パレット、レンダリング、テキスト、ムード）を組み合わせ、11種類のカラーパレットと7種類のレンダリングスタイルを活用して記事の表紙画像を生成します。シネマティック（2.35:1）、ワイドスクリーン（16:9）、正方形（1:1）のアスペクト比に対応しています。ユーザーが「\"cover imageを生成する\"」「\"article coverを制作する\"」または「\"coverを作る\"」と依頼した際に使用します。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-danger-gemini-web": {
+    "name": "baoyu-danger-gemini-web",
+    "description": "逆エンジニアリングされたGemini Web APIを通じて画像とテキストを生成します。テキスト生成、プロンプトからの画像生成、ビジョン入力用の参照画像、およびマルチターン対話をサポートしています。他のスキルで画像生成バックエンドが必要な場合や、ユーザーが「\"Geminiで画像を生成する\"」「\"Geminiによるテキスト生成\"」またはビジョン対応AIによる生成を求める際に使用します。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-danger-x-to-markdown": {
+    "name": "baoyu-danger-x-to-markdown",
+    "description": "X（Twitter）のツイートや記事をYAMLフロントマター付きのMarkdownに変換します。ユーザーの同意を必要とする逆エンジニアリングAPIを使用します。ユーザーが「\"XをMarkdownに変換する\"」「\"tweetをMarkdownに変換する\"」「\"tweetを保存する\"」またはx.com/twitter.comURLを提供して変換を依頼した際に使用します。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-diagram": {
+    "name": "baoyu-diagram",
+    "description": "CSSカスタムプロパティを介してダーク/ライトテーマを設定可能なプロフェッショナルなダイアグラムを作成します。ユーザーが技術的または概念的なダイアグラム、システムの可視化、プロセスフロー、データフロー、コンポーネント関係、ネットワークトポロジー、意思決定木、組織図、ステートマシン、または構造・論理・プロセスのあらゆる視覚表現を求めた際にこのスキルを使用してください。また、ユーザーが「\"画个图\"」「\"架构图を描く\"」「\"diagramを描く\"」「\"flowchartを描く\"」「\"sequence diagramを描く\"」「\"draw me a ...\"」またはコンテンツをアップロードして可視化を依頼した際にも作動します。各々についてダークテーマのSVG、ライトテーマのSVG、および@2xのPNGを出力します。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-electron-extract": {
+    "name": "baoyu-electron-extract",
+    "description": "インストール済みのElectronアプリ（JavaScriptbundle）からリソースと`.asar`を抽出し、利用可能な場合は`.js.map`ファイルから元のソースを復元し、そうでない場合はPrettierで縮小コードを整形します。ユーザーが「\"extract Electron app\"」「\"decompile Electron\"」「\"get the source code of <app>\"」「\"inspect app.asar\"」「\"看 Electron 应用源码\"」「\"提取 .asar\"」またはデスクトップElectronアプリの構築方法を尋ねた際に使用します。`node_modules`はスキップし、macOSおよびWindowsの両方をサポートします。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-format-markdown": {
+    "name": "baoyu-format-markdown",
+    "description": "フロントマター、タイトル、要約、見出し、太字、リスト、コードブロックを含むプレーンテキストまたはMarkdownファイルを整形します。ユーザーが「\"format markdown\"」「\"beautify article\"」「\"add formatting\"」または記事のレイアウト改善を求めた際に使用します。出力は{filename}-formatted.mdとなります。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-image-gen": {
+    "name": "baoyu-image-gen",
+    "description": "AI image generation with OpenAI GPT Image 2.5, Azure OpenAI, Google, OpenRouter, DashScope, Z.AI GLM-Image, MiniMax, Jimeng, Seedream, Replicate and Agnes APIs. Supports text-to-image, reference images, aspect ratios, and batch generation from saved prompt files. Sequential by default; use batch parallel generation when the user already has multiple prompts or wants stable multi-image throughput. Use when user asks to generate, create, or draw images."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-infographic": {
+    "name": "baoyu-infographic",
+    "description": "21種類のレイアウトタイプと22種類のビジュアルスタイルを備えたプロフェッショナルなインフォグラフィックを生成します。コンテンツを分析し、レイアウト×スタイルの組み合わせを提案し、出版物に適したインフォグラフィックを生成します。ユーザーが「\"infographic\"」「\"信息图\"」「\"visual summary\"」「\"可视化\"」または「\"高密度信息大图\"」を作成するよう依頼した際に使用します。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-markdown-to-html": {
+    "name": "baoyu-markdown-to-html",
+    "description": "MarkdownをWeChat互換テーマ付きのスタイリッシュなHTMLに変換します。コードハイライト、数学、Mermaid（ヘッドレスChrome経由でPNGにレンダリング）、PlantUML、脚注、アラート、インフォグラフィック、および外部リンク用のオプション下部引用をサポートしています。ユーザーが「\"markdown to html\"」「\"convert md to html\"」「\"md 转 html\"」「\"微信外链转底部引用\"」またはMarkdownからのスタイリッシュなHTML出力を求めた際に使用します。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-podcast-summary": {
+    "name": "baoyu-podcast-summary",
+    "description": "ポッドキャスト、インタビュー、パネル、その他の会話の文字起こしを、ユーザーの希望言語で書かれた客観的で読者第一の要約にまとめます。残しておく価値のある要点を簡潔に提示し、明確な発言者表示で忠実に再現し、独自の意見は一切加えません。貼り付けられた文字起こし、文字起こしファイル、またはYouTube URL（baoyu-youtube-transcript経由で取得）を受け取り、文脈から無名の発言者を推測し、ウェブ検索で名前を確認して背景情報を補充します。ユーザーが文字起こしやポッドキャスト／インタビューのリンクを提供し、「\"summarize this podcast\"」「\"podcast summary\"」「\"interview summary\"」「\"key takeaways\"」「\"总结播客\"」「\"播客总结\"」「\"访谈总结\"」「\"总结一下这期播客\"」「\"总结这个访谈\"」またはYouTubeインタビューを共有し、生の文字起こしではなく書面での要約を希望する際に使用します。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-wechat": {
+    "name": "baoyu-post-to-wechat",
+    "description": "APIまたはChrome CDP経由でWeChat公式アカウント（微信公众号）にコンテンツを投稿します。HTML、Markdown、またはプレーンテキスト入力による記事投稿（文章）と、複数の画像を含む画像・テキスト投稿（贴图、旧称图文）をサポートしています。Markdown記事ワークフローでは、通常の外部リンクをWeChatフレンドリーな出力向けに下部引用へ変換することがデフォルト設定になっています。ユーザーが「\"发布公众号\"」「\"post to wechat\"」「\"微信公众号\"」または「\"贴图/图文/文章\"」と言及した際に使用します。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-weibo": {
+    "name": "baoyu-post-to-weibo",
+    "description": "Weibo（微博）にコンテンツを投稿します。テキスト、画像、動画を含む通常投稿と、Chrome CDP経由でMarkdown入力によるヘッドライン記事（头条文章）をサポートしています。ユーザーが「\"post to Weibo\"」「\"发微博\"」「\"发布微博\"」「\"publish to Weibo\"」「\"share on Weibo\"」「\"写微博\"」または「\"微博头条文章\"」と依頼した際に使用します。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-x": {
+    "name": "baoyu-post-to-x",
+    "description": "X（Twitter）にコンテンツや記事を投稿します。画像／動画を含む通常投稿と、X Articles（長文Markdown）をサポートしています。Codexでは、Codex Chromeプラグイン/@chromeへの明示的要請を尊重し、Chrome Extensionワークフローを使用します。それ以外の場合はChrome Computer Useを利用し、許可がある場合に限り本物のChrome CDPスクリプトにフォールバックします。ユーザーが「\"post to X\"」「\"tweet\"」「\"publish to Twitter\"」または「\"share on X\"」と依頼した際に使用します。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-slide-deck": {
+    "name": "baoyu-slide-deck",
+    "description": "コンテンツからプロフェッショナルなスライドデッキ画像を生成します。スタイル指示を含むアウトラインを作成し、その後個々のスライド画像を生成します。ユーザーが「\"create slides\"」「\"make a presentation\"」「\"generate deck\"」「\"slide deck\"」または「\"PPT\"」と依頼した際に使用します。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-translate": {
+    "name": "baoyu-translate",
+    "description": "ユーザーが「\"translate\"」「\"翻译\"」「\"精翻\"」「\"translate article\"」「\"translate to Chinese\"」「\"translate to English\"」「\"改成中文\"」「\"改成英文\"」「\"convert to Chinese\"」「\"localize\"」「\"本地化\"」「\"refined translation\"」「\"精细翻译\"」「\"proofread translation\"」「\"快速翻译\"」「\"快翻\"」「\"这篇文章翻译一下\"」または翻訳意図のあるURL／ファイルを提供した際に使用します。カスタム用語集対応の三つのモード（クイック／ノーマル／リファインド）をサポートしています。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-url-to-markdown": {
+    "name": "baoyu-url-to-markdown",
+    "description": "baoyu-fetch CLI（サイト固有アダプタ付きChrome CDP）を使用して任意のURLを取得し、Markdownに変換します。X／Twitter、YouTube文字起こし、Hacker Newsスレッド、およびDefuddle経由の汎用ページ用のビルトインアダプタを備えています。ログイン／CAPTCHAはインタラクション待機モードで処理します。ユーザーがウェブページをMarkdownとして保存したい際に使用します。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-wechat-summary": {
+    "name": "baoyu-wechat-summary",
+    "description": "Summarizes WeChat group chat highlights into a structured digest using the local wx-cli binary (https://github.com/jackwener/wx-cli). Generates a normal digest by default; a roast (毒舌) version is opt-in. Maintains per-group history (history.json + history-digests.jsonl), per-user profiles, and per-group fact memory (memory.md) across runs, with privacy guardrails baked in. Use when the user asks to \"总结群聊\", \"群聊精华\", \"群聊摘要\", \"summarize group chat\", \"group chat digest\", mentions a WeChat group name with a time range, says \"帮我看看 XX 群最近聊了什么\", \"XX 群有什么值得看的\", or asks to \"回溯画像\" / \"初始化画像\" / \"backfill profiles\". Adds the roast version when the user says \"毒舌版\", \"roast 版\", \"再来个毒舌的\", or similar."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-xhs-images": {
+    "name": "baoyu-xhs-images",
+    "description": "12種類のビジュアルスタイル、8つのレイアウト、3つのカラーパレットを備えたインフォグラフィック画像カードシリーズを生成します。コンテンツをソーシャルメディアでのエンゲージメントに最適化された、1枚から10枚のカートゥーン風画像カードに分割します。ユーザーが \"小红书图片\"、\"小红书种草\"、\"小绿书\"、\"微信图文\"、\"微信贴图\"、\"image cards\"、\"图片卡片\"、baoyu-xhs-images、またはソーシャルメディア向けインフォグラフィックシリーズの作成を求めた場合にご利用ください。"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-youtube-transcript": {
+    "name": "baoyu-youtube-transcript",
+    "description": "URLまたは動画IDに基づいて、YouTube動画の字幕・トランスクリプトおよびサムネイル画像をダウンロードします。多言語対応、翻訳、チャプター機能、スピーカー識別にも対応しています。生データをキャッシュし、迅速な再フォーマットを実現します。ユーザーが \"get YouTube transcript\"、\"download subtitles\"、\"get captions\"、\"YouTube字幕\"、\"YouTube封面\"、\"视频封面\"、\"video thumbnail\"、\"video cover image\"、またはYouTubeのURLを提供し、トランスクリプト／字幕テキストやサムネイル画像の抽出を希望した場合にご利用ください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bart-automation": {
+    "name": "bart-automation",
+    "description": "Rube MCP（Composio）を通じてBartのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/baselinker-automation": {
+    "name": "baselinker-automation",
+    "description": "Rube MCP（Composio）を通じてBaselinkerのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/baserow-automation": {
+    "name": "baserow-automation",
+    "description": "Rube MCP（Composio）を通じてBaserowのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/basin-automation": {
+    "name": "basin-automation",
+    "description": "Rube MCP（Composio）を通じてBasinのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/battlenet-automation": {
+    "name": "battlenet-automation",
+    "description": "Rube MCP（Composio）を通じてBattlenetのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beaconchain-automation": {
+    "name": "beaconchain-automation",
+    "description": "Rube MCP（Composio）を通じてBeaconchainのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beaconstac-automation": {
+    "name": "beaconstac-automation",
+    "description": "Rube MCP（Composio）を通じてBeaconstacのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beamer-automation": {
+    "name": "beamer-automation",
+    "description": "Rube MCP（Composio）を通じてBeamerのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beeminder-automation": {
+    "name": "beeminder-automation",
+    "description": "Rube MCP（Composio）を通じてBeeminderのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bench-automation": {
+    "name": "bench-automation",
+    "description": "Rube MCP（Composio）を通じてBenchのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/benchmark-email-automation": {
+    "name": "benchmark-email-automation",
+    "description": "Rube MCP（Composio）を通じてBenchmark Emailのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/benzinga-automation": {
+    "name": "benzinga-automation",
+    "description": "Rube MCP（Composio）を通じてBenzingaのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bestbuy-automation": {
+    "name": "bestbuy-automation",
+    "description": "Rube MCP（Composio）を通じてBestbuyのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/better-proposals-automation": {
+    "name": "better-proposals-automation",
+    "description": "Rube MCP（Composio）を通じてBetter Proposalsのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/better-stack-automation": {
+    "name": "better-stack-automation",
+    "description": "Rube MCP（Composio）を通じてBetter Stackのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bidsketch-automation": {
+    "name": "bidsketch-automation",
+    "description": "Rube MCP（Composio）を通じてBidsketchのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/big-data-cloud-automation": {
+    "name": "big-data-cloud-automation",
+    "description": "Rube MCP（Composio）を通じてBig Data Cloudのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigmailer-automation": {
+    "name": "bigmailer-automation",
+    "description": "Rube MCP（Composio）を通じてBigmailerのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigml-automation": {
+    "name": "bigml-automation",
+    "description": "Rube MCP（Composio）を通じてBigmlのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigpicture-io-automation": {
+    "name": "bigpicture-io-automation",
+    "description": "Rube MCP（Composio）を通じてBigpicture IOのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/biome-worlds": {
+    "name": "biome-worlds",
+    "description": "Blenderに対応する水中、砂漠、北極、ジャングル、地下、浮遊島などの環境におけるバイオームおよび設定のアートディレクションを行います。"
+  },
+  "arjun988/blender-skills:.cursor/skills/biome-worlds": {
+    "name": "biome-worlds",
+    "description": "Blenderに対応する水中、砂漠、北極、ジャングル、地下、浮遊島などの環境におけるバイオームおよび設定のアートディレクションを行います。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bitquery-automation": {
+    "name": "bitquery-automation",
+    "description": "Rube MCP（Composio）を通じてBitqueryのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bitwarden-automation": {
+    "name": "bitwarden-automation",
+    "description": "Rube MCP（Composio）を通じてBitwardenのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blackbaud-automation": {
+    "name": "blackbaud-automation",
+    "description": "Rube MCP（Composio）を通じてBlackbaudのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blackboard-automation": {
+    "name": "blackboard-automation",
+    "description": "Rube MCP（Composio）を通じてBlackboardのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/blender-director": {
+    "name": "blender-director",
+    "description": "Blenderのアセット制作を開始する際、プロダクションパイプラインを計画する際、複数の分野を調整する際、または参照写真／コンセプトアートと一致させる際に使用します。ゲーム用アセット、ハードサーフェス、環境、キャラクター、クリーチャー、エクスポート、または多技能を要する任意のBlenderワークフローに対して呼び出してください。"
+  },
+  "arjun988/blender-skills:.cursor/skills/blender-director": {
+    "name": "blender-director",
+    "description": "Blenderのアセット制作を開始する際、プロダクションパイプラインを計画する際、複数の分野を調整する際、または参照写真／コンセプトアートと一致させる際に使用します。ゲーム用アセット、ハードサーフェス、環境、キャラクター、クリーチャー、エクスポート、または多技能を要する任意のBlenderワークフローに対して呼び出してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/blender-modeler": {
+    "name": "blender-modeler",
+    "description": "Core Blenderモデリングスペシャリストで、編集モード、モディファイアー、コレクション、精密モデリング、シーン整理に対応します。一般的な3Dモデリング、ブロックアウト、クリーンアップ、非破壊ワークフロー、およびBlenderにおけるシーン構造のため、MCP経由でご利用ください。"
+  },
+  "arjun988/blender-skills:.cursor/skills/blender-modeler": {
+    "name": "blender-modeler",
+    "description": "Core Blenderモデリングスペシャリストで、編集モード、モディファイアー、コレクション、精密モデリング、シーン整理に対応します。一般的な3Dモデリング、ブロックアウト、クリーンアップ、非破壊ワークフロー、およびBlenderにおけるシーン構造のため、MCP経由でご利用ください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blocknative-automation": {
+    "name": "blocknative-automation",
+    "description": "Rube MCP（Composio）を通じてBlocknativeのタスクを自動化します。最新のスキーマについては、必ず最初にツールを検索してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/body-horror-style": {
+    "name": "ボディホラー風",
+    "description": "Blender向けのボディホラー系アートディレクションで、肉体の異常さ、変異、融合、そして生々しい物質感を重視したストーリーテリングを追求します。"
+  },
+  "arjun988/blender-skills:.cursor/skills/body-horror-style": {
+    "name": "ボディホラー風",
+    "description": "Blender向けのボディホラー系アートディレクションで、肉体の異常さ、変異、融合、そして生々しい物質感を重視したストーリーテリングを追求します。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boldsign-automation": {
+    "name": "boldsign-automation",
+    "description": "Rube MCP（Composio）を通じてBoldsignのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bolna-automation": {
+    "name": "bolna-automation",
+    "description": "Rube MCP（Composio）を通じてBolnaのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boloforms-automation": {
+    "name": "boloforms-automation",
+    "description": "Rube MCP（Composio）を通じてBoloformsのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bolt-iot-automation": {
+    "name": "bolt-iot-automation",
+    "description": "Rube MCP（Composio）を通じてBolt IoTのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bonsai-automation": {
+    "name": "bonsai-automation",
+    "description": "Rube MCP（Composio）を通じてBonsaiのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "virgiliojr94/book-to-skill:book-to-skill": {
+    "name": "book-to-skill",
+    "description": "地元ファイル（PDF、EPUB、DOCX、HTML、Markdown、TXT、RTF、MOBI/AZW）またはリモートのMCPブックサーチ（`/book-to-skill search <query>`）から、書籍や文書を構造化されたエージェントスキルへ変換し、フレームワーク、メンタルモデル、原則、テクニック、アンチパターンを抽出します。ドキュメントを学習したり、著者のフレームワークを適用するには、GitHub Copilot CLI、Amp、Claude Code、Hermes Agent、OpenCode、またはOpenClawを使用してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bookingmood-automation": {
+    "name": "bookingmood-automation",
+    "description": "Rube MCP（Composio）を通じてBookingmoodのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/booqable-automation": {
+    "name": "booqable-automation",
+    "description": "Rube MCP（Composio）を通じてBooqableのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/borneo-automation": {
+    "name": "borneo-automation",
+    "description": "Rube MCP（Composio）を通じてBorneoのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botbaba-automation": {
+    "name": "botbaba-automation",
+    "description": "Rube MCP（Composio）を通じてBotbabaのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botpress-automation": {
+    "name": "botpress-automation",
+    "description": "Rube MCP（Composio）を通じてBotpressのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botsonic-automation": {
+    "name": "botsonic-automation",
+    "description": "Rube MCP（Composio）を通じてBotsonicのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botstar-automation": {
+    "name": "botstar-automation",
+    "description": "Rube MCP（Composio）を通じてBotstarのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bouncer-automation": {
+    "name": "bouncer-automation",
+    "description": "Rube MCP（Composio）を通じてBouncerのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boxhero-automation": {
+    "name": "boxhero-automation",
+    "description": "Rube MCP（Composio）を通じてBoxheroのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "anthropics/skills:skills/brand-guidelines": {
+    "name": "brand-guidelines",
+    "description": "Anthropicの公式ブランドカラーとタイポグラフィーを、Anthropicらしいビジュアル・ルック＆フィールが適しているあらゆる種類のアーティファクトに適用します。ブランドカラーまたはスタイルガイドライン、ビジュアルフォーマット、あるいは企業デザイン基準が適用される場合にご利用ください。"
+  },
+  "ComposioHQ/awesome-claude-skills:brand-guidelines": {
+    "name": "brand-guidelines",
+    "description": "Anthropicの公式ブランドカラーとタイポグラフィーを、Anthropicらしいビジュアル・ルック＆フィールが適しているあらゆる種類のアーティファクトに適用します。ブランドカラーまたはスタイルガイドライン、ビジュアルフォーマット、あるいは企業デザイン基準が適用される場合にご利用ください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brandfetch-automation": {
+    "name": "brandfetch-automation",
+    "description": "Rube MCP（Composio）を通じてBrandfetchのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "emilkowalski/skills:skills/break-ui": {
+    "name": "break-ui",
+    "description": "最悪ケースのデータ—長い名前、改行不能なメールアドレス、一文字の名前、必須項目の欠落、膨大な数値、ゼロアイテム、長いラベル、非ラテン文字、絵文字、極端な数字—を入力してUIを破壊しようと試み、その後\"Demo data / Worst case\"トグルの背後でレンダリングし、破損箇所をすべて報告し、それぞれの修正方法も提示します。ユーザーがコンポーネントや画面のストレステスト、破壊、エッジケースの探索、または\"最悪ケース\"を試したい場合に使用します。ビジュアルデザインの批評にはemil-design-engを、モーションについてはreview-animationsをご利用ください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/breeze-automation": {
+    "name": "breeze-automation",
+    "description": "Rube MCP（Composio）を通じてBreezeのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/breezy-hr-automation": {
+    "name": "breezy-hr-automation",
+    "description": "Rube MCP（Composio）を通じてBreezy HRのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brex-automation": {
+    "name": "brex-automation",
+    "description": "Rube MCP（Composio）を通じてBrexのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brex-staging-automation": {
+    "name": "brex-staging-automation",
+    "description": "Rube MCP（Composio）を通じてBrex Stagingのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brightdata-automation": {
+    "name": "brightdata-automation",
+    "description": "Rube MCP（Composio）を通じてBrightdataのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brightpearl-automation": {
+    "name": "brightpearl-automation",
+    "description": "Rube MCP（Composio）を通じてBrightpearlのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brilliant-directories-automation": {
+    "name": "brilliant-directories-automation",
+    "description": "Rube MCP（Composio）を通じてBrilliant Directoriesのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browseai-automation": {
+    "name": "browseai-automation",
+    "description": "Rube MCP（Composio）を通じてBrowseaiのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "cexll/myclaude:skills/browser": {
+    "name": "browser",
+    "description": "このスキルは、Chrome DevTools Protocol（CDP）を使用したブラウザ自動化タスクに使用すべきです。ユーザーがリモートデバッグ付きでChromeを起動したり、ページをナビゲートしたり、ブラウザコンテキスト内でJavaScriptを実行したり、スクリーンショットを撮影したり、DOM要素を対話的に選択したりする必要がある場合にトリガーされます。MCPサーバーは不要です。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browser-tool-automation": {
+    "name": "browser-tool-automation",
+    "description": "Rube MCP（Composio）を通じてBrowser Toolのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserbase-tool-automation": {
+    "name": "browserbase-tool-automation",
+    "description": "Rube MCP（Composio）を通じてBrowserbase Toolのタスクを自動化します。現在のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserhub-automation": {
+    "name": "browserhub-automation",
+    "description": "Rube MCP（Composio）を通じてBrowserhubのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserless-automation": {
+    "name": "browserless-automation",
+    "description": "Rube MCP（Composio）を通じてBrowserlessのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/brutalist-mood": {
+    "name": "brutalist-mood",
+    "description": "素コンクリートと記念碑的なスケール、厳粛な構図を持つBlenderの建築やシーン向けのブルータリスト・ムードおよびコンクリート記念碑的ムードのディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/brutalist-mood": {
+    "name": "brutalist-mood",
+    "description": "素コンクリートと記念碑的なスケール、厳粛な構図を持つBlenderの建築やシーン向けのブルータリスト・ムードおよびコンクリート記念碑的ムードのディレクション。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/btcpay-server-automation": {
+    "name": "btcpay-server-automation",
+    "description": "Rube MCP（Composio）を通じてBtcpay Serverのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bubble-automation": {
+    "name": "bubble-automation",
+    "description": "Rube MCP（Composio）を通じてBubbleのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugbug-automation": {
+    "name": "bugbug-automation",
+    "description": "Rube MCP（Composio）を通じてBugbugのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugherd-automation": {
+    "name": "bugherd-automation",
+    "description": "Rube MCP（Composio）を通じてBugherdのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugsnag-automation": {
+    "name": "bugsnag-automation",
+    "description": "Rube MCP（Composio）を通じてBugsnagのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/buildkite-automation": {
+    "name": "buildkite-automation",
+    "description": "Rube MCP（Composio）を通じてBuildkiteのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/builtwith-automation": {
+    "name": "builtwith-automation",
+    "description": "Rube MCP（Composio）を通じてBuiltwithのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bunnycdn-automation": {
+    "name": "bunnycdn-automation",
+    "description": "Rube MCP（Composio）を通じてBunnycdnのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/byteforms-automation": {
+    "name": "byteforms-automation",
+    "description": "Rube MCP（Composio）を通じてByteformsのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cabinpanda-automation": {
+    "name": "cabinpanda-automation",
+    "description": "Rube MCP（Composio）を通じてCabinpandaのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cal-automation": {
+    "name": "cal-automation",
+    "description": "Rube MCP（Composio）を通じてCalのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/calendarhero-automation": {
+    "name": "calendarhero-automation",
+    "description": "Rube MCP（Composio）を通じてCalendarheroのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callerapi-automation": {
+    "name": "callerapi-automation",
+    "description": "Rube MCP（Composio）を通じてCallerapiのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callingly-automation": {
+    "name": "callingly-automation",
+    "description": "Rube MCP（Composio）を通じてCallinglyのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callpage-automation": {
+    "name": "callpage-automation",
+    "description": "Rube MCP（Composio）を通じてCallpageのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/camera-cinematography": {
+    "name": "camera-cinematography",
+    "description": "Cinematic camera work in Blender including framing, lenses, composition, camera animation, and shot language beyond basic rendering setup via MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/camera-cinematography": {
+    "name": "camera-cinematography",
+    "description": "Cinematic camera work in Blender including framing, lenses, composition, camera animation, and shot language beyond basic rendering setup via MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/campaign-cleaner-automation": {
+    "name": "campaign-cleaner-automation",
+    "description": "Rube MCP（Composio）を通じてCampaign Cleanerのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/campayn-automation": {
+    "name": "campayn-automation",
+    "description": "Rube MCP（Composio）を通じてCampaynのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/canny-automation": {
+    "name": "canny-automation",
+    "description": "Rube MCP（Composio）を通じてCannyのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/canvas-automation": {
+    "name": "canvas-automation",
+    "description": "Rube MCP（Composio）を通じてCanvasのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "anthropics/skills:skills/canvas-design": {
+    "name": "canvas-design",
+    "description": "デザイン哲学を用いて.pngおよび.pdfドキュメントに美しいビジュアルアートを作成します。ポスター、アート作品、デザイン、またはその他の静止画の作成をユーザーが依頼した際にこのスキルを使用してください。著作権侵害を避けるため、既存のアーティストの作品を決してコピーしないでください。"
+  },
+  "ComposioHQ/awesome-claude-skills:canvas-design": {
+    "name": "canvas-design",
+    "description": "デザイン哲学を用いて.pngおよび.pdfドキュメントに美しいビジュアルアートを作成します。ポスター、アート作品、デザイン、またはその他の静止画の作成をユーザーが依頼した際にこのスキルを使用してください。著作権侵害を避けるため、既存のアーティストの作品を決してコピーしないでください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/capsule_crm-automation": {
+    "name": "capsule_crm-automation",
+    "description": "Rube MCP（Composio）を通じてCapsule CRMのタスクを自動化します：連絡先、商談、ケース、タスク、およびパイプライン管理。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/carbone-automation": {
+    "name": "carbone-automation",
+    "description": "Rube MCP（Composio）を通じてCarboneのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cardly-automation": {
+    "name": "cardly-automation",
+    "description": "Rube MCP（Composio）を通じてCardlyのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/cartoon-style": {
+    "name": "cartoon-style",
+    "description": "Blender向けのカートゥーン風アートディレクションで、ゲームやアニメーション向けにスクワッシュ＆ストレッチが効いた読みやすい形状、大胆な色彩、グラフィックなシルエットを採用します。"
+  },
+  "arjun988/blender-skills:.cursor/skills/cartoon-style": {
+    "name": "cartoon-style",
+    "description": "Blender向けのカートゥーン風アートディレクションで、ゲームやアニメーション向けにスクワッシュ＆ストレッチが効いた読みやすい形状、大胆な色彩、グラフィックなシルエットを採用します。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/castingwords-automation": {
+    "name": "castingwords-automation",
+    "description": "Rube MCP（Composio）を通じてCastingwordsのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cats-automation": {
+    "name": "cats-automation",
+    "description": "Rube MCP（Composio）を通じてCatsのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cdr-platform-automation": {
+    "name": "cdr-プラットフォーム自動化",
+    "description": "Rube MCP（Composio）を介してCdrプラットフォームのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/census-bureau-automation": {
+    "name": "国勢調査局自動化",
+    "description": "Rube MCP（Composio）を介して国勢調査局のタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/centralstationcrm-automation": {
+    "name": "centralstationcrm-自動化",
+    "description": "Rube MCP（Composio）を介してCentralstationcrmのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/certifier-automation": {
+    "name": "認証者自動化",
+    "description": "Rube MCP（Composio）を介して認証者のタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:changelog-generator": {
+    "name": "チェンジログジェネレーター",
+    "description": "Gitコミットからユーザー向けのチェンジログを自動生成します。コミット履歴を解析し、変更内容を分類、技術的なコミットを分かりやすく顧客向けのリリースノートに変換します。手作業で数時間かかるチェンジログ作成を、わずか数分の自動生成に短縮します。"
+  },
+  "arjun988/blender-skills:.claude/skills/character-archetypes": {
+    "name": "キャラクター・アーキタイプ",
+    "description": "Blender向けのキャラクター・アーキタイプのアートディレクションで、ファンタジー種族、ホラー生物、役割（騎士、暗殺者、探偵）、体型（メカ、アンドロイド、チビなど）を網羅しています。"
+  },
+  "arjun988/blender-skills:.cursor/skills/character-archetypes": {
+    "name": "キャラクター・アーキタイプ",
+    "description": "Blender向けのキャラクター・アーキタイプのアートディレクションで、ファンタジー種族、ホラー生物、役割（騎士、暗殺者、探偵）、体型（メカ、アンドロイド、チビなど）を網羅しています。"
+  },
+  "arjun988/blender-skills:.claude/skills/character-artist": {
+    "name": "キャラクター・アーティスト",
+    "description": "人間の解剖学、様式化、顔面トポロジー、衣装、髪型、アニメーション対応メッシュを備えたAAAクラスのキャラクターモデリングです。ゲームキャラクター、表情、およびBlenderでのプロダクション用キャラクター資産に使用できます。MCP経由で利用可能です。"
+  },
+  "arjun988/blender-skills:.cursor/skills/character-artist": {
+    "name": "キャラクター・アーティスト",
+    "description": "人間の解剖学、様式化、顔面トポロジー、衣装、髪型、アニメーション対応メッシュを備えたAAAクラスのキャラクターモデリングです。ゲームキャラクター、表情、およびBlenderでのプロダクション用キャラクター資産に使用できます。MCP経由で利用可能です。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chaser-automation": {
+    "name": "チェイサー自動化",
+    "description": "Rube MCP（Composio）を介してChaserのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatbotkit-automation": {
+    "name": "chatbotkit-自動化",
+    "description": "Rube MCP（Composio）を介してChatbotkitのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatfai-automation": {
+    "name": "chatfai-自動化",
+    "description": "Rube MCP（Composio）を介してChatfaiのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatwork-automation": {
+    "name": "chatwork-自動化",
+    "description": "Rube MCP（Composio）を介してChatworkのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/chibi-style": {
+    "name": "チビスタイル",
+    "description": "頭部が大きく、解剖学的構造が簡略化され、可愛らしいシルエットを持つBlenderキャラクター向けのチビおよびSD比率のアートディレクションです。"
+  },
+  "arjun988/blender-skills:.cursor/skills/chibi-style": {
+    "name": "チビスタイル",
+    "description": "頭部が大きく、解剖学的構造が簡略化され、可愛らしいシルエットを持つBlenderキャラクター向けのチビおよびSD比率のアートディレクションです。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chmeetings-automation": {
+    "name": "chmeetings-自動化",
+    "description": "Rube MCP（Composio）を介してChmeetingsのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "emilkowalski/skills:skills/choreograph": {
+    "name": "コリオグラフィー",
+    "description": "一緒にアニメーションする複数の要素を調整し、どの動きをどの順序で行い、どれだけ重なり合い、何を静止させるかを決定することで、個々のアニメーションの集合体ではなく、一つの意図された動きとして読み取られるようにします。段階的なリスト、ヒーローエントランス、コンテナ内のビュー切り替え、多段階フロー、兄弟要素が隙間を埋める中で要素が退出する場合、豊かな状態間のモーフ、またはアイコン＋背景＋線、パネル＋コンテンツ、ターゲットへ飛んでいくアイテムなど、複数の動く部分を持つあらゆるインタラクションを構築または修正する際に使用します。トリガーは—スタッター、シーケンス、コリオグラフィー、\"one after another\"、クロスフェード、AnimatePresenceモード、ヒーローエントランス、多段階、useAnimate、\"feels mechanical\"、\"too much going on\"、\"feels slow to open\"。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cincopa-automation": {
+    "name": "cincopa-自動化",
+    "description": "Rube MCP（Composio）を介してCincopaのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/claid-ai-automation": {
+    "name": "claid-ai-自動化",
+    "description": "Rube MCP（Composio）を介してClaid AIのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/classmarker-automation": {
+    "name": "classmarker-自動化",
+    "description": "Rube MCP（Composio）を介してClassmarkerのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "anthropics/skills:skills/claude-api": {
+    "name": "claude-api",
+    "description": "Reference for the Claude API / Anthropic SDK — model ids, pricing, params, streaming, tool use, MCP, agents, caching, token counting, model migration. TRIGGER — read BEFORE opening the target file; don't skip because it \"looks like a one-liner\" — whenever: the prompt names Claude/Anthropic in any form (Claude, Anthropic, Fable, Opus, Sonnet, Haiku, `anthropic`, `@anthropic-ai`, `claude-*`, `us.anthropic.*`, `[1m]`); the user asks about an LLM (pricing/model choice/limits/caching) — never answer from memory; OR the task is LLM-shaped with provider unstated (agent/MCP/tool-definition/multi-agent/RAG/LLM-judge/computer-use; generate/summarize/extract/classify/rewrite/converse over NL; debugging refusals/cutoffs/streaming/tool-calls/tokens). SKIP only when another provider is being worked on (overrides all triggers): OpenAI/GPT/Gemini/Llama/Mistral/Cohere/Ollama named in the query; OR `grep -rE 'openai|langchain_openai|google.generativeai|genai|mistralai|cohere|ollama'` over the project hits (run this grep FIRST if no provider named — don't Read the file)."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clearout-automation": {
+    "name": "clearout-自動化",
+    "description": "Rube MCP（Composio）を介してClearoutのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clickmeeting-automation": {
+    "name": "clickmeeting-自動化",
+    "description": "Rube MCP（Composio）を介してClickmeetingのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/cloth-sim": {
+    "name": "cloth-sim",
+    "description": "ズボンやシャツなどの衣服ブロックアウト、布シミュレーション、ピングループ、および形状キーまたはキャッシュへのベイクを、Blender内のキャラクターや小道具に対してMCP経由で行います。"
+  },
+  "arjun988/blender-skills:.cursor/skills/cloth-sim": {
+    "name": "cloth-sim",
+    "description": "ズボンやシャツなどの衣服ブロックアウト、布シミュレーション、ピングループ、および形状キーまたはキャッシュへのベイクを、Blender内のキャラクターや小道具に対してMCP経由で行います。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudcart-automation": {
+    "name": "cloudcart-自動化",
+    "description": "Rube MCP（Composio）を介してCloudcartのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudconvert-automation": {
+    "name": "cloudconvert-自動化",
+    "description": "Rube MCP（Composio）を介してCloudconvertのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-api-key-automation": {
+    "name": "cloudflare-api-key-自動化",
+    "description": "Rube MCP（Composio）を介してCloudflare APIのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-automation": {
+    "name": "cloudflare-自動化",
+    "description": "Rube MCP（Composio）を介してCloudflareのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-browser-rendering-automation": {
+    "name": "cloudflare-browser-rendering-自動化",
+    "description": "Rube MCP（Composio）を介してCloudflareブラウザレンダリングのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudlayer-automation": {
+    "name": "cloudlayer-自動化",
+    "description": "Rube MCP（Composio）を介してCloudlayerのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudpress-automation": {
+    "name": "cloudpress-自動化",
+    "description": "Rube MCP（Composio）を介してCloudpressのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coassemble-automation": {
+    "name": "coassemble-自動化",
+    "description": "Rube MCP（Composio）を介してCoassembleのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codacy-automation": {
+    "name": "codacy-自動化",
+    "description": "Rube MCP（Composio）を介してCodacyのタスクを自動化します。最新のスキーマについては、まずツールを検索してください。"
+  },
+  "cexll/myclaude:skills/codeagent": {
+    "name": "codeagent",
+    "description": "マルチバックエンドAIコードタスク向けのcodeagent-wrapperを実行します。Codex、Claude、Gemini、OpenCodeバックエンドに対応し、エージェントプリセット、スキルインジェクション、ファイル参照（@syntax）、ワークツリー分離、並列実行、構造化出力が可能です。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codeinterpreter-automation": {
+    "name": "codeinterpreter-automation",
+    "description": "Rube MCP（Composio）を通じてCodeinterpreterタスクを自動化します。現在のスキーマについては必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codereadr-automation": {
+    "name": "codereadr-automation",
+    "description": "Rube MCP（Composio）を通じてCodereadrタスクを自動化します。現在のスキーマについては必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinmarketcal-automation": {
+    "name": "coinmarketcal-automation",
+    "description": "Rube MCP（Composio）を通じてCoinmarketcalタスクを自動化します。現在のスキーマについては必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinmarketcap-automation": {
+    "name": "coinmarketcap-automation",
+    "description": "Rube MCP（Composio）を通じてCoinmarketcapタスクを自動化します。現在のスキーマについては必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinranking-automation": {
+    "name": "coinranking-automation",
+    "description": "Rube MCP（Composio）を通じてCoinrankingタスクを自動化します。現在のスキーマについては必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/college-football-data-automation": {
+    "name": "college-football-data-automation",
+    "description": "Rube MCP（Composio）を通じてカレッジフットボールデータタスクを自動化します。現在のスキーマについては必ず最初にツールを検索してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/collision-proxy": {
+    "name": "collision-proxy",
+    "description": "Collision proxy authoring for games including UCX/UHX naming, convex hulls, capsules, and simple collider meshes in Blender via MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/collision-proxy": {
+    "name": "collision-proxy",
+    "description": "Collision proxy authoring for games including UCX/UHX naming, convex hulls, capsules, and simple collider meshes in Blender via MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/comic-book-style": {
+    "name": "comic-book-style",
+    "description": "Blender向けのコミックブックおよびグラフィックノベルアートディレクション。インクリンク強調、ハーフトーン手がかり、高コントラストフレーミングを備えています。"
+  },
+  "arjun988/blender-skills:.cursor/skills/comic-book-style": {
+    "name": "comic-book-style",
+    "description": "Blender向けのコミックブックおよびグラフィックノベルアートディレクション。インクリンク強調、ハーフトーン手がかり、高コントラストフレーミングを備えています。"
+  },
+  "ComposioHQ/awesome-claude-skills:competitive-ads-extractor": {
+    "name": "competitive-ads-extractor",
+    "description": "FacebookやLinkedInなどの広告ライブラリから競合他社の広告を抽出・分析し、どのようなメッセージ、課題、クリエイティブ手法が効果的かを把握します。自社の広告キャンペーンのインスピレーションと改善に役立ちます。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/composio-automation": {
+    "name": "composio-automation",
+    "description": "Rube MCP（Composio）を通じてComposioタスクを自動化します。現在のスキーマについては必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/composio-search-automation": {
+    "name": "composio-search-automation",
+    "description": "Rube MCP（Composio）を通じてComposio Searchタスクを自動化します。現在のスキーマについては必ず最初にツールを検索してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/compositing": {
+    "name": "compositing",
+    "description": "Blender向けのコンポジティングワークフロー。ビューティースタック、レンダーパス、カラーグレード、グレア、および配信出力をMCP経由で処理します。"
+  },
+  "arjun988/blender-skills:.cursor/skills/compositing": {
+    "name": "compositing",
+    "description": "Blender向けのコンポジティングワークフロー。ビューティースタック、レンダーパス、カラーグレード、グレア、および配信出力をMCP経由で処理します。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/connecteam-automation": {
+    "name": "connecteam-automation",
+    "description": "Rube MCP（Composio）を通じてConnecteamタスクを自動化します。現在のスキーマについては必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/contentful-graphql-automation": {
+    "name": "contentful-graphql-automation",
+    "description": "Rube MCP（Composio）を通じてContentful Graphqlタスクを自動化します。現在のスキーマについては必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/control-d-automation": {
+    "name": "control-d-automation",
+    "description": "Rube MCP（Composio）を通じてControl Dタスクを自動化します。現在のスキーマについては必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/conversion-tools-automation": {
+    "name": "conversion-tools-automation",
+    "description": "Rube MCP（Composio）を通じてConversion Toolsタスクを自動化します。現在のスキーマについては必ず最初にツールを検索してください。"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/convertapi-automation": {
+    "name": "convertapi-automation",
+    "description": "Rube MCP（Composio）を通じてConvertapiタスクを自動化します。現在のスキーマについては必ず最初にツールを検索してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/cosmic-eldritch-horror": {
+    "name": "cosmic-eldritch-horror",
+    "description": "Blender向けの宇宙的・古神話的・ラヴクラフト風ホラーのアートディレクション。非ユークリッド的な手がかり、不可能なスケール、理解不能な形態を特徴としています。"
+  },
+  "arjun988/blender-skills:.cursor/skills/cosmic-eldritch-horror": {
+    "name": "cosmic-eldritch-horror",
+    "description": "Blender向けの宇宙的・古神話的・ラヴクラフト風ホラーのアートディレクション。非ユークリッド的な手がかり、不可能なスケール、理解不能な形態を特徴としています。"
+  },
+  "arjun988/blender-skills:.claude/skills/cozy-wholesome-mood": {
+    "name": "cozy-wholesome-mood",
+    "description": "Blender向けの心地よく健全でリラックスできるムードディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/cozy-wholesome-mood": {
+    "name": "cozy-wholesome-mood",
+    "description": "Blender向けの心地よく健全でリラックスできるムードディレクション。"
+  },
+  "arjun988/blender-skills:.claude/skills/creature-artist": {
+    "name": "creature-artist",
+    "description": "AAA creature modeling for fantasy, aliens, monsters, and organic creature design with believable anatomy and movement. Use for creature blockouts, muscle flow, bone structure, and animation-ready creature assets in Blender via MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/creature-artist": {
+    "name": "creature-artist",
+    "description": "AAA creature modeling for fantasy, aliens, monsters, and organic creature design with believable anatomy and movement. Use for creature blockouts, muscle flow, bone structure, and animation-ready creature assets in Blender via MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/dark-gritty-mood": {
+    "name": "dark-gritty-mood",
+    "description": "Blender向けのダークで陰鬱、荒々しく、錆びた、放棄された、朽ち果てた、工業的で寂しく憂鬱なムードディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/dark-gritty-mood": {
+    "name": "dark-gritty-mood",
+    "description": "Blender向けのダークで陰鬱、荒々しく、錆びた、放棄された、朽ち果てた、工業的で寂しく憂鬱なムードディレクション。"
+  },
+  "Leonxlnx/taste-skill:skills/taste-skill": {
+    "name": "design-taste-frontend",
+    "description": "tasteskill 2.5.1、アンチスロップフロントエンドスキル。figma.comやx.aiレベルのプロフェッショナルな企業ウェブサイトを構築します：独自の声を持つシンプルなコピー、単一システム、画面ごとに一つのセクション、均等な余白、実写写真と実際の製品UI（クライアントに写真がない場合はライセンス済みスタンドイン写真を使用；3Dが必要な場合のみ製品レンダリング）、各ページにヒーローエントランスと1〜2つの重要な瞬間、テクノロジー、ゲーム、ソフトウェアページでのみシェーダーエフェクトとシーン、控えめなマイクロインタラクション、そして実際のブラウザ上でそれを強制するチェッカーと仕上げゲート。ランディングページ、企業、製品、ショップ、カフェ、ホテル、スタジオ、SaaS、AI、開発者ツール、またはゲームサイトを構築、デザイン、再設計、リスタイル、磨き上げ、レビューする際、静的HTML/CSSとして、または既存のReact、Next.js、Vue、Svelte、Astro、Tailwindプロジェクト内に組み込む際、あるいはユーザーがページが一般的、テンプレート的、または\"AI生成\"だと感じる場合に使用してください。"
+  },
+  "cexll/myclaude:skills/dev": {
+    "name": "dev",
+    "description": "要件明確化、インテリジェントなバックエンド選択、並列codeagent実行、必須90%テストカバレッジを備えた極めて軽量なエンドツーエンド開発ワークフロー。"
+  },
+  "anthropics/skills:skills/discernment-nudge": {
+    "name": "discernment-nudge",
+    "description": "ユーザーが行動を起こす可能性のある実質的な回答や草案—助言や推奨事項、目標・計画・提案・企画書・メールなどの起草物、見積もりや予測、データの分析や解釈、彼らが頼りにする事実主張、または多段階の論証—を提供した後、返信を最終確定する前にこのスキルを呼び出し、該当する場合は直前の内容に関連する具体的な項目に紐づいた短いフォローアップ質問を2〜3つ付け加えてください。これによりユーザーは重要な事実を確認し、推論や前提を掘り下げ、欠けている文脈に気づくことができます。会話ごとに最大1回まで行ってください。ユーザーが些細なハウツーや簡単な調べ物を求めている場合、純粋に教育的な説明を希望している場合、提供されたコンテンツからファイルの書式変更・変換・組み立てのみを依頼している場合、実行するコードを書いている場合、創作活動やカジュアルチャットをしている場合、またはすでに再確認・引用・レビューを依頼している場合は省略してください—スキルファイルにはこれらの境界線と正確な出力形式が説明されています。"
+  },
+  "cexll/myclaude:skills/do": {
+    "name": "do",
+    "description": "このスキルはコードベース理解を伴う構造化された機能開発に使用すべきです。/doコマンドでトリガーされます。codeagent-wrapperを用いてcode-explorer、code-architect、code-reviewerを調整し、エージェントを並列に開発する5段階のワークフロー（理解、明確化、設計、実装、完了）を提供します。"
+  },
+  "anthropics/skills:skills/doc-coauthoring": {
+    "name": "doc-coauthoring",
+    "description": "ユーザーを構造化されたドキュメント共同執筆ワークフローへ案内します。ユーザーがドキュメント、提案書、技術仕様書、意思決定文書、または類似の構造化コンテンツを書きたい場合に使用してください。このワークフローはユーザーが効率的にコンテキストを伝達し、反復を通じてコンテンツを洗練させ、読者にとって有効なドキュメントであることを検証するのに役立ちます。ユーザーがドキュメント執筆、提案書作成、仕様書下書き、または類似の文書作業について言及した際にトリガーされます。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/docker-ros2-development": {
+    "name": "docker-ros2-development",
+    "description": "DockerベースのROS2開発ベストプラクティス。マルチステージのDockerファイル、マルチコンテナロボットシステム向けdocker-compose、コンテナ間DDSディスカバリー、知覚用GPUパススルー、およびdev-vs-deployコンテナパターンを含みます。ROS2ワークスペースのコンテナ化、ロボットソフトウェアスタック向けdocker-compose設定、コンテナ間DDS通信のデバッグ、GPUワークロード向けNVIDIA Container Toolkit設定、rviz2やGUIツール向けX11/Wayland転送、カメラやシリアルデバイス向けUSBデバイスパススルー管理を行う際にこのスキルを使用してください。ユーザーがROS2、ロボット向けdocker-compose、colconワークスペース向けDockerファイル、DDS向けコンテナネットワーク、ROS2向けdevcontainer、ROS2向けマルチステージビルド、またはコンテナ内へのROS2展開について言及した際にもトリガーされます。また、DockerベースのROS2ビルドによるCI/CD、コンテナ内のCycloneDDSまたはFastDDS設定、またはDockerでの共有メモリについてもトリガーされます。Ubuntu 22.04および24.04ベースイメージ上のHumble、Jazzy、Rollingディストリビューションを対象としています。"
+  },
+  "anthropics/skills:skills/docx": {
+    "name": "docx",
+    "description": "ユーザーがWord文書（.docxファイル）やWordテンプレート（.dotxファイル）を作成、閲覧、編集、操作したい場合にこのスキルを使用してください。トリガーとなるのは「Word doc」「word document」「.docx」「.dotx」のいずれかの言及、または目次、見出し、ページ番号、レターヘッドなどの書式を備えたプロフェッショナルな文書の作成依頼です。.docxや.dotxファイルからのコンテンツ抽出や再編成、文書内の画像挿入・差し替え、Wordファイルでの検索・置換、変更履歴やコメントの操作、またはコンテンツを洗練されたWord文書に変換する場合にも使用してください。ユーザーが「レポート」「メモ」「手紙」「テンプレート」など、Wordまたは.docxファイルとしての成果物を求めている場合はこのスキルを使用してください。PDF、スプレッドシート、Google Docs、または文書生成とは無関係な一般的なコーディングタスクには使用しないでください。"
+  },
+  "arjun988/blender-skills:.claude/skills/dream-surreal-mood": {
+    "name": "dream-surreal-mood",
+    "description": "Blenderシーン向けの夢幻的、シュール、神秘的、神秘主義的、希望に満ちた、混沌としたムードディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/dream-surreal-mood": {
+    "name": "dream-surreal-mood",
+    "description": "Blenderシーン向けの夢幻的、シュール、神秘的、神秘主義的、希望に満ちた、混沌としたムードディレクション。"
+  },
+  "arjun988/blender-skills:.claude/skills/dream-weirdcore-style": {
+    "name": "ドリーム・ウィアードコア風",
+    "description": "Blender向けのドリームコア、ウィアードコア、トラウマコアにインスパイアされたアートディレクション。ノスタルジックな違和感、境界的な懐かしさ、そしてシュールな子供時代の空間を表現します。"
+  },
+  "arjun988/blender-skills:.cursor/skills/dream-weirdcore-style": {
+    "name": "ドリーム・ウィアードコア風",
+    "description": "Blender向けのドリームコア、ウィアードコア、トラウマコアにインスパイアされたアートディレクション。ノスタルジックな違和感、境界的な懐かしさ、そしてシュールな子供時代の空間を表現します。"
+  },
+  "emilkowalski/skills:skills/emil-design-eng": {
+    "name": "emil-design-eng",
+    "description": "エミル・コワルスキーによるデザインエンジニアリング哲学。UIの洗練、コンポーネント設計、アニメーションの決定、そしてソフトウェアを素晴らしいものにする見えない細部に関する考え方です。UIコンポーネントのインタラクションや仕上げ（押下・ホバー状態、ポップオーバーの起点、ツールチップのタイミング、トランジションとキーフレームの使い分け、clip-pathテクニック、ドラッグ時の細部など）を構築またはレビューする際に使用し、これ以外の narrower skill には当てはまりません。"
+  },
+  "arjun988/blender-skills:.claude/skills/environment-artist": {
+    "name": "environment-artist",
+    "description": "モジュール式キット、建物、地形、植生、建築、シーン構成におけるAAA級環境アート。ゲーム最適化された環境、空間を通じたストーリーテリング、およびBlender内のモジュール化アセットパイプラインにおいて、MCP経由で活用してください。"
+  },
+  "arjun988/blender-skills:.cursor/skills/environment-artist": {
+    "name": "environment-artist",
+    "description": "モジュール式キット、建物、地形、植生、建築、シーン構成におけるAAA級環境アート。ゲーム最適化された環境、空間を通じたストーリーテリング、およびBlender内のモジュール化アセットパイプラインにおいて、MCP経由で活用してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/export-pipeline": {
+    "name": "export-pipeline",
+    "description": "BlenderからFBX、GLTF、OBJ、USD、Alembicへのプロダクションエクスポート。スケール、ピボット、回転、法線、マテリアル、アニメーション、衝突検証をMCP経由で行います。"
+  },
+  "arjun988/blender-skills:.cursor/skills/export-pipeline": {
+    "name": "export-pipeline",
+    "description": "BlenderからFBX、GLTF、OBJ、USD、Alembicへのプロダクションエクスポート。スケール、ピボット、回転、法線、マテリアル、アニメーション、衝突検証をMCP経由で行います。"
+  },
+  "arjun988/blender-skills:.claude/skills/fantasy-worlds": {
+    "name": "fantasy-worlds",
+    "description": "中世、ハイファンタジー、ダークファンタジー、アーバンファンタジーのアセット言語をカバーする、Blender向けのファンタジー世界構築アートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/fantasy-worlds": {
+    "name": "fantasy-worlds",
+    "description": "中世、ハイファンタジー、ダークファンタジー、アーバンファンタジーのアセット言語をカバーする、Blender向けのファンタジー世界構築アートディレクション。"
+  },
+  "emilkowalski/skills:skills/find-animation-opportunities": {
+    "name": "find-animation-opportunities",
+    "description": "コードベースやUIの中で、アニメーションが適用されていないのに適用すべき箇所を探し、不必要なものは排除します。読み取り専用であり、正確な値に基づいた動きを提案するだけで、実装は行いません。ユーザーが「ここは何をアニメーションさせられるかな？」と\"what could be animated here?\"と尋ねたり、「もっと生き生きとした感じにしたい」と\"make this feel more alive\"と望んだりする場合に使用します。既存のアニメーションを修正する場合は、代わりに improve-animations や review-animations をご利用ください。"
+  },
+  "arjun988/blender-skills:.claude/skills/folk-horror-style": {
+    "name": "folk-horror-style",
+    "description": "Blender向けのフォークホラー アートディレクション。田舎の儀式による不気味さ、牧歌的な日中の恐怖、そしてコミュニティの違和感をテーマにしたストーリーテリングを特徴としています。"
+  },
+  "arjun988/blender-skills:.cursor/skills/folk-horror-style": {
+    "name": "folk-horror-style",
+    "description": "Blender向けのフォークホラー アートディレクション。田舎の儀式による不気味さ、牧歌的な日中の恐怖、そしてコミュニティの違和感をテーマにしたストーリーテリングを特徴としています。"
+  },
+  "anthropics/skills:skills/frontend-design": {
+    "name": "frontend-design",
+    "description": "新しいUIを構築する際や既存のUIを再設計する際に、個性的で意図的なビジュアルデザインの指針を提供します。美的方向性、タイポグラフィ、そしてテンプレート化されたデフォルトとは異なる選択を行うためのサポートを行います。"
+  },
+  "arjun988/blender-skills:.claude/skills/frutiger-aero-style": {
+    "name": "frutiger-aero-style",
+    "description": "Blender向けのフリュティガー・エアロ アートディレクション。光沢のあるスキューモーフィズム、アクアカラーのUIサイン、自然とテクノロジーの楽観主義、そして2000年代半ばの未来志向を特徴としています。"
+  },
+  "arjun988/blender-skills:.cursor/skills/frutiger-aero-style": {
+    "name": "frutiger-aero-style",
+    "description": "Blender向けのフリュティガー・エアロ アートディレクション。光沢のあるスキューモーフィズム、アクアカラーのUIサイン、自然とテクノロジーの楽観主義、そして2000年代半ばの未来志向を特徴としています。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-action-combat": {
+    "name": "genre-action-combat",
+    "description": "アクション、ハックアンドスラッシュ、格闘ゲーム向けのアートディレクション。Blenderにおける戦闘空間やプロップの言語を読みやすくします。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-action-combat": {
+    "name": "genre-action-combat",
+    "description": "アクション、ハックアンドスラッシュ、格闘ゲーム向けのアートディレクション。Blenderにおける戦闘空間やプロップの言語を読みやすくします。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-card-party-idle": {
+    "name": "genre-card-party-idle",
+    "description": "カードゲーム、デッキビルダー、パーティーゲーム、放置系／インクリメンタルゲーム、教育系、リズムゲームのプレゼンテーション空間向けのアートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-card-party-idle": {
+    "name": "genre-card-party-idle",
+    "description": "カードゲーム、デッキビルダー、パーティーゲーム、放置系／インクリメンタルゲーム、教育系、リズムゲームのプレゼンテーション空間向けのアートディレクション。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-metroidvania-roguelike": {
+    "name": "genre-metroidvania-roguelike",
+    "description": "メトロイドヴァニア、ローグライク、ローグライトゲーム向けのアートディレクション。バイオームゲート、ルームモジュール、走行可能なプロップを備えています。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-metroidvania-roguelike": {
+    "name": "genre-metroidvania-roguelike",
+    "description": "メトロイドヴァニア、ローグライク、ローグライトゲーム向けのアートディレクション。バイオームゲート、ルームモジュール、走行可能なプロップを備えています。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-narrative-vn": {
+    "name": "genre-narrative-vn",
+    "description": "ビジュアルノベル、インタラクティブムービー、ウォーキングシミュレーター、ストーリー主導型のプレゼンテーション空間向けのアートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-narrative-vn": {
+    "name": "genre-narrative-vn",
+    "description": "ビジュアルノベル、インタラクティブムービー、ウォーキングシミュレーター、ストーリー主導型のプレゼンテーション空間向けのアートディレクション。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-open-world-sandbox": {
+    "name": "genre-open-world-sandbox",
+    "description": "オープンワールドおよびサンドボックスゲーム向けのアートディレクション。バイオームのランドマーク、移動可能なスケール、発見要素となるプロップを備えています。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-open-world-sandbox": {
+    "name": "genre-open-world-sandbox",
+    "description": "オープンワールドおよびサンドボックスゲーム向けのアートディレクション。バイオームのランドマーク、移動可能なスケール、発見要素となるプロップを備えています。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-puzzle-platformer": {
+    "name": "genre-puzzle-platformer",
+    "description": "パズルおよびプラットフォームゲーム向けのアートディレクション。インタラクティブなオブジェクト、ジャンプの高さ、危険の明確な表示を重視しています。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-puzzle-platformer": {
+    "name": "genre-puzzle-platformer",
+    "description": "パズルおよびプラットフォームゲーム向けのアートディレクション。インタラクティブなオブジェクト、ジャンプの高さ、危険の明確な表示を重視しています。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-racing-sports": {
+    "name": "genre-racing-sports",
+    "description": "レースおよびスポーツゲーム向けのアートディレクション。コース上のランドマーク、スタジアムキット、高速での可読性を備えています。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-racing-sports": {
+    "name": "genre-racing-sports",
+    "description": "レースおよびスポーツゲーム向けのアートディレクション。コース上のランドマーク、スタジアムキット、高速での可読性を備えています。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-rpg": {
+    "name": "genre-rpg",
+    "description": "RPG、JRPG、CRPG、ARPG、MMORPGの世界向けのアートディレクション。戦利品のレアリティ表示や地域アイデンティティも含まれます。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-rpg": {
+    "name": "genre-rpg",
+    "description": "RPG、JRPG、CRPG、ARPG、MMORPGの世界向けのアートディレクション。戦利品のレアリティ表示や地域アイデンティティも含まれます。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-shooter": {
+    "name": "genre-shooter",
+    "description": "FPS、TPS、シューター、バトルロイヤル、エクストラクションシューター向けのマップおよびプロップのアートディレクション。視界や遮蔽物に関する言語を含みます。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-shooter": {
+    "name": "genre-shooter",
+    "description": "FPS、TPS、シューター、バトルロイヤル、エクストラクションシューター向けのマップおよびプロップのアートディレクション。視界や遮蔽物に関する言語を含みます。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-soulslike": {
+    "name": "genre-soulslike",
+    "description": "ソウルライクゲーム向けのアートディレクション。壮大なメランコリー空間、霧のゲート、焚き火のランドマーク、そして致命的な可読性を備えています。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-soulslike": {
+    "name": "genre-soulslike",
+    "description": "ソウルライクゲーム向けのアートディレクション。壮大なメランコリー空間、霧のゲート、焚き火のランドマーク、そして致命的な可読性を備えています。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-stealth": {
+    "name": "genre-stealth",
+    "description": "ステルスゲーム空間向けのアートディレクション。影の体積、巡回に優しいレイアウト、隠蔽素材を特徴としています。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-stealth": {
+    "name": "genre-stealth",
+    "description": "ステルスゲーム空間向けのアートディレクション。影の体積、巡回に優しいレイアウト、隠蔽素材を特徴としています。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-strategy-sim": {
+    "name": "genre-strategy-sim",
+    "description": "戦略、RTS、ターン制戦略、タワーディフェンス、MOBA、シティビルダー、コロニーシミュレーション、シミュレーションゲーム向けのアートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-strategy-sim": {
+    "name": "genre-strategy-sim",
+    "description": "戦略、RTS、ターン制戦略、タワーディフェンス、MOBA、シティビルダー、コロニーシミュレーション、シミュレーションゲーム向けのアートディレクション。"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-survival": {
+    "name": "genre-survival",
+    "description": "生存およびサバイバルホラーのゲームプレイ空間向けのアートディレクション。資源プロップ、クラフトの可読性、緊張感のあるルートを強調しています。"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-survival": {
+    "name": "genre-survival",
+    "description": "生存およびサバイバルホラーのゲームプレイ空間向けのアートディレクション。資源プロップ、クラフトの可読性、緊張感のあるルートを強調しています。"
+  },
+  "arjun988/blender-skills:.claude/skills/geometry-nodes": {
+    "name": "geometry-nodes",
+    "description": "Blender Geometry Nodesによる手続き的モデリング、散布システム、植生、建物、配管、ケーブル、再利用可能なノードグループ。手続き的アセット生成およびインスタンシングパイプラインに使用し、MCP経由で活用してください。"
+  },
+  "arjun988/blender-skills:.cursor/skills/geometry-nodes": {
+    "name": "geometry-nodes",
+    "description": "Blender Geometry Nodesによる手続き的モデリング、散布システム、植生、建物、配管、ケーブル、再利用可能なノードグループ。手続き的アセット生成およびインスタンシングパイプラインに使用し、MCP経由で活用してください。"
+  },
+  "emilkowalski/skills:skills/gestures": {
+    "name": "gestures",
+    "description": "指を1:1で追跡し、中断可能であり続けるドラッグ、スワイプ、シートのインタラクションを構築します。ユーザーが何かをドラッグ、スワイプ、フリック、ホールド、またはジェスチャーで消去するものを構築または修正する際に使用します。引き出し、シート、スワイプで消去するトーストやカード、並べ替えのドラッグ、更新のプル、確認のホールドなど、あるいはジェスチャーが遅延を感じる、指との連動が悪い、離すと跳ねる、またはアニメーション中にキャッチできない場合にも使用します。トリガー対象：ジェスチャー、ドラッグ、スワイプ、フリック、シート、スナップポイント、Vaul、Motionドラッグプロップ、ゴムバンド、プルto refresh、ホールドto delete、touch-action、\"doesn't follow my finger\"、\"jumps when I let go\"、\"can't grab it mid-animation\"。"
+  },
+  "arjun988/blender-skills:.claude/skills/godot-export": {
+    "name": "godot-export",
+    "description": "Godot固有のBlenderエクスポート。正しいスケール、マテリアル、アニメーションクリップ、衝突形状を保ちながらGLTF/GLBを優先してエクスポートします。MCP経由で行います。"
+  },
+  "arjun988/blender-skills:.cursor/skills/godot-export": {
+    "name": "godot-export",
+    "description": "Godot固有のBlenderエクスポート。正しいスケール、マテリアル、アニメーションクリップ、衝突形状を保ちながらGLTF/GLBを優先してエクスポートします。MCP経由で行います。"
+  },
+  "arjun988/blender-skills:.claude/skills/hair-groom": {
+    "name": "hair-groom",
+    "description": "カール、パーティクルヘア、ジオメトリーノード、ゲームヘアカードワークフローを使用した、Blenderにおける髪と毛皮のグルーミング。キャラクター、クリーチャー、リアルタイムヘアカードに使用します。MCP経由で活用してください。"
+  },
+  "arjun988/blender-skills:.cursor/skills/hair-groom": {
+    "name": "hair-groom",
+    "description": "カール、パーティクルヘア、ジオメトリーノード、ゲームヘアカードワークフローを使用した、Blenderにおける髪と毛皮のグルーミング。キャラクター、クリーチャー、リアルタイムヘアカードに使用します。MCP経由で活用してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/hand-painted-style": {
+    "name": "hand-painted-style",
+    "description": "ブラシワークによるアルベド、柔らかい値の遷移、様式化されたPBRの抑制を特徴とする、Blender向けの手描きテクスチャアートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/hand-painted-style": {
+    "name": "hand-painted-style",
+    "description": "ブラシワークによるアルベド、柔らかい値の遷移、様式化されたPBRの抑制を特徴とする、Blender向けの手描きテクスチャアートディレクション。"
+  },
+  "arjun988/blender-skills:.claude/skills/hard-surface": {
+    "name": "hard-surface",
+    "description": "SF、産業、軍事、車両、武器、ロボティクス、機械プロップ向けのAAA級ハードサーフェスモデリング。ブーリアン／ベベルワークフロー、パネルライン、グリブル、面取り、製造精度に準拠した表面を備えています。Blender内で、MCP経由で活用してください。"
+  },
+  "arjun988/blender-skills:.cursor/skills/hard-surface": {
+    "name": "hard-surface",
+    "description": "SF、産業、軍事、車両、武器、ロボティクス、機械プロップ向けのAAA級ハードサーフェスモデリング。ブーリアン／ベベルワークフロー、パネルライン、グリブル、面取り、製造精度に準拠した表面を備えています。Blender内で、MCP経由で活用してください。"
+  },
+  "cexll/myclaude:skills/harness": {
+    "name": "harness",
+    "description": "このスキルは、進捗チェックポイント、失敗復旧、タスク依存関係管理を必要とするマルチセッション自律エージェント作業に使用すべきです。トリガーは「/harness」コマンド、またはタスクが多くのサブタスクを含み、進捗の永続化、コンテキストウィンドウ間でのスリープ／レジュームサイクル、部分状態を伴うタスク途中の失敗からの復旧、複数のエージェントセッションにまたがる分散作業などを必要とする場合に発動します。長時間稼働するエージェント向けに、AnthropicとOpenAIのエンジニアリングプラクティスから合成されました。"
+  },
+  "arjun988/blender-skills:.claude/skills/hd-2d-style": {
+    "name": "hd-2d-style",
+    "description": "ピクセルキャラクター／スプライトと3D環境、被写界深度、劇場照明を組み合わせたHD-2Dアートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/hd-2d-style": {
+    "name": "hd-2d-style",
+    "description": "ピクセルキャラクター／スプライトと3D環境、被写界深度、劇場照明を組み合わせたHD-2Dアートディレクション。"
+  },
+  "arjun988/blender-skills:.claude/skills/historical-worlds": {
+    "name": "歴史的世界",
+    "description": "Blender向けの歴史的・時代別ワールドアートディレクションで、西洋、海賊、サムライ／忍者、バイキング、古代エジプト／ギリシャ／ローマ、ヴィクトリア朝、近代、軍事などの時代を含みます。"
+  },
+  "arjun988/blender-skills:.cursor/skills/historical-worlds": {
+    "name": "歴史的世界",
+    "description": "Blender向けの歴史的・時代別ワールドアートディレクションで、西洋、海賊、サムライ／忍者、バイキング、古代エジプト／ギリシャ／ローマ、ヴィクトリア朝、近代、軍事などの時代を含みます。"
+  },
+  "arjun988/blender-skills:.claude/skills/horror-style": {
+    "name": "ホラー風",
+    "description": "Silent Hill、Resident Evil、Chilla's Art、Fear to Fathom、Iron Lungにインスパイアされた、Blenderアセット向けの心理ホラー系アートディレクション。スパースな工業環境、アナログ美学、緊張感のあるライティングに使用します。"
+  },
+  "arjun988/blender-skills:.cursor/skills/horror-style": {
+    "name": "ホラー風",
+    "description": "Silent Hill、Resident Evil、Chilla's Art、Fear to Fathom、Iron Lungにインスパイアされた、Blenderアセット向けの心理ホラー系アートディレクション。スパースな工業環境、アナログ美学、緊張感のあるライティングに使用します。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/imitation-learning": {
+    "name": "模倣学習",
+    "description": "ロボット操作における実用的な模倣学習（デモンストレーションからの学習）：ILが適しているかの判断、デモンストレーションデータセットの設計、観測空間と行動空間の選定、ポリシーの選択と構成（ビヘイビアクローニング、ACT、Diffusion Policy、フローマッチング、OpenVLA-OFT、Octo、pi0/pi0.5、SmolVLA、GR00TなどのVLAs）、トレーニングとチェックポイントの選定、信頼区間を伴う誠実なロールアウト評価、デプロイメントのタイミング、障害の診断。ユーザーがビヘイビアクローニング、テレオペレーションデモ、リーダーフォローアーム、アクションチャンキング、テンポラルエンサンブル、VLAのファインチューニング、\"何個のデモが必要か\"、成功率、ポリシー評価、DAggerまたは介入データ、共変量シフト、凍結するポリシー、ジッター、把持失敗、あるいはトレーニングでは動作するがロボット上で失敗する場合、またはシミュレーションとリアルの共同トレーニングについて言及した際に使用します。"
+  },
+  "emilkowalski/skills:skills/improve-animations": {
+    "name": "アニメーション改善",
+    "description": "シニアモーションアドバイザーとしてコードベースのアニメーションおよびモーションコードを調査し、優先順位付けされた監査結果と他のエージェント（または低コストモデル）が実行可能な自己完結型の実装計画を作成します。ソースコードは読み取り専用で、改善策を立案するだけで適用しません。ユーザーが\"アニメーションを改善したい\"、\"モーションを監査したい\"、\"このアプリをより良くしたい\"、または単一の差分レビューではなくアニメーション修正のロードマップを求めた際に使用します。"
+  },
+  "arjun988/blender-skills:.claude/skills/indie-horror-aesthetics": {
+    "name": "インディーホラー美学",
+    "description": "Silent Hill、Fear to Fathom、Puppet Combo、企業ホラー、小屋／森／病院ホラーなどに関連する外観を網羅した、Blender向けのインディーホラー美学パック。"
+  },
+  "arjun988/blender-skills:.cursor/skills/indie-horror-aesthetics": {
+    "name": "インディーホラー美学",
+    "description": "Silent Hill、Fear to Fathom、Puppet Combo、企業ホラー、小屋／森／病院ホラーなどに関連する外観を網羅した、Blender向けのインディーホラー美学パック。"
+  },
+  "anthropics/skills:skills/internal-comms": {
+    "name": "社内コミュニケーション",
+    "description": "自社が好んで使用するフォーマットを用いて、あらゆる種類の社内コミュニケーションを書くためのリソースセット。Claudeは、ステータスレポート、リーダーシップアップデート、3Pアップデート、社内ニュースレター、FAQ、インシデント報告、プロジェクトアップデートなど、各種社内コミュニケーションの作成を求められた際にこのスキルを使用すべきです。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/isaac-sim": {
+    "name": "isaac-sim",
+    "description": "NVIDIA Isaac SimおよびIsaac Labによるロボット学習：インストール（uv、pip、バイナリ、Docker、クラウド）、RTX GPUおよびドライバー要件、ヘッドレス実行とライブストリーミング、OpenUSDアセット、URDF/MJCFインポート、ArticulationCfgとアクチュエーター、マネージャーベースおよびダイレクト環境、configclass、gymnasiumタスク登録、rsl_rl、rl_games、skrlまたはsb3でのトレーニングとプレイ、並列環境、タイルカメラ、接触センサー、レイキャスター、IMU、フレームトランスフォーマー、イベントによるドメインランダマイゼーション、テレオペレーション、Isaac Lab Mimic、ROS 2ブリッジ、PhysX/Newtonプリセット、ソルバーチューニングおよび爆発する関節。ユーザーがIsaac Sim、Isaac Lab、Omniverse、Kit、isaacsimまたはisaaclabインポート、omni.isaacモジュール、USDロボット、URDFインポート、num_envs、Mimic、isaaclabでのトレーニングまたはプレイ、ManagerBasedRLEnv、DirectRLEnv、PresetCfg、Isaac LabでのNewtonまたはOvPhysX、またはIsaac GymやIsaac Lab 2.xからの移行について言及した際に使用します。"
+  },
+  "arjun988/blender-skills:.claude/skills/isometric-style": {
+    "name": "等角投影スタイル",
+    "description": "dioramaフレーミング、真の等角カメラ設定、読みやすいシルエット、タイルアセット規則などを含む、Blender向けの等角投影およびストラテジーゲーム系アートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/isometric-style": {
+    "name": "等角投影スタイル",
+    "description": "dioramaフレーミング、真の等角カメラ設定、読みやすいシルエット、タイルアセット規則などを含む、Blender向けの等角投影およびストラテジーゲーム系アートディレクション。"
+  },
+  "emilkowalski/skills:skills/learn-taste": {
+    "name": "味覚学習",
+    "description": "セッション中のデザイン修正をその理由とともにDESIGN.md、プロジェクトスキル、またはリントチェックに反映させる機能。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/lerobot": {
+    "name": "lerobot",
+    "description": "Hugging Face LeRobotエンドツーエンド：インストール、ハードウェア立ち上げ、データセット記録、トレーニング、およびロボット学習ポリシーのデプロイ。ユーザーがLeRobot、lerobot-record、lerobot-train、lerobot-rollout、lerobot-teleoperate、lerobot-calibrate、lerobot-setup-motors、lerobot-find-port、lerobot-find-cameras、lerobot-eval、lerobot-edit-dataset、LeRobotDataset、SO-100、SO-101、SO-ARM100、Koch、LeKiwi、OMX、OpenArm、Feitech STS3215サーボ、リーダー／フォロワーのテレオペレーション、キャリブレーションファイル、ACT、Diffusion Policy、SmolVLA、pi0/pi0.5、GR00TまたはX-VLAのLeRobotでのファインチューニング、Hugging Face Hub上のロボットデータセット、データセットv2.1からv3.0への変換、RTCまたはリモート（非同期）推論、またはLeRobotでのHIL-SERLについて言及した際に使用します。また、キャリブレーション不一致、FrameTimestampErrorやタイムスタンプ許容範囲違反、データセットとポリシー間のカメラまたはフィーチャ名不一致、q01/q99統計の欠落、およびFeitech \"誤ったステータスパケット\"などのLeRobotエラーにも反応します。"
+  },
+  "arjun988/blender-skills:.claude/skills/lighting": {
+    "name": "照明",
+    "description": "Blenderにおけるシネマティックおよびゲーム照明で、三点照明、HDRI、ホラー照明、ボリューメトリクス、リムライト、ムード駆動型イルミネーションなどを含みます。MCPを通じてルックデベロップメントとシーンの雰囲気作りに使用します。"
+  },
+  "arjun988/blender-skills:.cursor/skills/lighting": {
+    "name": "照明",
+    "description": "Blenderにおけるシネマティックおよびゲーム照明で、三点照明、HDRI、ホラー照明、ボリューメトリクス、リムライト、ムード駆動型イルミネーションなどを含みます。MCPを通じてルックデベロップメントとシーンの雰囲気作りに使用します。"
+  },
+  "arjun988/blender-skills:.claude/skills/liminal-space-style": {
+    "name": "リミナルスペーススタイル",
+    "description": "空虚な過渡的建築、不自然な親しみやすさ、果てしない繰り返しを持つ、Blender向けのリミナルスペースおよびBackrooms系アートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/liminal-space-style": {
+    "name": "リミナルスペーススタイル",
+    "description": "空虚な過渡的建築、不自然な親しみやすさ、果てしない繰り返しを持つ、Blender向けのリミナルスペースおよびBackrooms系アートディレクション。"
+  },
+  "arjun988/blender-skills:.claude/skills/lod-pipeline": {
+    "name": "LODパイプライン",
+    "description": "Blenderにおけるゲームメッシュ向けの専用LOD生成、命名、画面サイズ目標、および検証をMCP経由で行います。"
+  },
+  "arjun988/blender-skills:.cursor/skills/lod-pipeline": {
+    "name": "LODパイプライン",
+    "description": "Blenderにおけるゲームメッシュ向けの専用LOD生成、命名、画面サイズ目標、および検証をMCP経由で行います。"
+  },
+  "arjun988/blender-skills:.claude/skills/lookdev": {
+    "name": "ルックデベロップメント",
+    "description": "材質、照明、カメラ、スクリーンショット比較を組み合わせ、シェーディングが正しく見えるまで繰り返す、Blenderアセット向けのルックデベロップメントループをMCP経由で行います。"
+  },
+  "arjun988/blender-skills:.cursor/skills/lookdev": {
+    "name": "ルックデベロップメント",
+    "description": "材質、照明、カメラ、スクリーンショット比較を組み合わせ、シェーディングが正しく見えるまで繰り返す、Blenderアセット向けのルックデベロップメントループをMCP経由で行います。"
+  },
+  "arjun988/blender-skills:.claude/skills/lowpoly-style": {
+    "name": "ローポリスタイル",
+    "description": "PS1/PS2、Lethal Company、Mouthwashing、Fear to Fathomにインスパイアされた、Blender向けのローポリ系アートディレクション。読みやすいシルエット、最小限のポリゴン、シンプルな材質、強い雰囲気のために使用します。"
+  },
+  "arjun988/blender-skills:.cursor/skills/lowpoly-style": {
+    "name": "ローポリスタイル",
+    "description": "PS1/PS2、Lethal Company、Mouthwashing、Fear to Fathomにインスパイアされた、Blender向けのローポリ系アートディレクション。読みやすいシルエット、最小限のポリゴン、シンプルな材質、強い雰囲気のために使用します。"
+  },
+  "arjun988/blender-skills:.claude/skills/manga-style": {
+    "name": "マンガ風",
+    "description": "単色の階調デザイン、スピードライン、スクリーントーン感、マンガのコマ演出を重視した、Blender向けのマンガ風アートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/manga-style": {
+    "name": "マンガ風",
+    "description": "単色の階調デザイン、スピードライン、スクリーントーン感、マンガのコマ演出を重視した、Blender向けのマンガ風アートディレクション。"
+  },
+  "arjun988/blender-skills:.claude/skills/mascot-puppet-horror": {
+    "name": "マスコット・パペットホラー",
+    "description": "明るいブランドキャラクターが誤って作られ、フェルト／フォーム素材と不気味な演技を持つ、Blender向けのマスコットおよびパペットホラー系アートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/mascot-puppet-horror": {
+    "name": "マスコット・パペットホラー",
+    "description": "明るいブランドキャラクターが誤って作られ、フェルト／フォーム素材と不気味な演技を持つ、Blender向けのマスコットおよびパペットホラー系アートディレクション。"
+  },
+  "arjun988/blender-skills:.claude/skills/materials": {
+    "name": "材質",
+    "description": "Blender金属、木材、コンクリート、布、ガラス、土、錆、および手続き型シェーダー向けのPBRおよび様式化された材質作成。Blenderでのルックデベロップメント、材質再利用、およびMCP経由での生産シェーディングに使用します。"
+  },
+  "arjun988/blender-skills:.cursor/skills/materials": {
+    "name": "材質",
+    "description": "Blender金属、木材、コンクリート、布、ガラス、土、錆、および手続き型シェーダー向けのPBRおよび様式化された材質作成。Blenderでのルックデベロップメント、材質再利用、およびMCP経由での生産シェーディングに使用します。"
+  },
+  "anthropics/skills:skills/mcp-builder": {
+    "name": "mcp-builder",
+    "description": "LLMが洗練されたツールを通じて外部サービスと対話できるようにする高品質なMCP（Model Context Protocol）サーバー作成ガイド。Python（FastMCP）またはNode/TypeScript（MCP SDK）で外部APIやサービスを統合するMCPサーバーを構築する際に使用します。"
+  },
+  "arjun988/blender-skills:.claude/skills/minimalist-style": {
+    "name": "ミニマリストスタイル",
+    "description": "形状を削減し、パレットを制限し、余白を活用した、Blender向けのミニマリストかつ抽象的傾向のアートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/minimalist-style": {
+    "name": "ミニマリストスタイル",
+    "description": "形状を削減し、パレットを制限し、余白を活用した、Blender向けのミニマリストかつ抽象的傾向のアートディレクション。"
+  },
+  "emilkowalski/skills:skills/mobile-native": {
+    "name": "モバイルネイティブ",
+    "description": "Webアプリをスマートフォン上でネイティブに感じさせる——ブラウザ内のウェブサイトである\"aと、まるでインストールされたかのような体験を分ける、小さなCSSおよびメタタグの修正。固定ホバーステート、タップハイライトフラッシュ、100vhバグ、ページをズームする入力、タップの遅延、プルトゥリフレッシュによるスクロール乗っ取り、ノッチ下のコンテンツ、長押しによるボタンテキスト選択、逆方向にスクロールするカルーセル、ステータスバーの不一致、そして実機でテストするというルールをカバーします。Webアプリがモバイル向けに構築またはレビューされる際、\"Chromeでは動作するが私のスマホでは違和感がある\"の場合、PWA、ボトムシート、カルーセル、フルスクリーンレイアウト、またはあらゆるタッチインタラクションを構築する際に使用します。モーション自体にはanimateを使用し、React Nativeにはanimate-expoを使用してください。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/mujoco": {
+    "name": "mujoco",
+    "description": "ロボティクス向けMuJoCo物理シミュレーション：MJCFモデルの作成とデバッグ、URDFのインポート、シミュレーション、制御およびPythonからのレンダリング、接触調整、バッチGPUシミュレーションの実行。ユーザーがMuJoCo、MJCF、mujoco.MjModel / MjData、mj_step、MjSpec、mujoco.Renderer、MUJOCO_GL、EGL/OSMesaヘッドレスレンダリング、パッシブビューアまたはMuJoCo Studio、MuJoCo Menagerie（Franka、UR5e、SO-100/SO-101、ALOHA、G1）、MJX、MuJoCo Warp（mujoco_warp）、MuJoCo Playground、dm_control、またはGymnasium MuJoCo envsについて言及した際に使用します。また、接触調整（solref、solimp、condim、摩擦、impratio、noslip）、爆発またはジッターするシミュレーション、物体の沈下や把持の滑り、位置アクチュエーターkp/kv、関節アーマチュアとダンピング、contype/conaffinity衝突フィルタリング、キーフレーム、積分器とタイムステップの選択、およびシミュレーションから現実へ移行するためのMuJoCoモデルフィールドのシステム同定やドメインランダマイゼーションにも反応します。"
+  },
+  "arjun988/blender-skills:.claude/skills/neon-retrofuturism": {
+    "name": "ネオン・レトロフューチャリズム",
+    "description": "ネオン、ヴェイパーヴェーブ、シンセウェーブ、レトロフューチャリスティックなムード／アートディレクションで、グリッド地平線、クローム、夕暮れパレットを持つ、Blender向け。"
+  },
+  "arjun988/blender-skills:.cursor/skills/neon-retrofuturism": {
+    "name": "ネオン・レトロフューチャリズム",
+    "description": "ネオン、ヴェイパーヴェーブ、シンセウェーブ、レトロフューチャリスティックなムード／アートディレクションで、グリッド地平線、クローム、夕暮れパレットを持つ、Blender向け。"
+  },
+  "arjun988/blender-skills:.claude/skills/noir-style": {
+    "name": "ノワールスタイル",
+    "description": "高コントラスト照明、濡れた街路、シルエット、モノクロまたは限られたカラー階調を持つ、Blender向けのノワール系アートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/noir-style": {
+    "name": "ノワールスタイル",
+    "description": "高コントラスト照明、濡れた街路、シルエット、モノクロまたは限られたカラー階調を持つ、Blender向けのノワール系アートディレクション。"
+  },
+  "cexll/myclaude:skills/omo": {
+    "name": "omo",
+    "description": "このスキルは、`/omo`を見かけた際に使用します。\"コード分析／バグ調査／修正計画／実装\"のためのマルチエージェントオーケストレーション。タスクタイプ＋リスクに基づいて最小限のエージェントセットと順序を選択してください；以下のレシピは一般的なパターンを示しています。"
+  },
+  "arjun988/blender-skills:.claude/skills/painterly-style": {
+    "name": "ペインター風",
+    "description": "水彩と油絵の両方の外観をカバーする、柔らかいエッジ、顔料テクスチャ、イラスト的照明を用いた、Blender向けのペインター風アートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/painterly-style": {
+    "name": "ペインター風",
+    "description": "水彩と油絵の両方の外観をカバーする、柔らかいエッジ、顔料テクスチャ、イラスト的照明を用いた、Blender向けのペインター風アートディレクション。"
+  },
+  "anthropics/skills:skills/pdf": {
+    "name": "pdf",
+    "description": "ユーザーがPDFファイルで何かを行いたいときはいつでもこのスキルを使用します。これには、PDFからテキスト／表を読み取ったり抽出したり、複数のPDFを一つに結合またはマージしたり、PDFを分割したり、ページを回転させたり、透かしを入れたり、新しいPDFを作成したり、PDFフォームに記入したり、PDFを暗号化／復号したり、画像を抽出したり、スキャンしたPDFに対してOCRを実行して検索可能にしたりすることが含まれます。ユーザーが.pdfファイルについて言及したり、作成を依頼したりした場合は、このスキルを使用してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/physics-sim": {
+    "name": "物理シミュレーション",
+    "description": "制約、セル破砕残骸、ベイクドキャッシュを含む、Blenderにおける剛体、軟体、破壊セットアップをMCP経由で行います。"
+  },
+  "arjun988/blender-skills:.cursor/skills/physics-sim": {
+    "name": "物理シミュレーション",
+    "description": "制約、セル破砕残骸、ベイクドキャッシュを含む、Blenderにおける剛体、軟体、破壊セットアップをMCP経由で行います。"
+  },
+  "emilkowalski/skills:skills/pick-ui-library": {
+    "name": "pick-ui-library",
+    "description": "カリキュレートされたリストからフロントエンドタスク向けのライブラリを選択します——プリミティブ、トースト、ドロワー、コマンドメニュー、OTP、数字、チャート、仮想化、ドラッグ＆ドロップ、状態、スタイリング。"
+  },
+  "arjun988/blender-skills:.claude/skills/pixel-art-style": {
+    "name": "ピクセルアート風",
+    "description": "ピクセルレンダリング、低解像度テクスチャ、またはHD-2D隣接ピクセル読み込み向けの、Blenderアセットに対するピクセルアートおよびテクセル制約付きアートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/pixel-art-style": {
+    "name": "ピクセルアート風",
+    "description": "ピクセルレンダリング、低解像度テクスチャ、またはHD-2D隣接ピクセル読み込み向けの、Blenderアセットに対するピクセルアートおよびテクセル制約付きアートディレクション。"
+  },
+  "anthropics/skills:skills/pptx": {
+    "name": "pptx",
+    "description": "このスキルは、.pptxまたは.potxファイルが何らかの形で関与する場合（入力、出力、または両方）にいつでも使用できます。これには、スライドデッキ、ピッチデッキ、またはプレゼンテーションの作成；あらゆる.pptxまたは.potxファイルからのテキストの読み取り、解析、または抽出（抽出したコンテンツがメールや要約など他の場所で使用される場合も含む）；既存のプレゼンテーションの編集、変更、更新；スライドファイルの結合または分割；テンプレート（.potx）、レイアウト、スピーカーノート、またはコメントの操作が含まれます。ユーザーが\\\"deck,\\\" \\\"slides,\\\" \\\"presentation,\\\"を言及したり、.pptxまたは.potxのファイル名を参照したりした場合にトリガーされます。その後、コンテンツをどのように扱う予定であっても構いません。.pptxまたは.potxファイルを開いたり、作成したり、触れる必要がある場合は、このスキルを使用してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/procedural-modeling": {
+    "name": "手続き型モデリング",
+    "description": "Geometry Nodesおよびmodifierベースのワークフローを用いて、Blender via MCPで岩石、建物、植生、道路、地形、パイプ、ケーブル、SFパネルなどの手続き型アセットを作成します。"
+  },
+  "arjun988/blender-skills:.cursor/skills/procedural-modeling": {
+    "name": "手続き型モデリング",
+    "description": "Geometry Nodesおよびmodifierベースのワークフローを用いて、Blender via MCPで岩石、建物、植生、道路、地形、パイプ、ケーブル、SFパネルなどの手続き型アセットを作成します。"
+  },
+  "cexll/myclaude:skills/product-requirements": {
+    "name": "製品要件",
+    "description": "要件収集、分析、PRD生成のためのインタラクティブなプロダクトオーナースキルです。ユーザーが製品要件、機能仕様、PRD作成を求めたり、プロジェクトの要件を理解し文書化する助けが必要な場合にトリガーされます。品質スコアリングと反復的な対話を用いて包括的な要件を確保し、その後専門的なPRDドキュメントを生成します。"
+  },
+  "arjun988/blender-skills:.claude/skills/prop-artist": {
+    "name": "プロップアーティスト",
+    "description": "家具、工具、家庭用品、キットバッシュパーツ、そしてゲーム内で読めるプロップのための日常的およびヒーロープロップモデリングを行います。ハードサーフェスがSF的／機械的すぎ、アセットが現実味のあるプロップである場合に使用してください。"
+  },
+  "arjun988/blender-skills:.cursor/skills/prop-artist": {
+    "name": "プロップアーティスト",
+    "description": "家具、工具、家庭用品、キットバッシュパーツ、そしてゲーム内で読めるプロップのための日常的およびヒーロープロップモデリングを行います。ハードサーフェスがSF的／機械的すぎ、アセットが現実味のあるプロップである場合に使用してください。"
+  },
+  "emilkowalski/skills:skills/prototype": {
+    "name": "プロトタイプ",
+    "description": "あなたが説明するUIパーツの、本当に異なる複数のバージョンを構築し、ビジュアルピッカーの背後でレンダリングしてリアルタイムに切り替えながら、最適と思われるものを選択・推進できるようにします。"
+  },
+  "cexll/myclaude:skills/prototype-prompt-generator": {
+    "name": "プロトタイプ用プロンプトジェネレーター",
+    "description": "このスキルは、ユーザーがUI/UXプロトタイプ作成のための詳細で構造化されたプロンプトを生成する必要がある場合に使用すべきです。ユーザーが\"create a prototype prompt\"、\"design a mobile app\"、\"generate UI specifications\"、またはWeb／モバイルアプリケーション向けの包括的な設計ドキュメントを必要とする場合にトリガーされます。WeChat Work、iOS Native、Material Design、Ant Design Mobileなど、複数のデザインシステムに対応しています。"
+  },
+  "arjun988/blender-skills:.claude/skills/psx-horror-style": {
+    "name": "PSXホラー風",
+    "description": "PS1／PSX時代のホラー美術監督として、ローポリのアフィンテクスチャ、限られた色深度、霧、心理的ホラー演出を組み合わせたBlenderアセット向けのスタイルを提供します。"
+  },
+  "arjun988/blender-skills:.cursor/skills/psx-horror-style": {
+    "name": "PSXホラー風",
+    "description": "PS1／PSX時代のホラー美術監督として、ローポリのアフィンテクスチャ、限られた色深度、霧、心理的ホラー演出を組み合わせたBlenderアセット向けのスタイルを提供します。"
+  },
+  "arjun988/blender-skills:.claude/skills/qa-review": {
+    "name": "QAレビュー",
+    "description": "ビューポートスクリーンショット、検証チェックリスト、命名監査、そしてMCPによる出荷／不出荷判定を用いた、Blenderアセット向けの制作QAゲートウェイです。"
+  },
+  "arjun988/blender-skills:.cursor/skills/qa-review": {
+    "name": "QAレビュー",
+    "description": "ビューポートスクリーンショット、検証チェックリスト、命名監査、そしてMCPによる出荷／不出荷判定を用いた、Blenderアセット向けの制作QAゲートウェイです。"
+  },
+  "arjun988/blender-skills:.claude/skills/realistic-style": {
+    "name": "リアル系",
+    "description": "写真のようにリアルなAAA級美術監督として、フォトグラメトリのクリーンアップ、実世界スケール、ハイポリワークフロー、PBR精度、スキャン最適化を含むBlenderアセット向けのスタイルを提供します。シネマティックおよびAAAゲームのリアリズムのために使用してください。"
+  },
+  "arjun988/blender-skills:.cursor/skills/realistic-style": {
+    "name": "リアル系",
+    "description": "写真のようにリアルなAAA級美術監督として、フォトグラメトリのクリーンアップ、実世界スケール、ハイポリワークフロー、PBR精度、スキャン最適化を含むBlenderアセット向けのスタイルを提供します。シネマティックおよびAAAゲームのリアリズムのために使用してください。"
+  },
+  "JimLiu/baoyu-skills:.claude/skills/release-skills": {
+    "name": "リリーススキル",
+    "description": "汎用リリースワークフローです。バージョンファイルやチェンジログを自動検出し、Node.js、Python、Rust、Claude Plugin、GitHub Releases、注釈付きタグ、過去のリリースバックフィル、および汎用プロジェクトをサポートします。ユーザーが\"release\"、\"发布\"、\"new version\"、\"bump version\"、\"push\"、\"推送\"、\"release notes\"、\"GitHub Release\"、または\"回填 Release\"と言った場合に使用してください。"
+  },
+  "emilkowalski/skills:skills/remove-animations": {
+    "name": "アニメーション除去",
+    "description": "インターフェースに不要なアニメーションを見つけ、それらを除去します—キーボード操作時のモーション、高頻度の表面、機能データ、目的のない装飾—そして残された部分をクリーンアップします。コードを編集しますが、削減のみを行い、モーションを追加したり再調整したりすることはありません。ユーザーがアプリが\"feels slow\"、\"has too much animation\"、\"feels over-animated\"だと感じている、あるいは\"tone down the motion\"したい、またはどのアニメーションを除去すべきか尋ねた場合に使用してください。アニメーションすべき箇所を探す場合はfind-animation-opportunitiesを、残すべきアニメーションを修正する場合はimprove-animationsまたはreview-animationsを使用してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/rendering": {
+    "name": "レンダリング",
+    "description": "CyclesおよびEeveeを用いたBlenderレンダリングで、サンプリング、デノイズ、カメラ設定、レンダーパス、カラーマネジメント、レンダーオプティマイゼーションを含みます。最終出力および外観検証のためにMCPで使用してください。"
+  },
+  "arjun988/blender-skills:.cursor/skills/rendering": {
+    "name": "レンダリング",
+    "description": "CyclesおよびEeveeを用いたBlenderレンダリングで、サンプリング、デノイズ、カメラ設定、レンダーパス、カラーマネジメント、レンダーオプティマイゼーションを含みます。最終出力および外観検証のためにMCPで使用してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/retopology": {
+    "name": "リトポロジー",
+    "description": "アニメーション準備済みの低ポリゴン、クワッド優位のメッシュ向けの量産リトポロジーで、適切なエッジループと効率的なポリゴンフローを確保します。Blender via MCPでのスカルプトまたはハイポリモデリング後に、リギングやUV作業の前に使用してください。"
+  },
+  "arjun988/blender-skills:.cursor/skills/retopology": {
+    "name": "リトポロジー",
+    "description": "アニメーション準備済みの低ポリゴン、クワッド優位のメッシュ向けの量産リトポロジーで、適切なエッジループと効率的なポリゴンフローを確保します。Blender via MCPでのスカルプトまたはハイポリモデリング後に、リギングやUV作業の前に使用してください。"
+  },
+  "arjun988/blender-skills:.claude/skills/retro-16bit-style": {
+    "name": "レトロ16ビット風",
+    "description": "Blender支援によるSNES／Genesis時代の色彩豊かさ、ディザーキュー、スプライトのような鮮明さを備えたレトロ16ビット美術監督スタイルを提供します。"
+  },
+  "arjun988/blender-skills:.cursor/skills/retro-16bit-style": {
+    "name": "レトロ16ビット風",
+    "description": "Blender支援によるSNES／Genesis時代の色彩豊かさ、ディザーキュー、スプライトのような鮮明さを備えたレトロ16ビット美術監督スタイルを提供します。"
+  },
+  "arjun988/blender-skills:.claude/skills/retro-8bit-style": {
+    "name": "レトロ8ビット風",
+    "description": "Blender支援によるNES時代の制約にインスパイアされたピクセル／低解像度美学を備えたレトロ8ビット美術監督スタイルを提供します。"
+  },
+  "arjun988/blender-skills:.cursor/skills/retro-8bit-style": {
+    "name": "レトロ8ビット風",
+    "description": "Blender支援によるNES時代の制約にインスパイアされたピクセル／低解像度美学を備えたレトロ8ビット美術監督スタイルを提供します。"
+  },
+  "emilkowalski/skills:skills/review-animations": {
+    "name": "アニメーションレビュー",
+    "description": "Emil Kowalskiのデザインエンジニアリング哲学に基づく高い職人技基準に照らして、アニメーションおよびモーションコードをレビューします。デフォルトではフラグを立てますが、承認は努力によって得られます。"
+  },
+  "arjun988/blender-skills:.claude/skills/rigging": {
+    "name": "リギング",
+    "description": "Blenderにおける量産リギングで、アーマチュア、IK／FK、コンストレイント、ウェイトペインティング、メカニカルリグ、フェイシャルリグ、ドライバーを含みます。MCPによる変形可能なアセットへのアニメーション適用前に使用してください。"
+  },
+  "arjun988/blender-skills:.cursor/skills/rigging": {
+    "name": "リギング",
+    "description": "Blenderにおける量産リギングで、アーマチュア、IK／FK、コンストレイント、ウェイトペインティング、メカニカルリグ、フェイシャルリグ、ドライバーを含みます。MCPによる変形可能なアセットへのアニメーション適用前に使用してください。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-app-harness": {
+    "name": "ロボットアプリハーネス",
+    "description": "このリポジトリ内の`rah`ハーネスを使用して、ロボット（センサーやアクチュエーターを備えたロボット）に対してロボットアプリケーションソフトウェアを書くためのクローズドループワークフローを提供します：デバイスを調査し、ドライバーやタスクコードを書き、シミュレーションで実行し、評価者レポートを読み、保留中のシードを通過するまで反復します。ユーザーがロボットにタスクをさせたい、センサーまたはアクチュエーターをロボットアプリケーションに統合したい、ハーネス向けのピックアンドプレースやその他の操作コードを書きたい、または\"vibe code\" robotics softwareを書いてシミュレータで検証したいと求めた場合にこのスキルを使用してください。rah、リグマニフェスト、ロボットタスク仕様、ARMATUREシミュレーター、ロボットデバイスの調査、デバイス記述子、ロボットアプリの実行または検証、保留中のシード、またはシミュレートされたロボットタスクが失敗する原因の診断について言及された際にトリガーされます。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-bringup": {
+    "name": "ロボットブリングアップ",
+    "description": "ロボットのオンボードコンピューター上で完全なROS2システムを立ち上げる作業：systemdサービス、launchファイルの構成、順序付けられた起動、および量産監視です。ユーザーがロボットブリングアップ、ロボット起動、ROS2向けsystemd、ブート時のROS2、launchファイルの構成、ロボットブートシーケンス、カメラやシリアルポート向けudevルール、ROS2ノードの自動再起動、マルチマシンROS2向けネットワーク設定、ロボットのログローテーション、ロボットスタックの優雅なシャットダウン、またはSSHベースのリモートデバッグについて言及した場合に使用してください。また、systemdでのワークスペースソーシング、ヘルスチェック付きの順序付けられた起動、またはROS2システムを長時間稼働する量産サービスとして実行する場合にもトリガーされます。Ubuntu 22.04／24.04上のsystemdとROS2 Humble、Iron、Jazzyをカバーします。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-data-quality": {
+    "name": "ロボットデータ品質",
+    "description": "ロボット学習用データセット（遠隔操作によるデモンストレーション、エピソード）の品質を評価・改善し、Robotics Data Toolkitであるforgeを使ってそれらを検査、リンティング、スコアリング、可視化、フィルタリング、重複除去、変換します。ユーザーがデータセットの品質、データクリーニングまたはキュレーション、エピソードの検査、不良またはノイズの多いデモ、アイドルフレーム、ぎこちないまたは尖った動作、グリッパーの振動、タイムスタンプのギャップやフレームドロップ、カメラのぼやけや露出、重複するエピソード、タスク文字列の衛生状態、正規化統計、エピソードごとのトレーニング／バリデーション分割、デモンストレーションのカバレッジや多様性、またはポリシーがデータのせいで起動しない、停止する、平均モードになる理由について言及した場合に使用してください。また、forgeコマンド（forge inspect、lint、stats、quality、filter、dedup、visualize、convert、catalog、ingest、curate）や、RLDS、LeRobot v2／v3、Zarr、HDF5、MCAP、rosbag、またはRoboDM間の変換（Hugging Face Hub上のhf://データセットを含む）についてもトリガーされます。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-perception": {
+    "name": "ロボット知覚",
+    "description": "カメラ、LiDAR、深度センサー、IMU、およびマルチセンサー設定を網羅したロボット知覚システムの包括的なベストプラクティスです。RGB画像処理、深度マップ、点群、センサーキャリブレーション（内部、外部、ハンドアイ）、物体検出、セマンティックセグメンテーション、3D再構築、ビジュアルサーボ、または知覚パイプライン最適化に取り組む際にこのスキルを使用してください。ユーザーがOpenCV、Open3D、PCL、RealSense、ZED、OAK-D、カメラキャリブレーション、AprilTags、ArUcoマーカー、ステレオビジョン、RGBD、点群フィルタリング、ICP登録、座標変換、カメラ内部パラメータ、歪み補正、画像アンディストーション、センサーフィード、フレーム同期、またはロボティクス文脈でのあらゆるコンピュータビジョンタスクについて言及した場合にトリガーされます。マルチカメラリグ、センサー間の時間同期、知覚レイテンシ予算、および知覚パイプラインの量産展開もカバーします。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-reinforcement-learning": {
+    "name": "ロボット強化学習",
+    "description": "ロボット向け強化学習：RLが模倣や古典的制御を上回る場合、MDP設計（観測、アクションスペース、制御レート、終了対切断）、報酬設計と報酬ハッキング、アルゴリズム選択、大規模並列シミュトレーニング、安全な実ロボットRL、およびトレーニング曲線のデバッグについて。ユーザーが強化学習、RL、PPO、SAC、TD3、GAE、報酬関数、報酬シェイピング、カリキュラム、ドメインランダマイゼーション、シミュレーションtoリアル、アクチュエーターネットワーク、非対称アクトルクリティック、ティーチャースチューデントディスティレーション、rsl_rl、rl_games、skrl、Stable-Baselines3、CleanRL、Braxトレーニング、FastTD3、HIL-SERL、SERL、RLPD、DrQ、残差RL、DSRL、BCのRLファインチューニング、拡散またはVLAポリシー、タイムアウトブートストラップ、エントロピー崩壊、バリューロス爆発、トレーニング中のNaN、またはシードとIQMを用いたRL評価について言及した場合に使用してください。Isaac Lab、mjlab、またはPlaygroundの歩行および操作ポリシーについても同様です。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-design-patterns": {
+    "name": "ロボティクスデザインパターン",
+    "description": "頑丈なロボティクスソフトウェアを構築するためのアーキテクチャパターン、設計原則、および実績あるレシピです。ロボットソフトウェアアーキテクチャの設計、行動フレームワークの選択、知覚－計画－制御パイプラインの構造化、ステートマシンの実装、安全システムの設計、またはマルチロボットシステムのアーキテクチャを行う際にこのスキルを使用してください。ユーザーが行動ツリー、有限状態マシン、サブスミッションアーキテクチャ、センサーフュージョン、ロボット安全、ウォッチドッグ、ハートビート、優雅な劣化、ハードウェア抽象化層、リアルタイム制約、またはロボット向けソフトウェアアーキテクチャについて言及した場合にトリガーされます。シミュレーションtoリアル転送、デジタルツイン、およびロボット艦隊管理にも適用されます。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-security": {
+    "name": "ロボティクスセキュリティ",
+    "description": "SROS2 DDSセキュリティ、ネットワークセグメンテーション、シークレット管理、セキュアブート、および物理・サイバー安全の交差点を含む、ロボティクスシステム向けのセキュリティ強化とベストプラクティスです。ROS2通信の保護、DDS暗号化とアクセス制御の設定、ロボットオンボードコンピューターの強化、証明書と資格情報の管理、ロボット艦隊向けネットワークセグメンテーションの設定、またはサイバー脆弱性が物理的安全リスクとなる特有のセキュリティ課題に対処する際にこのスキルを使用してください。ユーザーがSROS2、DDSセキュリティ、ロボットセキュリティ、ロボット強化、ROS2暗号化、ROS2アクセス制御、ロボットネットワークセキュリティ、セキュアロボット展開、ロボット証明書、キーストア生成、ロボットファイアウォール、緊急停止セキュリティ、安全コントローラー分離、またはIEC 62443 for roboticsについて言及した場合にトリガーされます。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-software-principles": {
+    "name": "ロボティクスソフトウェア原則",
+    "description": "特にロボティクスモジュール開発に適用される基礎的なソフトウェア設計原則です。ロボットソフトウェアモジュールの設計、コードベースの構造化、アーキテクチャ決定、ロボティクスコードのレビュー、または再利用可能なロボティクスライブラリの構築を行う際にこのスキルを使用してください。ユーザーがロボット向けSOLID原則、モジュール式ロボティクスソフトウェア、ロボット向けクリーンアーキテクチャ、ロボティクスにおける依存性注入、ハードウェア向けインターフェース設計、リアルタイム設計制約、ロボット向けエラー処理戦略、構成管理、知覚－計画－制御における関心の分離、ロボット行動の合成可能性、またはロボティクス文脈でのソフトウェア職人技に関する議論について言及した場合にトリガーされます。ロボティクスコードのコードレビュー、ロボットソフトウェアのリファクタリング、またはロボティクスライブラリ向けAPI設計についてもトリガーされます。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-testing": {
+    "name": "ロボティクステスト",
+    "description": "ロボティクスソフトウェア向けのテスト戦略、パターン、およびツールです。ロボットシステム向けの単体テスト、統合テスト、シミュレーションテスト、またはハードウェアインザループテストを書く際にこのスキルを使用してください。ユーザーがROSノードのテスト、pytest with ROS、launch_testing、シミュレーションテスト、ロボティクス向けCI／CD、センサー用テストフィクスチャ、モックハードウェア、確定的リプレイ、ロボット行動の回帰テスト、または知覚－計画－制御パイプラインの検証について言及した場合にトリガーされます。運動学のプロパティベースドテスト、メッセージハンドラーのファズテスト、および軌跡のゴールデンファイルテストもカバーします。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros1": {
+    "name": "ros1",
+    "description": "ROS1（Robot Operating System 1）開発のベストプラクティス、デザインパターン、および一般的な落とし穴です。ROS1ノード、パッケージ、launchファイルの構築、またはROS1システムのデバッグを行う際にこのスキルを使用してください。ユーザーがROS1、catkin、rospy、roscpp、roslaunch、roscore、rostopic、tf、actionlib、メッセージタイプ、サービス、またはROS1時代のあらゆるロボティクスミドルウェアについて言及した場合にトリガーされます。ROS1コードをROS2に移行する、レガシーROS1システムを維持する、またはROS1－ROS2ブリッジを構築する場合にもトリガーされます。catkinワークスペース、nodelets、dynamic reconfigure、pluginlib、およびROS1エコシステム全体をカバーします。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros2": {
+    "name": "ros2",
+    "description": "ROS2（Robot Operating System 2）開発の包括的なベストプラクティス、デザインパターン、および一般的な落とし穴です。ROS2ノード、パッケージ、launchファイル、コンポーネントの構築、またはROS2システムのデバッグを行う際にこのスキルを使用してください。ユーザーがROS2、colcon、rclpy、rclcpp、DDS、QoS、ライフサイクルノード、マネージドノード、ROS2 launch、ROS2 parameters、ROS2 actions、nav2、MoveIt2、micro-ROS、またはROS2時代のあらゆるロボティクスミドルウェアについて言及した場合にトリガーされます。また、ROS2ワークスペースのセットアップ、DDSチューニング、プロセス内通信、ROS2セキュリティ、またはROS2の量産展開についてもトリガーされます。colconビルドの問題、ament_cmake、ament_python、ROS2向けCMakeLists.txt、package.xml依存関係、rosdep、ワークスペースオーバーレイ、カスタムメッセージ生成、またはROS2ビルドトラブルシューティングについてもトリガーされます。Humble、Iron、Jazzy、およびRollingディストリビューションをカバーします。"
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros2-web-integration": {
+    "name": "ros2-web-integration",
+    "description": "REST API、WebSocketブリッジ、ブラウザベースのロボットインターフェースを含むWeb技術とROS2システムを統合するためのパターンとベストプラクティスです。ロボット向けWebダッシュボードの構築、ブラウザへのカメラフィードストリーミング、ROS2サービスをRESTエンドポイントとして公開する、またはWeb UIとROS2ノード間の双方向WebSocket通信を実装する際にこのスキルを使用してください。ユーザーがrosbridge、rosbridge_suite、roslibjs、FastAPI with ROS2、Flask with rclpy、ロボットテレメトリー用WebSocket、MJPEGストリーミング、WebRTC for robots、ROS2サービスを包むREST API、Webベースのロボット制御、ブラウザロボットインターフェース、ロボットダッシュボード、ロボット向けCORS設定、またはあらゆるWeb-to-ROS2ブリッジパターンについて言及した場合にトリガーされます。ロボットWebインターフェースでの認証、センサーフィードのレート制限、ロボットカメラからブラウザへのビデオストリーミング、またはROS2エグゼキュータと並行して非同期Webフレームワークを実行する場合にもトリガーされます。rosbridge_suite、FastAPI、Flask、WebSocket、およびWebRTCアプローチをカバーします。"
+  },
+  "arjun988/blender-skills:.claude/skills/scene-assembly": {
+    "name": "シーンアセンブリ",
+    "description": "Blenderでの大規模シーンレイアウトで、コレクション、リンク、オーバーライド、ストリーミングに適した組織化、およびMCPによるセットアセンブリを提供します。"
+  },
+  "arjun988/blender-skills:.cursor/skills/scene-assembly": {
+    "name": "シーンアセンブリ",
+    "description": "Blenderでの大規模シーンレイアウトで、コレクション、リンク、オーバーライド、ストリーミングに適した組織化、およびMCPによるセットアセンブリを提供します。"
+  },
+  "arjun988/blender-skills:.claude/skills/sci-fi-punk-worlds": {
+    "name": "SFパンク世界",
+    "description": "Blender向けのSFおよびパンク系世界のアートディレクション。ハードSF、スペース、サイバーパンク、スチームパンク、ディーゼルパンク、アトムパンク、ソーラーパンク、バイオパンク、クロックパンクなどを含む。"
+  },
+  "arjun988/blender-skills:.cursor/skills/sci-fi-punk-worlds": {
+    "name": "SFパンク世界",
+    "description": "Blender向けのSFおよびパンク系世界のアートディレクション。ハードSF、スペース、サイバーパンク、スチームパンク、ディーゼルパンク、アトムパンク、ソーラーパンク、バイオパンク、クロックパンクなどを含む。"
+  },
+  "arjun988/blender-skills:.claude/skills/sculpting": {
+    "name": "彫刻",
+    "description": "Blender sculpting for organic and hard surface detail using Dyntopo, multiresolution, brushes, alpha workflow, wrinkles, and damage. Use when high-frequency surface detail is needed before retopology in Blender via MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/sculpting": {
+    "name": "彫刻",
+    "description": "Blender sculpting for organic and hard surface detail using Dyntopo, multiresolution, brushes, alpha workflow, wrinkles, and damage. Use when high-frequency surface detail is needed before retopology in Blender via MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/set-dressing": {
+    "name": "セットデコレーション",
+    "description": "MCPを通じて、プロップ密度、ナラティブクラスター、可読性ルールを活用した、屋内・屋外におけるセットデコレーションおよび環境ストーリーテリングの配置。"
+  },
+  "arjun988/blender-skills:.cursor/skills/set-dressing": {
+    "name": "セットデコレーション",
+    "description": "MCPを通じて、プロップ密度、ナラティブクラスター、可読性ルールを活用した、屋内・屋外におけるセットデコレーションおよび環境ストーリーテリングの配置。"
+  },
+  "anthropics/skills:skills/skill-creator": {
+    "name": "スキルクリエーター",
+    "description": "新しいスキルの作成、既存スキルの修正・改善、およびスキルパフォーマンスの測定。ユーザーがゼロからスキルを作成したい場合、既存スキルを編集または最適化したい場合、スキルをテストするための評価を実行したい場合、分散分析によるスキルパフォーマンスのベンチマークを行いたい場合、あるいはトリガー精度向上のためにスキルの説明文を最適化したい場合に使用。"
+  },
+  "cexll/myclaude:skills/skill-install": {
+    "name": "スキルインストール",
+    "description": "自動セキュリティスキャン付きで、GitHubリポジトリからClaudeスキルをインストール。ユーザーがGitHubURLからスキルをインストールしたい場合、リポジトリ内の利用可能なスキルを閲覧したい場合、または新しいスキルを安全に自身のClaude環境に追加したい場合に発動。"
+  },
+  "anthropics/skills:skills/slack-gif-creator": {
+    "name": "Slack GIFクリエーター",
+    "description": "Slack向けに最適化されたアニメーションGIF作成に関する知識とユーティリティ。制約条件、検証ツール、アニメーションコンセプトを提供。ユーザーがSlack用にアニメーションGIFをリクエストする際、例えば「\"XがYをするGIFを作って」といった要望に対応。"
+  },
+  "cexll/myclaude:skills/sparv": {
+    "name": "sparv",
+    "description": "10ポイント仕様ゲート、統一ジャーナル、2アクションセーブ、3失敗プロトコル、EHRBリスク検出を備えた最小限のSPARVワークフロー（Specify→Plan→Act→Review→Vault）。"
+  },
+  "arjun988/blender-skills:.claude/skills/stop-motion-craft-style": {
+    "name": "ストップモーション・クラフトスタイル",
+    "description": "粘土アニメーション、ペーパークラフト、手作りの物理素材による手がかりを含む、Blender向けのストップモーションおよびクラフト美学。"
+  },
+  "arjun988/blender-skills:.cursor/skills/stop-motion-craft-style": {
+    "name": "ストップモーション・クラフトスタイル",
+    "description": "粘土アニメーション、ペーパークラフト、手作りの物理素材による手がかりを含む、Blender向けのストップモーションおよびクラフト美学。"
+  },
+  "arjun988/blender-skills:.claude/skills/stylized-style": {
+    "name": "スタイライズドスタイル",
+    "description": "形状言語、誇張表現、色彩調和、NPRレンダリング、手描きアセットワークフローを備えた、Blender向けのスタイライズドアートディレクション。非写実的なゲームやアニメーションプロジェクトに使用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/stylized-style": {
+    "name": "スタイライズドスタイル",
+    "description": "形状言語、誇張表現、色彩調和、NPRレンダリング、手描きアセットワークフローを備えた、Blender向けのスタイライズドアートディレクション。非写実的なゲームやアニメーションプロジェクトに使用。"
+  },
+  "anthropics/skills:template": {
+    "name": "テンプレートスキル",
+    "description": "スキルの説明文およびClaudeでの使用タイミングへの置き換え。"
+  },
+  "cexll/myclaude:skills/test-cases": {
+    "name": "テストケース",
+    "description": "このスキルは、PRDドキュメントやユーザー要件から包括的なテストケースを生成する際に使用すべきです。ユーザーがテストケース生成、QA計画、テストシナリオ作成を依頼する場合、または構造化されたテストドキュメントを必要とする場合に発動します。機能テスト、エッジケース、エラー処理、状態遷移シナリオを網羅した詳細なテストケースを生成します。"
+  },
+  "arjun988/blender-skills:.claude/skills/texture-workflow": {
+    "name": "テクスチャワークフロー",
+    "description": "アトラス、AO/曲率/法線/粗さマップのベイク、デカール、テクスチャメモリ最適化のための本番用テクスチャワークフロー。Blenderにおけるゲーム対応テクスチャパイプラインとして、MCP経由で使用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/texture-workflow": {
+    "name": "テクスチャワークフロー",
+    "description": "アトラス、AO/曲率/法線/粗さマップのベイク、デカール、テクスチャメモリ最適化のための本番用テクスチャワークフロー。Blenderにおけるゲーム対応テクスチャパイプラインとして、MCP経由で使用。"
+  },
+  "anthropics/skills:skills/theme-factory": {
+    "name": "テーマファクトリー",
+    "description": "テーマを適用してアーティファクトをスタイリングするためのツールキット。スライド、ドキュメント、レポート、HTMLランディングページなどに対応。事前に設定された10種類のテーマがあり、既に作成済みの任意のアーティファクトに適用可能、またはその場で新しいテーマを生成することも可能。"
+  },
+  "arjun988/blender-skills:.claude/skills/unity-export": {
+    "name": "Unityエクスポート",
+    "description": "スケール、軸、マテリアル、ヒューマノイド/汎用リグ、LOD、衝突判定のためのUnity固有のBlenderエクスポート。MCP経由で使用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/unity-export": {
+    "name": "Unityエクスポート",
+    "description": "スケール、軸、マテリアル、ヒューマノイド/汎用リグ、LOD、衝突判定のためのUnity固有のBlenderエクスポート。MCP経由で使用。"
+  },
+  "arjun988/blender-skills:.claude/skills/unreal-export": {
+    "name": "Unrealエクスポート",
+    "description": "FBXスケール、LOD、UCX衝突判定、ソケット、マテリアル、スケルタルメッシュワークフローのためのUnreal Engine固有のBlenderエクスポート。MCP経由で使用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/unreal-export": {
+    "name": "Unrealエクスポート",
+    "description": "FBXスケール、LOD、UCX衝突判定、ソケット、マテリアル、スケルタルメッシュワークフローのためのUnreal Engine固有のBlenderエクスポート。MCP経由で使用。"
+  },
+  "arjun988/blender-skills:.claude/skills/uv-workflow": {
+    "name": "UVワークフロー",
+    "description": "接合部配置、UVパッキング、テクセル密度、UDIM、ライトマップUV、モジュール式UVレイアウトのための本番用UV展開ワークフロー。Blenderにおいて、テクスチャリングおよびエンジンエクスポート用にメッシュを準備する際に使用。MCP経由で使用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/uv-workflow": {
+    "name": "UVワークフロー",
+    "description": "接合部配置、UVパッキング、テクセル密度、UDIM、ライトマップUV、モジュール式UVレイアウトのための本番用UV展開ワークフロー。Blenderにおいて、テクスチャリングおよびエンジンエクスポート用にメッシュを準備する際に使用。MCP経由で使用。"
+  },
+  "arjun988/blender-skills:.claude/skills/vector-style": {
+    "name": "ベクタースタイル",
+    "description": "平坦な塗りつぶし、シャープなシルエット、UIのようなグラフィック明瞭度を備えた、Blender向けのベクタークリーンアートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/vector-style": {
+    "name": "ベクタースタイル",
+    "description": "平坦な塗りつぶし、シャープなシルエット、UIのようなグラフィック明瞭度を備えた、Blender向けのベクタークリーンアートディレクション。"
+  },
+  "arjun988/blender-skills:.claude/skills/vegetation-artist": {
+    "name": "植生アーティスト",
+    "description": "树木、植物、草カード、樹冠LOD、ゲーム向け葉アトラスなどを含む、Blender向けの植生およびフォリッジオーサリング。MCP経由で使用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/vegetation-artist": {
+    "name": "植生アーティスト",
+    "description": "树木、植物、草カード、樹冠LOD、ゲーム向け葉アトラスなどを含む、Blender向けの植生およびフォリッジオーサリング。MCP経由で使用。"
+  },
+  "arjun988/blender-skills:.claude/skills/vehicle-artist": {
+    "name": "車両アーティスト",
+    "description": "車、トラック、航空機、船舶、ボート、メカ、公共交通資産などの専用車両モデリング。Blenderにおいて、プロポーション、パネルフロー、ゲームLODへの配慮を考慮。MCP経由で使用。"
+  },
+  "arjun988/blender-skills:.cursor/skills/vehicle-artist": {
+    "name": "車両アーティスト",
+    "description": "車、トラック、航空機、船舶、ボート、メカ、公共交通資産などの専用車両モデリング。Blenderにおいて、プロポーション、パネルフロー、ゲームLODへの配慮を考慮。MCP経由で使用。"
+  },
+  "arjun988/blender-skills:.claude/skills/vfx-fx": {
+    "name": "VFX-FX",
+    "description": "Cinematic and game VFX in Blender including smoke, fire, particles, trails, and Geometry Nodes FX setups via MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/vfx-fx": {
+    "name": "VFX-FX",
+    "description": "Cinematic and game VFX in Blender including smoke, fire, particles, trails, and Geometry Nodes FX setups via MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/visual-console-eras": {
+    "name": "ビジュアルコンソール時代",
+    "description": "PS1～PS5のスタイル手がかり、レトロアーケード、DOS、CRT、VHS、フィルムグレイン表現を含む、Blender向けのビジュアル時代アートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/visual-console-eras": {
+    "name": "ビジュアルコンソール時代",
+    "description": "PS1～PS5のスタイル手がかり、レトロアーケード、DOS、CRT、VHS、フィルムグレイン表現を含む、Blender向けのビジュアル時代アートディレクション。"
+  },
+  "arjun988/blender-skills:.claude/skills/voxel-style": {
+    "name": "ボクセルスタイル",
+    "description": "ブロックグリッドモデリング、限定パレット、チャンクフレンドリーなアセットを備えた、Blender向けのボクセルおよびMinecraft寄りアートディレクション。"
+  },
+  "arjun988/blender-skills:.cursor/skills/voxel-style": {
+    "name": "ボクセルスタイル",
+    "description": "ブロックグリッドモデリング、限定パレット、チャンクフレンドリーなアセットを備えた、Blender向けのボクセルおよびMinecraft寄りアートディレクション。"
+  },
+  "anthropics/skills:skills/web-artifacts-builder": {
+    "name": "Webアーティファクトビルダー",
+    "description": "現代的なフロントエンドWeb技術（React、Tailwind CSS、shadcn/ui）を用いた、複雑で多コンポーネントなclaude.ai HTMLアーティファクトを作成するためのツールスイートです。ステート管理、ルーティング、またはshadcn/uiコンポーネントを必要とする複雑なアーティファクトにご利用ください。単純な単一ファイルのHTML/JSXアーティファクトには適していません。"
+  },
+  "anthropics/skills:skills/webapp-testing": {
+    "name": "Webアプリテスト",
+    "description": "Playwrightを使用してローカルWebアプリケーションと対話・テストするためのツールキット。フロントエンド機能の検証、UI動作のデバッグ、ブラウザスクリーンショットのキャプチャ、ブラウザログの表示をサポート。"
+  },
+  "emilkowalski/skills:skills/write-swift": {
+    "name": "Write-Swift",
+    "description": "最新Swiftを上手に書く方法 — 値型によるモデリング、Swift 6のデータレース安全性と親しみやすい並行処理（@concurrent、main-actor-by-default、actors、task groups）、プロトコルとジェネリクス（some vs any）、API設計、パフォーマンスとARC、Swift Testing、マクロ、そして現代言語のまだ知られていない機能について。Swiftの執筆、レビュー、移行を行う際、または並行処理エラー、ハング、データレース、保持ループ、パフォーマンス問題の修正が必要な際に使用。"
+  },
+  "anthropics/skills:skills/xlsx": {
+    "name": "xlsx",
+    "description": "スプレッドシートファイルが主な入力または出力となるあらゆる場面でこのスキルを使用。つまり、ユーザーが以下のいずれかを行いたいタスク：既存の.xlsx、.xlsm、.xltx、.csv、または.tsvファイルを開く、読む、編集する、または修正する（例：列の追加、数式の計算、書式設定、グラフ作成、汚れたデータのクリーニング）；ゼロからまたは他のデータソースから新しいスプレッドシートを作成する；または表形式ファイル間で変換する。特に、ユーザーがスプレッドシートファイルを名前やパスで参照している場合 — 単なる口頭での言及であっても（例：\\\"私のダウンロードにあるxlsx\\\"）— それに何かを施したり、そこから何かを生成したい場合に発動。また、乱雑な表形式データファイル（不正な行、誤ったヘッダー、不要なデータ）を適切なスプレッドシートへとクリーニングまたは再構築する場合にも発動。成果物は必ずスプレッドシートファイルでなければならない。主な成果物がWord文書、HTMLレポート、独立したPythonスクリプト、データベースパイプライン、またはGoogle Sheets API連携である場合は、たとえ表形式データが含まれていても発動しないでください。"
+  }
+}

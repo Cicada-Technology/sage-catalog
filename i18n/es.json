@@ -1,0 +1,1930 @@
+{
+  "ComposioHQ/awesome-claude-skills:composio-skills/-21risk-automation": {
+    "name": "-21automatización de riesgos",
+    "description": "Automatice tareas de 21risk mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/-2chat-automation": {
+    "name": "-2automatización de chat",
+    "description": "Automatice tareas de 2chat mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ahrefs-automation": {
+    "name": "Automatización de Ahrefs",
+    "description": "Automatice la investigación SEO con Ahrefs: analice perfiles de backlinks, investigue palabras clave, rastree el historial de métricas de dominio, audite posiciones orgánicas y realice análisis por lotes de URL a través de la integración de Composio con Ahrefs."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apify-automation": {
+    "name": "Automatización de Apify",
+    "description": "Automatice el raspado web y la extracción de datos con Apify: ejecute Actores, gestione conjuntos de datos, cree tareas reutilizables y obtenga los resultados del rastreo mediante la integración de Composio con Apify."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apollo-automation": {
+    "name": "Automatización de Apollo",
+    "description": "Automatice la generación de leads en Apollo.io: busque organizaciones, descubra contactos, enriquezca datos de prospectos, gestione etapas de contacto y cree listas de prospección dirigidas, utilizando lenguaje natural a través de la integración de Composio con MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ashby-automation": {
+    "name": "Automatización de Ashby",
+    "description": "Automatice los flujos de trabajo de reclutamiento y contratación en Ashby: gestione candidatos, ofertas de empleo, solicitudes, entrevistas y notas mediante comandos de lenguaje natural."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/attio-automation": {
+    "name": "Automatización de Attio",
+    "description": "Automatice las operaciones del CRM de Attio: busque registros, consulte contactos y empresas con filtros avanzados, gestione notas, atributos de listas y navegue por sus datos de relaciones, utilizando lenguaje natural a través de la integración de Composio con MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/braintree-automation": {
+    "name": "Automatización de Braintree",
+    "description": "Automatización de Braintree: gestione el procesamiento de pagos mediante herramientas compatibles con Stripe para clientes, suscripciones, métodos de pago y transacciones."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/capsule-crm-automation": {
+    "name": "Automatización de Capsule CRM",
+    "description": "Automatice las operaciones de Capsule CRM: gestione contactos (partes), ejecute consultas estructuradas con filtros, rastree tareas y proyectos, registre entradas y maneje organizaciones, utilizando lenguaje natural a través de la integración de Composio con MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clockify-automation": {
+    "name": "Automatización de Clockify",
+    "description": "Automatice los flujos de trabajo de seguimiento del tiempo en Clockify: cree y gestione entradas de tiempo, espacios de trabajo y usuarios mediante comandos de lenguaje natural."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudinary-automation": {
+    "name": "Automatización de Cloudinary",
+    "description": "Automatice la gestión de medios en Cloudinary, incluyendo organización de carpetas, preajustes de carga, búsqueda de activos, transformaciones y monitoreo del uso, mediante comandos de lenguaje natural."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinbase-automation": {
+    "name": "Automatización de Coinbase",
+    "description": "Automatización de Coinbase: liste y gestione carteras de criptomonedas, cuentas y datos de carteras a través del SDK CDP de Coinbase."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/contentful-automation": {
+    "name": "Automatización de Contentful",
+    "description": "Automatice las operaciones del CMS sin cabeza en Contentful: liste espacios, recupere metadatos de espacios y actualice configuraciones de espacios mediante la integración de Composio con Contentful."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ably-automation": {
+    "name": "ably-automation",
+    "description": "Automatice tareas de Ably mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abstract-automation": {
+    "name": "abstract-automation",
+    "description": "Automatice tareas de Abstract mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abuselpdb-automation": {
+    "name": "abuselpdb-automation",
+    "description": "Automatice tareas de Abuselpdb mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abyssale-automation": {
+    "name": "abyssale-automation",
+    "description": "Automatice tareas de Abyssale mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "TingxiYu/academic-figure-skill:academic-figure-skill": {
+    "name": "academic-figure-skill",
+    "description": "Creación de figuras científicas de nivel académico para revistas Nature/Cell/Science. Úselo cuando el usuario solicite crear, pulir, revisar o exportar figuras científicas para la presentación de manuscritos. NO active para: paneles interactivos (Plotly/Bokeh/Altair), análisis exploratorio de datos sin intención de publicación, gráficos de funciones matemáticas, gráficos circulares/3D, diapositivas de PowerPoint o diseño inicial en Illustrator/Figma-first. Omita solicitudes sobre pruebas estadísticas, limpieza de datos, revisión bibliográfica o depuración de código; estas no son tareas de creación de figuras."
+  },
+  "anthropics/skills:skills/academy-guide": {
+    "name": "academy-guide",
+    "description": "Deténgase y revise esta habilidad antes de finalizar cualquier respuesta a una pregunta sobre cómo usar Claude o un producto Claude — recomienda cursos, tutoriales y casos de uso coincidentes de la Academia Claude (academy.claude.com), el centro de aprendizaje de Anthropic. Active para: \"how do I\", \"how can I\", \"getting started with\", \"what can Claude do\", \"teach me\", \"learn to use\"; preguntas sobre artefactos, proyectos, habilidades, complementos, conectores, MCP; solicitudes sobre implementar Claude en un equipo, clase u organización; y cualquier petición de materiales de capacitación, contenido de incorporación o recursos de aprendizaje. Úselo cuando el usuario esté aprendiendo a usar una función o producto — no cuando esté en medio de una tarea y solo quiera que se complete. Esta habilidad se combina con otras: después de consultar la documentación del producto para responder cómo funciona una característica Claude, también revise aquí un curso o tutorial coincidente — una respuesta basada en documentación y una recomendación de la Academia van juntas. Solo recomiende en caso de coincidencia fuerte; nunca invente contenido de la Academia."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/accelo-automation": {
+    "name": "accelo-automation",
+    "description": "Automatice tareas de Accelo mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/accredible-certificates-automation": {
+    "name": "accredible-certificates-automation",
+    "description": "Automatice tareas de Accredible Certificates mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/acculynx-automation": {
+    "name": "acculynx-automation",
+    "description": "Automatice tareas de Acculynx mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/active-campaign-automation": {
+    "name": "active-campaign-automation",
+    "description": "Automatice tareas de ActiveCampaign mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/addresszen-automation": {
+    "name": "addresszen-automation",
+    "description": "Automatice tareas de Addresszen mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adobe-automation": {
+    "name": "adobe-automation",
+    "description": "Automatice tareas de Adobe mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adrapid-automation": {
+    "name": "adrapid-automation",
+    "description": "Automatice tareas de Adrapid mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adyntel-automation": {
+    "name": "adyntel-automation",
+    "description": "Automatice tareas de Adyntel mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aero-workflow-automation": {
+    "name": "aero-workflow-automation",
+    "description": "Automatice tareas de Aero Workflow mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aeroleads-automation": {
+    "name": "aeroleads-automation",
+    "description": "Automatice tareas de Aeroleads mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/affinda-automation": {
+    "name": "affinda-automation",
+    "description": "Automatice tareas de Affinda mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/affinity-automation": {
+    "name": "affinity-automation",
+    "description": "Automatiza tareas de Affinity mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agencyzoom-automation": {
+    "name": "agencyzoom-automation",
+    "description": "Automatiza tareas de Agencyzoom mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agent-mail-automation": {
+    "name": "agent-mail-automation",
+    "description": "Automatiza tareas de Agent Mail mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agentql-automation": {
+    "name": "agentql-automation",
+    "description": "Automatiza tareas de Agentql mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agenty-automation": {
+    "name": "agenty-automation",
+    "description": "Automatiza tareas de Agenty mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agiled-automation": {
+    "name": "agiled-automation",
+    "description": "Automatiza tareas de Agiled mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agility-cms-automation": {
+    "name": "agility-cms-automation",
+    "description": "Automatiza tareas de Agility CMS mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ai-ml-api-automation": {
+    "name": "ai-ml-api-automation",
+    "description": "Automatiza tareas de API de IA y ML mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aivoov-automation": {
+    "name": "aivoov-automation",
+    "description": "Automatiza tareas de Aivoov mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alchemy-automation": {
+    "name": "alchemy-automation",
+    "description": "Automatiza tareas de Alchemy mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/algodocs-automation": {
+    "name": "algodocs-automation",
+    "description": "Automatiza tareas de Algodocs mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/algolia-automation": {
+    "name": "algolia-automation",
+    "description": "Automatiza tareas de Algolia mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "anthropics/skills:skills/algorithmic-art": {
+    "name": "algorithmic-art",
+    "description": "Creación de arte algorítmico usando p5.js con aleatoriedad sembrada y exploración interactiva de parámetros. Úsalo cuando los usuarios soliciten crear arte mediante código, arte generativo, arte algorítmico, campos de flujo o sistemas de partículas. Crea arte algorítmico original en lugar de copiar el trabajo de artistas existentes para evitar infracciones de derechos de autor."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/all-images-ai-automation": {
+    "name": "all-images-ai-automation",
+    "description": "Automatiza tareas de All Images AI mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alpha-vantage-automation": {
+    "name": "alpha-vantage-automation",
+    "description": "Automatiza tareas de Alpha Vantage mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/altoviz-automation": {
+    "name": "altoviz-automation",
+    "description": "Automatiza tareas de Altoviz mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alttext-ai-automation": {
+    "name": "alttext-ai-automation",
+    "description": "Automatiza tareas de Alttext AI mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amara-automation": {
+    "name": "amara-automation",
+    "description": "Automatiza tareas de Amara mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amazon-automation": {
+    "name": "amazon-automation",
+    "description": "Automatiza tareas de Amazon mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ambee-automation": {
+    "name": "ambee-automation",
+    "description": "Automatiza tareas de Ambee mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ambient-weather-automation": {
+    "name": "ambient-weather-automation",
+    "description": "Automatiza tareas de Ambient Weather mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amcards-automation": {
+    "name": "amcards-automation",
+    "description": "Automatiza tareas de Amcards mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "arjun988/blender-skills:.claude/skills/analog-found-footage-horror": {
+    "name": "analog-found-footage-horror",
+    "description": "Estética de terror analógica, VHS, CRT y found-footage para tomas de Blender, incluyendo imperfecciones de la cámara y encuadres documentales."
+  },
+  "arjun988/blender-skills:.cursor/skills/analog-found-footage-horror": {
+    "name": "analog-found-footage-horror",
+    "description": "Estética de terror analógica, VHS, CRT y found-footage para tomas de Blender, incluyendo imperfecciones de la cámara y encuadres documentales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anchor-browser-automation": {
+    "name": "anchor-browser-automation",
+    "description": "Automatiza tareas de Anchor Browser mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "emilkowalski/skills:skills/animate": {
+    "name": "animate",
+    "description": "Construye una animación desde cero, tomando las decisiones en el orden que determina si se siente adecuada: ¿debe animarse en absoluto?, ¿con qué propósito?, ¿qué herramienta usar?, ¿qué propiedades?, ¿qué curva y duración?, cómo se interrumpe, cómo se sale. Escribe la implementación. Úsalo cuando te pidan animar algo, añadir movimiento, hacer que un componente parezca vivo o construir una transición. Para criticar movimientos existentes usa review-animations; para auditar todo un código base usa improve-animations."
+  },
+  "emilkowalski/skills:skills/animate-expo": {
+    "name": "animate-expo",
+    "description": "Construye animaciones en React Native y Expo, tomando las decisiones en el orden que determina si se sienten correctas: ¿debe animarse?, en qué hilo se ejecuta?, qué propiedades?, resorte o timing, cómo pasa el gesto, cómo se degrada. Escribe la implementación con Reanimated, Gesture Handler, Expo Router y expo-haptics. Úsalo al animar cualquier cosa en una app Expo, añadir gestos, hojas, transiciones de pantalla, retroalimentación por presión o háptica, o corregir movimientos que tartamudean en el dispositivo. Para animación web usa `animate`."
+  },
+  "arjun988/blender-skills:.claude/skills/animation": {
+    "name": "animation",
+    "description": "Animación lista para juegos en Blender, incluyendo ciclos de caminar/correr/inactivo, combate, animación mecánica, animación de cámara, restricciones, Graph Editor y flujos de trabajo NLA vía MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/animation": {
+    "name": "animation",
+    "description": "Animación lista para juegos en Blender, incluyendo ciclos de caminar/correr/inactivo, combate, animación mecánica, animación de cámara, restricciones, Graph Editor y flujos de trabajo NLA vía MCP."
+  },
+  "emilkowalski/skills:skills/animation-performance": {
+    "name": "animation-performance",
+    "description": "Mantén las animaciones web dentro del presupuesto de fotogramas: anima solo propiedades compuestas, evita moverse en el hilo principal cuando la página está ocupada y encuentra la causa cuando una animación pierde fotogramas. Úsalo cuando una animación es brusca, irregular, tartamudea o pierde fotogramas; al elegir qué propiedad animar; al decidir entre animación CSS y JS por motivos de rendimiento; o al recurrir a `will-change` o capas GPU. Para elegir easing, duración o si animar en absoluto usa animate; para revisar el movimiento en su conjunto usa review-animations."
+  },
+  "emilkowalski/skills:skills/animation-vocabulary": {
+    "name": "animation-vocabulary",
+    "description": "Glosario de búsqueda inversa que convierte una descripción vaga de una animación web o efecto de movimiento en su término exacto (\"lo bouncy thing when a popover opens\" → Pop in; \"the iOS rubber-band scroll\" → Rubber-banding). Úsalo cuando el usuario pregunta \"what's it called when…\", o describe un efecto de movimiento sin saber su nombre y quiere la palabra correcta para sugerirla a una IA o diseñador. Para nombrar un efecto, no para diseñarlo ni construirlo."
+  },
+  "arjun988/blender-skills:.claude/skills/anime-style": {
+    "name": "anime-style",
+    "description": "Dirección de arte estilo anime y cel-shaded para Blender con fuertes divisiones de color, shaders toon, siluetas limpias y lenguaje de proporciones anime."
+  },
+  "arjun988/blender-skills:.cursor/skills/anime-style": {
+    "name": "anime-style",
+    "description": "Dirección de arte estilo anime y cel-shaded para Blender con fuertes divisiones de color, shaders toon, siluetas limpias y lenguaje de proporciones anime."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anonyflow-automation": {
+    "name": "anonyflow-automatización",
+    "description": "Automatiza tareas de Anonyflow mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anthropic-administrator-automation": {
+    "name": "automatización-del-administrador-antrópico",
+    "description": "Automatiza tareas del Administrador Antrópico mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anthropic_administrator-automation": {
+    "name": "automatización-del-administrador-antrópico",
+    "description": "Automatiza tareas del Administrador Antrópico mediante Rube MCP (Composio): gestión de claves API, uso, espacios de trabajo y organizaciones. Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apaleo-automation": {
+    "name": "apaleo-automatización",
+    "description": "Automatiza tareas de Apaleo mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apex27-automation": {
+    "name": "apex27-automatización",
+    "description": "Automatiza tareas de Apex27 mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-bible-automation": {
+    "name": "api-bible-automatización",
+    "description": "Automatiza tareas de API Bible mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-labz-automation": {
+    "name": "api-labz-automatización",
+    "description": "Automatiza tareas de API Labz mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-ninjas-automation": {
+    "name": "api-ninjas-automatización",
+    "description": "Automatiza tareas de API Ninjas mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-sports-automation": {
+    "name": "api-sports-automatización",
+    "description": "Automatiza tareas de API Sports mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api2pdf-automation": {
+    "name": "api2pdf-automatización",
+    "description": "Automatiza tareas de Api2pdf mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apiflash-automation": {
+    "name": "apiflash-automatización",
+    "description": "Automatiza tareas de Apiflash mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apilio-automation": {
+    "name": "apilio-automatización",
+    "description": "Automatiza tareas de Apilio mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apipie-ai-automation": {
+    "name": "apipie-ai-automatización",
+    "description": "Automatiza tareas de Apipie AI mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apitemplate-io-automation": {
+    "name": "apitemplate-io-automatización",
+    "description": "Automatiza tareas de Apitemplate IO mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apiverve-automation": {
+    "name": "apiverve-automatización",
+    "description": "Automatiza tareas de Apiverve mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "arjun988/blender-skills:.claude/skills/apocalypse-worlds": {
+    "name": "apocalypse-worlds",
+    "description": "Dirección artística de mundos apocalípticos y distópicos para Blender, incluyendo conjuntos de contraste postapocalíptico, zombi, invasión alienígena, poshumano, distópico y utópico."
+  },
+  "arjun988/blender-skills:.cursor/skills/apocalypse-worlds": {
+    "name": "apocalypse-worlds",
+    "description": "Dirección artística de mundos apocalípticos y distópicos para Blender, incluyendo conjuntos de contraste postapocalíptico, zombi, invasión alienígena, poshumano, distópico y utópico."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appcircle-automation": {
+    "name": "appcircle-automatización",
+    "description": "Automatiza tareas de Appcircle mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appdrag-automation": {
+    "name": "appdrag-automatización",
+    "description": "Automatiza tareas de Appdrag mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "emilkowalski/skills:skills/apple-design": {
+    "name": "apple-design",
+    "description": "Enfoque de Apple en el diseño de interfaces y el movimiento físico fluido, traducido para la web. Úsalo al crear o revisar interfaces impulsadas por gestos, animaciones de resorte, interacciones de arrastre/deslizamiento/hoja, transiciones con impulso e interrumpibles, materiales translúcidos y profundidad, tipografía (tamaño óptico, seguimiento, interlineado), reducción de movimiento o las bases de diseño (retroalimentación, consistencia espacial, moderación) detrás de las interfaces estilo Apple."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appointo-automation": {
+    "name": "appointo-automatización",
+    "description": "Automatiza tareas de Appointo mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appsflyer-automation": {
+    "name": "appsflyer-automatización",
+    "description": "Automatiza tareas de Appsflyer mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appveyor-automation": {
+    "name": "appveyor-automatización",
+    "description": "Automatiza tareas de Appveyor mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "arjun988/blender-skills:.claude/skills/archviz": {
+    "name": "archviz",
+    "description": "Visualización arquitectónica en Blender para interiores/exterior con escala real, composición de cámara, materiales PBR y entrega de imágenes fijas/animaciones mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/archviz": {
+    "name": "archviz",
+    "description": "Visualización arquitectónica en Blender para interiores/exterior con escala real, composición de cámara, materiales PBR y entrega de imágenes fijas/animaciones mediante MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:artifacts-builder": {
+    "name": "artifacts-builder",
+    "description": "Conjunto de herramientas para crear elaborados artefactos HTML claude.ai de múltiples componentes utilizando tecnologías modernas del frontend web (React, Tailwind CSS, shadcn/ui). Úsalo para artefactos complejos que requieran gestión de estado, enrutamiento o componentes shadcn/ui; no para simples artefactos HTML/JSX de un solo archivo."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aryn-automation": {
+    "name": "aryn-automatización",
+    "description": "Automatiza tareas de Aryn mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ascora-automation": {
+    "name": "ascora-automatización",
+    "description": "Automatiza tareas de Ascora mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/asin-data-api-automation": {
+    "name": "asin-data-api-automatización",
+    "description": "Automatiza tareas de Asin Data API mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "emilkowalski/skills:skills/ask-emil": {
+    "name": "ask-emil",
+    "description": "Pregunta qué habilidad o flujo se adapta a tu situación. Un router sobre las habilidades de este repositorio."
+  },
+  "emilkowalski/skills:skills/ask-sonner": {
+    "name": "ask-sonner",
+    "description": "Guía de Sonner, la biblioteca de toasts React — instala y configura el Toaster, elige la llamada toast() adecuada, toasts de promesa y carga, actualización, desaparición y persistencia de toasts, estilización, tematización e iconos, posicionamiento y múltiples toasters. Úsalo al trabajar con Sonner o al solucionar problemas: toasts que no aparecen, aparecen dos veces, pierden sus estilos, ignoran clases Tailwind, quedan detrás de un modal o no siguen el modo oscuro."
+  },
+  "arjun988/blender-skills:.claude/skills/asset-optimization": {
+    "name": "optimización-de-activos",
+    "description": "Valida y optimiza activos Blender por polígono, topología, eficiencia UV, cantidad de materiales, nomenclatura, colecciones y rendimiento listo para juegos. Úsalo antes de la exportación en todos los activos de producción mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/asset-optimization": {
+    "name": "optimización-de-activos",
+    "description": "Valida y optimiza activos Blender por polígono, topología, eficiencia UV, cantidad de materiales, nomenclatura, colecciones y rendimiento listo para juegos. Úsalo antes de la exportación en todos los activos de producción mediante MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/astica-ai-automation": {
+    "name": "astica-ai-automation",
+    "description": "Automatiza tareas de Astica AI mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/async-interview-automation": {
+    "name": "async-interview-automation",
+    "description": "Automatiza tareas de Async Interview mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/atlassian-automation": {
+    "name": "atlassian-automation",
+    "description": "Automatiza tareas de Atlassian mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/auth0-automation": {
+    "name": "auth0-automation",
+    "description": "Automatiza tareas de Auth0 mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/autobound-automation": {
+    "name": "autobound-automation",
+    "description": "Automatiza tareas de Autobound mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/autom-automation": {
+    "name": "autom-automation",
+    "description": "Automatiza tareas de Autom mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/axonaut-automation": {
+    "name": "axonaut-automation",
+    "description": "Automatiza tareas de Axonaut mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ayrshare-automation": {
+    "name": "ayrshare-automation",
+    "description": "Automatiza tareas de Ayrshare mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/backendless-automation": {
+    "name": "backendless-automation",
+    "description": "Automatiza tareas de Backendless mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bannerbear-automation": {
+    "name": "bannerbear-automation",
+    "description": "Automatiza tareas de Bannerbear mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-article-illustrator": {
+    "name": "baoyu-article-illustrator",
+    "description": "Analiza la estructura del artículo, identifica posiciones que requieren ayudas visuales y genera ilustraciones con un enfoque tridimensional de Tipo × Estilo × Paleta. Úsalo cuando el usuario pida \"ilustrar artículo\", \"añadir imágenes\", \"generar imágenes para el artículo\" o \"para ilustrar el artículo\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-comic": {
+    "name": "baoyu-comic",
+    "description": "Creador de cómics educativos que admite múltiples estilos artísticos y tonos. Crea cómics educativos originales con diseños detallados de viñetas y generación de imágenes por lotes. Úsalo cuando el usuario pida crear \"cómic de conocimiento\", \"cómic educativo\", \"cómic biográfico\", \"cómic tutorial\" o \"cómic estilo Logicomix\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-compress-image": {
+    "name": "baoyu-compress-image",
+    "description": "Comprime imágenes a WebP (predeterminado) o PNG con selección automática de herramienta. Úsalo cuando el usuario pida \"comprimir imagen\", \"optimizar imagen\", \"convertir a webp\" o reducir el tamaño del archivo de la imagen."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-cover-image": {
+    "name": "baoyu-cover-image",
+    "description": "Genera imágenes de portada de artículos con 5 dimensiones (tipo, paleta, renderizado, texto, estado de ánimo), combinando 11 paletas de colores y 7 estilos de renderizado. Admite aspectos cinematográfico (2.35:1), panorámico (16:9) y cuadrado (1:1). Úsalo cuando el usuario pida \"generar imagen de portada\", \"crear portada de artículo\" o \"hacer portada\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-danger-gemini-web": {
+    "name": "baoyu-danger-gemini-web",
+    "description": "Genera imágenes y texto mediante la API inversa de Gemini Web. Admite generación de texto, generación de imágenes a partir de prompts, imágenes de referencia para entrada visual y conversaciones multi-turno. Úsalo cuando otras habilidades necesiten un backend de generación de imágenes, o cuando el usuario solicite \"generar imagen con Gemini\", \"generación de texto con Gemini\" o necesite una generación IA con capacidad visual."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-danger-x-to-markdown": {
+    "name": "baoyu-danger-x-to-markdown",
+    "description": "Convierte tuits y artículos de X (Twitter) a markdown con front matter YAML. Utiliza la API inversa que requiere el consentimiento del usuario. Úsalo cuando el usuario mencione \"X a markdown\", \"tuit a markdown\", \"guardar tuit\" o proporcione URLs de x.com/twitter.com para su conversión."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-diagram": {
+    "name": "baoyu-diagram",
+    "description": "Crea diagramas profesionales con tema oscuro/claro configurable mediante propiedades personalizadas de CSS. Usa esta habilidad siempre que el usuario pida cualquier tipo de diagrama técnico o conceptual, visualización de un sistema, flujo de procesos, flujo de datos, relación de componentes, topología de red, árbol de decisiones, organigrama, máquina de estados o cualquier representación visual de estructura/lógica/proceso. También actúa cuando el usuario diga \"画个图\", \"画一个架构图\", \"diagram\", \"flowchart\", \"sequence diagram\", \"draw me a ...\" o suba contenido y pida visualizarlo. Genera un SVG de tema oscuro, un SVG de tema claro y un PNG @2x de cada uno."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-electron-extract": {
+    "name": "baoyu-electron-extract",
+    "description": "Extrae recursos y JavaScript de cualquier aplicación Electron instalada (`.asar` bundle), restaurando los fuentes originales de los archivos `.js.map` cuando están disponibles o formateando el código minificado con Prettier en caso contrario. Úsalo cuando el usuario quiera \"extraer aplicación Electron\", \"descompilar Electron\", \"obtener el código fuente de <app>\", \"inspeccionar app.asar\", \"看 Electron 应用源码\", \"提取 .asar\" o pregunte cómo se construye una aplicación Electron de escritorio. Omite `node_modules` y admite tanto macOS como Windows."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-format-markdown": {
+    "name": "baoyu-format-markdown",
+    "description": "Formatea texto plano o archivos markdown con front matter, títulos, resúmenes, encabezados, negritas, listas y bloques de código. Úsalo cuando el usuario pida \"formatear markdown\", \"embellecer artículo\", \"añadir formato\" o mejorar el diseño del artículo. Genera {filename}-formatted.md."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-image-gen": {
+    "name": "baoyu-image-gen",
+    "description": "Generación de imágenes con IA mediante las APIs OpenAI GPT Image 2.5, Azure OpenAI, Google, OpenRouter, DashScope, Z.AI GLM-Image, MiniMax, Jimeng, Seedream, Replicate y Agnes. Admite texto a imagen, imágenes de referencia, relaciones de aspecto y generación por lotes desde archivos de prompts guardados. Por defecto secuencial; usa generación paralela por lotes cuando el usuario ya tiene varios prompts o desea un rendimiento estable de múltiples imágenes. Úsalo cuando el usuario pida generar, crear o dibujar imágenes."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-infographic": {
+    "name": "baoyu-infographic",
+    "description": "Genera infografías profesionales con 21 tipos de diseño y 22 estilos visuales. Analiza el contenido, recomienda combinaciones de diseño y estilo y genera infografías listas para publicación. Úsalo cuando el usuario pida crear \"infographic\", \"信息图\", \"visual summary\", \"可视化\" o \"高密度信息大图\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-markdown-to-html": {
+    "name": "baoyu-markdown-to-html",
+    "description": "Convierte Markdown a HTML con estilos y temas compatibles con WeChat. Admite resaltado de código, matemáticas, Mermaid (renderizado a PNG mediante Chrome sin cabeza), PlantUML, notas al pie, alertas, infografías y citas opcionales en la parte inferior para enlaces externos. Úsalo cuando el usuario pida \"markdown to html\", \"convert md to html\", \"md 转 html\", \"微信外链转底部引用\" o necesite una salida de HTML con estilos a partir de markdown."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-podcast-summary": {
+    "name": "baoyu-podcast-summary",
+    "description": "Resume podcasts, entrevistas, paneles y otras transcripciones de conversaciones en un resumen objetivo y centrado en el lector, escrito en el idioma preferido del usuario. Presenta primero los puntos clave que vale la pena conservar, los narra fielmente con atribución clara de los oradores y no añade opiniones propias. Acepta una transcripción pegada, un archivo de transcripción o una URL de YouTube (transcripción obtenida mediante baoyu-youtube-transcript), infiere oradores sin nombre a partir del contexto y utiliza búsquedas web para verificar nombres y proporcionar antecedentes. Úsalo cuando el usuario proporcione una transcripción o un enlace a un podcast/entrevista y pida \"summarize this podcast\", \"podcast summary\", \"interview summary\", \"key takeaways\", \"总结播客\", \"播客总结\", \"访谈总结\", \"总结一下这期播客\", \"总结这个访谈\" o comparta una entrevista de YouTube y desee un resumen escrito en lugar de la transcripción original."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-wechat": {
+    "name": "baoyu-post-to-wechat",
+    "description": "Publica contenido en la cuenta oficial de WeChat (微信公众号) mediante API o Chrome CDP. Admite publicación de artículos (文章) con entrada HTML, markdown o texto plano, y publicación de imágenes con texto (贴图, anteriormente 图文) con múltiples imágenes. Los flujos de trabajo de artículos en markdown convierten por defecto los enlaces externos ordinarios en citas inferiores para una salida compatible con WeChat. Úsalo cuando el usuario mencione \"发布公众号\", \"post to wechat\", \"微信公众号\" o \"贴图/图文/文章\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-weibo": {
+    "name": "baoyu-post-to-weibo",
+    "description": "Publica contenido en Weibo (微博). Admite publicaciones regulares con texto, imágenes y videos, y artículos destacados (头条文章) con entrada en Markdown mediante Chrome CDP. Úsalo cuando el usuario pida \"post to Weibo\", \"发微博\", \"发布微博\", \"publish to Weibo\", \"share on Weibo\", \"写微博\" o \"微博头条文章\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-x": {
+    "name": "baoyu-post-to-x",
+    "description": "Publica contenido y artículos en X (Twitter). Admite publicaciones regulares con imágenes/vídeos y X Articles (Markdown de formato largo). En Codex, respeta las solicitudes explícitas del plugin de Chrome Codex/@chrome utilizando el flujo de trabajo de Extensión de Chrome; de lo contrario, usa Chrome Computer Use cuando esté disponible y recurre a scripts reales de Chrome CDP solo cuando esté permitido. Úsalo cuando el usuario pida \"post to X\", \"tweet\", \"publish to Twitter\" o \"share on X\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-slide-deck": {
+    "name": "baoyu-slide-deck",
+    "description": "Genera imágenes profesionales de presentaciones a partir del contenido. Crea esquemas con instrucciones de estilo y luego genera imágenes individuales de diapositivas. Úsalo cuando el usuario pida \"create slides\", \"make a presentation\", \"generate deck\", \"slide deck\" o \"PPT\"."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-translate": {
+    "name": "baoyu-translate",
+    "description": "Esta habilidad debe usarse cuando el usuario pida \"translate\", \"翻译\", \"精翻\", \"translate article\", \"translate to Chinese\", \"translate to English\", \"改成中文\", \"改成英文\", \"convert to Chinese\", \"localize\", \"本地化\", \"refined translation\", \"精细翻译\", \"proofread translation\", \"快速翻译\", \"快翻\", \"这篇文章翻译一下\" o proporcione una URL/archivo con intención de traducción. Admite tres modos (rápido/normal/refinado) con soporte personalizado de glosario."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-url-to-markdown": {
+    "name": "baoyu-url-to-markdown",
+    "description": "Obtiene cualquier URL y la convierte a markdown usando la CLI baoyu-fetch (Chrome CDP con adaptadores específicos del sitio). Adaptadores integrados para X/Twitter, transcripciones de YouTube, hilos de Hacker News y páginas genéricas mediante Defuddle. Maneja inicio de sesión/CAPTCHA mediante modos de espera de interacción. Úsalo cuando el usuario quiera guardar una página web como markdown."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-wechat-summary": {
+    "name": "baoyu-wechat-summary",
+    "description": "Resume los momentos destacados de los chats grupales de WeChat en un resumen estructurado utilizando el binario local wx-cli (https://github.com/jackwener/wx-cli). Genera un resumen normal por defecto; la versión sarcástica (毒舌) es opcional. Mantiene el historial por grupo (history.json + history-digests.jsonl), perfiles por usuario y memoria factual por grupo (memory.md) entre ejecuciones, con medidas de privacidad incorporadas. Úsalo cuando el usuario pida \"总结群聊\", \"群聊精华\", \"群聊摘要\", \"summarize group chat\", \"group chat digest\", mencione un nombre de grupo de WeChat con un rango de tiempo, diga \"帮我看看 XX 群最近聊了什么\", \"XX 群有什么值得看的\" o pida \"回溯画像\" / \"初始化画像\" / \"backfill profiles\". Añade la versión sarcástica cuando el usuario diga \"毒舌版\", \"roast 版\", \"再来个毒舌的\" o similar."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-xhs-images": {
+    "name": "baoyu-xhs-images",
+    "description": "Genera una serie de tarjetas de imagen infográfica con 12 estilos visuales, 8 diseños y 3 paletas de colores. Divide el contenido en 1 a 10 tarjetas de imagen estilo caricatura optimizadas para la interacción en redes sociales. Úselo cuando el usuario mencione \"小红书图片\", \"小红书种草\", \"小绿书\", \"微信图文\", \"微信贴图\", \"image cards\", \"图片卡片\", baoyu-xhs-images, o desee una serie de infografías para redes sociales."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-youtube-transcript": {
+    "name": "baoyu-youtube-transcript",
+    "description": "Descarga transcripciones/subtítulos y imágenes de portada de videos de YouTube mediante URL o ID del video. Admite múltiples idiomas, traducción, capítulos e identificación de oradores. Almacena en caché los datos sin procesar para un reformateo rápido. Úselo cuando el usuario solicite \"get YouTube transcript\", \"download subtitles\", \"get captions\", \"YouTube字幕\", \"YouTube封面\", \"视频封面\", \"video thumbnail\", \"video cover image\", o proporcione una URL de YouTube y desee extraer el texto de la transcripción/subtítulo o la imagen de portada."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bart-automation": {
+    "name": "bart-automation",
+    "description": "Automatiza tareas de Bart mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/baselinker-automation": {
+    "name": "baselinker-automation",
+    "description": "Automatiza tareas de Baselinker mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/baserow-automation": {
+    "name": "baserow-automation",
+    "description": "Automatiza tareas de Baserow mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/basin-automation": {
+    "name": "basin-automation",
+    "description": "Automatiza tareas de Basin mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/battlenet-automation": {
+    "name": "battlenet-automation",
+    "description": "Automatiza tareas de Battlenet mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beaconchain-automation": {
+    "name": "beaconchain-automation",
+    "description": "Automatiza tareas de Beaconchain mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beaconstac-automation": {
+    "name": "beaconstac-automation",
+    "description": "Automatiza tareas de Beaconstac mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beamer-automation": {
+    "name": "beamer-automation",
+    "description": "Automatiza tareas de Beamer mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beeminder-automation": {
+    "name": "beeminder-automation",
+    "description": "Automatiza tareas de Beeminder mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bench-automation": {
+    "name": "bench-automation",
+    "description": "Automatiza tareas de Bench mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/benchmark-email-automation": {
+    "name": "benchmark-email-automation",
+    "description": "Automatiza tareas de Benchmark Email mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/benzinga-automation": {
+    "name": "benzinga-automation",
+    "description": "Automatiza tareas de Benzinga mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bestbuy-automation": {
+    "name": "bestbuy-automation",
+    "description": "Automatiza tareas de Bestbuy mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/better-proposals-automation": {
+    "name": "better-proposals-automation",
+    "description": "Automatiza tareas de Better Proposals mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/better-stack-automation": {
+    "name": "better-stack-automation",
+    "description": "Automatiza tareas de Better Stack mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bidsketch-automation": {
+    "name": "bidsketch-automation",
+    "description": "Automatiza tareas de Bidsketch mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/big-data-cloud-automation": {
+    "name": "big-data-cloud-automation",
+    "description": "Automatiza tareas de Big Data Cloud mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigmailer-automation": {
+    "name": "bigmailer-automation",
+    "description": "Automatiza tareas de Bigmailer mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigml-automation": {
+    "name": "bigml-automation",
+    "description": "Automatiza tareas de Bigml mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigpicture-io-automation": {
+    "name": "bigpicture-io-automation",
+    "description": "Automatiza tareas de Bigpicture IO mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "arjun988/blender-skills:.claude/skills/biome-worlds": {
+    "name": "biome-worlds",
+    "description": "Dirección artística de biomas y entornos para Blender que abarcan ambientes submarinos, desérticos, árticos, selváticos, subterráneos y de islas flotantes."
+  },
+  "arjun988/blender-skills:.cursor/skills/biome-worlds": {
+    "name": "biome-worlds",
+    "description": "Dirección artística de biomas y entornos para Blender que abarcan ambientes submarinos, desérticos, árticos, selváticos, subterráneos y de islas flotantes."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bitquery-automation": {
+    "name": "bitquery-automation",
+    "description": "Automatiza tareas de Bitquery mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bitwarden-automation": {
+    "name": "bitwarden-automation",
+    "description": "Automatiza tareas de Bitwarden mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blackbaud-automation": {
+    "name": "blackbaud-automation",
+    "description": "Automatiza tareas de Blackbaud mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blackboard-automation": {
+    "name": "blackboard-automation",
+    "description": "Automatiza tareas de Blackboard mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "arjun988/blender-skills:.claude/skills/blender-director": {
+    "name": "blender-director",
+    "description": "Úselo al iniciar cualquier tarea de activos Blender, planificar una pipeline de producción, coordinar múltiples disciplinas o comparar con una foto de referencia/arte conceptual. Invóquelo para activos listos para juego, superficies duras, entornos, personajes, criaturas, exportaciones o cualquier flujo de trabajo multi-habilidad Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/blender-director": {
+    "name": "blender-director",
+    "description": "Úselo al iniciar cualquier tarea de activos Blender, planificar una pipeline de producción, coordinar múltiples disciplinas o comparar con una foto de referencia/arte conceptual. Invóquelo para activos listos para juego, superficies duras, entornos, personajes, criaturas, exportaciones o cualquier flujo de trabajo multi-habilidad Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/blender-modeler": {
+    "name": "blender-modeler",
+    "description": "Especialista principal en modelado Blender para Modo Edición, modificadores, colecciones, modelado de precisión y organización de escenas. Úselo para modelado 3D general, bloqueos, limpieza, flujos de trabajo no destructivos y estructura de escenas en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/blender-modeler": {
+    "name": "blender-modeler",
+    "description": "Especialista principal en modelado Blender para Modo Edición, modificadores, colecciones, modelado de precisión y organización de escenas. Úselo para modelado 3D general, bloqueos, limpieza, flujos de trabajo no destructivos y estructura de escenas en Blender mediante MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blocknative-automation": {
+    "name": "blocknative-automation",
+    "description": "Automatiza tareas de Blocknative mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "arjun988/blender-skills:.claude/skills/body-horror-style": {
+    "name": "estilo de horror corporal",
+    "description": "Dirección de arte de horror corporal para Blender, centrada en la incorrección de la carne, la mutación, la fusión y la narrativa visceral basada en materiales."
+  },
+  "arjun988/blender-skills:.cursor/skills/body-horror-style": {
+    "name": "estilo de horror corporal",
+    "description": "Dirección de arte de horror corporal para Blender, centrada en la incorrección de la carne, la mutación, la fusión y la narrativa visceral basada en materiales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boldsign-automation": {
+    "name": "automatización-de-boldsign",
+    "description": "Automatiza tareas de Boldsign mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bolna-automation": {
+    "name": "automatización-de-bolna",
+    "description": "Automatiza tareas de Bolna mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boloforms-automation": {
+    "name": "automatización-de-boloforms",
+    "description": "Automatiza tareas de Boloforms mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bolt-iot-automation": {
+    "name": "automatización-de-bolt-iot",
+    "description": "Automatiza tareas de Bolt Iot mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bonsai-automation": {
+    "name": "automatización-de-bonsai",
+    "description": "Automatiza tareas de Bonsai mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "virgiliojr94/book-to-skill:book-to-skill": {
+    "name": "libro-a-habilidad",
+    "description": "Convierte libros y documentos en habilidades estructuradas de agentes a partir de archivos locales (PDF, EPUB, DOCX, HTML, Markdown, TXT, RTF, MOBI/AZW) o de búsquedas remotas de libros MCP (`/book-to-skill search <query>`), extrayendo marcos conceptuales, modelos mentales, principios, técnicas y antipatrrones. Úsalo mediante GitHub Copilot CLI, Amp, Claude Code, Hermes Agent, OpenCode u OpenClaw para estudiar un documento o aplicar los marcos conceptuales de un autor."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bookingmood-automation": {
+    "name": "automatización-de-bookingmood",
+    "description": "Automatiza tareas de Bookingmood mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/booqable-automation": {
+    "name": "automatización-de-booqable",
+    "description": "Automatiza tareas de Booqable mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/borneo-automation": {
+    "name": "automatización-de-borneo",
+    "description": "Automatiza tareas de Borneo mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botbaba-automation": {
+    "name": "automatización-de-botbaba",
+    "description": "Automatiza tareas de Botbaba mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botpress-automation": {
+    "name": "automatización-de-botpress",
+    "description": "Automatiza tareas de Botpress mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botsonic-automation": {
+    "name": "automatización-de-botsonic",
+    "description": "Automatiza tareas de Botsonic mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botstar-automation": {
+    "name": "automatización-de-botstar",
+    "description": "Automatiza tareas de Botstar mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bouncer-automation": {
+    "name": "automatización-de-bouncer",
+    "description": "Automatiza tareas de Bouncer mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boxhero-automation": {
+    "name": "automatización-de-boxhero",
+    "description": "Automatiza tareas de Boxhero mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "anthropics/skills:skills/brand-guidelines": {
+    "name": "pautas-de-marca",
+    "description": "Aplica los colores oficiales y la tipografía de Anthropic a cualquier tipo de artefacto que pueda beneficiarse de la apariencia y el estilo de Anthropic. Úsalo cuando se apliquen colores de marca o directrices de estilo, formato visual o estándares de diseño de la empresa."
+  },
+  "ComposioHQ/awesome-claude-skills:brand-guidelines": {
+    "name": "pautas-de-marca",
+    "description": "Aplica los colores oficiales y la tipografía de Anthropic a cualquier tipo de artefacto que pueda beneficiarse de la apariencia y el estilo de Anthropic. Úsalo cuando se apliquen colores de marca o directrices de estilo, formato visual o estándares de diseño de la empresa."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brandfetch-automation": {
+    "name": "automatización-de-brandfetch",
+    "description": "Automatiza tareas de Brandfetch mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "emilkowalski/skills:skills/break-ui": {
+    "name": "romper-UI",
+    "description": "Intenta romper una pieza de interfaz de usuario alimentándola con datos del peor caso: nombres largos, correos electrónicos irrompibles, nombres de una sola letra, campos faltantes, recuentos enormes, cero elementos, etiquetas largas, texto no latino, emojis, números extremos... Luego muéstrala tras un interruptor \"Demo data / Worst case\" e informa todo lo que falló, junto con la solución para cada problema. Úsalo cuando el usuario solicite realizar pruebas de estrés, romper o encontrar casos límite en un componente o pantalla, o para \"probar el peor caso\". Para críticas de diseño visual usa emil-design-eng; para animaciones, usa review-animations."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/breeze-automation": {
+    "name": "automatización-de-breeze",
+    "description": "Automatiza tareas de Breeze mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/breezy-hr-automation": {
+    "name": "automatización-de-breezy-hr",
+    "description": "Automatiza tareas de Breezy HR mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brex-automation": {
+    "name": "automatización-de-brex",
+    "description": "Automatiza tareas de Brex mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brex-staging-automation": {
+    "name": "automatización-de-brex-staging",
+    "description": "Automatiza tareas de Brex Staging mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brightdata-automation": {
+    "name": "automatización-de-brightdata",
+    "description": "Automatiza tareas de Brightdata mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brightpearl-automation": {
+    "name": "automatización-de-brightpearl",
+    "description": "Automatiza tareas de Brightpearl mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brilliant-directories-automation": {
+    "name": "automatización-de-brilliant-directories",
+    "description": "Automatiza tareas de Brilliant Directories mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browseai-automation": {
+    "name": "automatización-de-browseai",
+    "description": "Automatiza tareas de Browseai mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "cexll/myclaude:skills/browser": {
+    "name": "navegador",
+    "description": "Esta habilidad debe usarse para tareas de automatización del navegador utilizando el Protocolo de Herramientas de Desarrollo de Chrome (CDP). Se activa cuando los usuarios necesitan iniciar Chrome con depuración remota, navegar por páginas, ejecutar JavaScript en el contexto del navegador, capturar capturas de pantalla o seleccionar interactivamente elementos del DOM. No se requiere servidor MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browser-tool-automation": {
+    "name": "automatización-de-browser-tool",
+    "description": "Automatiza tareas de Browser Tool mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserbase-tool-automation": {
+    "name": "automatización-de-browserbase-tool",
+    "description": "Automatiza tareas de Browserbase Tool mediante Rube MCP (Composio). Siempre busca primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserhub-automation": {
+    "name": "automatización_de_browserhub",
+    "description": "Automatice tareas de Browserhub mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserless-automation": {
+    "name": "automatización_sin_navegador",
+    "description": "Automatice tareas sin navegador mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "arjun988/blender-skills:.claude/skills/brutalist-mood": {
+    "name": "ambiente_brutalista",
+    "description": "Dirección de ambiente brutalista y de monumento de hormigón para arquitectura y escenas con hormigón en bruto, escala monumental y composición austera."
+  },
+  "arjun988/blender-skills:.cursor/skills/brutalist-mood": {
+    "name": "ambiente_brutalista",
+    "description": "Dirección de ambiente brutalista y de monumento de hormigón para arquitectura y escenas con hormigón en bruto, escala monumental y composición austera."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/btcpay-server-automation": {
+    "name": "automatización_de_btcpay_server",
+    "description": "Automatice tareas de Btcpay Server mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bubble-automation": {
+    "name": "automatización_de_bubble",
+    "description": "Automatice tareas de Bubble mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugbug-automation": {
+    "name": "automatización_de_bugbug",
+    "description": "Automatice tareas de Bugbug mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugherd-automation": {
+    "name": "automatización_de_bugherd",
+    "description": "Automatice tareas de Bugherd mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugsnag-automation": {
+    "name": "automatización_de_bugsnag",
+    "description": "Automatice tareas de Bugsnag mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/buildkite-automation": {
+    "name": "automatización_de_buildkite",
+    "description": "Automatice tareas de Buildkite mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/builtwith-automation": {
+    "name": "automatización_de_builtwith",
+    "description": "Automatice tareas de Builtwith mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bunnycdn-automation": {
+    "name": "automatización_de_bunnycdn",
+    "description": "Automatice tareas de Bunnycdn mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/byteforms-automation": {
+    "name": "automatización_de_byteforms",
+    "description": "Automatice tareas de Byteforms mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cabinpanda-automation": {
+    "name": "automatización_de_cabinpanda",
+    "description": "Automatice tareas de Cabinpanda mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cal-automation": {
+    "name": "automatización_de_cal",
+    "description": "Automatice tareas de Cal mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/calendarhero-automation": {
+    "name": "automatización_de_calendarhero",
+    "description": "Automatice tareas de Calendarhero mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callerapi-automation": {
+    "name": "automatización_de_callerapi",
+    "description": "Automatice tareas de Callerapi mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callingly-automation": {
+    "name": "automatización_de_callingly",
+    "description": "Automatice tareas de Callingly mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callpage-automation": {
+    "name": "automatización_de_callpage",
+    "description": "Automatice tareas de Callpage mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "arjun988/blender-skills:.claude/skills/camera-cinematography": {
+    "name": "cinematografía_con_cámara",
+    "description": "Trabajo cinematográfico con cámara en Blender, incluyendo encuadre, lentes, composición, animación de cámara y lenguaje de tomas más allá de la configuración básica de renderizado mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/camera-cinematography": {
+    "name": "cinematografía_con_cámara",
+    "description": "Trabajo cinematográfico con cámara en Blender, incluyendo encuadre, lentes, composición, animación de cámara y lenguaje de tomas más allá de la configuración básica de renderizado mediante MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/campaign-cleaner-automation": {
+    "name": "automatización_de_campaign_cleaner",
+    "description": "Automatice tareas de Campaign Cleaner mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/campayn-automation": {
+    "name": "automatización_de_campaign",
+    "description": "Automatice tareas de Campayn mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/canny-automation": {
+    "name": "automatización_de_canny",
+    "description": "Automatice tareas de Canny mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/canvas-automation": {
+    "name": "automatización_de_canvas",
+    "description": "Automatice tareas de Canvas mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "anthropics/skills:skills/canvas-design": {
+    "name": "diseño_de_canvas",
+    "description": "Cree arte visual hermoso en documentos .png y .pdf utilizando filosofía de diseño. Debe usar esta habilidad cuando el usuario solicite crear un póster, una obra de arte, un diseño u otra pieza estática. Cree diseños visuales originales, nunca copiando el trabajo de artistas existentes para evitar infracciones de derechos de autor."
+  },
+  "ComposioHQ/awesome-claude-skills:canvas-design": {
+    "name": "diseño_de_canvas",
+    "description": "Cree arte visual hermoso en documentos .png y .pdf utilizando filosofía de diseño. Debe usar esta habilidad cuando el usuario solicite crear un póster, una obra de arte, un diseño u otra pieza estática. Cree diseños visuales originales, nunca copiando el trabajo de artistas existentes para evitar infracciones de derechos de autor."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/capsule_crm-automation": {
+    "name": "automatización_de_capsule_crm",
+    "description": "Automatice tareas de Capsule CRM mediante Rube MCP (Composio): contactos, oportunidades, casos, tareas y gestión del pipeline. Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/carbone-automation": {
+    "name": "automatización_de_carbone",
+    "description": "Automatice tareas de Carbone mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cardly-automation": {
+    "name": "automatización_de_cardly",
+    "description": "Automatice tareas de Cardly mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "arjun988/blender-skills:.claude/skills/cartoon-style": {
+    "name": "estilo_dibujos_animados",
+    "description": "Dirección artística de dibujos animados para Blender con formas legibles de aplastamiento-estiramiento, colores llamativos y siluetas gráficas para juegos y animación."
+  },
+  "arjun988/blender-skills:.cursor/skills/cartoon-style": {
+    "name": "estilo_dibujos_animados",
+    "description": "Dirección artística de dibujos animados para Blender con formas legibles de aplastamiento-estiramiento, colores llamativos y siluetas gráficas para juegos y animación."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/castingwords-automation": {
+    "name": "automatización_de_castingwords",
+    "description": "Automatice tareas de Castingwords mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cats-automation": {
+    "name": "automatización_de_cats",
+    "description": "Automatice tareas de Cats mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cdr-platform-automation": {
+    "name": "automatización-de-plataforma-cdr",
+    "description": "Automatice tareas de la plataforma CDR mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/census-bureau-automation": {
+    "name": "automatización-del-buró-de-censo",
+    "description": "Automatice tareas del Buró de Censos mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/centralstationcrm-automation": {
+    "name": "automatización-de-centralstationcrm",
+    "description": "Automatice tareas de Centralstationcrm mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/certifier-automation": {
+    "name": "automatización-de-certificador",
+    "description": "Automatice tareas de Certifier mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:changelog-generator": {
+    "name": "generador-de-changelog",
+    "description": "Crea automáticamente changelogs visibles para el usuario a partir de commits de git, analizando el historial de commits, categorizando los cambios y transformando commits técnicos en notas de lanzamiento claras y amigables para el cliente. Convierte horas de redacción manual de changelogs en minutos de generación automática."
+  },
+  "arjun988/blender-skills:.claude/skills/character-archetypes": {
+    "name": "arquetipos-de-personajes",
+    "description": "Dirección artística de arquetipos de personajes para Blender, abarcando razas fantásticas, criaturas de terror, roles (caballero, asesino, detective) y tipos de cuerpo (mecha, androide, chibi, etc.)."
+  },
+  "arjun988/blender-skills:.cursor/skills/character-archetypes": {
+    "name": "arquetipos-de-personajes",
+    "description": "Dirección artística de arquetipos de personajes para Blender, abarcando razas fantásticas, criaturas de terror, roles (caballero, asesino, detective) y tipos de cuerpo (mecha, androide, chibi, etc.)."
+  },
+  "arjun988/blender-skills:.claude/skills/character-artist": {
+    "name": "artista-de-personajes",
+    "description": "Modelado AAA de personajes: anatomía humana, estilización, topología facial, vestimenta, cabello y mallas listas para animación. Úselo para personajes de videojuegos, expresiones faciales y activos de personajes de producción en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/character-artist": {
+    "name": "artista-de-personajes",
+    "description": "Modelado AAA de personajes: anatomía humana, estilización, topología facial, vestimenta, cabello y mallas listas para animación. Úselo para personajes de videojuegos, expresiones faciales y activos de personajes de producción en Blender mediante MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chaser-automation": {
+    "name": "automatización-de-chaser",
+    "description": "Automatice tareas de Chaser mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatbotkit-automation": {
+    "name": "automatización-de-chatbotkit",
+    "description": "Automatice tareas de Chatbotkit mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatfai-automation": {
+    "name": "automatización-de-chatfai",
+    "description": "Automatice tareas de Chatfai mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatwork-automation": {
+    "name": "automatización-de-chatwork",
+    "description": "Automatice tareas de Chatwork mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "arjun988/blender-skills:.claude/skills/chibi-style": {
+    "name": "estilo-chibi",
+    "description": "Dirección artística en estilo chibi y proporciones SD para personajes de Blender, con cabezas sobredimensionadas, anatomía simplificada y reglas de silueta adorable."
+  },
+  "arjun988/blender-skills:.cursor/skills/chibi-style": {
+    "name": "estilo-chibi",
+    "description": "Dirección artística en estilo chibi y proporciones SD para personajes de Blender, con cabezas sobredimensionadas, anatomía simplificada y reglas de silueta adorable."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chmeetings-automation": {
+    "name": "automatización-de-chmeetings",
+    "description": "Automatice tareas de Chmeetings mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "emilkowalski/skills:skills/choreograph": {
+    "name": "coreografía",
+    "description": "Coordine varios elementos que se animan juntos — decida qué se mueve, en qué orden, cuánto se superponen y qué permanece quieto — para que un grupo se perciba como un movimiento intencional en lugar de una acumulación de animaciones separadas. Úselo al crear o corregir una lista escalonada, una entrada de héroe, un cambio de vista dentro de un contenedor, un flujo de múltiples pasos, un elemento que se va mientras sus hermanos cierran la brecha, una transición entre estados ricos o cualquier interacción con varias partes móviles (icono + fondo + líneas, panel + contenido, elementos que vuelan hacia un objetivo). Se activa con — escalonamiento, secuencia, coreografía, \"uno tras otro\", fundido cruzado, modo AnimatePresence, entrada de héroe, multi-paso, useAnimate, \"se siente mecánico\", \"demasiadas cosas sucediendo\", \"se siente lento para abrir\"."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cincopa-automation": {
+    "name": "automatización-de-cincopa",
+    "description": "Automatice tareas de Cincopa mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/claid-ai-automation": {
+    "name": "automatización-de-claid-ai",
+    "description": "Automatice tareas de Claid AI mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/classmarker-automation": {
+    "name": "automatización-de-classmarker",
+    "description": "Automatice tareas de Classmarker mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "anthropics/skills:skills/claude-api": {
+    "name": "claude-api",
+    "description": "Referencia para la API de Claude / SDK de Anthropic — IDs de modelos, precios, parámetros, streaming, uso de herramientas, MCP, agentes, caché, conteo de tokens, migración de modelos. GATILLO — léase ANTES de abrir el archivo objetivo; no lo omita porque parezca \"una línea única\" — siempre que: el prompt mencione Claude/Anthropic en cualquier forma (Claude, Anthropic, Fable, Opus, Sonnet, Haiku, `anthropic`, `@anthropic-ai`, `claude-*`, `us.anthropic.*`, `[1m]`); el usuario pregunte sobre un LLM (precios/elección de modelo/límites/caché) — nunca responda de memoria; O la tarea tenga forma de LLM con proveedor no especificado (agente/MCP/definición de herramienta/multi-agente/RAG/juez-LLM/uso-computadora; generar/resumir/extrar/clasificar/reescriturar/conversar sobre NL; depurar negativas/cortes/streaming/llamadas-a-herramientas/tokens). OMITA solo cuando se trabaje con otro proveedor (anula todos los gatillos): OpenAI/GPT/Gemini/Llama/Mistral/Cohere/Ollama nombrados en la consulta; O `grep -rE 'openai|langchain_openai|google.generativeai|genai|mistralai|cohere|ollama'`por los hitos del proyecto (ejecute este grep PRIMERO si no hay proveedor nombrado — no lea el archivo)."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clearout-automation": {
+    "name": "automatización-de-clearout",
+    "description": "Automatice tareas de Clearout mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clickmeeting-automation": {
+    "name": "automatización-de-clickmeeting",
+    "description": "Automatice tareas de Clickmeeting mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "arjun988/blender-skills:.claude/skills/cloth-sim": {
+    "name": "simulación-de-tela",
+    "description": "Bloqueo de prendas, simulación de telas, grupos de pines y horneado para obtener claves de forma o cachés para personajes y accesorios en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/cloth-sim": {
+    "name": "simulación-de-tela",
+    "description": "Bloqueo de prendas, simulación de telas, grupos de pines y horneado para obtener claves de forma o cachés para personajes y accesorios en Blender mediante MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudcart-automation": {
+    "name": "automatización-de-cloudcart",
+    "description": "Automatice tareas de Cloudcart mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudconvert-automation": {
+    "name": "automatización-de-cloudconvert",
+    "description": "Automatice tareas de Cloudconvert mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-api-key-automation": {
+    "name": "automatización-de-cloudflare-api-key",
+    "description": "Automatice tareas de la API de Cloudflare mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-automation": {
+    "name": "automatización-de-cloudflare",
+    "description": "Automatice tareas de Cloudflare mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-browser-rendering-automation": {
+    "name": "automatización-de-cloudflare-browser-rendering",
+    "description": "Automatice tareas de Renderizado del Navegador de Cloudflare mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudlayer-automation": {
+    "name": "automatización-de-cloudlayer",
+    "description": "Automatice tareas de Cloudlayer mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudpress-automation": {
+    "name": "automatización-de-cloudpress",
+    "description": "Automatice tareas de Cloudpress mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coassemble-automation": {
+    "name": "automatización-de-coassemble",
+    "description": "Automatice tareas de Coassemble mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codacy-automation": {
+    "name": "automatización-de-codacy",
+    "description": "Automatice tareas de Codacy mediante Rube MCP (Composio). Siempre busque primero herramientas para los esquemas actuales."
+  },
+  "cexll/myclaude:skills/codeagent": {
+    "name": "codeagent",
+    "description": "Ejecuta codeagent-wrapper para tareas de código con IA de múltiples backends. Admite los backends Codex, Claude, Gemini y OpenCode con preajustes de agente, inyección de habilidades, referencias a archivos (@syntax), aislamiento del árbol de trabajo, ejecución paralela y salida estructurada."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codeinterpreter-automation": {
+    "name": "codeinterpreter-automation",
+    "description": "Automatiza tareas de Codeinterpreter mediante Rube MCP (Composio). Siempre busca herramientas primero para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codereadr-automation": {
+    "name": "codereadr-automation",
+    "description": "Automatiza tareas de Codereadr mediante Rube MCP (Composio). Siempre busca herramientas primero para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinmarketcal-automation": {
+    "name": "coinmarketcal-automation",
+    "description": "Automatiza tareas de Coinmarketcal mediante Rube MCP (Composio). Siempre busca herramientas primero para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinmarketcap-automation": {
+    "name": "coinmarketcap-automation",
+    "description": "Automatiza tareas de Coinmarketcap mediante Rube MCP (Composio). Siempre busca herramientas primero para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinranking-automation": {
+    "name": "coinranking-automation",
+    "description": "Automatiza tareas de Coinranking mediante Rube MCP (Composio). Siempre busca herramientas primero para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/college-football-data-automation": {
+    "name": "college-football-data-automation",
+    "description": "Automatiza tareas de College Football Data mediante Rube MCP (Composio). Siempre busca herramientas primero para los esquemas actuales."
+  },
+  "arjun988/blender-skills:.claude/skills/collision-proxy": {
+    "name": "collision-proxy",
+    "description": "Autoría de proxies de colisión para juegos, incluyendo nombres UCX/UHX, envolventes convexas, cápsulas y mallas colisionadoras simples en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/collision-proxy": {
+    "name": "collision-proxy",
+    "description": "Autoría de proxies de colisión para juegos, incluyendo nombres UCX/UHX, envolventes convexas, cápsulas y mallas colisionadoras simples en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/comic-book-style": {
+    "name": "comic-book-style",
+    "description": "Dirección artística de cómics y novelas gráficas para Blender con énfasis en líneas de tinta, señales de medios tonos y encuadres de alto contraste."
+  },
+  "arjun988/blender-skills:.cursor/skills/comic-book-style": {
+    "name": "comic-book-style",
+    "description": "Dirección artística de cómics y novelas gráficas para Blender con énfasis en líneas de tinta, señales de medios tonos y encuadres de alto contraste."
+  },
+  "ComposioHQ/awesome-claude-skills:competitive-ads-extractor": {
+    "name": "competitive-ads-extractor",
+    "description": "Extrae y analiza anuncios de competidores desde bibliotecas publicitarias (Facebook, LinkedIn, etc.) para comprender qué mensajes, problemas y enfoques creativos están funcionando. Ayuda a inspirar y mejorar tus propias campañas publicitarias."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/composio-automation": {
+    "name": "composio-automation",
+    "description": "Automatiza tareas de Composio mediante Rube MCP (Composio). Siempre busca herramientas primero para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/composio-search-automation": {
+    "name": "composio-search-automation",
+    "description": "Automatiza tareas de Composio Search mediante Rube MCP (Composio). Siempre busca herramientas primero para los esquemas actuales."
+  },
+  "arjun988/blender-skills:.claude/skills/compositing": {
+    "name": "compositing",
+    "description": "Flujos de trabajo de compositor Blender para pilas de belleza, pasadas de renderizado, gradación de color, reflejos y salidas de entrega mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/compositing": {
+    "name": "compositing",
+    "description": "Flujos de trabajo de compositor Blender para pilas de belleza, pasadas de renderizado, gradación de color, reflejos y salidas de entrega mediante MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/connecteam-automation": {
+    "name": "connecteam-automation",
+    "description": "Automatiza tareas de Connecteam mediante Rube MCP (Composio). Siempre busca herramientas primero para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/contentful-graphql-automation": {
+    "name": "contentful-graphql-automation",
+    "description": "Automatiza tareas de Contentful Graphql mediante Rube MCP (Composio). Siempre busca herramientas primero para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/control-d-automation": {
+    "name": "control-d-automation",
+    "description": "Automatiza tareas de Control D mediante Rube MCP (Composio). Siempre busca herramientas primero para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/conversion-tools-automation": {
+    "name": "conversion-tools-automation",
+    "description": "Automatiza tareas de Conversion Tools mediante Rube MCP (Composio). Siempre busca herramientas primero para los esquemas actuales."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/convertapi-automation": {
+    "name": "convertapi-automation",
+    "description": "Automatiza tareas de Convertapi mediante Rube MCP (Composio). Siempre busca herramientas primero para los esquemas actuales."
+  },
+  "arjun988/blender-skills:.claude/skills/cosmic-eldritch-horror": {
+    "name": "cosmic-eldritch-horror",
+    "description": "Dirección artística de horror cósmico, eldritch y lovecraftiano para Blender con pistas no euclidianas, escala imposible y formas incomprensibles."
+  },
+  "arjun988/blender-skills:.cursor/skills/cosmic-eldritch-horror": {
+    "name": "cosmic-eldritch-horror",
+    "description": "Dirección artística de horror cósmico, eldritch y lovecraftiano para Blender con pistas no euclidianas, escala imposible y formas incomprensibles."
+  },
+  "arjun988/blender-skills:.claude/skills/cozy-wholesome-mood": {
+    "name": "cozy-wholesome-mood",
+    "description": "Dirección de ambiente acogedor, tierno, saludable, relajante y pacífico para activos y escenas de Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/cozy-wholesome-mood": {
+    "name": "cozy-wholesome-mood",
+    "description": "Dirección de ambiente acogedor, tierno, saludable, relajante y pacífico para activos y escenas de Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/creature-artist": {
+    "name": "creature-artist",
+    "description": "Modelado AAA de criaturas para fantasía, extraterrestres, monstruos y diseño orgánico de criaturas con anatomía y movimiento creíbles. Úsalo para bloqueos de criaturas, flujo muscular, estructura ósea y activos listos para animación en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/creature-artist": {
+    "name": "creature-artist",
+    "description": "Modelado AAA de criaturas para fantasía, extraterrestres, monstruos y diseño orgánico de criaturas con anatomía y movimiento creíbles. Úsalo para bloqueos de criaturas, flujo muscular, estructura ósea y activos listos para animación en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/dark-gritty-mood": {
+    "name": "dark-gritty-mood",
+    "description": "Dirección de ambiente oscuro, sombrío, arenoso, oxidado, abandonado, decadente, industrial, solitario y melancólico para Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/dark-gritty-mood": {
+    "name": "dark-gritty-mood",
+    "description": "Dirección de ambiente oscuro, sombrío, arenoso, oxidado, abandonado, decadente, industrial, solitario y melancólico para Blender."
+  },
+  "Leonxlnx/taste-skill:skills/taste-skill": {
+    "name": "design-taste-frontend",
+    "description": "tasteskill 2.5.1, la habilidad frontend anti-sopor. Construye sitios web corporativos profesionales al nivel de figma.com y x.ai: texto sencillo con voz propia, un solo sistema, una sección por pantalla, bordes iguales, fotografías reales y UI real del producto (fotografías sustitutas con licencia cuando el cliente no tiene; un render del producto solo cuando el brief pide 3D), una entrada heroica y uno o dos momentos resueltos en cada página, efectos de sombreado y escenas solo en páginas de tecnología, juegos y software, microinteracciones discretas y un verificador y puerta de finalización que lo enforce en un navegador real. Úsalo siempre que construyas, diseñes, rediseñes, reestiles, pules o revises una landing page, sitio corporativo, de producto, tienda, café, hotel, estudio, SaaS, IA, herramienta para desarrolladores o juego, ya sea como HTML/CSS estático o dentro de un proyecto existente de React, Next.js, Vue, Svelte, Astro o Tailwind, o cuando el usuario diga que una página parece genérica, plantillada o hecha por \"AI-made\"."
+  },
+  "cexll/myclaude:skills/dev": {
+    "name": "dev",
+    "description": "Flujo de trabajo extremadamente ligero de desarrollo de extremo a extremo con clarificación de requisitos, selección inteligente de backend, ejecución paralela de codeagent y cobertura obligatoria del 90% de pruebas"
+  },
+  "anthropics/skills:skills/discernment-nudge": {
+    "name": "discernment-nudge",
+    "description": "Después de dar una respuesta sustantiva o un borrador en el que el usuario pueda actuar — consejos o recomendaciones, artefactos redactados como objetivos, planes, pitches, propuestas o correos electrónicos, estimaciones o proyecciones, análisis o interpretación de datos, afirmaciones factuales en las que puedan confiar, o un argumento de varios pasos — invoca esta habilidad ANTES de finalizar tu respuesta y luego, si aplica, añade 2-3 breves preguntas de seguimiento, cada una vinculada a algo específico en lo que acabas de producir, que ayuden al usuario a verificar hechos clave, indagar el razonamiento o las suposiciones y notar contexto faltante. Hazlo como máximo una vez por conversación. Omítelo cuando el usuario haya preguntado algo trivial sobre cómo hacer algo o una simple consulta, quiera una explicación puramente educativa, te haya pedido solo formatear, convertir o ensamblar un archivo a partir de contenido que proporcionó, esté escribiendo código que ejecutará, haciendo escritura creativa o charlando casualmente, o ya te haya pedido que verifiques, cites o revises — el archivo de la habilidad explica estos límites y el formato exacto de salida."
+  },
+  "cexll/myclaude:skills/do": {
+    "name": "do",
+    "description": "Esta habilidad debe usarse para el desarrollo estructurado de características con comprensión del código base. Se activa con el comando /do. Proporciona un flujo de trabajo de 5 fases (Comprender, Aclarar, Diseñar, Implementar, Completar) utilizando codeagent-wrapper para orquestar code-explorer, code-architect, code-reviewer y desarrollar agentes en paralelo."
+  },
+  "anthropics/skills:skills/doc-coauthoring": {
+    "name": "doc-coauthoring",
+    "description": "Guía a los usuarios a través de un flujo de trabajo estructurado para la coautoría de documentación. Úsalo cuando el usuario quiera escribir documentación, propuestas, especificaciones técnicas, documentos de decisión u otro contenido estructurado similar. Este flujo ayuda a los usuarios a transferir contexto de manera eficiente, refinar el contenido mediante iteraciones y verificar que la documentación funcione para los lectores. Activa cuando el usuario menciona escribir docs, crear propuestas, redactar specs u otras tareas de documentación similares."
+  },
+  "arpitg1304/robotics-agent-skills:skills/docker-ros2-development": {
+    "name": "docker-ros2-development",
+    "description": "Mejores prácticas para el desarrollo ROS2 basado en Docker, incluyendo archivos multi-etapa Docker, docker-compose para sistemas robóticos multi-contenedor, descubrimiento DDS entre contenedores, passthrough de GPU para percepción y patrones de contenedores dev-vs-deploy. Usa esta habilidad al contenerizar espacios de trabajo ROS2, configurar docker-compose para stacks de software robótico, depurar comunicación DDS entre contenedores, configurar NVIDIA Container Toolkit para cargas de trabajo de GPU, reenviar X11/Wayland para rviz2 y herramientas GUI, o gestionar passthrough de dispositivos USB para cámaras y dispositivos serie. Activa siempre que el usuario mencione Docker con ROS2, docker-compose para robots, Dockerfile para espacios de trabajo colcon, redes de contenedores para DDS, devcontainer para ROS2, builds multi-etapa para ROS2 o desplegar ROS2 en contenedores. También activa para CI/CD con builds ROS2 basados en Docker, configuración CycloneDDS o FastDDS en contenedores, o memoria compartida en Docker. Cubre las distribuciones Humble, Jazzy y Rolling en imágenes base Ubuntu 22.04 y 24.04."
+  },
+  "anthropics/skills:skills/docx": {
+    "name": "docx",
+    "description": "Usa esta habilidad siempre que el usuario quiera crear, leer, editar o manipular documentos de Word (.docx) o plantillas de Word (.dotx). Las activaciones incluyen: cualquier mención a 'Word doc', 'documento de Word', '.docx', '.dotx' o solicitudes para producir documentos profesionales con formato como tablas de contenido, encabezados, números de página o membretes. También úsalo al extraer o reorganizar contenido de archivos .docx o .dotx, insertar o reemplazar imágenes en documentos, realizar búsqueda y reemplazo en archivos de Word, trabajar con cambios rastreados o comentarios, o convertir contenido en un documento de Word pulido. Si el usuario pide un 'informe', 'memorándum', 'carta', 'plantilla' u otro entregable similar como archivo de Word o .docx, usa esta habilidad. NO la uses para PDFs, hojas de cálculo, Google Docs ni tareas generales de programación no relacionadas con la generación de documentos."
+  },
+  "arjun988/blender-skills:.claude/skills/dream-surreal-mood": {
+    "name": "dream-surreal-mood",
+    "description": "Dirección de ambiente onírico, surrealista, misterioso, místico, esperanzador y caótico para escenas de Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/dream-surreal-mood": {
+    "name": "dream-surreal-mood",
+    "description": "Dirección de ambiente onírico, surrealista, misterioso, místico, esperanzador y caótico para escenas de Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/dream-weirdcore-style": {
+    "name": "estilo dream-weirdcore",
+    "description": "Dirección de arte inspirada en Dreamcore, weirdcore y traumacore para Blender, con una estética nostálgica errónea, nostalgia liminal y espacios surrealistas de la infancia."
+  },
+  "arjun988/blender-skills:.cursor/skills/dream-weirdcore-style": {
+    "name": "estilo dream-weirdcore",
+    "description": "Dirección de arte inspirada en Dreamcore, weirdcore y traumacore para Blender, con una estética nostálgica errónea, nostalgia liminal y espacios surrealistas de la infancia."
+  },
+  "emilkowalski/skills:skills/emil-design-eng": {
+    "name": "emil-design-eng",
+    "description": "La filosofía de diseño e ingeniería de Emil Kowalski para el pulido de la interfaz de usuario, el diseño de componentes, las decisiones de animación y los detalles invisibles que hacen que el software sea excelente. Úsese al construir o revisar las interacciones y el acabado de un componente de UI (estados de presión y desplazamiento, origen de popovers, sincronización de tooltips, transiciones frente a keyframes, técnicas de clip-path, detalles de arrastre) cuando ninguna habilidad más específica resulta adecuada."
+  },
+  "arjun988/blender-skills:.claude/skills/environment-artist": {
+    "name": "artista de entornos",
+    "description": "Arte de entornos AAA para kits modulares, edificios, terrenos, vegetación, arquitectura y composición de escenas. Úsese para entornos optimizados para juegos, narrativa a través del espacio y pipelines de activos modulares en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/environment-artist": {
+    "name": "artista de entornos",
+    "description": "Arte de entornos AAA para kits modulares, edificios, terrenos, vegetación, arquitectura y composición de escenas. Úsese para entornos optimizados para juegos, narrativa a través del espacio y pipelines de activos modulares en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/export-pipeline": {
+    "name": "pipeline de exportación",
+    "description": "Exportación de producción desde Blender a FBX, GLTF, OBJ, USD y Alembic, con verificación de escala, pivote, rotación, normales, materiales, animación y colisiones mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/export-pipeline": {
+    "name": "pipeline de exportación",
+    "description": "Exportación de producción desde Blender a FBX, GLTF, OBJ, USD y Alembic, con verificación de escala, pivote, rotación, normales, materiales, animación y colisiones mediante MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/fantasy-worlds": {
+    "name": "mundos fantásticos",
+    "description": "Dirección de arte para la creación de mundos fantásticos en Blender, abarcando lenguaje de activos de fantasía medieval, alta fantasía, fantasía oscura y fantasía urbana."
+  },
+  "arjun988/blender-skills:.cursor/skills/fantasy-worlds": {
+    "name": "mundos fantásticos",
+    "description": "Dirección de arte para la creación de mundos fantásticos en Blender, abarcando lenguaje de activos de fantasía medieval, alta fantasía, fantasía oscura y fantasía urbana."
+  },
+  "emilkowalski/skills:skills/find-animation-opportunities": {
+    "name": "encontrar-oportunidades-de-animación",
+    "description": "Busque en un código base o en la interfaz de usuario lugares que no tienen animación pero deberían tenerla, y rechace todo lo que no debería animarse. Solo lectura; propone movimiento con valores exactos, pero no lo implementa. Úsese cuando el usuario pregunte ¿qué podría animarse aquí? o quiera hacer que esto se sienta más vivo. Para corregir animaciones existentes, utilice mejorar-animaciones o revisar-animaciones en su lugar."
+  },
+  "arjun988/blender-skills:.claude/skills/folk-horror-style": {
+    "name": "estilo folk-horror",
+    "description": "Dirección de arte de horror folclórico para Blender, con lo inquietante de rituales rurales, el terror pastoral bajo la luz del día y una narrativa de injusticia comunitaria."
+  },
+  "arjun988/blender-skills:.cursor/skills/folk-horror-style": {
+    "name": "estilo folk-horror",
+    "description": "Dirección de arte de horror folclórico para Blender, con lo inquietante de rituales rurales, el terror pastoral bajo la luz del día y una narrativa de injusticia comunitaria."
+  },
+  "anthropics/skills:skills/frontend-design": {
+    "name": "diseño-frontend",
+    "description": "Guía para un diseño visual distintivo e intencional al crear una nueva interfaz de usuario o remodelar una existente. Ayuda con la dirección estética, la tipografía y a tomar decisiones que no parezcan predeterminadas genéricas."
+  },
+  "arjun988/blender-skills:.claude/skills/frutiger-aero-style": {
+    "name": "estilo frutiger-aero",
+    "description": "Dirección de arte Frutiger Aero para Blender, con esquemaomorfismo brillante, señales de interfaz de usuario en color agua, optimismo entre tecnología y naturaleza, y futurismo de mediados de la década de 2000."
+  },
+  "arjun988/blender-skills:.cursor/skills/frutiger-aero-style": {
+    "name": "estilo frutiger-aero",
+    "description": "Dirección de arte Frutiger Aero para Blender, con esquemaomorfismo brillante, señales de interfaz de usuario en color agua, optimismo entre tecnología y naturaleza, y futurismo de mediados de la década de 2000."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-action-combat": {
+    "name": "género-acción-combate",
+    "description": "Dirección de arte para espacios de combate y lenguaje de objetos legibles en juegos de acción, hack-and-slash, beat 'em up y de lucha en Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-action-combat": {
+    "name": "género-acción-combate",
+    "description": "Dirección de arte para espacios de combate y lenguaje de objetos legibles en juegos de acción, hack-and-slash, beat 'em up y de lucha en Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-card-party-idle": {
+    "name": "género-juego-de-cartas-fiesta-idle",
+    "description": "Dirección de arte para juegos de cartas, constructores de mazos, juegos de fiesta, idle/incremental, educativos y de ritmo en Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-card-party-idle": {
+    "name": "género-juego-de-cartas-fiesta-idle",
+    "description": "Dirección de arte para juegos de cartas, constructores de mazos, juegos de fiesta, idle/incremental, educativos y de ritmo en Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-metroidvania-roguelike": {
+    "name": "género-metroidvania-roguelike",
+    "description": "Dirección de arte para juegos metroidvania, roguelike y roguelite en Blender, con puertas de bioma, módulos de habitación y objetos legibles durante la marcha."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-metroidvania-roguelike": {
+    "name": "género-metroidvania-roguelike",
+    "description": "Dirección de arte para juegos metroidvania, roguelike y roguelite en Blender, con puertas de bioma, módulos de habitación y objetos legibles durante la marcha."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-narrative-vn": {
+    "name": "género-narrativo-vn",
+    "description": "Dirección de arte para novelas visuales, películas interactivas, simuladores de paseo y espacios de presentación centrados en la historia en Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-narrative-vn": {
+    "name": "género-narrativo-vn",
+    "description": "Dirección de arte para novelas visuales, películas interactivas, simuladores de paseo y espacios de presentación centrados en la historia en Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-open-world-sandbox": {
+    "name": "género-mundoabierto-sandbox",
+    "description": "Dirección de arte para juegos de mundo abierto y sandbox en Blender, con puntos de referencia de biomas, escalas transitables y objetos de descubrimiento."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-open-world-sandbox": {
+    "name": "género-mundoabierto-sandbox",
+    "description": "Dirección de arte para juegos de mundo abierto y sandbox en Blender, con puntos de referencia de biomas, escalas transitables y objetos de descubrimiento."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-puzzle-platformer": {
+    "name": "género-puzzle-platformer",
+    "description": "Dirección de arte para juegos de rompecabezas y plataformas en Blender, con interactables legibles, volúmenes de salto y un claro lenguaje de peligros."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-puzzle-platformer": {
+    "name": "género-puzzle-platformer",
+    "description": "Dirección de arte para juegos de rompecabezas y plataformas en Blender, con interactables legibles, volúmenes de salto y un claro lenguaje de peligros."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-racing-sports": {
+    "name": "género-carreras-deportes",
+    "description": "Dirección de arte para juegos de carreras y deportes en Blender, con puntos de referencia en pistas, kits de estadios y legibilidad a alta velocidad."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-racing-sports": {
+    "name": "género-carreras-deportes",
+    "description": "Dirección de arte para juegos de carreras y deportes en Blender, con puntos de referencia en pistas, kits de estadios y legibilidad a alta velocidad."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-rpg": {
+    "name": "género-rpg",
+    "description": "Dirección de arte para mundos RPG, JRPG, CRPG, ARPG y MMORPG en Blender, incluyendo lecturas de rareza de botín e identidad regional."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-rpg": {
+    "name": "género-rpg",
+    "description": "Dirección de arte para mundos RPG, JRPG, CRPG, ARPG y MMORPG en Blender, incluyendo lecturas de rareza de botín e identidad regional."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-shooter": {
+    "name": "género-shooter",
+    "description": "Dirección de arte para mapas y objetos de FPS, TPS, shooters, battle royale y shooters de extracción en Blender, con lenguaje de líneas de visión y cobertura."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-shooter": {
+    "name": "género-shooter",
+    "description": "Dirección de arte para mapas y objetos de FPS, TPS, shooters, battle royale y shooters de extracción en Blender, con lenguaje de líneas de visión y cobertura."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-soulslike": {
+    "name": "género-soulslike",
+    "description": "Dirección de arte para juegos soulslike en Blender, con espacios de melancolía monumental, puertas de niebla, puntos de referencia de hogueras y letal legibilidad."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-soulslike": {
+    "name": "género-soulslike",
+    "description": "Dirección de arte para juegos soulslike en Blender, con espacios de melancolía monumental, puertas de niebla, puntos de referencia de hogueras y letal legibilidad."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-stealth": {
+    "name": "género-stealth",
+    "description": "Dirección de arte para espacios de juegos de sigilo en Blender, con volúmenes de sombra, diseños amigables para patrullas y materiales de ocultación."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-stealth": {
+    "name": "género-stealth",
+    "description": "Dirección de arte para espacios de juegos de sigilo en Blender, con volúmenes de sombra, diseños amigables para patrullas y materiales de ocultación."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-strategy-sim": {
+    "name": "género-estrategia-sim",
+    "description": "Dirección de arte para juegos de estrategia, RTS, estrategia por turnos, defensa de torres, MOBA, construcción de ciudades, simulación de colonias y simulación en general en Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-strategy-sim": {
+    "name": "género-estrategia-sim",
+    "description": "Dirección de arte para juegos de estrategia, RTS, estrategia por turnos, defensa de torres, MOBA, construcción de ciudades, simulación de colonias y simulación en general en Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/genre-survival": {
+    "name": "género-survival",
+    "description": "Dirección de arte para espacios de juego de supervivencia y survival-horror en Blender, enfatizando objetos de recursos, legibilidad de elaboración y rutas de tensión."
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-survival": {
+    "name": "género-survival",
+    "description": "Dirección de arte para espacios de juego de supervivencia y survival-horror en Blender, enfatizando objetos de recursos, legibilidad de elaboración y rutas de tensión."
+  },
+  "arjun988/blender-skills:.claude/skills/geometry-nodes": {
+    "name": "geometry-nodes",
+    "description": "Nodos de geometría de Blender para modelado procedural, sistemas de dispersión, vegetación, edificios, tuberías, cables y grupos de nodos reutilizables. Úsese para generación procedural de activos y pipelines de instanciación mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/geometry-nodes": {
+    "name": "geometry-nodes",
+    "description": "Nodos de geometría de Blender para modelado procedural, sistemas de dispersión, vegetación, edificios, tuberías, cables y grupos de nodos reutilizables. Úsese para generación procedural de activos y pipelines de instanciación mediante MCP."
+  },
+  "emilkowalski/skills:skills/gestures": {
+    "name": "gestos",
+    "description": "Cree interacciones de arrastre, deslizamiento y hojas que sigan el dedo 1:1 y permanezcan interrumpibles. Úsese al construir o reparar cualquier elemento que el usuario arrastre, deslice, lance, mantenga o cierre con un gesto — cajones, hojas, toasts y tarjetas deslizables para cerrar, arrastrar para reordenar, tirar para refrescar, mantener para confirmar — o cuando un gesto se sienta lento, desconectado del dedo, salta al soltar o no puede capturarse en medio de una animación. Se activa cuando — gesto, arrastre, deslizamiento, lanzamiento, hoja, puntos de enganche, Vaul, props de Motion drag, banda elástica, tirar para refrescar, mantener para eliminar, touch-action, \"no sigue mi dedo\", \"salta cuando suelto\", \"no puede agarrarlo en medio de una animación\"."
+  },
+  "arjun988/blender-skills:.claude/skills/godot-export": {
+    "name": "godot-export",
+    "description": "Exportación específica de Godot para Blender, favoreciendo GLTF/GLB con escala correcta, materiales, clips de animación y formas de colisión mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/godot-export": {
+    "name": "godot-export",
+    "description": "Exportación específica de Godot para Blender, favoreciendo GLTF/GLB con escala correcta, materiales, clips de animación y formas de colisión mediante MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/hair-groom": {
+    "name": "grooming-de-pelo",
+    "description": "Aseo de pelo y pelaje en Blender utilizando curvas, pelo de partículas, nodos de geometría y flujos de trabajo de tarjetas de pelo para juegos. Úsese para personajes, criaturas y tarjetas de pelo en tiempo real mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/hair-groom": {
+    "name": "grooming-de-pelo",
+    "description": "Aseo de pelo y pelaje en Blender utilizando curvas, pelo de partículas, nodos de geometría y flujos de trabajo de tarjetas de pelo para juegos. Úsese para personajes, criaturas y tarjetas de pelo en tiempo real mediante MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/hand-painted-style": {
+    "name": "estilo-pintado-a-manos",
+    "description": "Dirección de arte de texturas pintadas a mano para Blender, con albedo de pincelada, transiciones suaves de valor y restricción estilizada de PBR."
+  },
+  "arjun988/blender-skills:.cursor/skills/hand-painted-style": {
+    "name": "estilo-pintado-a-manos",
+    "description": "Dirección de arte de texturas pintadas a mano para Blender, con albedo de pincelada, transiciones suaves de valor y restricción estilizada de PBR."
+  },
+  "arjun988/blender-skills:.claude/skills/hard-surface": {
+    "name": "hard-surface",
+    "description": "Modelado AAA de superficies duras para ciencia ficción, industria, militares, vehículos, armas, robótica y props mecánicos. Úsese para flujos de trabajo booleanos/bevel, líneas de panel, greebles, chaflanes y superficies precisas desde el punto de vista manufacturero en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/hard-surface": {
+    "name": "hard-surface",
+    "description": "Modelado AAA de superficies duras para ciencia ficción, industria, militares, vehículos, armas, robótica y props mecánicos. Úsese para flujos de trabajo booleanos/bevel, líneas de panel, greebles, chaflanes y superficies precisas desde el punto de vista manufacturero en Blender mediante MCP."
+  },
+  "cexll/myclaude:skills/harness": {
+    "name": "harness",
+    "description": "Esta habilidad debe usarse para trabajos autónomos de agentes en múltiples sesiones que requieran control de progreso, recuperación ante fallos y gestión de dependencias de tareas. Se activa con el comando '/harness', o cuando una tarea implica muchas subtareas que necesitan persistencia de progreso, ciclos de sueño/reanudación entre ventanas de contexto, recuperación de fallos parciales en medio de la tarea o trabajo distribuido entre varias sesiones de agentes. Sintetizada a partir de prácticas de ingeniería de Anthropic y OpenAI para agentes de larga duración."
+  },
+  "arjun988/blender-skills:.claude/skills/hd-2d-style": {
+    "name": "hd-2d-style",
+    "description": "Dirección de arte HD-2D que combina personajes/sprites pixelados con entornos 3D, profundidad de campo e iluminación teatral."
+  },
+  "arjun988/blender-skills:.cursor/skills/hd-2d-style": {
+    "name": "hd-2d-style",
+    "description": "Dirección de arte HD-2D que combina personajes/sprites pixelados con entornos 3D, profundidad de campo e iluminación teatral."
+  },
+  "arjun988/blender-skills:.claude/skills/historical-worlds": {
+    "name": "mundos históricos",
+    "description": "Dirección de arte histórico y de épocas para Blender, incluyendo épocas occidental, pirata, samurái/ninja, vikinga, antiguo Egipto/Grecia/Roma, victoriana, moderna y militar."
+  },
+  "arjun988/blender-skills:.cursor/skills/historical-worlds": {
+    "name": "mundos históricos",
+    "description": "Dirección de arte histórico y de épocas para Blender, incluyendo épocas occidental, pirata, samurái/ninja, vikinga, antiguo Egipto/Grecia/Roma, victoriana, moderna y militar."
+  },
+  "arjun988/blender-skills:.claude/skills/horror-style": {
+    "name": "estilo de terror",
+    "description": "Dirección de arte de terror psicológico para activos de Blender inspirada en Silent Hill, Resident Evil, Chilla's Art, Fear to Fathom e Iron Lung. Úsese para entornos industriales escasos, estética analógica e iluminación basada en la tensión."
+  },
+  "arjun988/blender-skills:.cursor/skills/horror-style": {
+    "name": "estilo de terror",
+    "description": "Dirección de arte de terror psicológico para activos de Blender inspirada en Silent Hill, Resident Evil, Chilla's Art, Fear to Fathom e Iron Lung. Úsese para entornos industriales escasos, estética analógica e iluminación basada en la tensión."
+  },
+  "arpitg1304/robotics-agent-skills:skills/imitation-learning": {
+    "name": "aprendizaje por imitación",
+    "description": "Aprendizaje por imitación práctico (aprendizaje a partir de demostraciones) para manipulación robótica: decidir si el IL es adecuado, diseñar la recopilación de demostraciones, elegir los espacios de observación y acción, seleccionar y configurar una política (clonación de comportamiento, ACT, Política de Difusión, correspondencia de flujo, VLAs como OpenVLA-OFT, Octo, pi0/pi0.5, SmolVLA, GR00T), entrenamiento y selección de puntos de control, evaluación honesta con intervalos de confianza, sincronización del despliegue y diagnóstico de fallos. Úsese esta habilidad cuando el usuario mencione clonación de comportamiento, demostraciones de teleoperación, brazos líder‑seguidor, fragmentación de acciones, ensamblaje temporal, ajuste fino de un VLA, \"cuántas demostraciones\", tasa de éxito, evaluación de políticas, datos DAgger o de intervención, cambio de covariables, una política que se congela, temblores, fallos en agarres o que funciona en el entrenamiento pero falla en el robot, o co‑entrenamiento en simulador y real."
+  },
+  "emilkowalski/skills:skills/improve-animations": {
+    "name": "mejorar_animaciones",
+    "description": "Realizar una auditoría prioritaria del código de animación y movimiento de una base de código como asesor senior de movimiento, y luego producir planes de implementación autónomos para que otros agentes (o modelos más económicos) los ejecuten. Solo lectura sobre el código fuente — planifica mejoras, no las aplica. Úsese cuando el usuario pida \"mejorar las animaciones\", \"auditar el movimiento\", \"hacer que esta aplicación se sienta mejor\", o desee una hoja de ruta de correcciones de animación en lugar de una revisión de un único diff."
+  },
+  "arjun988/blender-skills:.claude/skills/indie-horror-aesthetics": {
+    "name": "estética_de_terror_independiente",
+    "description": "Paquete de estética de terror independiente para Blender que abarca Silent Hill, Fear to Fathom, Puppet Combo, terror corporativo, terror en cabañas/bosques/hospitales y estilos relacionados."
+  },
+  "arjun988/blender-skills:.cursor/skills/indie-horror-aesthetics": {
+    "name": "estética_de_terror_independiente",
+    "description": "Paquete de estética de terror independiente para Blender que abarca Silent Hill, Fear to Fathom, Puppet Combo, terror corporativo, terror en cabañas/bosques/hospitales y estilos relacionados."
+  },
+  "anthropics/skills:skills/internal-comms": {
+    "name": "comunicaciones_internas",
+    "description": "Un conjunto de recursos para ayudarme a redactar todo tipo de comunicaciones internas, utilizando los formatos que mi empresa prefiere usar. Claude debe usar esta habilidad siempre que se le pida redactar algún tipo de comunicación interna (informes de estado, actualizaciones de liderazgo, actualizaciones 3P, boletines corporativos, preguntas frecuentes, informes de incidentes, actualizaciones de proyectos, etc.)."
+  },
+  "arpitg1304/robotics-agent-skills:skills/isaac-sim": {
+    "name": "isaac-sim",
+    "description": "NVIDIA Isaac Sim e Isaac Lab para el aprendizaje robótico: instalación (uv, pip, binario, Docker, nube), requisitos de GPU RTX y controladores, ejecuciones headless y transmisión en vivo, activos OpenUSD, importación URDF/MJCF, ArticulationCfg y actuadores, entornos basados en manager y directos, configclass, registro de tareas gymnasium, entrenamiento y juego con rsl_rl, rl_games, skrl o sb3, entornos paralelos, cámaras en mosaico, sensores de contacto, ray casters, IMU, transformadores de marco, aleatorización de dominio mediante eventos, teleoperación, Isaac Lab Mimic, el puente ROS 2, preajustes PhysX/Newton, ajuste del solucionador y articulaciones explosivas. Úsese cuando el usuario mencione Isaac Sim, Isaac Lab, Omniverse, Kit, importaciones isaacsim o isaaclab, módulos omni.isaac, robots USD, importación URDF, num_envs, Mimic, isaaclab train or play, ManagerBasedRLEnv, DirectRLEnv, PresetCfg, Newton o OvPhysX en Isaac Lab, o migración desde Isaac Gym o Isaac Lab 2.x."
+  },
+  "arjun988/blender-skills:.claude/skills/isometric-style": {
+    "name": "estilo_isométrico",
+    "description": "Dirección de arte isométrica y de juegos de estrategia para Blender, incluyendo encuadre de dioramas, configuración de cámara isométrica verdadera, siluetas legibles y reglas de activos de teselas."
+  },
+  "arjun988/blender-skills:.cursor/skills/isometric-style": {
+    "name": "estilo_isométrico",
+    "description": "Dirección de arte isométrica y de juegos de estrategia para Blender, incluyendo encuadre de dioramas, configuración de cámara isométrica verdadera, siluetas legibles y reglas de activos de teselas."
+  },
+  "emilkowalski/skills:skills/learn-taste": {
+    "name": "aprender_sabor",
+    "description": "Convertir las correcciones de diseño de una sesión en reglas, con su justificación, en DESIGN.md, como habilidad de proyecto o como verificación lint."
+  },
+  "arpitg1304/robotics-agent-skills:skills/lerobot": {
+    "name": "lerobot",
+    "description": "LeRobot de Hugging Face de extremo a extremo: instalación, puesta en marcha del hardware, grabación de conjuntos de datos, entrenamiento y despliegue de políticas de aprendizaje robótico. Úsese esta habilidad cuando el usuario mencione LeRobot, lerobot-record, lerobot-train, lerobot-rollout, lerobot-teleoperate, lerobot-calibrate, lerobot-setup-motors, lerobot-find-port, lerobot-find-cameras, lerobot-eval, lerobot-edit-dataset, LeRobotDataset, SO-100, SO-101, SO-ARM100, Koch, LeKiwi, OMX, OpenArm, servos Feetech STS3215, teleoperación líder/seguidor, archivos de calibración, ACT, Política de Difusión, SmolVLA, pi0/pi0.5, GR00T o ajuste fino de X-VLA en LeRobot, conjuntos de datos robóticos en el Hugging Face Hub, conversión de dataset v2.1 a v3.0, inferencia RTC o remota (asíncrona), o HIL-SERL en LeRobot. También se activa ante errores de LeRobot como desajuste de calibración, FrameTimestampError o violaciones de tolerancia de timestamp, desajuste entre nombre de cámara o característica en el dataset y la política, estadísticas q01/q99 faltantes y Feetech \"Paquete de estado incorrecto\"."
+  },
+  "arjun988/blender-skills:.claude/skills/lighting": {
+    "name": "iluminación",
+    "description": "Iluminación cinematográfica y de videojuegos en Blender, incluyendo iluminación de tres puntos, HDRI, iluminación de terror, volumetrías, iluminación de borde y iluminación guiada por el estado de ánimo. Úsese para el desarrollo del look y la atmósfera de la escena mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/lighting": {
+    "name": "iluminación",
+    "description": "Iluminación cinematográfica y de videojuegos en Blender, incluyendo iluminación de tres puntos, HDRI, iluminación de terror, volumetrías, iluminación de borde y iluminación guiada por el estado de ánimo. Úsese para el desarrollo del look y la atmósfera de la escena mediante MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/liminal-space-style": {
+    "name": "estilo_espacio_liminal",
+    "description": "Dirección de arte de espacios liminales y Backrooms para Blender con arquitectura transicional vacía, familiaridad errónea y repetición interminable."
+  },
+  "arjun988/blender-skills:.cursor/skills/liminal-space-style": {
+    "name": "estilo_espacio_liminal",
+    "description": "Dirección de arte de espacios liminales y Backrooms para Blender con arquitectura transicional vacía, familiaridad errónea y repetición interminable."
+  },
+  "arjun988/blender-skills:.claude/skills/lod-pipeline": {
+    "name": "pipeline_lod",
+    "description": "Generación dedicada de LOD, nomenclatura, objetivos de tamaño de pantalla y validación para mallas de juego en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/lod-pipeline": {
+    "name": "pipeline_lod",
+    "description": "Generación dedicada de LOD, nomenclatura, objetivos de tamaño de pantalla y validación para mallas de juego en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/lookdev": {
+    "name": "lookdev",
+    "description": "Ciclo de desarrollo del look para activos de Blender combinando materiales, iluminación, cámara y comparación de capturas de pantalla hasta que el sombreado se lea correctamente mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/lookdev": {
+    "name": "lookdev",
+    "description": "Ciclo de desarrollo del look para activos de Blender combinando materiales, iluminación, cámara y comparación de capturas de pantalla hasta que el sombreado se lea correctamente mediante MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/lowpoly-style": {
+    "name": "estilo_lowpoly",
+    "description": "Dirección de arte low-poly para Blender inspirada en PS1/PS2, Lethal Company, Mouthwashing y Fear to Fathom. Úsese para siluetas legibles, polígonos mínimos, materiales simples y atmósfera fuerte."
+  },
+  "arjun988/blender-skills:.cursor/skills/lowpoly-style": {
+    "name": "estilo_lowpoly",
+    "description": "Dirección de arte low-poly para Blender inspirada en PS1/PS2, Lethal Company, Mouthwashing y Fear to Fathom. Úsese para siluetas legibles, polígonos mínimos, materiales simples y atmósfera fuerte."
+  },
+  "arjun988/blender-skills:.claude/skills/manga-style": {
+    "name": "estilo_manga",
+    "description": "Dirección de arte inspirada en manga para Blender enfatizando el diseño de valores monocromáticos, líneas de velocidad, sensación de screentone y puesta en escena de paneles manga."
+  },
+  "arjun988/blender-skills:.cursor/skills/manga-style": {
+    "name": "estilo_manga",
+    "description": "Dirección de arte inspirada en manga para Blender enfatizando el diseño de valores monocromáticos, líneas de velocidad, sensación de screentone y puesta en escena de paneles manga."
+  },
+  "arjun988/blender-skills:.claude/skills/mascot-puppet-horror": {
+    "name": "mascota_títere_terror",
+    "description": "Dirección de arte de terror de mascotas y títeres para Blender con personajes de marca alegres hechos mal, materiales de fieltro/espuma y actuación inquietante."
+  },
+  "arjun988/blender-skills:.cursor/skills/mascot-puppet-horror": {
+    "name": "mascota_títere_terror",
+    "description": "Dirección de arte de terror de mascotas y títeres para Blender con personajes de marca alegres hechos mal, materiales de fieltro/espuma y actuación inquietante."
+  },
+  "arjun988/blender-skills:.claude/skills/materials": {
+    "name": "materiales",
+    "description": "Creación de materiales PBR y estilizados para metal, madera, hormigón, tela, vidrio, suciedad, óxido y shaders procedimentales en Blender. Úsese para el desarrollo del look, la reutilización de materiales y el sombreado de producción en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/materials": {
+    "name": "materiales",
+    "description": "Creación de materiales PBR y estilizados para metal, madera, hormigón, tela, vidrio, suciedad, óxido y shaders procedimentales en Blender. Úsese para el desarrollo del look, la reutilización de materiales y el sombreado de producción en Blender mediante MCP."
+  },
+  "anthropics/skills:skills/mcp-builder": {
+    "name": "mcp-builder",
+    "description": "Guía para crear servidores de alta calidad MCP (Model Context Protocol) que permitan a los LLM interactuar con servicios externos mediante herramientas bien diseñadas. Úsese al construir servidores MCP para integrar APIs o servicios externos, ya sea en Python (FastMCP) o Node/TypeScript (SDK MCP)."
+  },
+  "arjun988/blender-skills:.claude/skills/minimalist-style": {
+    "name": "estilo_minimalista",
+    "description": "Dirección de arte minimalista y con tendencia abstracta para Blender con formas reducidas, paletas limitadas y espacio negativo."
+  },
+  "arjun988/blender-skills:.cursor/skills/minimalist-style": {
+    "name": "estilo_minimalista",
+    "description": "Dirección de arte minimalista y con tendencia abstracta para Blender con formas reducidas, paletas limitadas y espacio negativo."
+  },
+  "emilkowalski/skills:skills/mobile-native": {
+    "name": "nativo_móvil",
+    "description": "Hacer que una aplicación web se sienta nativa en un teléfono — las pequeñas correcciones de CSS y meta-tags que distinguen a \"un sitio web en un navegador\" de algo que parece instalado. Cubre estados pegajosos al pasar el ratón, destellos de resaltado al tocar, el error 100vh, entradas que amplían la página, toques lentos, secuestro del desplazamiento al tirar para actualizar, contenido bajo la muesca, pulsación prolongada para seleccionar texto de botones, carruseles que se desplazan en la dirección equivocada, barras de estado desajustadas y la regla de probar en hardware real. Úsese cuando se está construyendo o revisando una aplicación web para móviles, cuando algo \"funciona en Chrome pero se siente mal en mi teléfono\", al construir una PWA, una hoja inferior, un carrusel, un diseño de pantalla completa o cualquier interacción táctil. Para el movimiento en sí, use animate; para React Native, use animate-expo."
+  },
+  "arpitg1304/robotics-agent-skills:skills/mujoco": {
+    "name": "mujoco",
+    "description": "Simulación física MuJoCo para robótica: escritura y depuración de modelos MJCF, importación URDF, simulación, control y renderizado desde Python, ajuste de contactos y ejecución de simulación por lotes en GPU. Úsese esta habilidad cuando el usuario mencione MuJoCo, MJCF, mujoco.MjModel / MjData, mj_step, MjSpec, mujoco.Renderer, MUJOCO_GL, renderizado headless EGL/OSMesa, el visor pasivo o MuJoCo Studio, MuJoCo Menagerie (Franka, UR5e, SO-100/SO-101, ALOHA, G1), MJX, MuJoCo Warp (mujoco_warp), MuJoCo Playground, dm_control o entornos Gymnasium MuJoCo. También se activa por ajuste de contactos (solref, solimp, condim, fricción, impratio, noslip), simulaciones explosivas o temblorosas, objetos que se hunden o agarres que resbalan, kp/kv del actuador de posición, armadura y amortiguación de articulaciones, filtrado de colisiones contype/conaffinity, fotogramas clave, elección del integrador y el timestep, e identificación del sistema o aleatorización de dominio de campos del modelo MuJoCo para sim-to-real."
+  },
+  "arjun988/blender-skills:.claude/skills/neon-retrofuturism": {
+    "name": "neón_retrofuturismo",
+    "description": "Neón, vaporwave, synthwave y dirección de arte/mood retrofuturista para Blender con horizontes cuadriculados, cromo y paletas crepusculares."
+  },
+  "arjun988/blender-skills:.cursor/skills/neon-retrofuturism": {
+    "name": "neón_retrofuturismo",
+    "description": "Neón, vaporwave, synthwave y dirección de arte/mood retrofuturista para Blender con horizontes cuadriculados, cromo y paletas crepusculares."
+  },
+  "arjun988/blender-skills:.claude/skills/noir-style": {
+    "name": "estilo_noir",
+    "description": "Dirección de arte noir para Blender con iluminación de alto contraste, calles mojadas, siluetas y gradación monocromática o de colores limitados."
+  },
+  "arjun988/blender-skills:.cursor/skills/noir-style": {
+    "name": "estilo_noir",
+    "description": "Dirección de arte noir para Blender con iluminación de alto contraste, calles mojadas, siluetas y gradación monocromática o de colores limitados."
+  },
+  "cexll/myclaude:skills/omo": {
+    "name": "omo",
+    "description": "Úsese esta habilidad cuando vea `/omo`. Orquestación multi‑agente para \"análisis de código / investigación de errores / planificación de correcciones / implementación\". Elija el conjunto mínimo de agentes y el orden según el tipo de tarea + riesgo; las recetas a continuación muestran patrones comunes."
+  },
+  "arjun988/blender-skills:.claude/skills/painterly-style": {
+    "name": "estilo_pintoresco",
+    "description": "Dirección de arte pintoresca que abarca looks de acuarela y pintura al óleo para Blender usando bordes suaves, textura de pigmento e iluminación ilustrativa."
+  },
+  "arjun988/blender-skills:.cursor/skills/painterly-style": {
+    "name": "estilo_pintoresco",
+    "description": "Dirección de arte pintoresca que abarca looks de acuarela y pintura al óleo para Blender usando bordes suaves, textura de pigmento e iluminación ilustrativa."
+  },
+  "anthropics/skills:skills/pdf": {
+    "name": "pdf",
+    "description": "Úsese esta habilidad siempre que el usuario quiera hacer algo con archivos PDF. Esto incluye leer o extraer texto/tablas de PDFs, combinar o fusionar múltiples PDFs en uno, separar PDFs, rotar páginas, agregar marcas de agua, crear nuevos PDFs, llenar formularios PDF, cifrar/descifrar PDFs, extraer imágenes y realizar OCR en PDFs escaneados para hacerlos buscables. Si el usuario menciona un archivo .pdf o pide producir uno, use esta habilidad."
+  },
+  "arjun988/blender-skills:.claude/skills/physics-sim": {
+    "name": "simulación_física",
+    "description": "Configuraciones de cuerpos rígidos, cuerpos blandos y destrucción en Blender incluyendo restricciones, escombros de fracturas celulares y cachés cocinados mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/physics-sim": {
+    "name": "simulación_física",
+    "description": "Configuraciones de cuerpos rígidos, cuerpos blandos y destrucción en Blender incluyendo restricciones, escombros de fracturas celulares y cachés cocinados mediante MCP."
+  },
+  "emilkowalski/skills:skills/pick-ui-library": {
+    "name": "pick-ui-library",
+    "description": "Elija la biblioteca para una tarea de frontend de una lista curada — primitivas, toasts, drawers, menús de comandos, OTP, números, gráficos, virtualización, arrastrar y soltar, estado, estilización."
+  },
+  "arjun988/blender-skills:.claude/skills/pixel-art-style": {
+    "name": "estilo_pixel-art",
+    "description": "Dirección de arte pixel-art y con restricciones de texel para activos de Blender destinados a renderizado en píxeles, texturas de baja resolución o lecturas de píxeles adyacentes al HD-2D."
+  },
+  "arjun988/blender-skills:.cursor/skills/pixel-art-style": {
+    "name": "estilo_pixel-art",
+    "description": "Dirección de arte pixel-art y con restricciones de texel para activos de Blender destinados a renderizado en píxeles, texturas de baja resolución o lecturas de píxeles adyacentes al HD-2D."
+  },
+  "anthropics/skills:skills/pptx": {
+    "name": "pptx",
+    "description": "Utilice esta habilidad siempre que un archivo .pptx o .potx esté involucrado de cualquier manera — como entrada, salida o ambas. Esto incluye: crear presentaciones, decks de pitch o diapositivas; leer, analizar o extraer texto de cualquier archivo .pptx o .potx (incluso si el contenido extraído se utilizará en otro lugar, como en un correo electrónico o resumen); editar, modificar o actualizar presentaciones existentes; combinar o dividir archivos de diapositivas; trabajar con plantillas (.potx), diseños, notas del orador o comentarios. Se activa cada vez que el usuario menciona \\\"deck,\\\" \\\"slides,\\\" \\\"presentation,\\\" o hace referencia a un nombre de archivo .pptx o .potx, independientemente de lo que planeen hacer con el contenido después. Si es necesario abrir, crear o manipular un archivo .pptx o .potx, utilice esta habilidad."
+  },
+  "arjun988/blender-skills:.claude/skills/procedural-modeling": {
+    "name": "modelado-procedimental",
+    "description": "Creación procedimental de activos para rocas, edificios, vegetación, carreteras, terrenos, tuberías, cables y paneles de ciencia ficción utilizando Geometry Nodes y flujos de trabajo basados en modificadores en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/procedural-modeling": {
+    "name": "modelado-procedimental",
+    "description": "Creación procedimental de activos para rocas, edificios, vegetación, carreteras, terrenos, tuberías, cables y paneles de ciencia ficción utilizando Geometry Nodes y flujos de trabajo basados en modificadores en Blender mediante MCP."
+  },
+  "cexll/myclaude:skills/product-requirements": {
+    "name": "requisitos-del-producto",
+    "description": "Habilidad interactiva de Product Owner para la recopilación de requisitos, análisis y generación de PRD. Se activa cuando los usuarios solicitan requisitos del producto, especificación de características, creación de PRD o necesitan ayuda para comprender y documentar los requisitos del proyecto. Utiliza puntuaciones de calidad y diálogos iterativos para garantizar requisitos completos antes de generar documentos profesionales de PRD."
+  },
+  "arjun988/blender-skills:.claude/skills/prop-artist": {
+    "name": "artista-de-props",
+    "description": "Modelado cotidiano y heroico de muebles, herramientas, objetos domésticos, piezas de kitbash y props legibles para juegos. Úselo cuando la superficie dura resulte demasiado de ciencia ficción/mecánica y el activo sea un prop realista."
+  },
+  "arjun988/blender-skills:.cursor/skills/prop-artist": {
+    "name": "artista-de-props",
+    "description": "Modelado cotidiano y heroico de muebles, herramientas, objetos domésticos, piezas de kitbash y props legibles para juegos. Úselo cuando la superficie dura resulte demasiado de ciencia ficción/mecánica y el activo sea un prop realista."
+  },
+  "emilkowalski/skills:skills/prototype": {
+    "name": "prototipo",
+    "description": "Construya múltiples versiones genuinamente diferentes de una pieza de interfaz de usuario que describa, renderizadas detrás de un selector visual para que pueda hojearlas en vivo y promocionar la que parezca adecuada."
+  },
+  "cexll/myclaude:skills/prototype-prompt-generator": {
+    "name": "generador-de-prompt-para-prototipos",
+    "description": "Esta habilidad debe utilizarse cuando los usuarios necesitan generar prompts detallados y estructurados para crear prototipos de UI/UX. Se activa cuando los usuarios solicitan ayuda para \"crear-un-prompt-para-prototipo\", \"diseñar-una-aplicación-móvil\", \"generar-especificaciones-de-UI\", o necesitan documentación de diseño completa para aplicaciones web/móviles. Funciona con múltiples sistemas de diseño, incluyendo WeChat Work, iOS Native, Material Design y Ant Design Mobile."
+  },
+  "arjun988/blender-skills:.claude/skills/psx-horror-style": {
+    "name": "estilo-horror-psx",
+    "description": "Dirección de arte de terror de la era PS1/PSX que combina texturas afines de baja poligonización, profundidad de color limitada, niebla y escenografía de terror psicológico para activos de Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/psx-horror-style": {
+    "name": "estilo-horror-psx",
+    "description": "Dirección de arte de terror de la era PS1/PSX que combina texturas afines de baja poligonización, profundidad de color limitada, niebla y escenografía de terror psicológico para activos de Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/qa-review": {
+    "name": "revisión-de-qa",
+    "description": "Puerta de control de calidad de producción para activos de Blender utilizando capturas de pantalla del viewport, listas de verificación de validación, auditorías de nombres y veredictos de envío/no envío mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/qa-review": {
+    "name": "revisión-de-qa",
+    "description": "Puerta de control de calidad de producción para activos de Blender utilizando capturas de pantalla del viewport, listas de verificación de validación, auditorías de nombres y veredictos de envío/no envío mediante MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/realistic-style": {
+    "name": "estilo-realista",
+    "description": "Dirección de arte AAA fotorrealista para Blender que incluye limpieza de fotogrametría, escala real, flujos de trabajo de alta poligonización, precisión PBR y optimización de escaneos. Úselo para realismo cinematográfico y en juegos AAA."
+  },
+  "arjun988/blender-skills:.cursor/skills/realistic-style": {
+    "name": "estilo-realista",
+    "description": "Dirección de arte AAA fotorrealista para Blender que incluye limpieza de fotogrametría, escala real, flujos de trabajo de alta poligonización, precisión PBR y optimización de escaneos. Úselo para realismo cinematográfico y en juegos AAA."
+  },
+  "JimLiu/baoyu-skills:.claude/skills/release-skills": {
+    "name": "habilidades-de-lanzamiento",
+    "description": "Flujo de trabajo universal de lanzamiento. Detecta automáticamente archivos de versiones y registros de cambios. Soporta Node.js, Python, Rust, Claude Plugin, GitHub Releases, etiquetas anotadas, relleno histórico de lanzamientos y proyectos genéricos. Úselo cuando el usuario dice \"release\", \"发布\", \"new-version\", \"bump-version\", \"push\", \"推送\", \"release-notes\", \"GitHub Release\", o \"回填 Release\"."
+  },
+  "emilkowalski/skills:skills/remove-animations": {
+    "name": "eliminar-animaciones",
+    "description": "Encuentre las animaciones que una interfaz no necesita y elimínelas — movimiento en acciones del teclado, superficies de alta frecuencia, datos funcionales y decoración sin propósito — luego limpie lo que dejan atrás. Edita código, pero solo para restar; nunca añade ni retoca movimientos. Úselo cuando el usuario dice que la aplicación \"feels-slow\", \"has-too-much-animation\", \"feels-over-animated\", quiere \"tone-down-the-motion\", o pregunta qué animaciones eliminar. Para encontrar lugares que deberían animarse, use find-animation-opportunities; para corregir animaciones que deben permanecer, use improve-animations o review-animations."
+  },
+  "arjun988/blender-skills:.claude/skills/rendering": {
+    "name": "renderizado",
+    "description": "Renderizado de Blender con Cycles y Eevee, incluyendo muestreo, denoising, configuración de cámara, pasos de renderizado, gestión del color y optimización del render. Úselo para la salida final y validación del aspecto mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/rendering": {
+    "name": "renderizado",
+    "description": "Renderizado de Blender con Cycles y Eevee, incluyendo muestreo, denoising, configuración de cámara, pasos de renderizado, gestión del color y optimización del render. Úselo para la salida final y validación del aspecto mediante MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/retopology": {
+    "name": "retopología",
+    "description": "Retopología de producción para mallas preparadas para animación, de baja poligonización y dominantes en cuadriláteros, con bucles de borde adecuados y flujo eficiente de polígonos. Úselo después de esculpir o modelar en alta poligonización antes del rigging y trabajo de UV en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/retopology": {
+    "name": "retopología",
+    "description": "Retopología de producción para mallas preparadas para animación, de baja poligonización y dominantes en cuadriláteros, con bucles de borde adecuados y flujo eficiente de polígonos. Úselo después de esculpir o modelar en alta poligonización antes del rigging y trabajo de UV en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/retro-16bit-style": {
+    "name": "estilo-retro-16bit",
+    "description": "Dirección de arte retro de 16 bits para riqueza de colores, señales de tramado y claridad similar a sprites de la era SNES/Genesis asistida por Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/retro-16bit-style": {
+    "name": "estilo-retro-16bit",
+    "description": "Dirección de arte retro de 16 bits para riqueza de colores, señales de tramado y claridad similar a sprites de la era SNES/Genesis asistida por Blender."
+  },
+  "arjun988/blender-skills:.claude/skills/retro-8bit-style": {
+    "name": "estilo-retro-8bit",
+    "description": "Dirección de arte retro de 8 bits para estética de píxeles/baja resolución inspirada en las restricciones de la era NES asistida por Blender."
+  },
+  "arjun988/blender-skills:.cursor/skills/retro-8bit-style": {
+    "name": "estilo-retro-8bit",
+    "description": "Dirección de arte retro de 8 bits para estética de píxeles/baja resolución inspirada en las restricciones de la era NES asistida por Blender."
+  },
+  "emilkowalski/skills:skills/review-animations": {
+    "name": "revisión-de-animaciones",
+    "description": "Revisa el código de animación y movimiento contra un alto estándar artesanal derivado de la filosofía de ingeniería de diseño de Emil Kowalski. Por defecto, marca; la aprobación debe ganarse."
+  },
+  "arjun988/blender-skills:.claude/skills/rigging": {
+    "name": "rigging",
+    "description": "Rigging de producción en Blender con armaduras, IK/FK, restricciones, pintura de pesos, rigs mecánicos, rigs faciales y drivers. Úselo antes de la animación en activos deformables mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/rigging": {
+    "name": "rigging",
+    "description": "Rigging de producción en Blender con armaduras, IK/FK, restricciones, pintura de pesos, rigs mecánicos, rigs faciales y drivers. Úselo antes de la animación en activos deformables mediante MCP."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-app-harness": {
+    "name": "arnés-para-aplicaciones-robóticas",
+    "description": "Flujo de trabajo de ciclo cerrado para escribir software de aplicación robótica contra un rig (un robot más sus sensores y actuadores) usando el arnés de `rah` en este repositorio: probe los dispositivos, escriba drivers y código de tarea, ejecútelo en simulación, lea el informe del evaluador e itere hasta que supere las semillas reservadas. Úselo cuando el usuario pide hacer que un robot realice una tarea, integrar un sensor o actuador en una aplicación robótica, escribir código de pick-and-place u otra manipulación para un rig, o \"vibe-code\" software robótico y verificarlo en un simulador. Se activa ante menciones de rah, manifestaciones de rig, especificaciones de tareas robóticas, el simulador ARMATURE, probing de dispositivos robóticos, descriptores de dispositivos, ejecución o verificación de una app robótica, semillas reservadas o diagnóstico de por qué falla una tarea robótica simulada."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-bringup": {
+    "name": "puesta-en-marcha-de-robots",
+    "description": "Puesta en marcha de un sistema ROS2 completo en la computadora a bordo de un robot: servicios systemd, composición de archivos de inicio, arranque ordenado y monitoreo de producción. Úselo cuando configure un robot para iniciar nodos ROS2 al arrancar, escriba archivos unitarios systemd para lanzamientos ROS2, componga archivos de inicio en capas para pilas robóticas completas, configure monitoreo watchdog, defina reglas udev para nombramiento determinista de dispositivos o depure condiciones de carrera al arrancar. Se activa cada vez que el usuario menciona puesta en marcha de robots, arranque de robots, systemd para ROS2, ROS2 al arrancar, composición de archivos de inicio, secuencia de arranque de robots, reglas udev para cámaras o puertos serie, reinicio automático de nodos ROS2, configuración de red para ROS2 multi-máquina, rotación de logs para robots, apagado elegante de pilas robóticas o depuración remota por SSH. También se activa al sourcear espacios de trabajo en systemd, arranque ordenado con controles de salud o ejecución de sistemas ROS2 como servicios de producción de larga duración. Cubre systemd en Ubuntu 22.04/24.04 con ROS2 Humble, Iron y Jazzy."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-data-quality": {
+    "name": "calidad-de-datos-robóticos",
+    "description": "Juzgue y mejore la calidad de los conjuntos de datos de aprendizaje robótico (demostraciones teleoperadas, episodios) y utilice forge, el Kit de Herramientas de Datos Robóticos, para inspeccionar, lintear, puntuar, visualizar, filtrar, deduplicar y convertirlos. Úselo cuando el usuario mencione calidad de conjuntos de datos, limpieza o curaduría de datos, inspección de episodios, demos malas o ruidosas, fotogramas inactivos, acciones entrecortadas o picudas, vibración de pinzas, lagunas en marcas de tiempo o caída de fotogramas, desenfoque o exposición de cámaras, episodios duplicados, higiene de cadenas de tareas, estadísticas de normalización, divisiones train/val por episodio, cobertura o diversidad de demostraciones o por qué una política no arranca, se atasca o promedia modos debido a sus datos. También se activa ante comandos de forge (forge inspect, lint, stats, quality, filter, dedup, visualize, convert, catalog, ingest, curate) y ante conversiones entre RLDS, LeRobot v2/v3, Zarr, HDF5, MCAP, rosbag o RoboDM, incluyendo conjuntos de datos hf:// en el Hugging Face Hub."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-perception": {
+    "name": "percepción-robótica",
+    "description": "Mejores prácticas integrales para sistemas de percepción robótica que cubren cámaras, LiDARs, sensores de profundidad, IMUs y configuraciones multisensoriales. Úselo cuando trabaje con procesamiento de imágenes RGB, mapas de profundidad, nubes de puntos, calibración de sensores (intrínseca, extrínseca, mano-ojo), detección de objetos, segmentación semántica, reconstrucción 3D, servocontrol visual o optimización de pipelines de percepción. Se activa cada vez que el usuario mencione OpenCV, Open3D, PCL, RealSense, ZED, OAK-D, calibración de cámaras, AprilTags, marcadores ArUco, visión estéreo, RGBD, filtrado de nubes de puntos, registro ICP, transformaciones de coordenadas, intrínsecas de cámaras, corrección de distorsión, desdistorsión de imágenes, streaming de sensores, sincronización de fotogramas o cualquier tarea de visión por computadora en contexto robótico. También cubre rigs multicámara, sincronización temporal entre sensores, presupuestos de latencia de percepción y despliegue de pipelines de percepción en producción."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-reinforcement-learning": {
+    "name": "aprendizaje-refuerzo-robótico",
+    "description": "Aprendizaje por refuerzo para robots: cuando el AR supera la imitación o el control clásico, diseño de MDP (observaciones, espacios de acción, tasa de control, terminado vs truncado), diseño de recompensas y hacking de recompensas, elección de algoritmos, entrenamiento masivo en simulación paralela, AR seguro en robots reales y depuración de curvas de entrenamiento. Úselo cuando el usuario mencione aprendizaje por refuerzo, AR, PPO, SAC, TD3, GAE, función de recompensa, moldeado de recompensas, currículo, aleatorización de dominios, sim-to-real, red de actuadores, actor-crítico asimétrico, destilación maestro-alumno, rsl_rl, rl_games, skrl, Stable-Baselines3, CleanRL, entrenamiento Brax, FastTD3, HIL-SERL, SERL, RLPD, DrQ, AR residual, DSRL, ajuste fino de AR de un BC, política de difusión o VLA, bootstrap por timeout, colapso de entropía, explosión de pérdida de valor, NaN durante el entrenamiento o evaluación de AR con semillas e IQM. También para políticas de locomoción y manipulación en Isaac Lab, mjlab o Playground."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-design-patterns": {
+    "name": "patrones-de-diseño-robótico",
+    "description": "Patrones arquitectónicos, principios de diseño y recetas probadas para construir software robótico robusto. Úselo cuando diseñe arquitecturas de software robótico, elija entre marcos de comportamiento, estructure pipelines de percepción-planificación-control, implemente máquinas de estados, diseñe sistemas de seguridad o arquitecte sistemas multi-robot. Se activa cada vez que el usuario mencione árboles de comportamiento, máquinas de estados finitas, arquitectura de subsumption, fusión de sensores, seguridad robótica, watchdogs, latidos cardíacos, degradación elegante, capas de abstracción de hardware, restricciones en tiempo real o arquitectura de software para robots. También se aplica a la transferencia sim-to-real, gemelos digitales y gestión de flotas robóticas."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-security": {
+    "name": "seguridad-robótica",
+    "description": "Endurecimiento de seguridad y mejores prácticas para sistemas robóticos, que cubren seguridad SROS2 DDS, segmentación de redes, gestión de secretos, arranque seguro y la intersección entre seguridad física y cibernética. Úselo cuando asegure comunicaciones ROS2, configure cifrado DDS y control de acceso, endurezca computadoras a bordo de robots, gestione certificados y credenciales, configure segmentación de redes para flotas robóticas o aborde los desafíos únicos de seguridad donde las vulnerabilidades cibernéticas se convierten en riesgos de seguridad física. Se activa cada vez que el usuario mencione SROS2, seguridad DDS, seguridad robótica, endurecimiento de robots, cifrado ROS2, control de acceso ROS2, seguridad de redes robóticas, despliegue seguro de robots, certificados robóticos, generación de keystore, firewall robótico, seguridad e-stop, aislamiento de controladores de seguridad o IEC 62443 para robótica."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-software-principles": {
+    "name": "principios-de-software-robótico",
+    "description": "Principios fundamentales de diseño de software aplicados específicamente al desarrollo de módulos robóticos. Úselo cuando diseñe módulos de software robótico, estructure bases de código, tome decisiones arquitectónicas, revise código robótico o construya bibliotecas robóticas reutilizables. Se activa cada vez que el usuario mencione principios SOLID para robots, software robótico modular, arquitectura limpia para robots, inyección de dependencias en robótica, diseño de interfaces para hardware, restricciones de diseño en tiempo real, estrategias de manejo de errores para robots, gestión de configuraciones, separación de preocupaciones en percepción-planificación-control, componibilidad de comportamientos robóticos o cualquier discusión sobre artesanía de software en contexto robótico. También se activa para revisiones de código robótico, refactorización de software robótico o diseño de APIs para bibliotecas robóticas."
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-testing": {
+    "name": "pruebas-robóticas",
+    "description": "Estrategias, patrones y herramientas de prueba para software robótico. Úselo cuando escriba pruebas unitarias, pruebas de integración, pruebas de simulación o pruebas hardware-in-the-loop para sistemas robóticos. Se activa cada vez que el usuario mencione probar nodos ROS, pytest con ROS, launch_testing, pruebas de simulación, CI/CD para robótica, fixtures de prueba para sensores, hardware simulado, reproducción determinista, pruebas de regresión para comportamientos robóticos o validación de pipelines de percepción-planificación-control. También cubre pruebas basadas en propiedades para cinemática, pruebas fuzz para manejadores de mensajes y pruebas de archivo dorado para trayectorias."
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros1": {
+    "name": "ros1",
+    "description": "Mejores prácticas, patrones de diseño y trampas comunes para el desarrollo de ROS1 (Robot Operating System 1). Úselo cuando construya nodos ROS1, paquetes, archivos de inicio o depure sistemas ROS1. Se activa cada vez que el usuario mencione ROS1, catkin, rospy, roscpp, roslaunch, roscore, rostopic, tf, actionlib, tipos de mensaje, servicios o cualquier middleware robótico de la era ROS1. También se activa para migrar código ROS1 a ROS2, mantener sistemas ROS1 heredados o construir puentes ROS1-ROS2. Cubre espacios de trabajo catkin, nodelets, reconfiguración dinámica, pluginlib y todo el ecosistema ROS1."
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros2": {
+    "name": "ros2",
+    "description": "Mejores prácticas integrales, patrones de diseño y trampas comunes para el desarrollo de ROS2 (Robot Operating System 2). Úselo cuando construya nodos ROS2, paquetes, archivos de inicio, componentes o depure sistemas ROS2. Se activa cada vez que el usuario mencione ROS2, colcon, rclpy, rclcpp, DDS, QoS, nodos de ciclo de vida, nodos gestionados, lanzamiento ROS2, parámetros ROS2, acciones ROS2, nav2, MoveIt2, micro-ROS o cualquier middleware robótico de la era ROS2. También se activa para configuración de espacios de trabajo ROS2, ajuste de DDS, comunicación intra-proceso, seguridad ROS2 o despliegue de ROS2 en producción. También se activa ante problemas de compilación colcon, ament_cmake, ament_python, CMakeLists.txt para ROS2, dependencias package.xml, rosdep, superposiciones de espacios de trabajo, generación personalizada de mensajes o solución de problemas de compilación ROS2. Cubre distribuciones Humble, Iron, Jazzy y Rolling."
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros2-web-integration": {
+    "name": "integración-web-ros2",
+    "description": "Patrones y mejores prácticas para integrar sistemas ROS2 con tecnologías web, incluyendo APIs REST, puentes WebSocket y interfaces robóticas basadas en navegador. Úselo cuando construya paneles web para robots, transmita feeds de cámara a navegadores, exponga servicios ROS2 como endpoints REST o implemente comunicación bidireccional por WebSocket entre interfaces web y nodos ROS2. Se activa cada vez que el usuario mencione rosbridge, rosbridge_suite, roslibjs, FastAPI con ROS2, Flask con rclpy, WebSocket para telemetría robótica, transmisión MJPEG, WebRTC para robots, envoltura de servicios ROS2 en APIs REST, control robótico basado en web, interfaz robótica para navegadores, panel de control robótico, configuración CORS para robots o cualquier patrón de puente web-ROS2. También se activa ante autenticación en interfaces web robóticas, limitación de velocidad en streams de sensores, transmisión de video desde cámaras robóticas a navegadores o ejecución de frameworks web asíncronos junto al executor ROS2. Cubre enfoques rosbridge_suite, FastAPI, Flask, WebSocket y WebRTC."
+  },
+  "arjun988/blender-skills:.claude/skills/scene-assembly": {
+    "name": "ensamblaje-de-escena",
+    "description": "Distribución de escenas grandes en Blender con colecciones, vinculación, sobrescrituras, organización amigable para streaming y montaje de sets mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/scene-assembly": {
+    "name": "ensamblaje-de-escena",
+    "description": "Distribución de escenas grandes en Blender con colecciones, vinculación, sobrescrituras, organización amigable para streaming y montaje de sets mediante MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/sci-fi-punk-worlds": {
+    "name": "mundos de ciencia ficción y punk",
+    "description": "Dirección de arte de mundos de ciencia ficción y punk para Blender, incluyendo ciencia ficción dura, espacio, cyberpunk, steampunk, dieselpunk, atompunk, solarpunk, biopunk y clockpunk."
+  },
+  "arjun988/blender-skills:.cursor/skills/sci-fi-punk-worlds": {
+    "name": "mundos de ciencia ficción y punk",
+    "description": "Dirección de arte de mundos de ciencia ficción y punk para Blender, incluyendo ciencia ficción dura, espacio, cyberpunk, steampunk, dieselpunk, atompunk, solarpunk, biopunk y clockpunk."
+  },
+  "arjun988/blender-skills:.claude/skills/sculpting": {
+    "name": "escultura",
+    "description": "Escultura en Blender para detalles orgánicos y de superficies duras utilizando Dyntopo, multiresolución, pinceles, flujo de trabajo con alfas, arrugas y daños. Úselo cuando se necesiten detalles superficiales de alta frecuencia antes de la retopología en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/sculpting": {
+    "name": "escultura",
+    "description": "Escultura en Blender para detalles orgánicos y de superficies duras utilizando Dyntopo, multiresolución, pinceles, flujo de trabajo con alfas, arrugas y daños. Úselo cuando se necesiten detalles superficiales de alta frecuencia antes de la retopología en Blender mediante MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/set-dressing": {
+    "name": "ambientación de sets",
+    "description": "Ambientación de sets y narrativa ambiental para interiores y exteriores utilizando densidad de utilería, agrupaciones narrativas y reglas de legibilidad a través de MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/set-dressing": {
+    "name": "ambientación de sets",
+    "description": "Ambientación de sets y narrativa ambiental para interiores y exteriores utilizando densidad de utilería, agrupaciones narrativas y reglas de legibilidad a través de MCP."
+  },
+  "anthropics/skills:skills/skill-creator": {
+    "name": "creador de habilidades",
+    "description": "Cree nuevas habilidades, modifique y mejore habilidades existentes, y evalúe el rendimiento de las habilidades. Úselo cuando los usuarios deseen crear una habilidad desde cero, editar u optimizar una habilidad existente, ejecutar evaluaciones para probar una habilidad, comparar el rendimiento de las habilidades mediante análisis de varianza o optimizar la descripción de una habilidad para mejorar la precisión del disparador."
+  },
+  "cexll/myclaude:skills/skill-install": {
+    "name": "instalación de habilidades",
+    "description": "Instale habilidades de Claude desde repositorios de GitHub con escaneo de seguridad automatizado. Se activa cuando los usuarios desean instalar habilidades desde una URL de GitHub, necesitan explorar las habilidades disponibles en un repositorio o quieren añadir nuevas habilidades de forma segura a su entorno de Claude."
+  },
+  "anthropics/skills:skills/slack-gif-creator": {
+    "name": "creador de GIFs para Slack",
+    "description": "Conocimientos y utilidades para crear GIFs animados optimizados para Slack. Proporciona restricciones, herramientas de validación y conceptos de animación. Úselo cuando los usuarios soliciten GIFs animados para Slack, como por ejemplo: \"hazme un GIF de X haciendo Y para Slack."
+  },
+  "cexll/myclaude:skills/sparv": {
+    "name": "sparv",
+    "description": "Flujo de trabajo SPARV mínimo (Especificar→Planificar→Actuar→Revisar→Almacenar) con puerta de especificación de 10 puntos, diario unificado, guardados de 2 acciones, protocolo de 3 fallos y detección de riesgos EHRB."
+  },
+  "arjun988/blender-skills:.claude/skills/stop-motion-craft-style": {
+    "name": "estilo artesanal de stop-motion",
+    "description": "Estética de stop-motion y artesanal para Blender, incluyendo claymation, papercraft y señales físicas hechas a mano."
+  },
+  "arjun988/blender-skills:.cursor/skills/stop-motion-craft-style": {
+    "name": "estilo artesanal de stop-motion",
+    "description": "Estética de stop-motion y artesanal para Blender, incluyendo claymation, papercraft y señales físicas hechas a mano."
+  },
+  "arjun988/blender-skills:.claude/skills/stylized-style": {
+    "name": "estilo estilizado",
+    "description": "Dirección de arte estilizada para Blender con lenguaje de formas, exageración, armonía de colores, renderizado NPR y flujos de trabajo de activos pintados a mano. Úselo para proyectos de juegos y animación no fotorealistas."
+  },
+  "arjun988/blender-skills:.cursor/skills/stylized-style": {
+    "name": "estilo estilizado",
+    "description": "Dirección de arte estilizada para Blender con lenguaje de formas, exageración, armonía de colores, renderizado NPR y flujos de trabajo de activos pintados a mano. Úselo para proyectos de juegos y animación no fotorealistas."
+  },
+  "anthropics/skills:template": {
+    "name": "habilidad-plantilla",
+    "description": "Reemplácese por la descripción de la habilidad y cuándo debe usarla Claude."
+  },
+  "cexll/myclaude:skills/test-cases": {
+    "name": "casos-de-prueba",
+    "description": "Esta habilidad debe utilizarse al generar casos de prueba completos a partir de documentos PRD o requisitos del usuario. Se activa cuando los usuarios solicitan la generación de casos de prueba, planificación de QA, creación de escenarios de prueba o necesitan documentación estructurada de pruebas. Produce casos de prueba detallados que cubren escenarios funcionales, de casos límite, de manejo de errores y de transición de estados."
+  },
+  "arjun988/blender-skills:.claude/skills/texture-workflow": {
+    "name": "flujo-de-trabajo-de-texturas",
+    "description": "Flujo de trabajo de producción de texturas para atlas, horneado de mapas AO/curvatura/normales/roughness, decals y optimización de memoria de texturas. Úselo para pipelines de texturas listas para juegos en Blender a través de MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/texture-workflow": {
+    "name": "flujo-de-trabajo-de-texturas",
+    "description": "Flujo de trabajo de producción de texturas para atlas, horneado de mapas AO/curvatura/normales/roughness, decals y optimización de memoria de texturas. Úselo para pipelines de texturas listas para juegos en Blender a través de MCP."
+  },
+  "anthropics/skills:skills/theme-factory": {
+    "name": "fábrica-de-temas",
+    "description": "Kit de herramientas para estilizar artefactos con un tema. Estos artefactos pueden ser diapositivas, documentos, informes, páginas de inicio HTML, etc. Hay 10 temas preestablecidos con colores/fuentes que puede aplicar a cualquier artefacto ya creado, o puede generar un nuevo tema sobre la marcha."
+  },
+  "arjun988/blender-skills:.claude/skills/unity-export": {
+    "name": "exportación-para-Unity",
+    "description": "Exportación específica de Unity para Blender en cuanto a escala, ejes, materiales, rigs humanoides/genéricos, LODs y importación de colisiones a través de MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/unity-export": {
+    "name": "exportación-para-Unity",
+    "description": "Exportación específica de Unity para Blender en cuanto a escala, ejes, materiales, rigs humanoides/genéricos, LODs y importación de colisiones a través de MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/unreal-export": {
+    "name": "exportación-para-Unreal",
+    "description": "Exportación específica de Unreal Engine para Blender en cuanto a escala FBX, LODs, colisión UCX, sockets, materiales y flujos de trabajo de mallas esqueléticas a través de MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/unreal-export": {
+    "name": "exportación-para-Unreal",
+    "description": "Exportación específica de Unreal Engine para Blender en cuanto a escala FBX, LODs, colisión UCX, sockets, materiales y flujos de trabajo de mallas esqueléticas a través de MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/uv-workflow": {
+    "name": "flujo-de-trabajo-de-UV",
+    "description": "Despliegue UV de producción para colocación de costuras, empaquetado UV, densidad de texels, UDIM, UVs de lightmaps y diseños modulares de UV. Úselo al preparar mallas para texturización y exportación a motores en Blender a través de MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/uv-workflow": {
+    "name": "flujo-de-trabajo-de-UV",
+    "description": "Despliegue UV de producción para colocación de costuras, empaquetado UV, densidad de texels, UDIM, UVs de lightmaps y diseños modulares de UV. Úselo al preparar mallas para texturización y exportación a motores en Blender a través de MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/vector-style": {
+    "name": "estilo-vectorial",
+    "description": "Dirección de arte limpia vectorial para Blender con rellenos planos, siluetas nítidas y claridad gráfica tipo UI."
+  },
+  "arjun988/blender-skills:.cursor/skills/vector-style": {
+    "name": "estilo-vectorial",
+    "description": "Dirección de arte limpia vectorial para Blender con rellenos planos, siluetas nítidas y claridad gráfica tipo UI."
+  },
+  "arjun988/blender-skills:.claude/skills/vegetation-artist": {
+    "name": "artista-de-vegetación",
+    "description": "Autoría de vegetación y follaje para Blender, incluyendo árboles, plantas, tarjetas de hierba, LODs de dosel y atlas de hojas aptos para juegos a través de MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/vegetation-artist": {
+    "name": "artista-de-vegetación",
+    "description": "Autoría de vegetación y follaje para Blender, incluyendo árboles, plantas, tarjetas de hierba, LODs de dosel y atlas de hojas aptos para juegos a través de MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/vehicle-artist": {
+    "name": "artista-de-vehículos",
+    "description": "Modelado dedicado de vehículos como coches, camiones, aviones, barcos, mechs y medios de transporte, con atención a proporciones, flujo de paneles y LODs adaptados a juegos en Blender a través de MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/vehicle-artist": {
+    "name": "artista-de-vehículos",
+    "description": "Modelado dedicado de vehículos como coches, camiones, aviones, barcos, mechs y medios de transporte, con atención a proporciones, flujo de paneles y LODs adaptados a juegos en Blender a través de MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/vfx-fx": {
+    "name": "efectos-vfx",
+    "description": "VFX cinematográficos y para juegos en Blender, incluyendo humo, fuego, partículas, estelas y configuraciones de FX con Geometry Nodes a través de MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/vfx-fx": {
+    "name": "efectos-vfx",
+    "description": "VFX cinematográficos y para juegos en Blender, incluyendo humo, fuego, partículas, estelas y configuraciones de FX con Geometry Nodes a través de MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/visual-console-eras": {
+    "name": "eras-de-consola-visuales",
+    "description": "Dirección de arte de eras visuales para Blender, abarcando señales estilísticas de PS1–PS5, arcade retro, DOS, CRT, VHS y presentación con grano de película."
+  },
+  "arjun988/blender-skills:.cursor/skills/visual-console-eras": {
+    "name": "eras-de-consola-visuales",
+    "description": "Dirección de arte de eras visuales para Blender, abarcando señales estilísticas de PS1–PS5, arcade retro, DOS, CRT, VHS y presentación con grano de película."
+  },
+  "arjun988/blender-skills:.claude/skills/voxel-style": {
+    "name": "estilo-voxel",
+    "description": "Dirección de arte voxel y cercana a Minecraft para Blender con modelado en rejilla de bloques, paletas limitadas y activos amigables con chunks."
+  },
+  "arjun988/blender-skills:.cursor/skills/voxel-style": {
+    "name": "estilo-voxel",
+    "description": "Dirección de arte voxel y cercana a Minecraft para Blender con modelado en rejilla de bloques, paletas limitadas y activos amigables con chunks."
+  },
+  "anthropics/skills:skills/web-artifacts-builder": {
+    "name": "constructor-de-artefactos-web",
+    "description": "Conjunto de herramientas para crear elaborados artefactos HTML claude.ai de múltiples componentes utilizando tecnologías modernas del frontend web (React, Tailwind CSS, shadcn/ui). Úsalo para artefactos complejos que requieran gestión de estado, enrutamiento o componentes shadcn/ui; no para simples artefactos HTML/JSX de un solo archivo."
+  },
+  "anthropics/skills:skills/webapp-testing": {
+    "name": "prueba-de-aplicaciones-web",
+    "description": "Kit de herramientas para interactuar y probar aplicaciones web locales usando Playwright. Admite verificar la funcionalidad del frontend, depurar el comportamiento de la UI, capturar capturas de pantalla del navegador y ver los registros del navegador."
+  },
+  "emilkowalski/skills:skills/write-swift": {
+    "name": "escribir-swift",
+    "description": "Cómo escribir Swift moderno correctamente — modelado con tipos por valor, seguridad contra carreras de datos en Swift 6 y concurrencia accesible (@concurrent, main-actor-by-default, actors, task groups), protocolos y genéricos (some vs any), diseño de API, rendimiento y ARC, pruebas en Swift, macros y las características modernas del lenguaje que aún desconocen los agentes. Úselo al escribir, revisar o migrar Swift, o cuando sea necesario solucionar un error de concurrencia, un bloqueo, una carrera de datos, un ciclo de retención o un problema de rendimiento."
+  },
+  "anthropics/skills:skills/xlsx": {
+    "name": "xlsx",
+    "description": "Utilice esta habilidad siempre que un archivo de hoja de cálculo sea la entrada o salida principal. Esto significa cualquier tarea en la que el usuario desee: abrir, leer, editar o corregir un archivo .xlsx, .xlsm, .xltx, .csv o .tsv existente (por ejemplo, agregar columnas, calcular fórmulas, formatear, crear gráficos, limpiar datos desordenados); crear una nueva hoja de cálculo desde cero o a partir de otras fuentes de datos; o convertir entre formatos de archivos tabulares. Se activa especialmente cuando el usuario hace referencia a un archivo de hoja de cálculo por nombre o ruta — incluso de manera casual (como \\\"el xlsx en mis descargas\\\") — y desea que se realice alguna acción sobre él o que se produzca algo a partir de él. También se activa para limpiar o reestructurar archivos de datos tabulares desordenados (filas mal formadas, encabezados fuera de lugar, datos basura) hasta convertirlos en hojas de cálculo adecuadas. El entregable debe ser un archivo de hoja de cálculo. NO se active cuando el entregable principal sea un documento de Word, un informe HTML, un script independiente de Python, una pipeline de base de datos o una integración de Google Sheets API, aunque involucre datos tabulares."
+  }
+}

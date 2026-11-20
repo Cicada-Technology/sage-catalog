@@ -1,0 +1,4344 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-20T08:24:59.129Z",
+  "skills": [
+    {
+      "id": "anthropics/skills:skills/academy-guide",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/academy-guide",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/academy-guide/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "anthropics/skills:skills/algorithmic-art",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/algorithmic-art",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/algorithmic-art/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "anthropics/skills:skills/brand-guidelines",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/brand-guidelines",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/brand-guidelines/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "anthropics/skills:skills/canvas-design",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/canvas-design",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/canvas-design/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "anthropics/skills:skills/claude-api",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/claude-api",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/claude-api/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "anthropics/skills:skills/discernment-nudge",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/discernment-nudge",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/discernment-nudge/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "anthropics/skills:skills/doc-coauthoring",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/doc-coauthoring",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/doc-coauthoring/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "anthropics/skills:skills/docx",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/docx",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/docx/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "anthropics/skills:skills/frontend-design",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/frontend-design",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "anthropics/skills:skills/internal-comms",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/internal-comms",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/internal-comms/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "anthropics/skills:skills/mcp-builder",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/mcp-builder",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/mcp-builder/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "anthropics/skills:skills/pdf",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/pdf",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/pdf/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "anthropics/skills:skills/pptx",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/pptx",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/pptx/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "anthropics/skills:skills/skill-creator",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/skill-creator",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "anthropics/skills:skills/slack-gif-creator",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/slack-gif-creator",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/slack-gif-creator/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "anthropics/skills:skills/theme-factory",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/theme-factory",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/theme-factory/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "anthropics/skills:skills/web-artifacts-builder",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/web-artifacts-builder",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/web-artifacts-builder/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "anthropics/skills:skills/webapp-testing",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/webapp-testing",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/webapp-testing/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "anthropics/skills:skills/xlsx",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/xlsx",
+      "url": "https://github.com/anthropics/skills/blob/main/skills/xlsx/SKILL.md",
+      "category": "finance"
+    },
+    {
+      "id": "anthropics/skills:template",
+      "owner": "anthropics",
+      "repo": "skills",
+      "branch": "main",
+      "path": "template",
+      "url": "https://github.com/anthropics/skills/blob/main/template/SKILL.md",
+      "category": "other"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/analog-found-footage-horror",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/analog-found-footage-horror",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/analog-found-footage-horror/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/animation",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/animation",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/animation/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/anime-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/anime-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/anime-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/apocalypse-worlds",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/apocalypse-worlds",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/apocalypse-worlds/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/archviz",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/archviz",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/archviz/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/asset-optimization",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/asset-optimization",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/asset-optimization/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/biome-worlds",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/biome-worlds",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/biome-worlds/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/blender-director",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/blender-director",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/blender-director/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/blender-modeler",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/blender-modeler",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/blender-modeler/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/body-horror-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/body-horror-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/body-horror-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/brutalist-mood",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/brutalist-mood",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/brutalist-mood/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/camera-cinematography",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/camera-cinematography",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/camera-cinematography/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/cartoon-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/cartoon-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/cartoon-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/character-archetypes",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/character-archetypes",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/character-archetypes/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/character-artist",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/character-artist",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/character-artist/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/chibi-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/chibi-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/chibi-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/cloth-sim",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/cloth-sim",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/cloth-sim/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/collision-proxy",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/collision-proxy",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/collision-proxy/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/comic-book-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/comic-book-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/comic-book-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/compositing",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/compositing",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/compositing/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/cosmic-eldritch-horror",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/cosmic-eldritch-horror",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/cosmic-eldritch-horror/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/cozy-wholesome-mood",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/cozy-wholesome-mood",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/cozy-wholesome-mood/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/creature-artist",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/creature-artist",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/creature-artist/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/dark-gritty-mood",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/dark-gritty-mood",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/dark-gritty-mood/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/dream-surreal-mood",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/dream-surreal-mood",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/dream-surreal-mood/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/dream-weirdcore-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/dream-weirdcore-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/dream-weirdcore-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/environment-artist",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/environment-artist",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/environment-artist/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/export-pipeline",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/export-pipeline",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/export-pipeline/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/fantasy-worlds",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/fantasy-worlds",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/fantasy-worlds/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/folk-horror-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/folk-horror-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/folk-horror-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/frutiger-aero-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/frutiger-aero-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/frutiger-aero-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/genre-action-combat",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/genre-action-combat",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/genre-action-combat/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/genre-card-party-idle",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/genre-card-party-idle",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/genre-card-party-idle/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/genre-metroidvania-roguelike",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/genre-metroidvania-roguelike",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/genre-metroidvania-roguelike/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/genre-narrative-vn",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/genre-narrative-vn",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/genre-narrative-vn/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/genre-open-world-sandbox",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/genre-open-world-sandbox",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/genre-open-world-sandbox/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/genre-puzzle-platformer",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/genre-puzzle-platformer",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/genre-puzzle-platformer/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/genre-racing-sports",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/genre-racing-sports",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/genre-racing-sports/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/genre-rpg",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/genre-rpg",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/genre-rpg/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/genre-shooter",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/genre-shooter",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/genre-shooter/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/genre-soulslike",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/genre-soulslike",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/genre-soulslike/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/genre-stealth",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/genre-stealth",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/genre-stealth/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/genre-strategy-sim",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/genre-strategy-sim",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/genre-strategy-sim/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/genre-survival",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/genre-survival",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/genre-survival/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/geometry-nodes",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/geometry-nodes",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/geometry-nodes/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/godot-export",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/godot-export",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/godot-export/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/hair-groom",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/hair-groom",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/hair-groom/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/hand-painted-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/hand-painted-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/hand-painted-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/hard-surface",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/hard-surface",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/hard-surface/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/hd-2d-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/hd-2d-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/hd-2d-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/historical-worlds",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/historical-worlds",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/historical-worlds/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/horror-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/horror-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/horror-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/indie-horror-aesthetics",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/indie-horror-aesthetics",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/indie-horror-aesthetics/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/isometric-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/isometric-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/isometric-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/lighting",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/lighting",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/lighting/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/liminal-space-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/liminal-space-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/liminal-space-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/lod-pipeline",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/lod-pipeline",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/lod-pipeline/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/lookdev",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/lookdev",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/lookdev/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/lowpoly-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/lowpoly-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/lowpoly-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/manga-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/manga-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/manga-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/mascot-puppet-horror",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/mascot-puppet-horror",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/mascot-puppet-horror/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/materials",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/materials",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/materials/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/minimalist-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/minimalist-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/minimalist-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/neon-retrofuturism",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/neon-retrofuturism",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/neon-retrofuturism/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/noir-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/noir-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/noir-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/painterly-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/painterly-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/painterly-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/physics-sim",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/physics-sim",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/physics-sim/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/pixel-art-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/pixel-art-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/pixel-art-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/procedural-modeling",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/procedural-modeling",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/procedural-modeling/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/prop-artist",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/prop-artist",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/prop-artist/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/psx-horror-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/psx-horror-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/psx-horror-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/qa-review",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/qa-review",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/qa-review/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/realistic-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/realistic-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/realistic-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/rendering",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/rendering",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/rendering/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/retopology",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/retopology",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/retopology/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/retro-16bit-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/retro-16bit-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/retro-16bit-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/retro-8bit-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/retro-8bit-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/retro-8bit-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/rigging",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/rigging",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/rigging/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/scene-assembly",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/scene-assembly",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/scene-assembly/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/sci-fi-punk-worlds",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/sci-fi-punk-worlds",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/sci-fi-punk-worlds/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/sculpting",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/sculpting",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/sculpting/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/set-dressing",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/set-dressing",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/set-dressing/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/stop-motion-craft-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/stop-motion-craft-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/stop-motion-craft-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/stylized-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/stylized-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/stylized-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/texture-workflow",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/texture-workflow",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/texture-workflow/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/unity-export",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/unity-export",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/unity-export/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/unreal-export",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/unreal-export",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/unreal-export/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/uv-workflow",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/uv-workflow",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/uv-workflow/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/vector-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/vector-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/vector-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/vegetation-artist",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/vegetation-artist",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/vegetation-artist/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/vehicle-artist",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/vehicle-artist",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/vehicle-artist/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/vfx-fx",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/vfx-fx",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/vfx-fx/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/visual-console-eras",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/visual-console-eras",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/visual-console-eras/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.claude/skills/voxel-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".claude/skills/voxel-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.claude/skills/voxel-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/analog-found-footage-horror",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/analog-found-footage-horror",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/analog-found-footage-horror/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/animation",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/animation",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/animation/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/anime-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/anime-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/anime-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/apocalypse-worlds",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/apocalypse-worlds",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/apocalypse-worlds/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/archviz",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/archviz",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/archviz/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/asset-optimization",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/asset-optimization",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/asset-optimization/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/biome-worlds",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/biome-worlds",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/biome-worlds/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/blender-director",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/blender-director",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/blender-director/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/blender-modeler",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/blender-modeler",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/blender-modeler/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/body-horror-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/body-horror-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/body-horror-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/brutalist-mood",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/brutalist-mood",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/brutalist-mood/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/camera-cinematography",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/camera-cinematography",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/camera-cinematography/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/cartoon-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/cartoon-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/cartoon-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/character-archetypes",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/character-archetypes",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/character-archetypes/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/character-artist",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/character-artist",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/character-artist/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/chibi-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/chibi-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/chibi-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/cloth-sim",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/cloth-sim",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/cloth-sim/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/collision-proxy",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/collision-proxy",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/collision-proxy/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/comic-book-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/comic-book-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/comic-book-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/compositing",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/compositing",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/compositing/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/cosmic-eldritch-horror",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/cosmic-eldritch-horror",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/cosmic-eldritch-horror/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/cozy-wholesome-mood",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/cozy-wholesome-mood",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/cozy-wholesome-mood/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/creature-artist",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/creature-artist",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/creature-artist/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/dark-gritty-mood",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/dark-gritty-mood",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/dark-gritty-mood/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/dream-surreal-mood",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/dream-surreal-mood",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/dream-surreal-mood/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/dream-weirdcore-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/dream-weirdcore-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/dream-weirdcore-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/environment-artist",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/environment-artist",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/environment-artist/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/export-pipeline",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/export-pipeline",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/export-pipeline/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/fantasy-worlds",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/fantasy-worlds",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/fantasy-worlds/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/folk-horror-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/folk-horror-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/folk-horror-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/frutiger-aero-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/frutiger-aero-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/frutiger-aero-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/genre-action-combat",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/genre-action-combat",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/genre-action-combat/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/genre-card-party-idle",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/genre-card-party-idle",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/genre-card-party-idle/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/genre-metroidvania-roguelike",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/genre-metroidvania-roguelike",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/genre-metroidvania-roguelike/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/genre-narrative-vn",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/genre-narrative-vn",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/genre-narrative-vn/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/genre-open-world-sandbox",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/genre-open-world-sandbox",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/genre-open-world-sandbox/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/genre-puzzle-platformer",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/genre-puzzle-platformer",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/genre-puzzle-platformer/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/genre-racing-sports",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/genre-racing-sports",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/genre-racing-sports/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/genre-rpg",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/genre-rpg",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/genre-rpg/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/genre-shooter",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/genre-shooter",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/genre-shooter/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/genre-soulslike",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/genre-soulslike",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/genre-soulslike/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/genre-stealth",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/genre-stealth",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/genre-stealth/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/genre-strategy-sim",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/genre-strategy-sim",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/genre-strategy-sim/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/genre-survival",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/genre-survival",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/genre-survival/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/geometry-nodes",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/geometry-nodes",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/geometry-nodes/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/godot-export",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/godot-export",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/godot-export/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/hair-groom",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/hair-groom",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/hair-groom/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/hand-painted-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/hand-painted-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/hand-painted-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/hard-surface",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/hard-surface",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/hard-surface/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/hd-2d-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/hd-2d-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/hd-2d-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/historical-worlds",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/historical-worlds",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/historical-worlds/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/horror-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/horror-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/horror-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/indie-horror-aesthetics",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/indie-horror-aesthetics",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/indie-horror-aesthetics/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/isometric-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/isometric-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/isometric-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/lighting",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/lighting",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/lighting/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/liminal-space-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/liminal-space-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/liminal-space-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/lod-pipeline",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/lod-pipeline",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/lod-pipeline/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/lookdev",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/lookdev",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/lookdev/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/lowpoly-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/lowpoly-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/lowpoly-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/manga-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/manga-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/manga-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/mascot-puppet-horror",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/mascot-puppet-horror",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/mascot-puppet-horror/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/materials",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/materials",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/materials/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/minimalist-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/minimalist-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/minimalist-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/neon-retrofuturism",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/neon-retrofuturism",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/neon-retrofuturism/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/noir-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/noir-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/noir-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/painterly-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/painterly-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/painterly-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/physics-sim",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/physics-sim",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/physics-sim/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/pixel-art-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/pixel-art-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/pixel-art-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/procedural-modeling",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/procedural-modeling",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/procedural-modeling/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/prop-artist",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/prop-artist",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/prop-artist/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/psx-horror-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/psx-horror-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/psx-horror-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/qa-review",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/qa-review",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/qa-review/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/realistic-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/realistic-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/realistic-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/rendering",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/rendering",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/rendering/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/retopology",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/retopology",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/retopology/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/retro-16bit-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/retro-16bit-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/retro-16bit-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/retro-8bit-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/retro-8bit-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/retro-8bit-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/rigging",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/rigging",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/rigging/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/scene-assembly",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/scene-assembly",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/scene-assembly/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/sci-fi-punk-worlds",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/sci-fi-punk-worlds",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/sci-fi-punk-worlds/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/sculpting",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/sculpting",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/sculpting/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/set-dressing",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/set-dressing",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/set-dressing/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/stop-motion-craft-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/stop-motion-craft-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/stop-motion-craft-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/stylized-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/stylized-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/stylized-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/texture-workflow",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/texture-workflow",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/texture-workflow/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/unity-export",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/unity-export",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/unity-export/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/unreal-export",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/unreal-export",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/unreal-export/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/uv-workflow",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/uv-workflow",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/uv-workflow/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/vector-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/vector-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/vector-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/vegetation-artist",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/vegetation-artist",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/vegetation-artist/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/vehicle-artist",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/vehicle-artist",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/vehicle-artist/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/vfx-fx",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/vfx-fx",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/vfx-fx/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/visual-console-eras",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/visual-console-eras",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/visual-console-eras/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arjun988/blender-skills:.cursor/skills/voxel-style",
+      "owner": "arjun988",
+      "repo": "blender-skills",
+      "branch": "main",
+      "path": ".cursor/skills/voxel-style",
+      "url": "https://github.com/arjun988/blender-skills/blob/main/.cursor/skills/voxel-style/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/docker-ros2-development",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/docker-ros2-development",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/docker-ros2-development/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/imitation-learning",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/imitation-learning",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/imitation-learning/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/isaac-sim",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/isaac-sim",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/isaac-sim/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/lerobot",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/lerobot",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/lerobot/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/mujoco",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/mujoco",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/mujoco/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/robot-app-harness",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/robot-app-harness",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/robot-app-harness/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/robot-bringup",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/robot-bringup",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/robot-bringup/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/robot-data-quality",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/robot-data-quality",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/robot-data-quality/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/robot-perception",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/robot-perception",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/robot-perception/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/robot-reinforcement-learning",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/robot-reinforcement-learning",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/robot-reinforcement-learning/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/robotics-design-patterns",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/robotics-design-patterns",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/robotics-design-patterns/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/robotics-security",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/robotics-security",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/robotics-security/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/robotics-software-principles",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/robotics-software-principles",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/robotics-software-principles/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/robotics-testing",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/robotics-testing",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/robotics-testing/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/ros1",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/ros1",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/ros1/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/ros2",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/ros2",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/ros2/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "arpitg1304/robotics-agent-skills:skills/ros2-web-integration",
+      "owner": "arpitg1304",
+      "repo": "robotics-agent-skills",
+      "branch": "main",
+      "path": "skills/ros2-web-integration",
+      "url": "https://github.com/arpitg1304/robotics-agent-skills/blob/main/skills/ros2-web-integration/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "cexll/myclaude:skills/browser",
+      "owner": "cexll",
+      "repo": "myclaude",
+      "branch": "master",
+      "path": "skills/browser",
+      "url": "https://github.com/cexll/myclaude/blob/master/skills/browser/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "cexll/myclaude:skills/codeagent",
+      "owner": "cexll",
+      "repo": "myclaude",
+      "branch": "master",
+      "path": "skills/codeagent",
+      "url": "https://github.com/cexll/myclaude/blob/master/skills/codeagent/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "cexll/myclaude:skills/dev",
+      "owner": "cexll",
+      "repo": "myclaude",
+      "branch": "master",
+      "path": "skills/dev",
+      "url": "https://github.com/cexll/myclaude/blob/master/skills/dev/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "cexll/myclaude:skills/do",
+      "owner": "cexll",
+      "repo": "myclaude",
+      "branch": "master",
+      "path": "skills/do",
+      "url": "https://github.com/cexll/myclaude/blob/master/skills/do/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "cexll/myclaude:skills/harness",
+      "owner": "cexll",
+      "repo": "myclaude",
+      "branch": "master",
+      "path": "skills/harness",
+      "url": "https://github.com/cexll/myclaude/blob/master/skills/harness/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "cexll/myclaude:skills/omo",
+      "owner": "cexll",
+      "repo": "myclaude",
+      "branch": "master",
+      "path": "skills/omo",
+      "url": "https://github.com/cexll/myclaude/blob/master/skills/omo/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "cexll/myclaude:skills/product-requirements",
+      "owner": "cexll",
+      "repo": "myclaude",
+      "branch": "master",
+      "path": "skills/product-requirements",
+      "url": "https://github.com/cexll/myclaude/blob/master/skills/product-requirements/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "cexll/myclaude:skills/prototype-prompt-generator",
+      "owner": "cexll",
+      "repo": "myclaude",
+      "branch": "master",
+      "path": "skills/prototype-prompt-generator",
+      "url": "https://github.com/cexll/myclaude/blob/master/skills/prototype-prompt-generator/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "cexll/myclaude:skills/skill-install",
+      "owner": "cexll",
+      "repo": "myclaude",
+      "branch": "master",
+      "path": "skills/skill-install",
+      "url": "https://github.com/cexll/myclaude/blob/master/skills/skill-install/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "cexll/myclaude:skills/sparv",
+      "owner": "cexll",
+      "repo": "myclaude",
+      "branch": "master",
+      "path": "skills/sparv",
+      "url": "https://github.com/cexll/myclaude/blob/master/skills/sparv/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "cexll/myclaude:skills/test-cases",
+      "owner": "cexll",
+      "repo": "myclaude",
+      "branch": "master",
+      "path": "skills/test-cases",
+      "url": "https://github.com/cexll/myclaude/blob/master/skills/test-cases/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:artifacts-builder",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "artifacts-builder",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/artifacts-builder/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:brand-guidelines",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "brand-guidelines",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/brand-guidelines/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:canvas-design",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "canvas-design",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/canvas-design/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:changelog-generator",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "changelog-generator",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/changelog-generator/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:competitive-ads-extractor",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "competitive-ads-extractor",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/competitive-ads-extractor/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/-21risk-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/-21risk-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/-21risk-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/-2chat-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/-2chat-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/-2chat-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/ably-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/ably-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/ably-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/abstract-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/abstract-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/abstract-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/abuselpdb-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/abuselpdb-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/abuselpdb-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/abyssale-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/abyssale-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/abyssale-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/accelo-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/accelo-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/accelo-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/accredible-certificates-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/accredible-certificates-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/accredible-certificates-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/acculynx-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/acculynx-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/acculynx-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/active-campaign-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/active-campaign-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/active-campaign-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/addresszen-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/addresszen-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/addresszen-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/adobe-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/adobe-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/adobe-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/adrapid-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/adrapid-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/adrapid-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/adyntel-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/adyntel-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/adyntel-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/aero-workflow-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/aero-workflow-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/aero-workflow-automation/SKILL.md",
+      "category": "admin"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/aeroleads-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/aeroleads-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/aeroleads-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/affinda-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/affinda-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/affinda-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/affinity-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/affinity-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/affinity-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/agencyzoom-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/agencyzoom-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/agencyzoom-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/agent-mail-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/agent-mail-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/agent-mail-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/agentql-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/agentql-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/agentql-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/agenty-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/agenty-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/agenty-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/agiled-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/agiled-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/agiled-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/agility-cms-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/agility-cms-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/agility-cms-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/ahrefs-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/ahrefs-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/ahrefs-automation/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/ai-ml-api-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/ai-ml-api-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/ai-ml-api-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/aivoov-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/aivoov-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/aivoov-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/alchemy-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/alchemy-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/alchemy-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/algodocs-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/algodocs-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/algodocs-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/algolia-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/algolia-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/algolia-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/all-images-ai-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/all-images-ai-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/all-images-ai-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/alpha-vantage-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/alpha-vantage-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/alpha-vantage-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/altoviz-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/altoviz-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/altoviz-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/alttext-ai-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/alttext-ai-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/alttext-ai-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/amara-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/amara-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/amara-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/amazon-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/amazon-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/amazon-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/ambee-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/ambee-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/ambee-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/ambient-weather-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/ambient-weather-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/ambient-weather-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/amcards-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/amcards-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/amcards-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/anchor-browser-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/anchor-browser-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/anchor-browser-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/anonyflow-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/anonyflow-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/anonyflow-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/anthropic_administrator-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/anthropic_administrator-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/anthropic_administrator-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/anthropic-administrator-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/anthropic-administrator-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/anthropic-administrator-automation/SKILL.md",
+      "category": "admin"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/apaleo-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/apaleo-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/apaleo-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/apex27-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/apex27-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/apex27-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/api-bible-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/api-bible-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/api-bible-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/api-labz-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/api-labz-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/api-labz-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/api-ninjas-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/api-ninjas-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/api-ninjas-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/api-sports-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/api-sports-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/api-sports-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/api2pdf-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/api2pdf-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/api2pdf-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/apiflash-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/apiflash-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/apiflash-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/apify-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/apify-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/apify-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/apilio-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/apilio-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/apilio-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/apipie-ai-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/apipie-ai-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/apipie-ai-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/apitemplate-io-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/apitemplate-io-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/apitemplate-io-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/apiverve-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/apiverve-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/apiverve-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/apollo-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/apollo-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/apollo-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/appcircle-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/appcircle-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/appcircle-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/appdrag-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/appdrag-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/appdrag-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/appointo-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/appointo-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/appointo-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/appsflyer-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/appsflyer-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/appsflyer-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/appveyor-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/appveyor-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/appveyor-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/aryn-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/aryn-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/aryn-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/ascora-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/ascora-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/ascora-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/ashby-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/ashby-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/ashby-automation/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/asin-data-api-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/asin-data-api-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/asin-data-api-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/astica-ai-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/astica-ai-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/astica-ai-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/async-interview-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/async-interview-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/async-interview-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/atlassian-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/atlassian-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/atlassian-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/attio-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/attio-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/attio-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/auth0-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/auth0-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/auth0-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/autobound-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/autobound-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/autobound-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/autom-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/autom-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/autom-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/axonaut-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/axonaut-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/axonaut-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/ayrshare-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/ayrshare-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/ayrshare-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/backendless-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/backendless-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/backendless-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bannerbear-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bannerbear-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bannerbear-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bart-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bart-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bart-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/baselinker-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/baselinker-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/baselinker-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/baserow-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/baserow-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/baserow-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/basin-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/basin-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/basin-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/battlenet-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/battlenet-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/battlenet-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/beaconchain-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/beaconchain-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/beaconchain-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/beaconstac-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/beaconstac-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/beaconstac-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/beamer-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/beamer-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/beamer-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/beeminder-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/beeminder-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/beeminder-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bench-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bench-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bench-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/benchmark-email-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/benchmark-email-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/benchmark-email-automation/SKILL.md",
+      "category": "admin"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/benzinga-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/benzinga-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/benzinga-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bestbuy-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bestbuy-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bestbuy-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/better-proposals-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/better-proposals-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/better-proposals-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/better-stack-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/better-stack-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/better-stack-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bidsketch-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bidsketch-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bidsketch-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/big-data-cloud-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/big-data-cloud-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/big-data-cloud-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bigmailer-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bigmailer-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bigmailer-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bigml-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bigml-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bigml-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bigpicture-io-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bigpicture-io-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bigpicture-io-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bitquery-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bitquery-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bitquery-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bitwarden-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bitwarden-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bitwarden-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/blackbaud-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/blackbaud-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/blackbaud-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/blackboard-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/blackboard-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/blackboard-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/blocknative-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/blocknative-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/blocknative-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/boldsign-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/boldsign-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/boldsign-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bolna-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bolna-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bolna-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/boloforms-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/boloforms-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/boloforms-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bolt-iot-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bolt-iot-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bolt-iot-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bonsai-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bonsai-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bonsai-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bookingmood-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bookingmood-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bookingmood-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/booqable-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/booqable-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/booqable-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/borneo-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/borneo-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/borneo-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/botbaba-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/botbaba-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/botbaba-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/botpress-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/botpress-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/botpress-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/botsonic-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/botsonic-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/botsonic-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/botstar-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/botstar-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/botstar-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bouncer-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bouncer-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bouncer-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/boxhero-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/boxhero-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/boxhero-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/braintree-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/braintree-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/braintree-automation/SKILL.md",
+      "category": "finance"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/brandfetch-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/brandfetch-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/brandfetch-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/breeze-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/breeze-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/breeze-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/breezy-hr-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/breezy-hr-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/breezy-hr-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/brex-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/brex-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/brex-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/brex-staging-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/brex-staging-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/brex-staging-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/brightdata-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/brightdata-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/brightdata-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/brightpearl-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/brightpearl-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/brightpearl-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/brilliant-directories-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/brilliant-directories-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/brilliant-directories-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/browseai-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/browseai-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/browseai-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/browser-tool-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/browser-tool-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/browser-tool-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/browserbase-tool-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/browserbase-tool-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/browserbase-tool-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/browserhub-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/browserhub-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/browserhub-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/browserless-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/browserless-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/browserless-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/btcpay-server-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/btcpay-server-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/btcpay-server-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bubble-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bubble-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bubble-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bugbug-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bugbug-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bugbug-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bugherd-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bugherd-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bugherd-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bugsnag-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bugsnag-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bugsnag-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/buildkite-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/buildkite-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/buildkite-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/builtwith-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/builtwith-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/builtwith-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/bunnycdn-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/bunnycdn-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/bunnycdn-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/byteforms-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/byteforms-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/byteforms-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/cabinpanda-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/cabinpanda-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/cabinpanda-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/cal-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/cal-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/cal-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/calendarhero-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/calendarhero-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/calendarhero-automation/SKILL.md",
+      "category": "admin"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/callerapi-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/callerapi-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/callerapi-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/callingly-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/callingly-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/callingly-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/callpage-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/callpage-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/callpage-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/campaign-cleaner-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/campaign-cleaner-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/campaign-cleaner-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/campayn-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/campayn-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/campayn-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/canny-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/canny-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/canny-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/canvas-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/canvas-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/canvas-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/capsule_crm-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/capsule_crm-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/capsule_crm-automation/SKILL.md",
+      "category": "admin"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/capsule-crm-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/capsule-crm-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/capsule-crm-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/carbone-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/carbone-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/carbone-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/cardly-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/cardly-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/cardly-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/castingwords-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/castingwords-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/castingwords-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/cats-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/cats-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/cats-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/cdr-platform-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/cdr-platform-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/cdr-platform-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/census-bureau-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/census-bureau-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/census-bureau-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/centralstationcrm-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/centralstationcrm-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/centralstationcrm-automation/SKILL.md",
+      "category": "admin"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/certifier-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/certifier-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/certifier-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/chaser-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/chaser-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/chaser-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/chatbotkit-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/chatbotkit-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/chatbotkit-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/chatfai-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/chatfai-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/chatfai-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/chatwork-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/chatwork-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/chatwork-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/chmeetings-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/chmeetings-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/chmeetings-automation/SKILL.md",
+      "category": "admin"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/cincopa-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/cincopa-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/cincopa-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/claid-ai-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/claid-ai-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/claid-ai-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/classmarker-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/classmarker-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/classmarker-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/clearout-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/clearout-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/clearout-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/clickmeeting-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/clickmeeting-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/clickmeeting-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/clockify-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/clockify-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/clockify-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/cloudcart-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/cloudcart-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/cloudcart-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/cloudconvert-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/cloudconvert-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/cloudconvert-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-api-key-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/cloudflare-api-key-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/cloudflare-api-key-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/cloudflare-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/cloudflare-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-browser-rendering-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/cloudflare-browser-rendering-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/cloudflare-browser-rendering-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/cloudinary-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/cloudinary-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/cloudinary-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/cloudlayer-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/cloudlayer-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/cloudlayer-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/cloudpress-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/cloudpress-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/cloudpress-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/coassemble-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/coassemble-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/coassemble-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/codacy-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/codacy-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/codacy-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/codeinterpreter-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/codeinterpreter-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/codeinterpreter-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/codereadr-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/codereadr-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/codereadr-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/coinbase-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/coinbase-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/coinbase-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/coinmarketcal-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/coinmarketcal-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/coinmarketcal-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/coinmarketcap-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/coinmarketcap-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/coinmarketcap-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/coinranking-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/coinranking-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/coinranking-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/college-football-data-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/college-football-data-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/college-football-data-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/composio-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/composio-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/composio-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/composio-search-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/composio-search-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/composio-search-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/connecteam-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/connecteam-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/connecteam-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/contentful-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/contentful-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/contentful-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/contentful-graphql-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/contentful-graphql-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/contentful-graphql-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/control-d-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/control-d-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/control-d-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/conversion-tools-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/conversion-tools-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/conversion-tools-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "ComposioHQ/awesome-claude-skills:composio-skills/convertapi-automation",
+      "owner": "ComposioHQ",
+      "repo": "awesome-claude-skills",
+      "branch": "master",
+      "path": "composio-skills/convertapi-automation",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/composio-skills/convertapi-automation/SKILL.md",
+      "category": "dev"
+    },
+    {
+      "id": "emilkowalski/skills:skills/animate",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/animate",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/animate/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/animate-expo",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/animate-expo",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/animate-expo/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/animation-performance",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/animation-performance",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/animation-performance/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/animation-vocabulary",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/animation-vocabulary",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/animation-vocabulary/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/apple-design",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/apple-design",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/apple-design/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/ask-emil",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/ask-emil",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/ask-emil/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/ask-sonner",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/ask-sonner",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/ask-sonner/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/break-ui",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/break-ui",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/break-ui/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/choreograph",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/choreograph",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/choreograph/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/emil-design-eng",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/emil-design-eng",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/emil-design-eng/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/find-animation-opportunities",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/find-animation-opportunities",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/find-animation-opportunities/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/gestures",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/gestures",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/gestures/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/improve-animations",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/improve-animations",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/improve-animations/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/learn-taste",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/learn-taste",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/learn-taste/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/mobile-native",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/mobile-native",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/mobile-native/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/pick-ui-library",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/pick-ui-library",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/pick-ui-library/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/prototype",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/prototype",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/prototype/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/remove-animations",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/remove-animations",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/remove-animations/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/review-animations",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/review-animations",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/review-animations/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "emilkowalski/skills:skills/write-swift",
+      "owner": "emilkowalski",
+      "repo": "skills",
+      "branch": "main",
+      "path": "skills/write-swift",
+      "url": "https://github.com/emilkowalski/skills/blob/main/skills/write-swift/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:.claude/skills/release-skills",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": ".claude/skills/release-skills",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/.claude/skills/release-skills/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-article-illustrator",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-article-illustrator",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-article-illustrator/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-comic",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-comic",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-comic/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-compress-image",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-compress-image",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-compress-image/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-cover-image",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-cover-image",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-cover-image/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-danger-gemini-web",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-danger-gemini-web",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-danger-gemini-web/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-danger-x-to-markdown",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-danger-x-to-markdown",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-danger-x-to-markdown/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-diagram",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-diagram",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-diagram/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-electron-extract",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-electron-extract",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-electron-extract/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-format-markdown",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-format-markdown",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-format-markdown/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-image-gen",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-image-gen",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-image-gen/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-infographic",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-infographic",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-infographic/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-markdown-to-html",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-markdown-to-html",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-markdown-to-html/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-podcast-summary",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-podcast-summary",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-podcast-summary/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-post-to-wechat",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-post-to-wechat",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-post-to-wechat/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-post-to-weibo",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-post-to-weibo",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-post-to-weibo/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-post-to-x",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-post-to-x",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-post-to-x/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-slide-deck",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-slide-deck",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-slide-deck/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-translate",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-translate",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-translate/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-url-to-markdown",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-url-to-markdown",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-url-to-markdown/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-wechat-summary",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-wechat-summary",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-wechat-summary/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-xhs-images",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-xhs-images",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-xhs-images/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "JimLiu/baoyu-skills:skills/baoyu-youtube-transcript",
+      "owner": "JimLiu",
+      "repo": "baoyu-skills",
+      "branch": "main",
+      "path": "skills/baoyu-youtube-transcript",
+      "url": "https://github.com/JimLiu/baoyu-skills/blob/main/skills/baoyu-youtube-transcript/SKILL.md",
+      "category": "docs"
+    },
+    {
+      "id": "Leonxlnx/taste-skill:skills/taste-skill",
+      "owner": "Leonxlnx",
+      "repo": "taste-skill",
+      "branch": "main",
+      "path": "skills/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/taste-skill/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "TingxiYu/academic-figure-skill:academic-figure-skill",
+      "owner": "TingxiYu",
+      "repo": "academic-figure-skill",
+      "branch": "main",
+      "path": "academic-figure-skill",
+      "url": "https://github.com/TingxiYu/academic-figure-skill/blob/main/SKILL.md",
+      "category": "design"
+    },
+    {
+      "id": "virgiliojr94/book-to-skill:book-to-skill",
+      "owner": "virgiliojr94",
+      "repo": "book-to-skill",
+      "branch": "master",
+      "path": "book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill/blob/master/SKILL.md",
+      "category": "docs"
+    }
+  ]
+}

@@ -1,0 +1,1930 @@
+{
+  "ComposioHQ/awesome-claude-skills:composio-skills/-21risk-automation": {
+    "name": "-21risk-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে 21risk কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/-2chat-automation": {
+    "name": "-2chat-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে 2chat কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ahrefs-automation": {
+    "name": "Ahrefs Automation",
+    "description": "Ahrefs এর সাথে Composio ইন্টিগ্রেশনের মাধ্যমে SEO গবেষণা স্বয়ংক্রিয় করুন — ব্যাকলিংক প্রোফাইল বিশ্লেষণ, কীওয়ার্ড গবেষণা, ডোমেইন মেট্রিক্সের ইতিহাস ট্র্যাক করা, অর্গানিক র‍্যাঙ্কিং অডিট করা এবং ব্যাচ ভিত্তিক URL বিশ্লেষণ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apify-automation": {
+    "name": "Apify Automation",
+    "description": "Apify এর সাথে Composio Apify ইন্টিগ্রেশনের মাধ্যমে ওয়েব স্ক্র্যাপিং এবং ডেটা নিষ্কাশন স্বয়ংক্রিয় করুন — অ্যাক্টর চালান, ডেটাসেট পরিচালনা করুন, পুনরায় ব্যবহারযোগ্য কাজ তৈরি করুন এবং ক্রল ফলাফল পান।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apollo-automation": {
+    "name": "Apollo Automation",
+    "description": "Apollo.io লিড জেনারেশন স্বয়ংক্রিয় করুন — সংগঠন অনুসন্ধান করুন, যোগাযোগের তথ্য খুঁজুন, সম্ভাব্য ক্রেতাদের তথ্য সমৃদ্ধ করুন, যোগাযোগের পর্যায় পরিচালনা করুন এবং লক্ষ্যভিত্তিক আউটরিচ তালিকা তৈরি করুন — স্বাভাবিক ভাষা ব্যবহার করে Composio MCP ইন্টিগ্রেশনের মাধ্যমে।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ashby-automation": {
+    "name": "Ashby Automation",
+    "description": "Ashby এ নিয়োগ এবং হায়ারিং ওয়ার্কফ্লো স্বয়ংক্রিয় করুন — স্বাভাবিক ভাষার কমান্ডের মাধ্যমে প্রার্থী, চাকরি, আবেদন, সাক্ষাৎকার এবং নোট পরিচালনা করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/attio-automation": {
+    "name": "Attio Automation",
+    "description": "Attio CRM অপারেশন স্বয়ংক্রিয় করুন — রেকর্ড অনুসন্ধান করুন, উন্নত ফিল্টার ব্যবহার করে যোগাযোগ এবং কোম্পানি সম্পর্কে প্রশ্ন জিজ্ঞাসা করুন, নোট পরিচালনা করুন, বৈশিষ্ট্যের তালিকা তৈরি করুন এবং আপনার সম্পর্কের ডেটা নেভিগেট করুন — স্বাভাবিক ভাষা ব্যবহার করে Composio MCP ইন্টিগ্রেশনের মাধ্যমে।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/braintree-automation": {
+    "name": "Braintree Automation",
+    "description": "Braintree Automation: গ্রাহক, সাবস্ক্রিপশন, পেমেন্ট পদ্ধতি এবং লেনদেনের জন্য Stripe-সামঞ্জস্যপূর্ণ সরঞ্জামের মাধ্যমে পেমেন্ট প্রক্রিয়াকরণ পরিচালনা করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/capsule-crm-automation": {
+    "name": "Capsule CRM Automation",
+    "description": "Capsule CRM অপারেশন স্বয়ংক্রিয় করুন — যোগাযোগ (পক্ষ), কাঠামোগত ফিল্টার কোয়েরি চালান, কাজ এবং প্রকল্প ট্র্যাক করুন, এন্ট্রি লগ করুন এবং সংগঠন পরিচালনা করুন — স্বাভাবিক ভাষা ব্যবহার করে Composio MCP ইন্টিগ্রেশনের মাধ্যমে।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clockify-automation": {
+    "name": "Clockify Automation",
+    "description": "Clockify এ সময় ট্র্যাকিং ওয়ার্কফ্লো স্বয়ংক্রিয় করুন — স্বাভাবিক ভাষার কমান্ডের মাধ্যমে সময় এন্ট্রি, ওয়ার্কস্পেস এবং ব্যবহারকারী তৈরি ও পরিচালনা করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudinary-automation": {
+    "name": "Cloudinary Automation",
+    "description": "Cloudinary মিডিয়া ম্যানেজমেন্ট স্বয়ংক্রিয় করুন, যার মধ্যে ফোল্ডার সংগঠন, আপলোড প্রিসেট, সম্পদ অনুসন্ধান, রূপান্তর এবং ব্যবহার পর্যবেক্ষণ অন্তর্ভুক্ত, স্বাভাবিক ভাষার কমান্ডের মাধ্যমে।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinbase-automation": {
+    "name": "Coinbase Automation",
+    "description": "Coinbase Automation: Coinbase CDP SDK এর মাধ্যমে ক্রিপ্টোকারেন্সি ওয়ালেট, অ্যাকাউন্ট এবং পোর্টফোলিও ডেটা তালিকাভুক্ত ও পরিচালনা করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/contentful-automation": {
+    "name": "Contentful Automation",
+    "description": "Contentful এ হেডলেস CMS অপারেশন স্বয়ংক্রিয় করুন — স্পেস তালিকাভুক্ত করুন, স্পেস মেটাডেটা পান এবং Composio Contentful ইন্টিগ্রেশনের মাধ্যমে স্পেস কনফিগারেশন আপডেট করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ably-automation": {
+    "name": "ably-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ably কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abstract-automation": {
+    "name": "abstract-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে abstract কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abuselpdb-automation": {
+    "name": "abuselpdb-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে abuselpdb কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/abyssale-automation": {
+    "name": "abyssale-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে abyssale কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "TingxiYu/academic-figure-skill:academic-figure-skill": {
+    "name": "academic-figure-skill",
+    "description": "Nature/Cell/Science জার্নালের জন্য একাডেমিক মানের বৈজ্ঞানিক চিত্র তৈরি করুন। যখন ব্যবহারকারী পাণ্ডুলিপি জমা দেওয়ার জন্য বৈজ্ঞানিক চিত্র তৈরি, পরিমার্জন, পর্যালোচনা বা রপ্তানির অনুরোধ করেন, তখন এটি ব্যবহার করুন। নিম্নলিখিত ক্ষেত্রে এটি চালু করবেন না: ইন্টারেক্টিভ ড্যাশবোর্ড (Plotly/Bokeh/Altair), প্রকাশনার উদ্দেশ্য ছাড়া এক্সপ্লোরেটরি ডেটা বিশ্লেষণ, গাণিতিক ফাংশন প্লট, পাই/3D চার্ট, PowerPoint স্লাইড বা Illustrator/Figma-প্রথম নকশা। পরিসংখ্যানগত পরীক্ষা, ডেটা ক্লিনিং, সাহিত্য পর্যালোচনা বা কোড ডিবাগিং সম্পর্কিত অনুরোধ এড়িয়ে যান — এগুলো চিত্র তৈরির কাজ নয়।"
+  },
+  "anthropics/skills:skills/academy-guide": {
+    "name": "academy-guide",
+    "description": "Stop and check this skill before finishing any reply to a question about how to use Claude or a Claude product — it recommends matching courses, tutorials, and use cases from Claude Academy (academy.claude.com), Anthropic's learning hub. Trigger on: \"how do I\", \"how can I\", \"getting started with\", \"what can Claude do\", \"teach me\", \"learn to use\"; questions about artifacts, projects, skills, plugins, connectors, MCP; requests about rolling Claude out to a team, class, or organization; and any ask for training materials, onboarding content, or learning resources. Use it when the user is learning how to use a feature or product — not when they are mid-task and just want the task done. This skill composes with other skills: after consulting product documentation to answer how a Claude feature works, also check here for a matching course or tutorial — a docs-grounded answer and an Academy recommendation belong together. Only recommend on a strong match; never invent Academy content."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/accelo-automation": {
+    "name": "accelo-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Accelo কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/accredible-certificates-automation": {
+    "name": "accredible-certificates-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Accredible Certificates কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/acculynx-automation": {
+    "name": "acculynx-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Acculynx কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/active-campaign-automation": {
+    "name": "active-campaign-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ActiveCampaign কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/addresszen-automation": {
+    "name": "addresszen-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Addresszen কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adobe-automation": {
+    "name": "adobe-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Adobe কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adrapid-automation": {
+    "name": "adrapid-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Adrapid কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/adyntel-automation": {
+    "name": "adyntel-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Adyntel কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aero-workflow-automation": {
+    "name": "aero-workflow-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Aero Workflow কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aeroleads-automation": {
+    "name": "aeroleads-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Aeroleads কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/affinda-automation": {
+    "name": "affinda-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Affinda কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/affinity-automation": {
+    "name": "affinity-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Affinity কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agencyzoom-automation": {
+    "name": "agencyzoom-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Agencyzoom কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agent-mail-automation": {
+    "name": "agent-mail-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Agent Mail কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agentql-automation": {
+    "name": "agentql-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Agentql কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agenty-automation": {
+    "name": "agenty-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Agenty কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agiled-automation": {
+    "name": "agiled-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Agiled কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/agility-cms-automation": {
+    "name": "agility-cms-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Agility CMS কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ai-ml-api-automation": {
+    "name": "ai-ml-api-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে AI ML API কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aivoov-automation": {
+    "name": "aivoov-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Aivoov কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alchemy-automation": {
+    "name": "alchemy-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Alchemy কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/algodocs-automation": {
+    "name": "algodocs-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Algodocs কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/algolia-automation": {
+    "name": "algolia-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Algolia কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "anthropics/skills:skills/algorithmic-art": {
+    "name": "algorithmic-art",
+    "description": "p5.js ব্যবহার করে বীজ ভিত্তিক এলোমেলোতা এবং ইন্টারঅ্যাক্টিভ প্যারামিটার অনুসন্ধানের মাধ্যমে অ্যালগরিদমিক শিল্প তৈরি করা। যখন ব্যবহারকারীরা কোড ব্যবহার করে শিল্প তৈরি, জেনারেটিভ আর্ট, অ্যালগরিদমিক আর্ট, ফ্লো ফিল্ডস বা পার্টিকল সিস্টেম ব্যবহার করে শিল্প তৈরির অনুরোধ করেন, তখন এটি ব্যবহার করুন। কপিরাইট লঙ্ঘন এড়াতে বিদ্যমান শিল্পীদের কাজ নকল না করে মৌলিক অ্যালগরিদমিক শিল্প তৈরি করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/all-images-ai-automation": {
+    "name": "all-images-ai-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে All Images AI কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alpha-vantage-automation": {
+    "name": "alpha-vantage-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Alpha Vantage কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/altoviz-automation": {
+    "name": "altoviz-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Altoviz কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/alttext-ai-automation": {
+    "name": "alttext-ai-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Alttext AI কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amara-automation": {
+    "name": "amara-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Amara কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amazon-automation": {
+    "name": "amazon-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Amazon কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ambee-automation": {
+    "name": "ambee-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Ambee কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ambient-weather-automation": {
+    "name": "ambient-weather-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Ambient Weather কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/amcards-automation": {
+    "name": "amcards-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Amcards কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/analog-found-footage-horror": {
+    "name": "analog-found-footage-horror",
+    "description": "Blender শটগুলোর জন্য অ্যানালগ, VHS, CRT এবং খোঁজা হওয়া ফুটেজের ভয়ংকর নকশা, যাতে ক্যামেরার ত্রুটি এবং ডকুমেন্টারি ফ্রেমিং অন্তর্ভুক্ত থাকে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/analog-found-footage-horror": {
+    "name": "analog-found-footage-horror",
+    "description": "Blender শটগুলোর জন্য অ্যানালগ, VHS, CRT এবং খোঁজা হওয়া ফুটেজের ভয়ংকর নকশা, যাতে ক্যামেরার ত্রুটি এবং ডকুমেন্টারি ফ্রেমিং অন্তর্ভুক্ত থাকে।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anchor-browser-automation": {
+    "name": "anchor-browser-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Anchor Browser কাজগুলো স্বয়ংক্রিয়ভাবে সম্পন্ন করুন। সর্বদা বর্তমান স্কিমাগুলোর জন্য প্রথমে টুলসমূহ অনুসন্ধান করুন।"
+  },
+  "emilkowalski/skills:skills/animate": {
+    "name": "animate",
+    "description": "শূন্য থেকে একটি অ্যানিমেশন তৈরি করুন, সেই ক্রম অনুসারে সিদ্ধান্ত নিন যা নির্ধারণ করে যে এটি ঠিক কিনা — এটি কি অ্যানিমেটেড হওয়া উচিত, কী উদ্দেশ্য, কোন সরঞ্জাম, কোন বৈশিষ্ট্য, কোন কার্ভ এবং সময়কাল, এটি কীভাবে বাধা দেয়, কীভাবে এটি বের হয়। বাস্তবায়ন লিখুন। যখন কোনো কিছুকে অ্যানিমেট করার, গতি যোগ করার, কোনো উপাদানকে জীবন্ত করার বা একটি ট্রানজিশন তৈরি করার অনুরোধ আসে, তখন এটি ব্যবহার করুন। বিদ্যমান গতির সমালোচনা করার জন্য review-animations ব্যবহার করুন; পুরো কোডবেস পর্যালোচনা করার জন্য improve-animations ব্যবহার করুন।"
+  },
+  "emilkowalski/skills:skills/animate-expo": {
+    "name": "animate-expo",
+    "description": "React Native এবং Expo-তে অ্যানিমেশন তৈরি করুন, সেই ক্রম অনুসারে সিদ্ধান্ত নিন যা নির্ধারণ করে যে এগুলো ঠিক কিনা — এটি কি অ্যানিমেটেড হওয়া উচিত, এটি কোন থ্রেডে চলবে, কোন বৈশিষ্ট্য, স্প্রিং বা টাইমিং, কীভাবে জেস্চার হ্যান্ড অফ হয়, কীভাবে এটি অবনতি হয়। Reanimated, Gesture Handler, Expo Router এবং expo-haptics ব্যবহার করে বাস্তবায়ন লিখুন। যখন কোনো Expo অ্যাপে কিছু অ্যানিমেট করার, জেস্চার, শীট, স্ক্রিন ট্রানজিশন, প্রেস ফিডব্যাক বা হ্যাপটিক্স যোগ করার, বা ডিভাইসে গতি থাম্বিং হলে এটি ঠিক করার প্রয়োজন হয়, তখন এটি ব্যবহার করুন। ওয়েব অ্যানিমেশনের জন্য `animate` ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/animation": {
+    "name": "animation",
+    "description": "Blender-এ গেম-রেডি অ্যানিমেশন তৈরি করুন, যাতে walk/run/idle চক্র, যুদ্ধ, যান্ত্রিক অ্যানিমেশন, ক্যামেরা অ্যানিমেশন, বাধ্যবাধকতা, Graph Editor এবং NLA workflows অন্তর্ভুক্ত থাকে, MCP এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/animation": {
+    "name": "animation",
+    "description": "Blender-এ গেম-রেডি অ্যানিমেশন তৈরি করুন, যাতে walk/run/idle চক্র, যুদ্ধ, যান্ত্রিক অ্যানিমেশন, ক্যামেরা অ্যানিমেশন, বাধ্যবাধকতা, Graph Editor এবং NLA workflows অন্তর্ভুক্ত থাকে, MCP এর মাধ্যমে।"
+  },
+  "emilkowalski/skills:skills/animation-performance": {
+    "name": "animation-performance",
+    "description": "ওয়েব অ্যানিমেশনগুলোকে ফ্রেম বাজেটের মধ্যে রাখুন — কম্পোজিট-শুধুমাত্র বৈশিষ্ট্যগুলো অ্যানিমেট করুন, পৃষ্ঠা ব্যস্ত থাকলে মূল থ্রেডে গতি না রাখুন, এবং যখন কোনো অ্যানিমেশন ফ্রেম হারায়, তখন কারণ খুঁজুন। যখন কোনো অ্যানিমেশন জ্যাঙ্কি, চপ্পু, স্টাটার বা ফ্রেম হারায়; কোন বৈশিষ্ট্য অ্যানিমেট করা উচিত তা বেছে নেওয়ার সময়; পারফরম্যান্সের ভিত্তিতে CSS বা JS অ্যানিমেশনের মধ্যে সিদ্ধান্ত নেওয়ার সময়; বা `will-change` বা GPU লেয়ারের দিকে হাত বাড়ানোর সময়। এজিং, সময়কাল বা কি অ্যানিমেট করা উচিত তা বেছে নেওয়ার জন্য animate ব্যবহার করুন; সামগ্রিকভাবে গতি পর্যালোচনা করার জন্য review-animations ব্যবহার করুন।"
+  },
+  "emilkowalski/skills:skills/animation-vocabulary": {
+    "name": "animation-vocabulary",
+    "description": "Reverse-lookup glossary that turns a vague description of a web animation or motion effect into its exact term (\"the bouncy thing when a popover opens\" → Pop in; \"the iOS rubber-band scroll\" → Rubber-banding). Use when the user asks \"what's it called when…\", or describes a motion effect without knowing its name and wants the right word to prompt an AI or designer with. For naming an effect, not designing or building one."
+  },
+  "arjun988/blender-skills:.claude/skills/anime-style": {
+    "name": "anime-style",
+    "description": "Blender-এ জন্য অ্যানিমে এবং সেল-শেডেড আর্ট ডিরেকশন, যেখানে কঠোর রঙের ব্রেক, টুন শেডার্স, পরিষ্কার সিলুয়েট এবং অ্যানিমে প্রপোরশন ভাষা ব্যবহার করা হয়।"
+  },
+  "arjun988/blender-skills:.cursor/skills/anime-style": {
+    "name": "anime-style",
+    "description": "Blender-এ জন্য অ্যানিমে এবং সেল-শেডেড আর্ট ডিরেকশন, যেখানে কঠোর রঙের ব্রেক, টুন শেডার্স, পরিষ্কার সিলুয়েট এবং অ্যানিমে প্রপোরশন ভাষা ব্যবহার করা হয়।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anonyflow-automation": {
+    "name": "anonyflow-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Anonyflow কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anthropic-administrator-automation": {
+    "name": "anthropic-administrator-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Anthropic Admin কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/anthropic_administrator-automation": {
+    "name": "anthropic_administrator-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Anthropic Admin কাজগুলো স্বয়ংক্রিয় করুন: API কী, ব্যবহার, ওয়ার্কস্পেস এবং সংস্থা পরিচালনা। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apaleo-automation": {
+    "name": "apaleo-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Apaleo কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apex27-automation": {
+    "name": "apex27-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Apex27 কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-bible-automation": {
+    "name": "api-bible-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে API Bible কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-labz-automation": {
+    "name": "api-labz-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে API Labz কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-ninjas-automation": {
+    "name": "api-ninjas-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে API Ninjas কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api-sports-automation": {
+    "name": "api-sports-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে API Sports কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/api2pdf-automation": {
+    "name": "api2pdf-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Api2pdf কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apiflash-automation": {
+    "name": "apiflash-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Apiflash কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apilio-automation": {
+    "name": "apilio-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Apilio কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apipie-ai-automation": {
+    "name": "apipie-ai-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Apipie AI কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apitemplate-io-automation": {
+    "name": "apitemplate-io-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Apitemplate IO কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/apiverve-automation": {
+    "name": "apiverve-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Apiverve কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/apocalypse-worlds": {
+    "name": "apocalypse-worlds",
+    "description": "Blender এর জন্য প্রলয়ঙ্করী এবং ডিসটপিয়ান পৃথিবীর শিল্প নির্দেশনা, যার মধ্যে রয়েছে পোস্ট-অ্যাপোক্যালিপটিক, জম্বি, এলিয়েন আক্রমণ, পোস্ট-হিউম্যান, ডিসটপিয়ান এবং ইউটোপিয়ান কনট্রাস্ট সেট।"
+  },
+  "arjun988/blender-skills:.cursor/skills/apocalypse-worlds": {
+    "name": "apocalypse-worlds",
+    "description": "Blender এর জন্য প্রলয়ঙ্করী এবং ডিসটপিয়ান পৃথিবীর শিল্প নির্দেশনা, যার মধ্যে রয়েছে পোস্ট-অ্যাপোক্যালিপটিক, জম্বি, এলিয়েন আক্রমণ, পোস্ট-হিউম্যান, ডিসটপিয়ান এবং ইউটোপিয়ান কনট্রাস্ট সেট।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appcircle-automation": {
+    "name": "appcircle-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Appcircle কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appdrag-automation": {
+    "name": "appdrag-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Appdrag কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "emilkowalski/skills:skills/apple-design": {
+    "name": "apple-design",
+    "description": "Apple-এর ইন্টারফেস ডিজাইন এবং তরল, শারীরিক গতির পদ্ধতি, যা ওয়েবের জন্য রূপান্তরিত হয়েছে। যখন গেসচার-নিয়ন্ত্রিত UI, স্প্রিং অ্যানিমেশন, ড্র্যাগ/সোয়াইপ/শিট ইন্টারঅ্যাকশন, মোমেন্টাম এবং বাধা যোগ্য ট্রানজিশন, স্বচ্ছ উপকরণ এবং গভীরতা, টাইপোগ্রাফি (অপটিক্যাল সাইজিং, ট্র্যাকিং, লিডিং), কম গতি বা Apple-এর স্টাইলের ইন্টারফেসের পেছনের ডিজাইন ভিত্তি (ফিডব্যাক, স্থানিক সামঞ্জস্য, সংযম) তৈরি বা পর্যালোচনা করার সময় এটি ব্যবহার করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appointo-automation": {
+    "name": "appointo-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Appointo কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appsflyer-automation": {
+    "name": "appsflyer-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Appsflyer কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/appveyor-automation": {
+    "name": "appveyor-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Appveyor কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/archviz": {
+    "name": "archviz",
+    "description": "Blender এর জন্য আর্কিটেকচারাল ভিজ্যুয়ালাইজেশন, যা ইন্টেরিয়র/এক্সটেরিয়রের জন্য বাস্তব বিশ্বের স্কেল, ক্যামেরা কম্পোজিশন, PBR উপকরণ এবং MCP এর মাধ্যমে স্টিল/অ্যানিমেশন সরবরাহ করে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/archviz": {
+    "name": "archviz",
+    "description": "Blender এর জন্য আর্কিটেকচারাল ভিজ্যুয়ালাইজেশন, যা ইন্টেরিয়র/এক্সটেরিয়রের জন্য বাস্তব বিশ্বের স্কেল, ক্যামেরা কম্পোজিশন, PBR উপকরণ এবং MCP এর মাধ্যমে স্টিল/অ্যানিমেশন সরবরাহ করে।"
+  },
+  "ComposioHQ/awesome-claude-skills:artifacts-builder": {
+    "name": "artifacts-builder",
+    "description": "আধুনিক ফ্রন্টএন্ড ওয়েব প্রযুক্তি (React, Tailwind CSS, shadcn/ui) ব্যবহার করে জটিল, বহু-উপাদানের claude.ai HTML আর্টিফ্যাক্ট তৈরির জন্য সরঞ্জামের সংগ্রহ। যে সব জটিল আর্টিফ্যাক্টে স্টেট ম্যানেজমেন্ট, রাউটিং বা shadcn/ui কম্পোনেন্টের প্রয়োজন হয়, সেগুলোর জন্য এটি ব্যবহার করুন — সাধারণ এক-ফাইল HTML/JSX আর্টিফ্যাক্টের জন্য নয়।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/aryn-automation": {
+    "name": "aryn-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Aryn কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ascora-automation": {
+    "name": "ascora-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Ascora কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/asin-data-api-automation": {
+    "name": "asin-data-api-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Asin Data API কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "emilkowalski/skills:skills/ask-emil": {
+    "name": "ask-emil",
+    "description": "আপনার পরিস্থিতির সাথে সামঞ্জস্যপূর্ণ দক্ষতা বা ফ্লো কোনটি তা জিজ্ঞাসা করুন। এই রেপোতে থাকা দক্ষতাগুলোর ওপর একটি রাউটার।"
+  },
+  "emilkowalski/skills:skills/ask-sonner": {
+    "name": "ask-sonner",
+    "description": "Sonner-এর গাইড, যা React টোস্ট লাইব্রেরি — Toaster ইনস্টল করুন এবং সংযোগ করুন, সঠিক toast() কল বেছে নিন, প্রমিস এবং লোডিং টোস্ট, আপডেট, ডিসমিস এবং টোস্ট স্থায়ীকরণ, স্টাইলিং, থিমিং এবং আইকন, পজিশনিং এবং একাধিক টোস্ট। যখন আপনি Sonner নিয়ে কাজ করছেন বা এটি নিয়ে সমস্যা সমাধান করছেন — যে টোস্টগুলো দেখা যাচ্ছে না, দুবার দেখা যাচ্ছে, তাদের স্টাইল হারিয়ে গেছে, Tailwind ক্লাস উপেক্ষা করছে, কোনো মডালের পেছনে আটকে আছে বা ডার্ক মোড মানছে না — তখন এটি ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/asset-optimization": {
+    "name": "asset-optimization",
+    "description": "পলিকাউন্ট, টোপোলজি, UV দক্ষতা, উপকরণের সংখ্যা, নামকরণ, কালেকশন এবং গেম-রেডি পারফরম্যান্সের জন্য Blender সম্পদগুলোর যাচাই এবং অপ্টিমাইজেশন করে। সমস্ত প্রোডাকশন সম্পদে MCP এর মাধ্যমে এক্সপোর্টের আগে এটি ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/asset-optimization": {
+    "name": "asset-optimization",
+    "description": "পলিকাউন্ট, টোপোলজি, UV দক্ষতা, উপকরণের সংখ্যা, নামকরণ, কালেকশন এবং গেম-রেডি পারফরম্যান্সের জন্য Blender সম্পদগুলোর যাচাই এবং অপ্টিমাইজেশন করে। সমস্ত প্রোডাকশন সম্পদে MCP এর মাধ্যমে এক্সপোর্টের আগে এটি ব্যবহার করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/astica-ai-automation": {
+    "name": "অ্যাস্টিকা-এআই-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে অ্যাস্টিকা এআই কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/async-interview-automation": {
+    "name": "অ্যাসিঙ্ক-ইন্টারভিউ-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে অ্যাসিঙ্ক ইন্টারভিউ সংক্রান্ত কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/atlassian-automation": {
+    "name": "অ্যাটল্যাসিয়ান-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে অ্যাটল্যাসিয়ান সংক্রান্ত কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/auth0-automation": {
+    "name": "অথো0-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে অথো0 সংক্রান্ত কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/autobound-automation": {
+    "name": "অটোবাউন্ড-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে অটোবাউন্ড সংক্রান্ত কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/autom-automation": {
+    "name": "অটোম-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে অটোম সংক্রান্ত কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/axonaut-automation": {
+    "name": "অ্যাক্সোনাট-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে অ্যাক্সোনাট সংক্রান্ত কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/ayrshare-automation": {
+    "name": "আইরশেয়ার-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে আইরশেয়ার সংক্রান্ত কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/backendless-automation": {
+    "name": "ব্যাকএন্ডলেস-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ব্যাকএন্ডলেস সংক্রান্ত কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bannerbear-automation": {
+    "name": "ব্যানারবিয়ার-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ব্যানারবিয়ার সংক্রান্ত কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-article-illustrator": {
+    "name": "বাওইউ-আর্টিকেল-ইলাস্ট্রেটর",
+    "description": "আর্টিকেলের গঠন বিশ্লেষণ করে, ভিজ্যুয়াল সহায়তার প্রয়োজনীয় স্থানগুলো চিহ্নিত করে এবং Type × Style × Palette ত্রিমাত্রিক পদ্ধতি ব্যবহার করে চিত্র তৈরি করে। যখন ব্যবহারকারী \"আর্টিকেল চিত্রায়ণ করতে\", \"ছবি যোগ করতে\", \"আর্টিকেলের জন্য ছবি তৈরি করতে\", অথবা \"আর্টিকেলের জন্য চিত্র সরবরাহ করতে\" বলে, তখন এই কৌশলটি ব্যবহার করুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-comic": {
+    "name": "বাওইউ-কমিক",
+    "description": "বহু শৈলী এবং স্বরের সমর্থনকারী জ্ঞান কমিক নির্মাতা। বিস্তারিত প্যানেল লেআউট এবং ব্যাচ ক্ষমতাসম্পন্ন চিত্র তৈরির মাধ্যমে মৌলিক শিক্ষামূলক কমিক তৈরি করে। যখন ব্যবহারকারী \"জ্ঞান কমিক\", \"শিক্ষামূলক কমিক\", \"জীবনী কমিক\", \"টিউটোরিয়াল কমিক\", অথবা \"লজিকোমিক্স-স্টাইল কমিক\" তৈরি করতে বলে, তখন এই কৌশলটি ব্যবহার করুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-compress-image": {
+    "name": "বাওইউ-কম্প্রেস-ইমেজ",
+    "description": "স্বয়ংক্রিয় সরঞ্জাম নির্বাচনের মাধ্যমে ইমেজগুলোকে WebP (ডিফল্ট) বা PNG-তে কম্প্রেস করে। যখন ব্যবহারকারী \"ইমেজ কম্প্রেস করতে\", \"ইমেজ অপ্টিমাইজ করতে\", \"ওয়েবপি কনভার্ট করতে\", অথবা ইমেজ ফাইলের আকার কমাতে বলে, তখন এই কৌশলটি ব্যবহার করুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-cover-image": {
+    "name": "বাওইউ-কভার-ইমেজ",
+    "description": "5টি মাত্রা (ধরন, প্যালেট, রেন্ডারিং, টেক্সট, মুড) ব্যবহার করে আর্টিকেলের কভার ইমেজ তৈরি করে, যা 11টি রঙের প্যালেট এবং 7টি রেন্ডারিং স্টাইলকে একত্রিত করে। সিনেমাটিক (2.35:1), ওয়াইডস্ক্রিন (16:9) এবং বর্গাকার (1:1) অনুপাত সমর্থন করে। যখন ব্যবহারকারী \"কভার ইমেজ তৈরি করতে\", \"আর্টিকেলের কভার তৈরি করতে\", অথবা \"কভার তৈরি করতে\" বলে, তখন এই কৌশলটি ব্যবহার করুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-danger-gemini-web": {
+    "name": "বাওইউ-ডেঞ্জার-জেমিনি-ওয়েব",
+    "description": "বিপরীত নকশাকৃত জেমিনি ওয়েব API এর মাধ্যমে চিত্র এবং টেক্সট তৈরি করে। টেক্সট জেনারেশন, প্রম্পট থেকে ইমেজ তৈরি, ভিশন ইনপুটের জন্য রেফারেন্স ইমেজ এবং মাল্টি-টার্ন কথোপকথন সমর্থন করে। যখন অন্যান্য কৌশলগুলোর জন্য ইমেজ জেনারেশন ব্যাকএন্ডের প্রয়োজন হয়, অথবা যখন ব্যবহারকারী \"জেমিনি দিয়ে ইমেজ তৈরি করতে\", \"জেমিনি টেক্সট জেনারেশন\" চায়, অথবা ভিশন-ক্ষমতাসম্পন্ন AI জেনারেশনের প্রয়োজন হয়, তখন এই কৌশলটি ব্যবহার করুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-danger-x-to-markdown": {
+    "name": "বাওইউ-ডেঞ্জার-এক্স-টু-মার্কডাউন",
+    "description": "X (টুইটার) টুইট এবং আর্টিকেলগুলোকে YAML ফ্রন্ট ম্যাটার সহ মার্কডাউনে রূপান্তর করে। ব্যবহারকারীর সম্মতি প্রয়োজন এমন বিপরীত নকশাকৃত API ব্যবহার করে। যখন ব্যবহারকারী \"এক্স থেকে মার্কডাউনে রূপান্তর করতে\", \"টুইট থেকে মার্কডাউনে রূপান্তর করতে\", \"টুইট সংরক্ষণ করতে\", অথবা রূপান্তরের জন্য x.com/twitter.com URL সরবরাহ করে, তখন এই কৌশলটি ব্যবহার করুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-diagram": {
+    "name": "বাওইউ-ডায়াগ্রাম",
+    "description": "CSS কাস্টম প্রপার্টির মাধ্যমে কনফিগারেবল ডার্ক/লাইট থিম সহ পেশাদার ডায়াগ্রাম তৈরি করে। যখনই ব্যবহারকারী কোনো ধরনের প্রযুক্তিগত বা ধারণাগত ডায়াগ্রাম, কোনো সিস্টেমের ভিজ্যুয়ালাইজেশন, প্রক্রিয়া প্রবাহ, ডেটা প্রবাহ, উপাদানের সম্পর্ক, নেটওয়ার্ক টোপোলজি, ডিসিশন ট্রি, অর্গ চার্ট, স্টেট মেশিন বা কাঠামো/যুক্তি/প্রক্রিয়ার যেকোনো ভিজ্যুয়াল রিপ্রেজেন্টেশন চায়, তখন এই কৌশলটি ব্যবহার করুন। এছাড়াও, যখন ব্যবহারকারী \"একটি চিত্র আঁকতে\", \"একটি আর্কিটেকচার চিত্র আঁকতে\", \"ডায়াগ্রাম আঁকতে\", \"ফ্লোচার্ট আঁকতে\", \"সিকোয়েন্স ডায়াগ্রাম আঁকতে\", \"আমাকে একটি ... আঁকতে\" বলে, অথবা কনটেন্ট আপলোড করে তা ভিজ্যুয়ালাইজ করতে বলে, তখন এই কৌশলটি ট্রিগার করুন। প্রতিটির জন্য একটি ডার্ক-থিম SVG, একটি লাইট-থিম SVG এবং একটি @2x PNG আউটপুট দেয়।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-electron-extract": {
+    "name": "বাওইউ-ইলেক্ট্রন-এক্সট্র্যাক্ট",
+    "description": "Extracts resources and JavaScript from any installed Electron app (`.asar` bundle), restoring original sources from `.js.map` files when available or formatting minified code with Prettier otherwise. Use when user wants to \"extract Electron app\", \"decompile Electron\", \"get the source code of <app>\", \"inspect app.asar\", \"看 Electron 应用源码\", \"提取 .asar\", or asks how a desktop Electron app is built. Skips `node_modules` and supports both macOS and Windows."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-format-markdown": {
+    "name": "বাওইউ-ফরম্যাট-মার্কডাউন",
+    "description": "ফ্রন্টম্যাটার, শিরোনাম, সারসংক্ষেপ, হেডিং, বোল্ড, তালিকা এবং কোড ব্লক সহ সাধারণ টেক্সট বা মার্কডাউন ফাইলগুলো ফরম্যাট করে। যখন ব্যবহারকারী \"মার্কডাউন ফরম্যাট করতে\", \"আর্টিকেল সৌন্দর্যবর্ধন করতে\", \"ফরম্যাটিং যোগ করতে\", অথবা আর্টিকেলের লেআউট উন্নত করতে বলে, তখন এই কৌশলটি ব্যবহার করুন। {filename}-ফরম্যাটেড.md আউটপুট দেয়।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-image-gen": {
+    "name": "বাওইউ-ইমেজ-জেন",
+    "description": "AI image generation with OpenAI GPT Image 2.5, Azure OpenAI, Google, OpenRouter, DashScope, Z.AI GLM-Image, MiniMax, Jimeng, Seedream, Replicate and Agnes APIs. Supports text-to-image, reference images, aspect ratios, and batch generation from saved prompt files. Sequential by default; use batch parallel generation when the user already has multiple prompts or wants stable multi-image throughput. Use when user asks to generate, create, or draw images."
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-infographic": {
+    "name": "বাওইউ-ইনফোগ্রাফিক",
+    "description": "21টি লেআউট টাইপ এবং 22টি ভিজ্যুয়াল স্টাইল সহ পেশাদার ইনফোগ্রাফিক তৈরি করে। কনটেন্ট বিশ্লেষণ করে, লেআউট×স্টাইল কম্বিনেশন সুপারিশ করে এবং পাবলিকেশন-রেডি ইনফোগ্রাফিক তৈরি করে। যখন ব্যবহারকারী \"ইনফোগ্রাফিক তৈরি করতে\", \"ইনফোরমেশন গ্রাফিক্স\", \"ভিজ্যুয়াল সারসংক্ষেপ\", \"ভিজ্যুয়ালাইজেশন\", অথবা \"উচ্চ ঘনত্বের তথ্যের বড় চিত্র\" তৈরি করতে বলে, তখন এই কৌশলটি ব্যবহার করুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-markdown-to-html": {
+    "name": "বাওইউ-মার্কডাউন-টু-এইচটিএমএল",
+    "description": "WeChat-সামঞ্জস্যপূর্ণ থিম সহ মার্কডাউনকে স্টাইলড এইচটিএমএলে রূপান্তর করে। কোড হাইলাইটিং, গণিত, Mermaid (হেডলেস ক্রোমের মাধ্যমে PNG রেন্ডার করা), PlantUML, ফুটনোট, অ্যালার্ট, ইনফোগ্রাফিক্স এবং বাইরের লিঙ্কের জন্য ঐচ্ছিক নীচের উদ্ধৃতি সমর্থন করে। যখন ব্যবহারকারী \"মার্কডাউন থেকে এইচটিএমএলে রূপান্তর করতে\", \"md থেকে এইচটিএমএলে রূপান্তর করতে\", \"md থেকে এইচটিএমএলে রূপান্তর করতে\", \"WeChat বাইরের লিঙ্ক থেকে নীচের উদ্ধৃতি করতে\", অথবা মার্কডাউন থেকে স্টাইলড এইচটিএমএল আউটপুট চায়, তখন এই কৌশলটি ব্যবহার করুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-podcast-summary": {
+    "name": "বাওইউ-পডকাস্ট-সারসংক্ষেপ",
+    "description": "পডকাস্ট, ইন্টারভিউ, প্যানেল এবং অন্যান্য কথোপকথনের ট্রান্সক্রিপ্টগুলোকে ব্যবহারকারীর পছন্দের ভাষায় লেখা একটি উদ্দেশ্যমূলক, পাঠক-প্রথম সারসংক্ষেপে রূপান্তর করে। রাখার মতো কয়েকটি প্রধান বিষয় নিয়ে শুরু করে, স্পিকারদের স্পষ্ট অ্যাট্রিবিউশন সহ তাদের বিশ্বস্তভাবে পুনরায় বলে, এবং নিজের কোনো মতামত যোগ করে না। একটি পেস্ট করা ট্রান্সক্রিপ্ট, একটি ট্রান্সক্রিপ্ট ফাইল বা একটি YouTube URL (বাওইউ-ইউটিউব-ট্রান্সক্রিপ্টের মাধ্যমে প্রাপ্ত ট্রান্সক্রিপ্ট) গ্রহণ করে, প্রসঙ্গ থেকে অনামক স্পিকারদের অনুমান করে এবং নাম যাচাই করতে এবং পটভূমি সরবরাহ করতে ওয়েব সার্চ ব্যবহার করে। যখন ব্যবহারকারী একটি ট্রান্সক্রিপ্ট বা একটি পডকাস্ট/ইন্টারভিউ লিঙ্ক সরবরাহ করে এবং \"এই পডকাস্টের সারসংক্ষেপ করতে\", \"পডকাস্ট সারসংক্ষেপ\", \"ইন্টারভিউ সারসংক্ষেপ\", \"মূল বিষয়গুলো\", \"পডকাস্টের সারসংক্ষেপ\", \"পডকাস্টের সারসংক্ষেপ\", \"ইন্টারভিউ সারসংক্ষেপ\", \"এই পর্বের পডকাস্টের সারসংক্ষেপ\", \"এই ইন্টারভিউয়ের সারসংক্ষেপ\", অথবা একটি YouTube ইন্টারভিউ শেয়ার করে এবং কাঁচা ট্রান্সক্রিপ্টের পরিবর্তে লিখিত সারসংক্ষেপ চায়, তখন এই কৌশলটি ব্যবহার করুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-wechat": {
+    "name": "বাওইউ-পোস্ট-টু-ওয়েচ্যাট",
+    "description": "API বা Chrome CDP এর মাধ্যমে WeChat Official Account (微信公众号) এ কনটেন্ট পোস্ট করে। HTML, মার্কডাউন বা সাধারণ টেক্সট ইনপুট সহ আর্টিকেল পোস্টিং (文章) এবং একাধিক ইমেজ সহ ইমেজ-টেক্সট পোস্টিং (贴图, formerly 图文) সমর্থন করে। মার্কডাউন আর্টিকেল ওয়ার্কফ্লো ডিফল্ট হিসেবে সাধারণ বাইরের লিঙ্কগুলোকে WeChat-বান্ধব আউটপুটের জন্য নীচের উদ্ধৃতিতে রূপান্তর করে। যখন ব্যবহারকারী \"পাবলিক অ্যাকাউন্টে পোস্ট করতে\", \"ওয়েচ্যাটে পোস্ট করতে\", \"ওয়েচ্যাট পাবলিক অ্যাকাউন্ট\", অথবা \"পোস্ট টু-ওয়েচ্যাট\" বলে, তখন এই কৌশলটি ব্যবহার করুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-weibo": {
+    "name": "বাওইউ-পোস্ট-টু-ওয়েইবো",
+    "description": "Weibo (微博) এ কনটেন্ট পোস্ট করে। টেক্সট, ইমেজ এবং ভিডিও সহ নিয়মিত পোস্ট এবং Chrome CDP এর মাধ্যমে মার্কডাউন ইনপুট সহ হেডলাইন আর্টিকেল (头条文章) সমর্থন করে। যখন ব্যবহারকারী \"ওয়েইবোতে পোস্ট করতে\", \"ওয়েইবো পোস্ট করতে\", \"ওয়েইবো প্রকাশ করতে\", \"ওয়েইবোতে প্রকাশ করতে\", \"ওয়েইবোতে শেয়ার করতে\", \"ওয়েইবো লিখতে\", অথবা \"ওয়েইবো হেডলাইন আর্টিকেল\" বলে, তখন এই কৌশলটি ব্যবহার করুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-post-to-x": {
+    "name": "বাওইউ-পোস্ট-টু-এক্স",
+    "description": "কনটেন্ট এবং আর্টিকেল X (Twitter) এ পোস্ট করে। ইমেজ/ভিডিও সহ নিয়মিত পোস্ট এবং X Articles (লং-ফর্ম মার্কডাউন) সমর্থন করে। Codex এর মধ্যে, বিশেষ অনুরোধের জন্য Codex Chrome plugin/@chrome ব্যবহার করে ক্রোম এক্সটেনশন ওয়ার্কফ্লো মেনে চলুন; অন্যথায় যখন উপলব্ধ হয় তখন ক্রোম কম্পিউটার ব্যবহার করুন এবং কেবল অনুমোদিত হলেই আসল Chrome CDP স্ক্রিপ্টে ফিরে যান। যখন ব্যবহারকারী \"X এ পোস্ট করতে\", \"টুইট করতে\", \"টুইটারে প্রকাশ করতে\", অথবা \"X শেয়ার করতে\" বলে, তখন এই কৌশলটি ব্যবহার করুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-slide-deck": {
+    "name": "বাওইউ-স্লাইড-ডেক",
+    "description": "কনটেন্ট থেকে পেশাদার স্লাইড ডেক ইমেজ তৈরি করে। স্টাইল নির্দেশনা সহ আউটলাইন তৈরি করে, তারপর প্রতিটি স্লাইড ইমেজ তৈরি করে। যখন ব্যবহারকারী \"স্লাইড তৈরি করতে\", \"প্রেজেন্টেশন তৈরি করতে\", \"ডেক তৈরি করতে\", \"স্লাইড ডেক\", অথবা \"PPT\" বলে, তখন এই কৌশলটি ব্যবহার করুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-translate": {
+    "name": "বাওইউ-ট্রান্সলেট",
+    "description": "এই কৌশলটি ব্যবহার করা উচিত যখন ব্যবহারকারী \"ট্রান্সলেট করতে\", \"অনুবাদ করতে\", \"উৎকৃষ্ট অনুবাদ করতে\", \"আর্টিকেল ট্রান্সলেট করতে\", \"চীনা ভাষায় ট্রান্সলেট করতে\", \"ইংরেজি ভাষায় ট্রান্সলেট করতে\", \"চীনা ভাষায় পরিবর্তন করতে\", \"ইংরেজি ভাষায় পরিবর্তন করতে\", \"চীনা ভাষায় রূপান্তর করতে\", \"স্থানীয়করণ করতে\", \"স্থানীয়করণ করতে\", \"উৎকৃষ্ট অনুবাদ\", \"সূক্ষ্ম অনুবাদ\", \"অনুবাদ প্রুফরিড\", \"দ্রুত অনুবাদ\", \"দ্রুত অনুবাদ\", \"এই আর্টিকেলটি অনুবাদ করতে\", অথবা ট্রান্সলেট করার ইচ্ছা সহ একটি URL/ফাইল সরবরাহ করে, তখন এই কৌশলটি ব্যবহার করুন। কাস্টম গ্লোসারি সমর্থন সহ তিনটি মোড (দ্রুত/সাধারণ/উৎকৃষ্ট) সমর্থন করে।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-url-to-markdown": {
+    "name": "বাওইউ-ইউআরএল-টু-মার্কডাউন",
+    "description": "যেকোনো URL ফেচ করে এবং baoyu-fetch CLI (সাইট-স্পেসিফিক অ্যাডাপ্টার সহ Chrome CDP) ব্যবহার করে মার্কডাউনে রূপান্তর করে। X/Twitter, YouTube ট্রান্সক্রিপ্ট, Hacker News থ্রেড এবং Defuddle এর মাধ্যমে জেনেরিক পেজের জন্য বিল্ট-ইন অ্যাডাপ্টার রয়েছে। লগইন/CAPTCHA হ্যান্ডেল করে ইন্টারঅ্যাকশন ওয়েট মোডের মাধ্যমে। যখন ব্যবহারকারী একটি ওয়েবপেজকে মার্কডাউন হিসেবে সংরক্ষণ করতে চায়, তখন এই কৌশলটি ব্যবহার করুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-wechat-summary": {
+    "name": "বাওইউ-ওয়েচ্যাট-সারসংক্ষেপ",
+    "description": "স্থানীয় wx-cli বাইনারি (https://github.com/jackwener/wx-cli) ব্যবহার করে WeChat গ্রুপ চ্যাটের হাইলাইটস একটি সংগঠিত ডাইজেস্টে রূপান্তর করে। ডিফল্ট হিসেবে একটি সাধারণ ডাইজেস্ট তৈরি করে; একটি রোস্ট (毒舌) ভার্সন ঐচ্ছিক। রানের পরেও প্রতি-গ্রুপ ইতিহাস (history.json + history-digests.jsonl), প্রতি-ব্যবহারকারী প্রোফাইল এবং প্রতি-গ্রুপ ফ্যাক্ট মেমরি (memory.md) বজায় রাখে, যার মধ্যে গোপনীয়তা রক্ষার গার্ডরেইলস বেকড ইন রয়েছে। যখন ব্যবহারকারী \"গ্রুপ চ্যাটের সারসংক্ষেপ করতে\", \"গ্রুপ চ্যাটের সারমর্ম\", \"গ্রুপ চ্যাটের সারসংক্ষেপ\", \"গ্রুপ চ্যাটের সারসংক্ষেপ\", \"গ্রুপ চ্যাটের ডাইজেস্ট\", একটি WeChat গ্রুপের নাম এবং একটি সময়সীমা উল্লেখ করে, বলে \"আমাকে দেখতে দিন XX গ্রুপে সাম্প্রতিক সময়ে কী কথা হয়েছে\", \"XX গ্রুপে কী দেখার মতো আছে\", অথবা \"পুরান ছবি ফিরিয়ে দেখতে\" / \"প্রাথমিক ছবি তৈরি করতে\" / \"প্রোফাইল ফিল ব্যাক করতে\" বলে, তখন এই কৌশলটি ব্যবহার করুন। যখন ব্যবহারকারী \" বলে ডুশেল ভার্সন\", \"রোস্ট ভার্সন\", \"আবার একটি ডুশেল চায়\", অথবা এরকম কিছু বলে, তখন রোস্ট ভার্সন যোগ করুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-xhs-images": {
+    "name": "baoyu-xhs-images",
+    "description": "12টি ভিজ্যুয়াল স্টাইল, 8টি লেআউট এবং 3টি কালার প্যালেট সহ ইনফোগ্রাফিক ইমেজ কার্ড সিরিজ তৈরি করে। সোশ্যাল মিডিয়া এনগেজমেন্টের জন্য অপ্টিমাইজ করা 1-10টি কার্টুন-স্টাইলের ইমেজ কার্ডে কন্টেন্টকে ভাগ করে। যখন ব্যবহারকারী \"小红书图片\", \"小红书种草\", \"小绿书\", \"微信图文\", \"微信贴图\", \"image cards\", \"图片卡片\", baoyu-xhs-images উল্লেখ করেন অথবা সোশ্যাল মিডিয়া ইনফোগ্রাফিক সিরিজ চান, তখন এটি ব্যবহার করুন।"
+  },
+  "JimLiu/baoyu-skills:skills/baoyu-youtube-transcript": {
+    "name": "baoyu-youtube-transcript",
+    "description": "URL বা ভিডিও ID দ্বারা YouTube ভিডিওর ট্রান্সক্রিপ্ট/সাবটাইটেল এবং কভার ইমেজ ডাউনলোড করে। এটি বহু ভাষা, অনুবাদ, চ্যাপ্টার এবং স্পিকার আইডেন্টিফিকেশন সমর্থন করে। দ্রুত রিফর্ম্যাটিংয়ের জন্য র raw ডেটা ক্যাশ করে। যখন ব্যবহারকারী \"get YouTube transcript\", \"download subtitles\", \"get captions\", \"YouTube字幕\", \"YouTube封面\", \"video cover\", \"video thumbnail\", \"video cover image\" চান অথবা একটি YouTube URL দেন এবং ট্রান্সক্রিপ্ট/সাবটাইটেল টেক্সট বা কভার ইমেজ বের করতে চান, তখন এটি ব্যবহার করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bart-automation": {
+    "name": "bart-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Bart টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/baselinker-automation": {
+    "name": "baselinker-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Baselinker টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/baserow-automation": {
+    "name": "baserow-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Baserow টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/basin-automation": {
+    "name": "basin-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Basin টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/battlenet-automation": {
+    "name": "battlenet-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Battlenet টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beaconchain-automation": {
+    "name": "beaconchain-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Beaconchain টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beaconstac-automation": {
+    "name": "beaconstac-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Beaconstac টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beamer-automation": {
+    "name": "beamer-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Beamer টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/beeminder-automation": {
+    "name": "beeminder-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Beeminder টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bench-automation": {
+    "name": "bench-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Bench টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/benchmark-email-automation": {
+    "name": "benchmark-email-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Benchmark Email টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/benzinga-automation": {
+    "name": "benzinga-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Benzinga টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bestbuy-automation": {
+    "name": "bestbuy-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Bestbuy টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/better-proposals-automation": {
+    "name": "better-proposals-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Better Proposals টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/better-stack-automation": {
+    "name": "better-stack-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Better Stack টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bidsketch-automation": {
+    "name": "bidsketch-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Bidsketch টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/big-data-cloud-automation": {
+    "name": "big-data-cloud-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Big Data Cloud টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigmailer-automation": {
+    "name": "bigmailer-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Bigmailer টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigml-automation": {
+    "name": "bigml-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Bigml টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bigpicture-io-automation": {
+    "name": "bigpicture-io-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Bigpicture IO টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/biome-worlds": {
+    "name": "biome-worlds",
+    "description": "Biome এবং সেটিং আর্ট ডিরেকশন জন্য Blender ব্যবহার করুন, যা পানির নিচে, মরুভূমি, আর্কটিক, জঙ্গল, ভূগর্ভস্থ এবং ভাসমান দ্বীপের পরিবেশ কভার করে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/biome-worlds": {
+    "name": "biome-worlds",
+    "description": "Biome এবং সেটিং আর্ট ডিরেকশন জন্য Blender ব্যবহার করুন, যা পানির নিচে, মরুভূমি, আর্কটিক, জঙ্গল, ভূগর্ভস্থ এবং ভাসমান দ্বীপের পরিবেশ কভার করে।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bitquery-automation": {
+    "name": "bitquery-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Bitquery টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bitwarden-automation": {
+    "name": "bitwarden-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Bitwarden টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blackbaud-automation": {
+    "name": "blackbaud-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Blackbaud টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blackboard-automation": {
+    "name": "blackboard-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Blackboard টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/blender-director": {
+    "name": "blender-director",
+    "description": "যখনই কোনো Blender অ্যাসেট টাস্ক শুরু করছেন, প্রোডাকশন পাইপলাইন প্ল্যান করছেন, একাধিক ডিসিপ্লিন সমন্বয় করছেন অথবা রেফারেন্স ফটো/কনসেপ্ট আর্ট মিলিয়ে দেখছেন, তখন এটি ব্যবহার করুন। গেম-রেডি অ্যাসেট, হার্ড সারফেস, এনভায়রনমেন্ট, ক্যারেক্টার, ক্রিয়েচার, এক্সপোর্ট বা যেকোনো মাল্টি-স্কিল Blender ওয়ার্কফ্লোর জন্য এটি আহ্বান করুন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/blender-director": {
+    "name": "blender-director",
+    "description": "যখনই কোনো Blender অ্যাসেট টাস্ক শুরু করছেন, প্রোডাকশন পাইপলাইন প্ল্যান করছেন, একাধিক ডিসিপ্লিন সমন্বয় করছেন অথবা রেফারেন্স ফটো/কনসেপ্ট আর্ট মিলিয়ে দেখছেন, তখন এটি ব্যবহার করুন। গেম-রেডি অ্যাসেট, হার্ড সারফেস, এনভায়রনমেন্ট, ক্যারেক্টার, ক্রিয়েচার, এক্সপোর্ট বা যেকোনো মাল্টি-স্কিল Blender ওয়ার্কফ্লোর জন্য এটি আহ্বান করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/blender-modeler": {
+    "name": "blender-modeler",
+    "description": "Core Blender মডেলিং স্পেশালিস্ট এডিট মোড, মডিফায়ার, কালেকশন, প্রিসিশন মডেলিং এবং দৃশ্য সংগঠনের জন্য। সাধারণ 3D মডেলিং, ব্লকআউট, ক্লিনআপ, নন-ডেস্ট্রাক্টিভ ওয়ার্কফ্লো এবং Blender এর মধ্যে দৃশ্য কাঠামোর জন্য এটি ব্যবহার করুন, MCP এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/blender-modeler": {
+    "name": "blender-modeler",
+    "description": "Core Blender মডেলিং স্পেশালিস্ট এডিট মোড, মডিফায়ার, কালেকশন, প্রিসিশন মডেলিং এবং দৃশ্য সংগঠনের জন্য। সাধারণ 3D মডেলিং, ব্লকআউট, ক্লিনআপ, নন-ডেস্ট্রাক্টিভ ওয়ার্কফ্লো এবং Blender এর মধ্যে দৃশ্য কাঠামোর জন্য এটি ব্যবহার করুন, MCP এর মাধ্যমে।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/blocknative-automation": {
+    "name": "blocknative-automation",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Blocknative টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস সার্চ করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/body-horror-style": {
+    "name": "শরীর-ভয়ের ধাঁচ",
+    "description": "Blender-এর জন্য বডি হরর আর্ট নির্দেশনা, যেখানে মাংসের অস্বাভাবিকতা, পরিবর্তন, একীভূতকরণ এবং অন্তর্নিহিত উপাদানের গল্প বলার ওপর জোর দেওয়া হয়েছে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/body-horror-style": {
+    "name": "শরীর-ভয়ের ধাঁচ",
+    "description": "Blender-এর জন্য বডি হরর আর্ট নির্দেশনা, যেখানে মাংসের অস্বাভাবিকতা, পরিবর্তন, একীভূতকরণ এবং অন্তর্নিহিত উপাদানের গল্প বলার ওপর জোর দেওয়া হয়েছে।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boldsign-automation": {
+    "name": "বোল্ডসাইন-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে বোল্ডসাইন কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bolna-automation": {
+    "name": "বোলনা-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে বোলনা কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boloforms-automation": {
+    "name": "বোলোফর্মস-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে বোলোফর্মস কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bolt-iot-automation": {
+    "name": "বোল্ট-আইওটি-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে বোল্ট আইওটি কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bonsai-automation": {
+    "name": "বনসাই-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে বনসাই কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "virgiliojr94/book-to-skill:book-to-skill": {
+    "name": "বুক-টু-স্কিল",
+    "description": "স্থানীয় ফাইল (PDF, EPUB, DOCX, HTML, Markdown, TXT, RTF, MOBI/AZW) বা দূরবর্তী MCP বই অনুসন্ধান (`/book-to-skill search <query>`) থেকে বই এবং নথিপত্রকে সংরচিত এজেন্ট দক্ষতায় রূপান্তর করে, কাঠামো, মানসিক মডেল, নীতি, কৌশল এবং বিরোধী প্যাটার্ন বের করে। কোনো নথি অধ্যয়ন করতে বা লেখকের কাঠামো প্রয়োগ করতে GitHub Copilot CLI, Amp, Claude Code, Hermes Agent, OpenCode বা OpenClaw ব্যবহার করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bookingmood-automation": {
+    "name": "বুকিংমুড-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে বুকিংমুড কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/booqable-automation": {
+    "name": "বুকেবল-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে বুকেবল কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/borneo-automation": {
+    "name": "বোর্নিও-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে বোর্নিও কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botbaba-automation": {
+    "name": "বটবাবা-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে বটবাবা কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botpress-automation": {
+    "name": "বটপ্রেস-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে বটপ্রেস কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botsonic-automation": {
+    "name": "বটসোনিক-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে বটসোনিক কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/botstar-automation": {
+    "name": "বটস্টার-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে বটস্টার কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bouncer-automation": {
+    "name": "বাউন্সার-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে বাউন্সার কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/boxhero-automation": {
+    "name": "বক্সহিরো-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে বক্সহিরো কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "anthropics/skills:skills/brand-guidelines": {
+    "name": "ব্র্যান্ড-গাইডলাইনস",
+    "description": "যেকোনো ধরনের আর্টিফ্যাক্টে অ্যান্থ্রোপিকের আনুষ্ঠানিক ব্র্যান্ড রঙ এবং টাইপোগ্রাফি প্রয়োগ করে, যা অ্যান্থ্রোপিকের চেহারা এবং অনুভূতি পাওয়ার সুবিধা পেতে পারে। যখন ব্র্যান্ড রঙ বা স্টাইল গাইডলাইন, ভিজ্যুয়াল ফরম্যাটিং বা কোম্পানির ডিজাইন স্ট্যান্ডার্ড প্রযোজ্য হয়, তখন এটি ব্যবহার করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:brand-guidelines": {
+    "name": "ব্র্যান্ড-গাইডলাইনস",
+    "description": "যেকোনো ধরনের আর্টিফ্যাক্টে অ্যান্থ্রোপিকের আনুষ্ঠানিক ব্র্যান্ড রঙ এবং টাইপোগ্রাফি প্রয়োগ করে, যা অ্যান্থ্রোপিকের চেহারা এবং অনুভূতি পাওয়ার সুবিধা পেতে পারে। যখন ব্র্যান্ড রঙ বা স্টাইল গাইডলাইন, ভিজ্যুয়াল ফরম্যাটিং বা কোম্পানির ডিজাইন স্ট্যান্ডার্ড প্রযোজ্য হয়, তখন এটি ব্যবহার করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brandfetch-automation": {
+    "name": "ব্র্যান্ডফেচ-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ব্র্যান্ডফেচ কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "emilkowalski/skills:skills/break-ui": {
+    "name": "ব্রেক-ইউআই",
+    "description": "ইউআই-এর সবচেয়ে খারাপ পরিস্থিতির ডেটা প্রবেশ করিয়ে একটি ইউআই অংশকে ভাঙার চেষ্টা করুন — দীর্ঘ নাম, অভেদ্য ইমেল, এক অক্ষরের নাম, অনুপস্থিত ক্ষেত্র, বিশাল সংখ্যা, শূন্য আইটেম, দীর্ঘ লেবেল, অ-ল্যাটিন পাঠ্য, ইমোজি, চরম সংখ্যা — তারপর এটিকে \"Demo data / Worst case\" টগলের পেছনে রেন্ডার করুন এবং যে কোনো কিছু ভেঙে যাওয়ার কথা জানান, সেই সাথে প্রতিটির জন্য সমাধানও দিন। যখন ব্যবহারকারী কোনো কম্পোনেন্ট বা স্ক্রিনে স্ট্রেস টেস্ট, ভাঙা বা প্রান্তিক ক্ষেত্র খুঁজতে বা \"try the worst case\" করতে বলে, তখন এটি ব্যবহার করুন। ভিজ্যুয়াল ডিজাইন সমালোচনার জন্য emil-design-eng ব্যবহার করুন; মোশনের জন্য review-animations ব্যবহার করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/breeze-automation": {
+    "name": "ব্রিজ-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ব্রিজ কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/breezy-hr-automation": {
+    "name": "ব্রিজি-এইচআর-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ব্রিজি এইচআর কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brex-automation": {
+    "name": "ব্রেক্স-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ব্রেক্স কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brex-staging-automation": {
+    "name": "ব্রেক্স-স্টেজিং-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ব্রেক্স স্টেজিং কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brightdata-automation": {
+    "name": "ব্রাইটডেটা-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ব্রাইটডেটা কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brightpearl-automation": {
+    "name": "ব্রাইটপার্ল-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ব্রাইটপার্ল কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/brilliant-directories-automation": {
+    "name": "ব্রিলিয়ান্ট-ডিরেক্টরিজ-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ব্রিলিয়ান্ট ডিরেক্টরিজ কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browseai-automation": {
+    "name": "ব্রাউজএআই-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ব্রাউজএআই কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "cexll/myclaude:skills/browser": {
+    "name": "ব্রাউজার",
+    "description": "এই দক্ষতাটি ক্রোম ডেভটুলস প্রোটোকল (CDP) ব্যবহার করে ব্রাউজার অটোমেশন কাজের জন্য ব্যবহার করা উচিত। যখন ব্যবহারকারীদের রিমোট ডিবাগিং সহ ক্রোম চালু করতে, পৃষ্ঠাগুলো নেভিগেট করতে, ব্রাউজার কনটেক্সটে JavaScript নির্বাহ করতে, স্ক্রিনশট তুলতে বা ইন্টারেক্টিভভাবে DOM উপাদান নির্বাচন করতে হয়, তখন এটি ট্রিগার হয়। MCP সার্ভারের প্রয়োজন নেই।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browser-tool-automation": {
+    "name": "ব্রাউজার-টুল-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ব্রাউজার টুল কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserbase-tool-automation": {
+    "name": "ব্রাউজারবেস-টুল-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ব্রাউজারবেস টুল কাজগুলো স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলো খুঁজুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserhub-automation": {
+    "name": "ব্রাউজারহাব-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ব্রাউজারহাব কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/browserless-automation": {
+    "name": "ব্রাউজারবিহীন-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে ব্রাউজারবিহীন কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/brutalist-mood": {
+    "name": "ব্রুটালিস্ট-মুড",
+    "description": "Blender স্থাপত্য এবং দৃশ্যের জন্য ব্রুটালিস্ট ও কংক্রিট-স্মারক মুড নির্দেশনা, যেখানে কাঁচা কংক্রিট, স্মারকমাত্রার আকার এবং খাড়া রচনা ব্যবহার করা হয়।"
+  },
+  "arjun988/blender-skills:.cursor/skills/brutalist-mood": {
+    "name": "ব্রুটালিস্ট-মুড",
+    "description": "Blender স্থাপত্য এবং দৃশ্যের জন্য ব্রুটালিস্ট ও কংক্রিট-স্মারক মুড নির্দেশনা, যেখানে কাঁচা কংক্রিট, স্মারকমাত্রার আকার এবং খাড়া রচনা ব্যবহার করা হয়।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/btcpay-server-automation": {
+    "name": "btcpay-server-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Btcpay Server এর কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bubble-automation": {
+    "name": "বাবল-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে বাবল কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugbug-automation": {
+    "name": "bugbug-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে বাগবাগ কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugherd-automation": {
+    "name": "bugherd-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Bugherd কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bugsnag-automation": {
+    "name": "bugsnag-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Bugsnag কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/buildkite-automation": {
+    "name": "buildkite-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Buildkite কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/builtwith-automation": {
+    "name": "builtwith-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Builtwith কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/bunnycdn-automation": {
+    "name": "bunnycdn-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Bunnycdn কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/byteforms-automation": {
+    "name": "byteforms-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Byteforms কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cabinpanda-automation": {
+    "name": "cabinpanda-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Cabinpanda কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cal-automation": {
+    "name": "cal-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Cal কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/calendarhero-automation": {
+    "name": "calendarhero-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Calendarhero কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callerapi-automation": {
+    "name": "callerapi-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Callerapi কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callingly-automation": {
+    "name": "callingly-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Callingly কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/callpage-automation": {
+    "name": "callpage-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Callpage কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/camera-cinematography": {
+    "name": "ক্যামেরা-চিত্রগ্রহণ",
+    "description": "Blender এর মধ্যে চলচ্চিত্রায়ন কাজ, যার মধ্যে ফ্রেমিং, লেন্স, রচনা, ক্যামেরা অ্যানিমেশন এবং শট ভাষা অন্তর্ভুক্ত, যা মৌলিক রেন্ডারিং সেটআপের বাইরে। এটি MCP এর মাধ্যমে সম্পন্ন করা হয়।"
+  },
+  "arjun988/blender-skills:.cursor/skills/camera-cinematography": {
+    "name": "ক্যামেরা-চিত্রগ্রহণ",
+    "description": "Blender এর মধ্যে চলচ্চিত্রায়ন কাজ, যার মধ্যে ফ্রেমিং, লেন্স, রচনা, ক্যামেরা অ্যানিমেশন এবং শট ভাষা অন্তর্ভুক্ত, যা মৌলিক রেন্ডারিং সেটআপের বাইরে। এটি MCP এর মাধ্যমে সম্পন্ন করা হয়।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/campaign-cleaner-automation": {
+    "name": "campaign-cleaner-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Campaign Cleaner কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/campayn-automation": {
+    "name": "campayn-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Campayn কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/canny-automation": {
+    "name": "canny-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Canny কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/canvas-automation": {
+    "name": "canvas-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Canvas কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "anthropics/skills:skills/canvas-design": {
+    "name": "canvas-design",
+    "description": "ডিজাইন দর্শন ব্যবহার করে .png এবং .pdf নথিতে সুন্দর ভিজ্যুয়াল আর্ট তৈরি করুন। যখন ব্যবহারকারী পোস্টার, শিল্পকর্ম, ডিজাইন বা অন্যান্য স্থির কাজ তৈরি করার অনুরোধ করেন, তখন আপনার এই দক্ষতা ব্যবহার করা উচিত। কপিরাইট লঙ্ঘন এড়াতে বিদ্যমান শিল্পীদের কাজ কখনোই নকল করবেন না, বরং মৌলিক ভিজ্যুয়াল ডিজাইন তৈরি করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:canvas-design": {
+    "name": "canvas-design",
+    "description": "ডিজাইন দর্শন ব্যবহার করে .png এবং .pdf নথিতে সুন্দর ভিজ্যুয়াল আর্ট তৈরি করুন। যখন ব্যবহারকারী পোস্টার, শিল্পকর্ম, ডিজাইন বা অন্যান্য স্থির কাজ তৈরি করার অনুরোধ করেন, তখন আপনার এই দক্ষতা ব্যবহার করা উচিত। কপিরাইট লঙ্ঘন এড়াতে বিদ্যমান শিল্পীদের কাজ কখনোই নকল করবেন না, বরং মৌলিক ভিজ্যুয়াল ডিজাইন তৈরি করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/capsule_crm-automation": {
+    "name": "capsule_crm-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Capsule CRM কাজগুলো স্বয়ংক্রিয় করুন: যোগাযোগ, সুযোগ, কেস, কাজ এবং পাইপলাইন পরিচালনা। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/carbone-automation": {
+    "name": "carbone-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Carbone কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cardly-automation": {
+    "name": "cardly-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Cardly কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/cartoon-style": {
+    "name": "cartoon-style",
+    "description": "Blender এর জন্য কার্টুন শৈলীর শিল্প নির্দেশনা, যেখানে স্কোয়াশ-স্ট্রেচ পাঠযোগ্য আকার, সাহসী রঙ এবং গ্রাফিক সিলুয়েট ব্যবহার করা হয় গেম এবং অ্যানিমেশনের জন্য।"
+  },
+  "arjun988/blender-skills:.cursor/skills/cartoon-style": {
+    "name": "cartoon-style",
+    "description": "Blender এর জন্য কার্টুন শৈলীর শিল্প নির্দেশনা, যেখানে স্কোয়াশ-স্ট্রেচ পাঠযোগ্য আকার, সাহসী রঙ এবং গ্রাফিক সিলুয়েট ব্যবহার করা হয় গেম এবং অ্যানিমেশনের জন্য।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/castingwords-automation": {
+    "name": "castingwords-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Castingwords কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cats-automation": {
+    "name": "cats-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Cats কাজগুলো স্বয়ংক্রিয় করুন। বর্তমান স্কিমের জন্য সবসময় প্রথমে সরঞ্জামগুলো অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cdr-platform-automation": {
+    "name": "cdr-প্ল্যাটফর্ম-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Cdr প্ল্যাটফর্মের কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/census-bureau-automation": {
+    "name": "জনগণনা-ব্যুরো-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে জনগণনা ব্যুরোর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/centralstationcrm-automation": {
+    "name": "centralstationcrm-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Centralstationcrm এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/certifier-automation": {
+    "name": "সার্টিফাইয়ার-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে সার্টিফাইয়ারের কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:changelog-generator": {
+    "name": "চেঞ্জলগ-জেনারেটর",
+    "description": "গিট কমিট থেকে ব্যবহারকারী-দেখানো চেঞ্জলগ স্বয়ংক্রিয়ভাবে তৈরি করে, কমিট ইতিহাস বিশ্লেষণ করে, পরিবর্তনগুলিকে শ্রেণীবদ্ধ করে এবং প্রযুক্তিগত কমিটগুলিকে স্পষ্ট, গ্রাহক-বান্ধব রিলিজ নোটে রূপান্তর করে। ঘণ্টার পর ঘণ্টা ম্যানুয়াল চেঞ্জলগ লেখাকে মিনিটের স্বয়ংক্রিয় উৎপাদনে রূপান্তর করে।"
+  },
+  "arjun988/blender-skills:.claude/skills/character-archetypes": {
+    "name": "চরিত্র-আর্কিটাইপস",
+    "description": "Blender-এর জন্য চরিত্রের আর্কিটাইপ আর্ট ডিরেকশন, যা ফ্যান্টাসি জাতি, ভয়ঙ্কর প্রাণী, ভূমিকা (নাইট, আসামি, গোয়েন্দা) এবং শারীরিক ধরন (মেচা, অ্যান্ড্রয়েড, চিবি ইত্যাদি) কভার করে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/character-archetypes": {
+    "name": "চরিত্র-আর্কিটাইপস",
+    "description": "Blender-এর জন্য চরিত্রের আর্কিটাইপ আর্ট ডিরেকশন, যা ফ্যান্টাসি জাতি, ভয়ঙ্কর প্রাণী, ভূমিকা (নাইট, আসামি, গোয়েন্দা) এবং শারীরিক ধরন (মেচা, অ্যান্ড্রয়েড, চিবি ইত্যাদি) কভার করে।"
+  },
+  "arjun988/blender-skills:.claude/skills/character-artist": {
+    "name": "চরিত্র-শিল্পী",
+    "description": "মানুষের শারীরবৃত্ত, স্টাইলাইজেশন, মুখের টোপোলজি, পোশাক, চুল এবং অ্যানিমেশন-প্রস্তুত মেশ সহ AAA চরিত্র মডেলিং। Blender-এর জন্য MCP এর মাধ্যমে গেম চরিত্র, মুখের ভাব এবং উৎপাদনের চরিত্র সম্পদের জন্য ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/character-artist": {
+    "name": "চরিত্র-শিল্পী",
+    "description": "মানুষের শারীরবৃত্ত, স্টাইলাইজেশন, মুখের টোপোলজি, পোশাক, চুল এবং অ্যানিমেশন-প্রস্তুত মেশ সহ AAA চরিত্র মডেলিং। Blender-এর জন্য MCP এর মাধ্যমে গেম চরিত্র, মুখের ভাব এবং উৎপাদনের চরিত্র সম্পদের জন্য ব্যবহার করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chaser-automation": {
+    "name": "চেজার-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে চেজারের কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatbotkit-automation": {
+    "name": "chatbotkit-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Chatbotkit এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatfai-automation": {
+    "name": "chatfai-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Chatfai এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chatwork-automation": {
+    "name": "chatwork-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Chatwork এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/chibi-style": {
+    "name": "চিবি-স্টাইল",
+    "description": "Blender চরিত্রের জন্য চিবি এবং SD অনুপাতের আর্ট ডিরেকশন, যাতে বড় মাথা, সরলীকৃত শারীরবৃত্ত এবং সুন্দর সিলুয়েটের নিয়ম থাকে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/chibi-style": {
+    "name": "চিবি-স্টাইল",
+    "description": "Blender চরিত্রের জন্য চিবি এবং SD অনুপাতের আর্ট ডিরেকশন, যাতে বড় মাথা, সরলীকৃত শারীরবৃত্ত এবং সুন্দর সিলুয়েটের নিয়ম থাকে।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/chmeetings-automation": {
+    "name": "chmeetings-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Chmeetings এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "emilkowalski/skills:skills/choreograph": {
+    "name": "কোরিওগ্রাফ",
+    "description": "একসাথে অ্যানিমেট হওয়া একাধিক উপাদানকে সমন্বয় করুন — ঠিক করুন কী কী নড়বে, কোন ক্রমে, কতটা ওভারল্যাপ করবে এবং কী স্থির থাকবে — যাতে একটি গ্রুপ আলাদা আলাদা অ্যানিমেশনের ঝাঁক না হয়ে একটি ইচ্ছাকৃত গতি হিসেবে পাঠানো যায়। এটি ব্যবহার করুন যখন একটি স্তরযুক্ত তালিকা, একটি নায়কের প্রবেশ, একটি কন্টেইনারের ভিতরে একটি ভিউ পরিবর্তন, একটি বহু-ধাপের প্রবাহ, একটি উপাদান চলে যাওয়ার সময় তার সহযোগীরা ফাঁক পূরণ করে, একটি সমৃদ্ধ অবস্থার মধ্যে মর্ফ, বা একাধিক চলন্ত অংশের সাথে যেকোনো ইন্টারঅ্যাকশন (আইকন + ব্যাকগ্রাউন্ড + লাইন, প্যানেল + কন্টেন্ট, লক্ষ্যের দিকে উড়ে যাওয়া আইটেম) তৈরি করছেন বা ঠিক করছেন। ট্রিগার হয় — স্তরযুক্ত, ক্রম, কোরিওগ্রাফি, \" একের পর এক \", ক্রসফেড, AnimatePresence মোড, নায়কের প্রবেশ, বহু-ধাপ, useAnimate, \" যেন যান্ত্রিক \", \" খুব বেশি কিছু চলছে \", \" যেন খোলার জন্য ধীর লাগছে \"।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cincopa-automation": {
+    "name": "cincopa-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Cincopa এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/claid-ai-automation": {
+    "name": "claid-ai-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Claid AI এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/classmarker-automation": {
+    "name": "classmarker-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Classmarker এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "anthropics/skills:skills/claude-api": {
+    "name": "claude-api",
+    "description": "Claude API / Anthropic SDK-এর জন্য রেফারেন্স — মডেল আইডি, মূল্য নির্ধারণ, প্যারামিটার, স্ট্রিমিং, সরঞ্জাম ব্যবহার, MCP, এজেন্ট, ক্যাশিং, টোকেন গণনা, মডেল স্থানান্তর। ট্রিগার — লক্ষ্য ফাইলটি খোলার আগে পড়ুন; এটি \" এক লাইনের মতো দেখাচ্ছে বলে এড়িয়ে যাবেন না — যখনই: প্রম্পটে Claude/Anthropic-এর নাম যেকোনো আকারে (Claude, Anthropic, Fable, Opus, Sonnet, Haiku, `anthropic`, `@anthropic-ai`, `claude-*`, `us.anthropic.*`, `[1m]`); ব্যবহারকারী LLM সম্পর্কে জিজ্ঞাসা করে (মূল্য নির্ধারণ/মডেল পছন্দ/সীমা/ক্যাশিং) — কখনোই স্মৃতি থেকে উত্তর দেবেন না; অথবা কাজটি LLM-আকারে এবং প্রদানকারী উল্লেখ করা হয়নি (এজেন্ট/MCP/সরঞ্জাম-সংজ্ঞা/মাল্টি-এজেন্ট/RAG/LLM-বিচারক/কম্পিউটার-ব্যবহার; NL-এর উপর জেনারেট/সারসংক্ষেপ/এক্সট্র্যাক্ট/ক্লাসিফাই/রিওয়্যাইট/কনভার্স; ডিবাগিং অস্বীকার/কাট-অফ/স্ট্রিমিং/সরঞ্জাম-কল/টোকেন)। এড়িয়ে যান শুধুমাত্র যখন অন্য কোনো প্রদানকারীর ওপর কাজ চলছে (সব ট্রিগার অবহেলা করে): OpenAI/GPT/Gemini/Llama/Mistral/Cohere/Ollama কোয়েরিতে নাম উল্লেখ করা হয়েছে; অথবা `grep -rE 'openai|langchain_openai|google.generativeai|genai|mistralai|cohere|ollama'` প্রকল্পের হিট (এই grep প্রথমে চালান যদি কোনো প্রদানকারীর নাম না থাকে — ফাইলটি পড়বেন না)।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clearout-automation": {
+    "name": "clearout-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Clearout এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/clickmeeting-automation": {
+    "name": "clickmeeting-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Clickmeeting এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/cloth-sim": {
+    "name": "cloth-sim",
+    "description": "Garment blockout, cloth simulation, pin groups, and bake to shape keys or caches for characters and props in Blender via MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/cloth-sim": {
+    "name": "cloth-sim",
+    "description": "Garment blockout, cloth simulation, pin groups, and bake to shape keys or caches for characters and props in Blender via MCP."
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudcart-automation": {
+    "name": "cloudcart-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Cloudcart এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudconvert-automation": {
+    "name": "cloudconvert-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Cloudconvert এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-api-key-automation": {
+    "name": "cloudflare-api-key-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Cloudflare API এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-automation": {
+    "name": "cloudflare-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Cloudflare এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudflare-browser-rendering-automation": {
+    "name": "cloudflare-browser-rendering-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Cloudflare ব্রাউজার রেন্ডারিং এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudlayer-automation": {
+    "name": "cloudlayer-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Cloudlayer এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/cloudpress-automation": {
+    "name": "cloudpress-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Cloudpress এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coassemble-automation": {
+    "name": "coassemble-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Coassemble এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codacy-automation": {
+    "name": "codacy-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে Codacy এর কাজগুলি স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমের জন্য প্রথমে সরঞ্জামগুলি অনুসন্ধান করুন।"
+  },
+  "cexll/myclaude:skills/codeagent": {
+    "name": "কোডএজেন্ট",
+    "description": "মাল্টি-ব্যাকএন্ড এআই কোড টাস্কের জন্য কোডএজেন্ট-ওয়্যারপ এক্সিকিউট করুন। এজেন্ট প্রিসেট, স্কিল ইনজেকশন, ফাইল রেফারেন্স (@সিনট্যাক্স), ওয়ার্কট্রি আইসোলেশন, প্যারালাল এক্সিকিউশন এবং স্ট্রাকচার্ড আউটপুট সহ Codex, Claude, জেমিনি এবং ওপেনকোড ব্যাকএন্ড সমর্থন করে।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codeinterpreter-automation": {
+    "name": "কোডইন্টারপ্রেটার-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে কোডইন্টারপ্রেটার টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/codereadr-automation": {
+    "name": "কোডরিডার-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে কোডরিডার টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinmarketcal-automation": {
+    "name": "কয়েনমার্কেটক্যাল-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে কয়েনমার্কেটক্যাল টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinmarketcap-automation": {
+    "name": "কয়েনমার্কেটক্যাপ-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে কয়েনমার্কেটক্যাপ টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/coinranking-automation": {
+    "name": "কয়েনর‍্যাঙ্কিং-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে কয়েনর‍্যাঙ্কিং টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/college-football-data-automation": {
+    "name": "কলেজ-ফুটবল-ডেটা-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে কলেজ ফুটবল ডেটা টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস অনুসন্ধান করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/collision-proxy": {
+    "name": "কলিশন-প্রক্সি",
+    "description": "Blender এর জন্য UCX/UHX নেমিং, কনভেক্স হাল, ক্যাপসুল এবং MCP এর মাধ্যমে Blender-এ সহজ কলাইডার মেশ সহ গেমসের জন্য কলিশন প্রক্সি অথরিং।"
+  },
+  "arjun988/blender-skills:.cursor/skills/collision-proxy": {
+    "name": "কলিশন-প্রক্সি",
+    "description": "Blender এর জন্য UCX/UHX নেমিং, কনভেক্স হাল, ক্যাপসুল এবং MCP এর মাধ্যমে Blender-এ সহজ কলাইডার মেশ সহ গেমসের জন্য কলিশন প্রক্সি অথরিং।"
+  },
+  "arjun988/blender-skills:.claude/skills/comic-book-style": {
+    "name": "কমিক-বুক-স্টাইল",
+    "description": "Blender-এর জন্য ইন্ক-লাইন এমফাসিস, হালফটোন সংকেত এবং হাই-কনট্রাস্ট ফ্রেমিং সহ কমিক বুক এবং গ্রাফিক নভেল আর্ট ডিরেকশন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/comic-book-style": {
+    "name": "কমিক-বুক-স্টাইল",
+    "description": "Blender-এর জন্য ইন্ক-লাইন এমফাসিস, হালফটোন সংকেত এবং হাই-কনট্রাস্ট ফ্রেমিং সহ কমিক বুক এবং গ্রাফিক নভেল আর্ট ডিরেকশন।"
+  },
+  "ComposioHQ/awesome-claude-skills:competitive-ads-extractor": {
+    "name": "কম্পিটিটিভ-অ্যাডস-এক্সট্রাক্টর",
+    "description": "বিজ্ঞাপন লাইব্রেরি (ফেসবুক, লিঙ্কডইন ইত্যাদি) থেকে প্রতিযোগীদের বিজ্ঞাপন এক্সট্রাক্ট এবং বিশ্লেষণ করে কোন মেসেজিং, সমস্যা এবং ক্রিয়েটিভ পদ্ধতি কাজ করছে তা বোঝার চেষ্টা করে। এটি আপনার নিজস্ব বিজ্ঞাপন ক্যাম্পেইনকে অনুপ্রাণিত করতে এবং উন্নত করতে সাহায্য করে।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/composio-automation": {
+    "name": "কম্পোসিও-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে কম্পোসিও টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/composio-search-automation": {
+    "name": "কম্পোসিও-সার্চ-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে কম্পোসিও সার্চ টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস অনুসন্ধান করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/compositing": {
+    "name": "কম্পোজিটিং",
+    "description": "Blender এর জন্য বিউটি স্ট্যাক, রেন্ডার পাস, কালার গ্রেড, গ্লেয়ার এবং ডেলিভারি আউটপুটের জন্য MCP এর মাধ্যমে কম্পোজিটর ওয়ার্কফ্লো।"
+  },
+  "arjun988/blender-skills:.cursor/skills/compositing": {
+    "name": "কম্পোজিটিং",
+    "description": "Blender এর জন্য বিউটি স্ট্যাক, রেন্ডার পাস, কালার গ্রেড, গ্লেয়ার এবং ডেলিভারি আউটপুটের জন্য MCP এর মাধ্যমে কম্পোজিটর ওয়ার্কফ্লো।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/connecteam-automation": {
+    "name": "কনেক্টিম-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে কনেক্টিম টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/contentful-graphql-automation": {
+    "name": "কন্টেন্টফুল-গ্রাফকিউএল-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে কন্টেন্টফুল গ্রাফকিউএল টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/control-d-automation": {
+    "name": "কন্ট্রোল-ডি-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে কন্ট্রোল ডি টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/conversion-tools-automation": {
+    "name": "কনভারশন-টুলস-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে কনভারশন টুলস টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস অনুসন্ধান করুন।"
+  },
+  "ComposioHQ/awesome-claude-skills:composio-skills/convertapi-automation": {
+    "name": "কনভার্টঅ্যাপি-অটোমেশন",
+    "description": "Rube MCP (Composio) এর মাধ্যমে কনভার্টঅ্যাপি টাস্ক স্বয়ংক্রিয় করুন। সর্বদা বর্তমান স্কিমার জন্য প্রথমে টুলস অনুসন্ধান করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/cosmic-eldritch-horror": {
+    "name": "কসমিক-এল্ড্রিচ-হরর",
+    "description": "Blender-এর জন্য নন-ইউক্লিডিয়ান সংকেত, ইম্পসিবল স্কেল এবং অবোধ্য ফর্মসহ কসমিক, এল্ড্রিচ এবং লাভক্রাফ্টিয়ান হরর আর্ট ডিরেকশন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/cosmic-eldritch-horror": {
+    "name": "কসমিক-এল্ড্রিচ-হরর",
+    "description": "Blender-এর জন্য নন-ইউক্লিডিয়ান সংকেত, ইম্পসিবল স্কেল এবং অবোধ্য ফর্মসহ কসমিক, এল্ড্রিচ এবং লাভক্রাফ্টিয়ান হরর আর্ট ডিরেকশন।"
+  },
+  "arjun988/blender-skills:.claude/skills/cozy-wholesome-mood": {
+    "name": "কোজি-হোলসোম-মুড",
+    "description": "Blender এর অ্যাসেট এবং সিনের জন্য কোজি, কিউট, হোলসোম, রিল্যাক্সিং এবং পিসফুল মুড ডিরেকশন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/cozy-wholesome-mood": {
+    "name": "কোজি-হোলসোম-মুড",
+    "description": "Blender এর অ্যাসেট এবং সিনের জন্য কোজি, কিউট, হোলসোম, রিল্যাক্সিং এবং পিসফুল মুড ডিরেকশন।"
+  },
+  "arjun988/blender-skills:.claude/skills/creature-artist": {
+    "name": "ক্রিয়েচার-আর্টিস্ট",
+    "description": "ফ্যান্টাসি, এলিয়েন, মনস্টার এবং অর্গানিক ক্রিয়েচার ডিজাইনের জন্য AAA ক্রিয়েচার মডেলিং, বিশ্বাসযোগ্য অ্যানাটমি এবং মুভমেন্ট সহ। ক্রিয়েচার ব্লকআউট, মাসল ফ্লো, বোন স্ট্রাকচার এবং অ্যানিমেশন-রেডি ক্রিয়েচার অ্যাসেটের জন্য Blender এর মাধ্যমে MCP ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/creature-artist": {
+    "name": "ক্রিয়েচার-আর্টিস্ট",
+    "description": "ফ্যান্টাসি, এলিয়েন, মনস্টার এবং অর্গানিক ক্রিয়েচার ডিজাইনের জন্য AAA ক্রিয়েচার মডেলিং, বিশ্বাসযোগ্য অ্যানাটমি এবং মুভমেন্ট সহ। ক্রিয়েচার ব্লকআউট, মাসল ফ্লো, বোন স্ট্রাকচার এবং অ্যানিমেশন-রেডি ক্রিয়েচার অ্যাসেটের জন্য Blender এর মাধ্যমে MCP ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/dark-gritty-mood": {
+    "name": "ডার্ক-গ্রিটি-মুড",
+    "description": "Blender এর জন্য ডার্ক, গ্রিম, গ্রিটি, রাস্টি, অ্যাব্যান্ডনড, ডিকেইড, ইন্ডাস্ট্রিয়াল, লনলি এবং মেলানকলিক মুড ডিরেকশন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/dark-gritty-mood": {
+    "name": "ডার্ক-গ্রিটি-মুড",
+    "description": "Blender এর জন্য ডার্ক, গ্রিম, গ্রিটি, রাস্টি, অ্যাব্যান্ডনড, ডিকেইড, ইন্ডাস্ট্রিয়াল, লনলি এবং মেলানকলিক মুড ডিরেকশন।"
+  },
+  "Leonxlnx/taste-skill:skills/taste-skill": {
+    "name": "ডিজাইন-টেস্ট-ফ্রন্টএন্ড",
+    "description": "tasteskill 2.5.1, অ্যান্টি-স্লপ ফ্রন্টএন্ড স্কিল। figma.com এবং x.ai এর মাত্রায় পেশাদার কোম্পানি ওয়েবসাইট তৈরি করে: নিজস্ব ভয়েসে সহজ কপি, একটি সিস্টেম, প্রতি স্ক্রিনে একটি সেকশন, সমান প্রান্ত, আসল ছবি এবং আসল প্রোডাক্ট UI (ক্লায়েন্টের কোনো ছবি না থাকলে লাইসেন্সকৃত স্ট্যান্ড-ইন ছবি; ব্রিফ যদি 3D চায় তবে শুধুমাত্র প্রোডাক্ট রেন্ডার), প্রতি পৃষ্ঠায় একটি হিরো এন্ট্রি এবং এক বা দুটি ডিলড মোমেন্ট, শাডার ইফেক্ট এবং সিন শুধুমাত্র টেক, গেমিং এবং সফটওয়্যার পৃষ্ঠায়, শান্ত মাইক্রো-ইন্টারঅ্যাকশন, এবং একটি চেকার ও ফিনিশ গেট যা এটিকে বাস্তব ব্রাউজারে প্রয়োগ করে। যখনই আপনি একটি ল্যান্ডিং পৃষ্ঠা, কোম্পানি, প্রোডাক্ট, শপ, ক্যাফে, হোটেল, স্টুডিও, SaaS, AI, ডেভেলপার-টুল বা গেম সাইট তৈরি, ডিজাইন, রিডিজাইন, রেস্টাইল, পলিশ বা রিভিউ করেন, স্ট্যাটিক HTML/CSS হিসেবে বা বিদ্যমান React, Next.js, Vue, Svelte, Astro বা Tailwind প্রজেক্টের মধ্যে, অথবা যখন ব্যবহারকারী বলেন যে একটি পৃষ্ঠা জেনেরিক, টেমপ্লেটেড বা \"AI-মেড\" দেখাচ্ছে, তখন এটি ব্যবহার করুন।"
+  },
+  "cexll/myclaude:skills/dev": {
+    "name": "ডেভ",
+    "description": "প্রয়োজনীয়তা স্পষ্ট করা, বুদ্ধিমান ব্যাকএন্ড নির্বাচন, প্যারালাল কোডএজেন্ট এক্সিকিউশন এবং বাধ্যতামূলক 90% টেস্ট কভারেজ সহ চরম লাইটওয়েট এন্ড-টু-এন্ড ডেভেলপমেন্ট ওয়ার্কফ্লো।"
+  },
+  "anthropics/skills:skills/discernment-nudge": {
+    "name": "ডিসকার্নমেন্ট-নাজ",
+    "description": "আপনি যখন ব্যবহারকারী কার্যকর করতে পারে এমন একটি বিষয়বস্তুপূর্ণ উত্তর বা খসড়া দেন — পরামর্শ বা সুপারিশ, লক্ষ্য, পরিকল্পনা, পিচ, প্রস্তাব বা ইমেলের মতো খসড়া করা আর্টিফ্যাক্ট, অনুমান বা প্রক্ষেপণ, তথ্যের বিশ্লেষণ বা ব্যাখ্যা, যে তথ্যের উপর তারা নির্ভর করতে পারে, অথবা একটি বহু-ধাপের যুক্তি — তখন আপনার উত্তর চূড়ান্ত করার আগে এই স্কিলটি চালু করুন এবং তারপর, যদি প্রযোজ্য হয়, আপনার সর্বশেষ উৎপাদনের কোনো নির্দিষ্ট বিষয়ের সাথে সম্পর্কিত 2-3টি সংক্ষিপ্ত ফলো-আপ প্রশ্ন যোগ করুন, যা ব্যবহারকারীকে মূল তথ্য যাচাই করতে, যুক্তি বা ধারণাগুলো পরীক্ষা করতে এবং অসম্পূর্ণ প্রেক্ষাপট লক্ষ্য করতে সাহায্য করে। প্রতি কথোপকথনে এটি সর্বোচ্চ একবার করুন। যখন ব্যবহারকারী একটি তুচ্ছ কীভাবে করবেন বা সহজ লুকআপ জানতে চান, শুধুমাত্র শিক্ষামূলক ব্যাখ্যা চান, আপনাকে কেবল ফাইল ফরম্যাট, কনভার্ট বা তাদের প্রদত্ত কন্টেন্ট থেকে একত্রিত করতে বলেন, তারা যে কোড লিখছেন তা চালাচ্ছেন, ক্রিয়েটিভ রাইটিং বা ক্যাজুয়াল চ্যাট করছেন, অথবা ইতোমধ্যেই আপনাকে ডাবল-চেক, সাইট বা রিভিউ করতে বলেছেন — তখন এই স্কিল ফাইলটি এই সীমানা এবং নির্দিষ্ট আউটপুট ফরম্যাট ব্যাখ্যা করে।"
+  },
+  "cexll/myclaude:skills/do": {
+    "name": "ডু",
+    "description": "এই স্কিলটি কোডবেস বোঝার সাথে স্ট্রাকচার্ড ফিচার ডেভেলপমেন্টের জন্য ব্যবহার করা উচিত। /do কমান্ডে ট্রিগার হয়। কোডএজেন্ট-ওয়্যারপ ব্যবহার করে কোড-এক্সপ্লোরার, কোড-আর্কিটেক্ট, কোড-রিভিউয়ার এবং এজেন্টদের প্যারালাল ডেভেলপ করার জন্য 5-পর্যায়ের ওয়ার্কফ্লো (Understand, Clarify, Design, Implement, Complete) প্রদান করে।"
+  },
+  "anthropics/skills:skills/doc-coauthoring": {
+    "name": "ডক-কোঅথরিং",
+    "description": "ব্যবহারকারীদের ডকুমেন্টেশন কোঅথরিংয়ের জন্য একটি স্ট্রাকচার্ড ওয়ার্কফ্লোর মাধ্যমে গাইড করে। যখন ব্যবহারকারী ডকুমেন্টেশন, প্রস্তাব, টেকনিক্যাল স্পেস, ডিসিশন ডক বা একই ধরনের স্ট্রাকচার্ড কন্টেন্ট লিখতে চান তখন এটি ব্যবহার করুন। এই ওয়ার্কফ্লো ব্যবহারকারীদের প্রেক্ষাপট দক্ষতার সাথে স্থানান্তর করতে, পুনরাবৃত্তির মাধ্যমে কন্টেন্ট পরিমার্জন করতে এবং ডক পাঠকদের জন্য কার্যকর কিনা তা যাচাই করতে সাহায্য করে। যখন ব্যবহারকারী ডক লেখা, প্রস্তাব তৈরি, স্পেস খসড়া করা বা একই ধরনের ডকুমেন্টেশন টাস্কের কথা উল্লেখ করেন তখন এটি ট্রিগার করুন।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/docker-ros2-development": {
+    "name": "ডকার-ROS2-ডেভেলপমেন্ট",
+    "description": "Docker-ভিত্তিক ROS2 ডেভেলপমেন্টের জন্য সেরা পদ্ধতি, যার মধ্যে রয়েছে মাল্টি-স্টেজ Docker ফাইল, মাল্টি-কন্টেইনার রোবোটিক সিস্টেমের জন্য ডকার-কম্পোজ, কন্টেইনার জুড়ে DDS ডিসকভারি, পারসেপশনের জন্য GPU পাসথ্রু এবং dev-vs-deploy কন্টেইনার প্যাটার্ন। যখন আপনি ROS2 ওয়ার্কস্পেস কন্টেইনারাইজ করেন, রোবোট সফটওয়্যার স্ট্যাকের জন্য ডকার-কম্পোজ সেট আপ করেন, কন্টেইনার জুড়ে DDS যোগাযোগ ডিবাগ করেন, NVIDIA কন্টেইনার টুলকিট ব্যবহার করে GPU ওয়ার্লোড কনফিগার করেন, rviz2 এবং GUI টুলের জন্য X11/Wayland ফরওয়ার্ড করেন, বা ক্যামেরা এবং সিরিয়াল ডিভাইসের জন্য USB ডিভাইস পাসথ্রু পরিচালনা করেন তখন এই স্কিলটি ব্যবহার করুন। যখনই ব্যবহারকারী ROS2, রোবোটের জন্য ডকার-কম্পোজ, colcon ওয়ার্কস্পেসের জন্য Docker ফাইল, DDS এর জন্য কন্টেইনার নেটওয়ার্কিং, ROS2 এর জন্য devcontainer, ROS2 এর জন্য মাল্টি-স্টেজ বিল্ড বা কন্টেইনারে ROS2 ডিপ্লয় করার কথা উল্লেখ করেন তখন এটি ট্রিগার করুন। CI/CD এর জন্য Docker-ভিত্তিক ROS2 বিল্ড, কন্টেইনারে CycloneDDS বা FastDDS কনফিগারেশন বা Docker-এ শেয়ারড মেমরির জন্যও এটি ট্রিগার করুন। উবুন্টু 22.04 এবং 24.04 বেস ইমেজে Humble, Jazzy এবং Rolling ডিস্ট্রিবিউশন কভার করে।"
+  },
+  "anthropics/skills:skills/docx": {
+    "name": "ডকএক্স",
+    "description": "যখনই ব্যবহারকারী Word ডকুমেন্ট (.docx ফাইল) বা Word টেমপ্লেট (.dotx ফাইল) তৈরি, পড়া, সম্পাদনা বা পরিবর্তন করতে চান তখন এই স্কিলটি ব্যবহার করুন। ট্রিগার হয়: 'Word doc', 'word document', '.docx', '.dotx' এর যেকোনো উল্লেখ বা সারণী, শিরোনাম, পৃষ্ঠা নম্বর বা লেটারহেডের মতো ফরম্যাট সহ পেশাদার ডকুমেন্ট তৈরির অনুরোধ। এছাড়াও .docx বা .dotx ফাইল থেকে কন্টেন্ট এক্সট্রাক্ট বা পুনরায় সাজানো, ডকুমেন্টে ছবি সন্নিবেশ বা প্রতিস্থাপন, Word ফাইলে ফাইন্ড-এন্ড-রিপ্লেস করা, ট্র্যাকড চেঞ্জ বা কমেন্টের সাথে কাজ করা বা কন্টেন্টকে একটি পলিশড Word ডকুমেন্টে রূপান্তর করার জন্যও এটি ব্যবহার করুন। যদি ব্যবহারকারী 'রিপোর্ট', 'মেমো', 'লেটার', 'টেমপ্লেট' বা একই ধরনের ডেলিভারেবলকে Word বা .docx ফাইল হিসেবে চান, তবে এই স্কিলটি ব্যবহার করুন। PDFs, স্প্রেডশীট, Google Docs বা ডকুমেন্ট জেনারেশনের সাথে সম্পর্কহীন সাধারণ কোডিং টাস্কের জন্য এটি ব্যবহার করবেন না।"
+  },
+  "arjun988/blender-skills:.claude/skills/dream-surreal-mood": {
+    "name": "ড্রিম-সুরেল-মুড",
+    "description": "Blender এর দৃশ্যের জন্য স্বপ্নময়, সুরেল, রহস্যময়, মিস্টিক, আশাবাদী এবং বিশৃঙ্খল মুড ডিরেকশন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/dream-surreal-mood": {
+    "name": "ড্রিম-সুরেল-মুড",
+    "description": "Blender এর দৃশ্যের জন্য স্বপ্নময়, সুরেল, রহস্যময়, মিস্টিক, আশাবাদী এবং বিশৃঙ্খল মুড ডিরেকশন।"
+  },
+  "arjun988/blender-skills:.claude/skills/dream-weirdcore-style": {
+    "name": "স্বপ্ন-অদ্ভুত-কোর-শৈলী",
+    "description": "Blender-এর জন্য ড্রিমকোর, অদ্ভুত-কোর এবং ট্রমা-কোর থেকে অনুপ্রাণিত আর্ট ডিরেকশন, যেখানে রয়েছে স্মৃতিচারণাপূর্ণ ভুলভাল, সীমান্তস্থিত স্মৃতি এবং অতিজাগতিক শৈশবের পরিবেশ।"
+  },
+  "arjun988/blender-skills:.cursor/skills/dream-weirdcore-style": {
+    "name": "স্বপ্ন-অদ্ভুত-কোর-শৈলী",
+    "description": "Blender-এর জন্য ড্রিমকোর, অদ্ভুত-কোর এবং ট্রমা-কোর থেকে অনুপ্রাণিত আর্ট ডিরেকশন, যেখানে রয়েছে স্মৃতিচারণাপূর্ণ ভুলভাল, সীমান্তস্থিত স্মৃতি এবং অতিজাগতিক শৈশবের পরিবেশ।"
+  },
+  "emilkowalski/skills:skills/emil-design-eng": {
+    "name": "emil-design-eng",
+    "description": "ইমিল কোওয়ালস্কির ডিজাইন-ইঞ্জিনিয়ারিং দর্শন, যা UI পলিশ, উপাদান নকশা, অ্যানিমেশন সিদ্ধান্ত এবং সফটওয়্যারকে চমৎকার করে তোলার অদৃশ্য বিবরণগুলোর জন্য প্রযোজ্য। যখন কোনো UI উপাদানের ইন্টারঅ্যাকশন এবং পলিশ (প্রেস ও হোভার স্টেট, পপওভার উৎস, টুলটিপ টাইমিং, ট্রানজিশন বনাম কীফ্রেম, ক্লিপ-পাথ কৌশল, ড্র্যাগ বিবরণ) তৈরি করার বা পর্যালোচনা করার প্রয়োজন হয়, এবং এর চেয়ে সংকীর্ণ কোনো দক্ষতা উপযুক্ত নয়।"
+  },
+  "arjun988/blender-skills:.claude/skills/environment-artist": {
+    "name": "environment-artist",
+    "description": "মডিউলার কিট, ভবন, ভূমি, উদ্ভিদ, স্থাপত্য এবং দৃশ্য সংমিশ্রণের জন্য AAA পরিবেশ আর্ট। Blender-এ মডিউলার অ্যাসেট পাইপলাইন এবং স্থানের মাধ্যমে গল্প বলার জন্য এবং MCP-এর মাধ্যমে গেম-অপ্টিমাইজড পরিবেশের জন্য ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/environment-artist": {
+    "name": "environment-artist",
+    "description": "মডিউলার কিট, ভবন, ভূমি, উদ্ভিদ, স্থাপত্য এবং দৃশ্য সংমিশ্রণের জন্য AAA পরিবেশ আর্ট। Blender-এ মডিউলার অ্যাসেট পাইপলাইন এবং স্থানের মাধ্যমে গল্প বলার জন্য এবং MCP-এর মাধ্যমে গেম-অপ্টিমাইজড পরিবেশের জন্য ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/export-pipeline": {
+    "name": "export-pipeline",
+    "description": "প্রোডাকশন এক্সপোর্ট, Blender থেকে FBX, GLTF, OBJ, USD এবং Alembic-এ, স্কেল, পিভট, ঘূর্ণন, নরমাল, উপকরণ, অ্যানিমেশন এবং সংঘর্ষ যাচাই সহ, MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/export-pipeline": {
+    "name": "export-pipeline",
+    "description": "প্রোডাকশন এক্সপোর্ট, Blender থেকে FBX, GLTF, OBJ, USD এবং Alembic-এ, স্কেল, পিভট, ঘূর্ণন, নরমাল, উপকরণ, অ্যানিমেশন এবং সংঘর্ষ যাচাই সহ, MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.claude/skills/fantasy-worlds": {
+    "name": "fantasy-worlds",
+    "description": "ফ্যান্টাসি বিশ্ব-নির্মাণের আর্ট ডিরেকশন, Blender-এর জন্য, যা মধ্যযুগীয়, হাই ফ্যান্টাসি, ডার্ক ফ্যান্টাসি এবং আরবান ফ্যান্টাসি অ্যাসেট ভাষাকে কভার করে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/fantasy-worlds": {
+    "name": "fantasy-worlds",
+    "description": "ফ্যান্টাসি বিশ্ব-নির্মাণের আর্ট ডিরেকশন, Blender-এর জন্য, যা মধ্যযুগীয়, হাই ফ্যান্টাসি, ডার্ক ফ্যান্টাসি এবং আরবান ফ্যান্টাসি অ্যাসেট ভাষাকে কভার করে।"
+  },
+  "emilkowalski/skills:skills/find-animation-opportunities": {
+    "name": "find-animation-opportunities",
+    "description": "একটি কোডবেস বা UI-তে এমন স্থান খুঁজুন যেখানে অ্যানিমেশন নেই, কিন্তু থাকা উচিত, এবং যেগুলো অ্যানিমেট করা উচিত নয় সেগুলো প্রত্যাখ্যান করুন। এটি শুধুমাত্র পড়ার জন্য; এটি নির্দিষ্ট মান সহ গতিবিধির প্রস্তাব দেয়, তবে তা বাস্তবায়ন করে না। যখন ব্যবহারকারী জিজ্ঞাসা করে \"what could be animated here?\" অথবা চায় \"make this feel more alive\", তখন এটি ব্যবহার করুন। বিদ্যমান অ্যানিমেশন ঠিক করার জন্য, পরিবর্তে improve-animations বা review-animations ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/folk-horror-style": {
+    "name": "folk-horror-style",
+    "description": "লোককাহিনী ভিত্তিক ভয়ঙ্কর আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে গ্রামীণ আচারের অদ্ভুততা, প্রকৃতি-আলোকিত দিনের আতঙ্ক এবং সম্প্রদায়-সংক্রান্ত অসংগতির গল্প।"
+  },
+  "arjun988/blender-skills:.cursor/skills/folk-horror-style": {
+    "name": "folk-horror-style",
+    "description": "লোককাহিনী ভিত্তিক ভয়ঙ্কর আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে গ্রামীণ আচারের অদ্ভুততা, প্রকৃতি-আলোকিত দিনের আতঙ্ক এবং সম্প্রদায়-সংক্রান্ত অসংগতির গল্প।"
+  },
+  "anthropics/skills:skills/frontend-design": {
+    "name": "frontend-design",
+    "description": "নতুন UI তৈরি করার সময় বা বিদ্যমানটিকে নতুন করে সাজানোর সময় স্বতন্ত্র এবং উদ্দেশ্যপ্রণোদিত ভিজ্যুয়াল ডিজাইনের জন্য নির্দেশনা। এটি নান্দনিক দিকনির্দেশনা, টাইপোগ্রাফি এবং টেমপ্লেট-ভিত্তিক ডিফল্ট হিসেবে পড়া না যাওয়ার মতো বিকল্প নির্বাচনে সহায়তা করে।"
+  },
+  "arjun988/blender-skills:.claude/skills/frutiger-aero-style": {
+    "name": "frutiger-aero-style",
+    "description": "Frutiger Aero আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে চকচকে স্কিউওমর্ফিজম, অ্যাকুয়া UI সংকেত, প্রকৃতি-প্রযুক্তি আশাবাদ এবং ২০০০-এর দশকের মাঝামাঝি ফিউচারিজম।"
+  },
+  "arjun988/blender-skills:.cursor/skills/frutiger-aero-style": {
+    "name": "frutiger-aero-style",
+    "description": "Frutiger Aero আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে চকচকে স্কিউওমর্ফিজম, অ্যাকুয়া UI সংকেত, প্রকৃতি-প্রযুক্তি আশাবাদ এবং ২০০০-এর দশকের মাঝামাঝি ফিউচারিজম।"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-action-combat": {
+    "name": "genre-action-combat",
+    "description": "অ্যাকশন, হ্যাক-অ্যান্ড-স্ল্যাশ, বিট 'এম আপ এবং ফাইটিং গেমের পাঠযোগ্য লড়াইয়ের স্থান এবং Blender-এর প্রপ ভাষার জন্য আর্ট ডিরেকশন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-action-combat": {
+    "name": "genre-action-combat",
+    "description": "অ্যাকশন, হ্যাক-অ্যান্ড-স্ল্যাশ, বিট 'এম আপ এবং ফাইটিং গেমের পাঠযোগ্য লড়াইয়ের স্থান এবং Blender-এর প্রপ ভাষার জন্য আর্ট ডিরেকশন।"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-card-party-idle": {
+    "name": "genre-card-party-idle",
+    "description": "কার্ড গেম, ডেক বিল্ডার, পার্টি গেম, আইডল/ইনক্রিমেন্টাল, শিক্ষামূলক এবং রিদম গেমের উপস্থাপনামূলক স্থানের জন্য আর্ট ডিরেকশন, Blender-এর জন্য।"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-card-party-idle": {
+    "name": "genre-card-party-idle",
+    "description": "কার্ড গেম, ডেক বিল্ডার, পার্টি গেম, আইডল/ইনক্রিমেন্টাল, শিক্ষামূলক এবং রিদম গেমের উপস্থাপনামূলক স্থানের জন্য আর্ট ডিরেকশন, Blender-এর জন্য।"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-metroidvania-roguelike": {
+    "name": "genre-metroidvania-roguelike",
+    "description": "মেট্রোইডভানিয়া, রোগুলাইক এবং রোগুলাইট গেমের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে বায়োম গেট, রুম মডিউল এবং রান-পাঠযোগ্য প্রপ।"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-metroidvania-roguelike": {
+    "name": "genre-metroidvania-roguelike",
+    "description": "মেট্রোইডভানিয়া, রোগুলাইক এবং রোগুলাইট গেমের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে বায়োম গেট, রুম মডিউল এবং রান-পাঠযোগ্য প্রপ।"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-narrative-vn": {
+    "name": "genre-narrative-vn",
+    "description": "ভিজ্যুয়াল নভেল, ইন্টারঅ্যাক্টিভ মুভি, ওয়াকিং সিমুলেটর এবং গল্প-ভিত্তিক উপস্থাপনামূলক স্থানের জন্য আর্ট ডিরেকশন, Blender-এর জন্য।"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-narrative-vn": {
+    "name": "genre-narrative-vn",
+    "description": "ভিজ্যুয়াল নভেল, ইন্টারঅ্যাক্টিভ মুভি, ওয়াকিং সিমুলেটর এবং গল্প-ভিত্তিক উপস্থাপনামূলক স্থানের জন্য আর্ট ডিরেকশন, Blender-এর জন্য।"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-open-world-sandbox": {
+    "name": "genre-open-world-sandbox",
+    "description": "ওপেন ওয়ার্ল্ড এবং স্যান্ডবক্স গেমের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে বায়োম ল্যান্ডমার্ক, অতিক্রমযোগ্য স্কেল এবং আবিষ্কারের প্রপ।"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-open-world-sandbox": {
+    "name": "genre-open-world-sandbox",
+    "description": "ওপেন ওয়ার্ল্ড এবং স্যান্ডবক্স গেমের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে বায়োম ল্যান্ডমার্ক, অতিক্রমযোগ্য স্কেল এবং আবিষ্কারের প্রপ।"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-puzzle-platformer": {
+    "name": "genre-puzzle-platformer",
+    "description": "ধাঁধা এবং প্ল্যাটফর্মার গেমের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে পাঠযোগ্য ইন্টারঅ্যাক্টেবল, লাফের পরিমাণ এবং স্পষ্ট বিপদের ভাষা।"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-puzzle-platformer": {
+    "name": "genre-puzzle-platformer",
+    "description": "ধাঁধা এবং প্ল্যাটফর্মার গেমের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে পাঠযোগ্য ইন্টারঅ্যাক্টেবল, লাফের পরিমাণ এবং স্পষ্ট বিপদের ভাষা।"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-racing-sports": {
+    "name": "genre-racing-sports",
+    "description": "রেসিং এবং স্পোর্টস গেমের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে ট্র্যাক ল্যান্ডমার্ক, স্টেডিয়াম কিট এবং উচ্চ-গতির পাঠযোগ্যতা।"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-racing-sports": {
+    "name": "genre-racing-sports",
+    "description": "রেসিং এবং স্পোর্টস গেমের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে ট্র্যাক ল্যান্ডমার্ক, স্টেডিয়াম কিট এবং উচ্চ-গতির পাঠযোগ্যতা।"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-rpg": {
+    "name": "genre-rpg",
+    "description": "RPG, JRPG, CRPG, ARPG এবং MMORPG বিশ্বের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে লুট দুর্লভতার পাঠ এবং অঞ্চলের পরিচয়।"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-rpg": {
+    "name": "genre-rpg",
+    "description": "RPG, JRPG, CRPG, ARPG এবং MMORPG বিশ্বের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে লুট দুর্লভতার পাঠ এবং অঞ্চলের পরিচয়।"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-shooter": {
+    "name": "genre-shooter",
+    "description": "FPS, TPS, শুটার, ব্যাটল রয়্যাল এবং এক্সট্রাকশন-শুটার মানচিত্র এবং প্রপের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে দৃষ্টিপথ এবং আশ্রয়ের ভাষা।"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-shooter": {
+    "name": "genre-shooter",
+    "description": "FPS, TPS, শুটার, ব্যাটল রয়্যাল এবং এক্সট্রাকশন-শুটার মানচিত্র এবং প্রপের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে দৃষ্টিপথ এবং আশ্রয়ের ভাষা।"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-soulslike": {
+    "name": "genre-soulslike",
+    "description": "সোলসলাইক গেমের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে মহাকাব্যিক বিষণ্ণতার স্থান, কুয়াশার গেট, বনফায়ার ল্যান্ডমার্ক এবং মারাত্মক পাঠযোগ্যতা।"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-soulslike": {
+    "name": "genre-soulslike",
+    "description": "সোলসলাইক গেমের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে মহাকাব্যিক বিষণ্ণতার স্থান, কুয়াশার গেট, বনফায়ার ল্যান্ডমার্ক এবং মারাত্মক পাঠযোগ্যতা।"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-stealth": {
+    "name": "genre-stealth",
+    "description": "স্টিলথ-গেমের স্থানের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে ছায়ার পরিমাণ, টহল-বান্ধব বিন্যাস এবং আড়ালের উপকরণ।"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-stealth": {
+    "name": "genre-stealth",
+    "description": "স্টিলথ-গেমের স্থানের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে ছায়ার পরিমাণ, টহল-বান্ধব বিন্যাস এবং আড়ালের উপকরণ।"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-strategy-sim": {
+    "name": "genre-strategy-sim",
+    "description": "স্ট্র্যাটেজি, RTS, টার্ন-বেইসড স্ট্র্যাটেজি, টাওয়ার ডিফেন্স, MOBA, সিটি বিল্ডার, কলোনি সিম এবং সিমুলেশন গেমের জন্য আর্ট ডিরেকশন, Blender-এর জন্য।"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-strategy-sim": {
+    "name": "genre-strategy-sim",
+    "description": "স্ট্র্যাটেজি, RTS, টার্ন-বেইসড স্ট্র্যাটেজি, টাওয়ার ডিফেন্স, MOBA, সিটি বিল্ডার, কলোনি সিম এবং সিমুলেশন গেমের জন্য আর্ট ডিরেকশন, Blender-এর জন্য।"
+  },
+  "arjun988/blender-skills:.claude/skills/genre-survival": {
+    "name": "genre-survival",
+    "description": "সার্ভাইভাল এবং সার্ভাইভাল-হরর গেমপ্লে স্থানের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে সম্পদের প্রপ, ক্রাফ্টিং পাঠযোগ্যতা এবং টেনশনের পথ।"
+  },
+  "arjun988/blender-skills:.cursor/skills/genre-survival": {
+    "name": "genre-survival",
+    "description": "সার্ভাইভাল এবং সার্ভাইভাল-হরর গেমপ্লে স্থানের জন্য আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে সম্পদের প্রপ, ক্রাফ্টিং পাঠযোগ্যতা এবং টেনশনের পথ।"
+  },
+  "arjun988/blender-skills:.claude/skills/geometry-nodes": {
+    "name": "geometry-nodes",
+    "description": "Blender Geometry Nodes প্রোসেসাল মডেলিং, স্ক্যাটার সিস্টেম, উদ্ভিদ, ভবন, পাইপ, কেবল এবং পুনর্ব্যবহারযোগ্য নোড গ্রুপের জন্য। প্রোসেসাল অ্যাসেট তৈরি এবং ইনস্ট্যান্সিং পাইপলাইনের জন্য ব্যবহার করুন, MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/geometry-nodes": {
+    "name": "geometry-nodes",
+    "description": "Blender Geometry Nodes প্রোসেসাল মডেলিং, স্ক্যাটার সিস্টেম, উদ্ভিদ, ভবন, পাইপ, কেবল এবং পুনর্ব্যবহারযোগ্য নোড গ্রুপের জন্য। প্রোসেসাল অ্যাসেট তৈরি এবং ইনস্ট্যান্সিং পাইপলাইনের জন্য ব্যবহার করুন, MCP-এর মাধ্যমে।"
+  },
+  "emilkowalski/skills:skills/gestures": {
+    "name": "gestures",
+    "description": "ড্র্যাগ, সোয়াইপ এবং শীট ইন্টারঅ্যাকশন তৈরি করুন যা আঙুলকে 1:1 অনুসরণ করে এবং বাধাপ্রাপ্ত থাকে। যখন কোনো ব্যবহারকারী কোনো জিনিস ড্র্যাগ, সোয়াইপ, ফ্লিং, হোল্ড বা জেস্চার দিয়ে বাতিল করে — ড্রয়ার, শীট, সোয়াইপ-টু-ডিসমিস টোস্ট এবং কার্ড, ড্র্যাগ-টু-রিঅর্ডার, পুল-টু-রিফ্রেশ, হোল্ড-টু-কনফার্ম — তখন এটি ব্যবহার করুন, অথবা যখন কোনো জেস্চার ল্যাগি মনে হয়, আঙুলের সাথে সংযুক্ত নেই, ছাড়ার সাথে লাফিয়ে যায় বা অ্যানিমেশনের মাঝে ধরা যায় না। ট্রিগার হয় — জেস্চার, ড্র্যাগ, সোয়াইপ, ফ্লিং, শীট, স্ন্যাপ পয়েন্ট, Vaul, Motion ড্র্যাগ প্রপ, রাবার-ব্যান্ড, পুল-টু-রিফ্রেশ, হোল্ড-টু-ডিলিট, টাচ-অ্যাকশন, \"doesn't follow my finger\", \"jumps when I let go\", \"can't grab it mid-animation\"।"
+  },
+  "arjun988/blender-skills:.claude/skills/godot-export": {
+    "name": "godot-export",
+    "description": "Godot-সংক্রান্ত Blender এক্সপোর্ট, যেখানে GLTF/GLB-কে অগ্রাধিকার দেওয়া হয়, সঠিক স্কেল, উপকরণ, অ্যানিমেশন ক্লিপ এবং সংঘর্ষের আকার সহ, MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/godot-export": {
+    "name": "godot-export",
+    "description": "Godot-সংক্রান্ত Blender এক্সপোর্ট, যেখানে GLTF/GLB-কে অগ্রাধিকার দেওয়া হয়, সঠিক স্কেল, উপকরণ, অ্যানিমেশন ক্লিপ এবং সংঘর্ষের আকার সহ, MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.claude/skills/hair-groom": {
+    "name": "hair-groom",
+    "description": "চুল এবং পশমের পরিচর্যা, Blender-এর জন্য, যেখানে কার্ভ, পার্টিকল চুল, জ্যামিতি নোড এবং গেম চুল-কার্ড ওয়ার্কফ্লো ব্যবহার করা হয়। চরিত্র, প্রাণী এবং রিয়েল-টাইম চুল-কার্ডের জন্য ব্যবহার করুন, MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/hair-groom": {
+    "name": "hair-groom",
+    "description": "চুল এবং পশমের পরিচর্যা, Blender-এর জন্য, যেখানে কার্ভ, পার্টিকল চুল, জ্যামিতি নোড এবং গেম চুল-কার্ড ওয়ার্কফ্লো ব্যবহার করা হয়। চরিত্র, প্রাণী এবং রিয়েল-টাইম চুল-কার্ডের জন্য ব্যবহার করুন, MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.claude/skills/hand-painted-style": {
+    "name": "hand-painted-style",
+    "description": "হাতে আঁকা টেক্সচারের আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে ব্রাশওয়ার্ক অ্যালবেডো, নরম মানের সংক্রমণ এবং স্টাইলাইজড PBR সংযম।"
+  },
+  "arjun988/blender-skills:.cursor/skills/hand-painted-style": {
+    "name": "hand-painted-style",
+    "description": "হাতে আঁকা টেক্সচারের আর্ট ডিরেকশন, Blender-এর জন্য, যেখানে রয়েছে ব্রাশওয়ার্ক অ্যালবেডো, নরম মানের সংক্রমণ এবং স্টাইলাইজড PBR সংযম।"
+  },
+  "arjun988/blender-skills:.claude/skills/hard-surface": {
+    "name": "hard-surface",
+    "description": "এএএ হার্ড সারফেস মডেলিং, যেখানে রয়েছে সায়েন্স ফিকশন, শিল্প, সামরিক, যানবাহন, অস্ত্র, রোবোটিক্স এবং যান্ত্রিক প্রপ। বুলিয়ান/বেভেল ওয়ার্কফ্লো, প্যানেল লাইন, গ্রীবলস, চ্যামফার্স এবং উৎপাদন-সঠিক পৃষ্ঠের জন্য ব্যবহার করুন, Blender-এর জন্য, MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/hard-surface": {
+    "name": "hard-surface",
+    "description": "এএএ হার্ড সারফেস মডেলিং, যেখানে রয়েছে সায়েন্স ফিকশন, শিল্প, সামরিক, যানবাহন, অস্ত্র, রোবোটিক্স এবং যান্ত্রিক প্রপ। বুলিয়ান/বেভেল ওয়ার্কফ্লো, প্যানেল লাইন, গ্রীবলস, চ্যামফার্স এবং উৎপাদন-সঠিক পৃষ্ঠের জন্য ব্যবহার করুন, Blender-এর জন্য, MCP-এর মাধ্যমে।"
+  },
+  "cexll/myclaude:skills/harness": {
+    "name": "harness",
+    "description": "এই দক্ষতাটি বহু-সেশনের স্বায়ত্তশাসিত এজেন্ট কাজের জন্য ব্যবহার করা উচিত, যেখানে প্রগতি চেকপয়েন্টিং, ব্যর্থতা পুনরুদ্ধার এবং কাজের নির্ভরতা ব্যবস্থাপনার প্রয়োজন হয়। ট্রিগার হয় '/harness' কমান্ডে, অথবা যখন কোনো কাজে অনেকগুলো সাবটাস্ক থাকে যেগুলোর প্রগতি ধরে রাখার প্রয়োজন হয়, প্রসঙ্গ উইন্ডোর মধ্যে ঘুম/পুনরুদ্ধার চক্র, আংশিক অবস্থা সহ কাজের মাঝে ব্যর্থতা থেকে পুনরুদ্ধার বা একাধিক এজেন্ট সেশনে বিতরিত কাজ। দীর্ঘস্থায়ী এজেন্টের জন্য অ্যান্থ্রোপিক এবং OpenAI ইঞ্জিনিয়ারিং অভ্যাস থেকে সংশ্লিষ্ট করা হয়েছে।"
+  },
+  "arjun988/blender-skills:.claude/skills/hd-2d-style": {
+    "name": "hd-2d-style",
+    "description": "HD-2D আর্ট ডিরেকশন, যেখানে পিক্সেল চরিত্র/স্প্রাইটকে 3D পরিবেশ, ডেপথ অফ ফিল্ড এবং থিয়েটারাল লাইটিং-এর সাথে একত্রিত করা হয়।"
+  },
+  "arjun988/blender-skills:.cursor/skills/hd-2d-style": {
+    "name": "hd-2d-style",
+    "description": "HD-2D আর্ট ডিরেকশন, যেখানে পিক্সেল চরিত্র/স্প্রাইটকে 3D পরিবেশ, ডেপথ অফ ফিল্ড এবং থিয়েটারাল লাইটিং-এর সাথে একত্রিত করা হয়।"
+  },
+  "arjun988/blender-skills:.claude/skills/historical-worlds": {
+    "name": "ঐতিহাসিক-বিশ্ব",
+    "description": "Blender-এর জন্য ঐতিহাসিক এবং পিরিয়ড বিশ্বের আর্ট ডিরেকশন, যার মধ্যে রয়েছে পাশ্চাত্য, জলদস্যু, সামুরাই/নিনজা, ভাইকিং, প্রাচীন মিশর/গ্রিস/রোম, ভিক্টোরিয়ান, আধুনিক এবং সামরিক যুগ।"
+  },
+  "arjun988/blender-skills:.cursor/skills/historical-worlds": {
+    "name": "ঐতিহাসিক-বিশ্ব",
+    "description": "Blender-এর জন্য ঐতিহাসিক এবং পিরিয়ড বিশ্বের আর্ট ডিরেকশন, যার মধ্যে রয়েছে পাশ্চাত্য, জলদস্যু, সামুরাই/নিনজা, ভাইকিং, প্রাচীন মিশর/গ্রিস/রোম, ভিক্টোরিয়ান, আধুনিক এবং সামরিক যুগ।"
+  },
+  "arjun988/blender-skills:.claude/skills/horror-style": {
+    "name": "ভয়ঙ্কর ধাঁচের",
+    "description": "Blender সম্পদগুলির জন্য মনস্তাত্ত্বিক ভয়ঙ্কর আর্ট ডিরেকশন, যা Silent Hill, Resident Evil, Chilla's Art, Fear to Fathom এবং Iron Lung থেকে অনুপ্রাণিত। এটি বিরল শিল্পায়ন পরিবেশ, এনালগ নান্দনিকতা এবং উত্তেজনাপূর্ণ আলোকসজ্জার জন্য ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/horror-style": {
+    "name": "ভয়ঙ্কর ধাঁচের",
+    "description": "Blender সম্পদগুলির জন্য মনস্তাত্ত্বিক ভয়ঙ্কর আর্ট ডিরেকশন, যা Silent Hill, Resident Evil, Chilla's Art, Fear to Fathom এবং Iron Lung থেকে অনুপ্রাণিত। এটি বিরল শিল্পায়ন পরিবেশ, এনালগ নান্দনিকতা এবং উত্তেজনাপূর্ণ আলোকসজ্জার জন্য ব্যবহার করুন।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/imitation-learning": {
+    "name": "অনুকরণ-শিক্ষণ",
+    "description": "রোবট পরিচালনার জন্য ব্যবহারিক অনুকরণ শিক্ষণ (প্রদর্শন থেকে শিক্ষণ): IL উপযুক্ত কিনা তা নির্ধারণ করা, প্রদর্শন সংগ্রহ ডিজাইন করা, পর্যবেক্ষণ এবং ক্রিয়া স্থান নির্বাচন করা, নীতি নির্বাচন ও কনফিগার করা (আচরণ ক্লোনিং, ACT, ডিফিউশন পলিসি, ফ্লো ম্যাচিং, OpenVLA-OFT, Octo, pi0/pi0.5, SmolVLA, GR00T এর মতো VLA), প্রশিক্ষণ এবং চেকপয়েন্ট নির্বাচন, বিশ্বাসযোগ্যতা সীমার সাথে সৎ রোলআউট মূল্যায়ন, স্থাপনের সময় এবং ব্যর্থতার নির্ণয়। ব্যবহারকারী যখন আচরণ ক্লোনিং, টেলিঅপারেশন ডেমো, লিডার-অনুসারী অস্ত্র, ক্রিয়া খণ্ডীকরণ, সময়মাত্রিক এনসেম্বলিং, VLA সূক্ষ্ম সমন্বয়, \"কতগুলি ডেমো\", সাফল্যের হার, নীতি মূল্যায়ন, DAgger বা হস্তক্ষেপ ডেটা, কোভ্যারিয়েট শিফট, এমন নীতি যা জমে যায়, কম্পন, ধরার ব্যর্থতা বা প্রশিক্ষণে কাজ করে কিন্তু রোবটে ব্যর্থ হয়, অথবা সিম এবং রিয়েল কো-ট্রেইনিং উল্লেখ করেন, তখন এই দক্ষতা ব্যবহার করুন।"
+  },
+  "emilkowalski/skills:skills/improve-animations": {
+    "name": "অ্যানিমেশন উন্নত করুন",
+    "description": "একজন সিনিয়র মোশন উপদেষ্টা হিসেবে একটি কোডবেসের অ্যানিমেশন এবং মোশন কোড সমীক্ষা করুন, তারপর অন্যান্য এজেন্ট (অথবা সস্তা মডেল) কর্তৃক সম্পাদনের জন্য অগ্রাধিকার ভিত্তিক অডিট এবং স্বনির্ভর বাস্তবায়ন পরিকল্পনা তৈরি করুন। এটি সোর্স কোডের জন্য শুধুমাত্র পড়ার অধিকারী — এটি উন্নতির পরিকল্পনা করে, তবে তা প্রয়োগ করে না। যখন ব্যবহারকারী \"অ্যানিমেশন উন্নত করুন\", \"মোশন অডিট করুন\", \"এই অ্যাপটিকে আরও ভালো করুন\" বলেন, অথবা একটি ব্যক্তিগত ডিফের পর্যালোচনার পরিবর্তে অ্যানিমেশন সংশোধনের একটি রোডম্যাপ চান, তখন এটি ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/indie-horror-aesthetics": {
+    "name": "ইন্ডি-ভয়ঙ্কর-নান্দনিকতা",
+    "description": "Blender-এর জন্য ইন্ডি ভয়ঙ্কর নান্দনিকতা প্যাক, যা Silent Hill, Fear to Fathom, Puppet Combo, কর্পোরেট ভয়ঙ্কর, কেবিন/বন/হাসপাতাল ভয়ঙ্কর এবং সংশ্লিষ্ট চেহারা কভার করে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/indie-horror-aesthetics": {
+    "name": "ইন্ডি-ভয়ঙ্কর-নান্দনিকতা",
+    "description": "Blender-এর জন্য ইন্ডি ভয়ঙ্কর নান্দনিকতা প্যাক, যা Silent Hill, Fear to Fathom, Puppet Combo, কর্পোরেট ভয়ঙ্কর, কেবিন/বন/হাসপাতাল ভয়ঙ্কর এবং সংশ্লিষ্ট চেহারা কভার করে।"
+  },
+  "anthropics/skills:skills/internal-comms": {
+    "name": "অভ্যন্তরীণ যোগাযোগ",
+    "description": "এমন একটি সংস্থান সেট যা আমাকে সব ধরনের অভ্যন্তরীণ যোগাযোগ লেখার সাহায্য করে, আমার কোম্পানি যে ফরম্যাটগুলি ব্যবহার করতে পছন্দ করে তা ব্যবহার করে। Claude যখনই কোনো ধরনের অভ্যন্তরীণ যোগাযোগ (স্ট্যাটাস রিপোর্ট, নেতৃত্বের আপডেট, 3P আপডেট, কোম্পানির নিউজলেটার, FAQ, ঘটনা রিপোর্ট, প্রকল্প আপডেট ইত্যাদি) লেখার জন্য বলা হয়, তখন এই দক্ষতা ব্যবহার করা উচিত।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/isaac-sim": {
+    "name": "isaac-sim",
+    "description": "রোবট শিক্ষণের জন্য NVIDIA Isaac Sim এবং Isaac Lab: ইনস্টল করা (uv, pip, বাইনারি, Docker, ক্লাউড), RTX GPU এবং ড্রাইভারের প্রয়োজনীয়তা, হেডলেস রান এবং লাইভস্ট্রিমিং, OpenUSD সম্পদ, URDF/MJCF আমদানি, ArticulationCfg এবং অ্যাকচুয়েটর, ম্যানেজার-ভিত্তিক এবং সরাসরি পরিবেশ, configclass, gymnasium টাস্ক রেজিস্ট্রেশন, rsl_rl, rl_games, skrl বা sb3 দিয়ে প্রশিক্ষণ এবং খেলা, সমান্তরাল পরিবেশ, টাইলড ক্যামেরা, কন্টাক্ট সেন্সর, রে কাস্টার, IMU, ফ্রেম ট্রান্সফর্মার, ইভেন্টের মাধ্যমে ডোমেইন র‍্যান্ডমাইজেশন, টেলিঅপারেশন, Isaac Lab Mimic, ROS 2 ব্রিজ, PhysX/Newton প্রিসেট, সলভার টিউনিং এবং বিস্ফোরিত আর্টিকুলেশন। যখন ব্যবহারকারী Isaac Sim, Isaac Lab, Omniverse, Kit, isaacsim বা isaaclab আমদানি, omni.isaac মডিউল, USD রোবট, URDF আমদানি, num_envs, Mimic, isaaclab ট্রেন বা প্লে, ManagerBasedRLEnv, DirectRLEnv, PresetCfg, Isaac Lab-এ Newton বা OvPhysX, অথবা Isaac Gym বা Isaac Lab 2.x থেকে স্থানান্তরের কথা বলেন, তখন এই দক্ষতা ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/isometric-style": {
+    "name": "আইসোমেট্রিক-ধাঁচের",
+    "description": "Blender-এর জন্য আইসোমেট্রিক এবং কৌশল খেলার আর্ট ডিরেকশন, যার মধ্যে রয়েছে ডায়োরামা ফ্রেমিং, সত্য আইসো ক্যামেরা সেটআপ, পাঠযোগ্য ছায়াচিত্র এবং টাইল সম্পদের নিয়ম।"
+  },
+  "arjun988/blender-skills:.cursor/skills/isometric-style": {
+    "name": "আইসোমেট্রিক-ধাঁচের",
+    "description": "Blender-এর জন্য আইসোমেট্রিক এবং কৌশল খেলার আর্ট ডিরেকশন, যার মধ্যে রয়েছে ডায়োরামা ফ্রেমিং, সত্য আইসো ক্যামেরা সেটআপ, পাঠযোগ্য ছায়াচিত্র এবং টাইল সম্পদের নিয়ম।"
+  },
+  "emilkowalski/skills:skills/learn-taste": {
+    "name": "স্বাদ শিখুন",
+    "description": "একটি সেশনের নকশা সংশোধনকে নিয়মে রূপান্তর করুন, তার কারণসহ, DESIGN.md-তে, একটি প্রকল্প দক্ষতা বা একটি লিন্ট চেকে।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/lerobot": {
+    "name": "lerobot",
+    "description": "Hugging Face LeRobot এন্ড-টু-এন্ড: ইনস্টল করা, হার্ডওয়্যার ব্রিং-আপ, ডেটাসেট রেকর্ডিং, প্রশিক্ষণ এবং রোবট শিক্ষণ নীতি স্থাপন। যখন ব্যবহারকারী LeRobot, lerobot-record, lerobot-train, lerobot-rollout, lerobot-teleoperate, lerobot-calibrate, lerobot-setup-motors, lerobot-find-port, lerobot-find-cameras, lerobot-eval, lerobot-edit-dataset, LeRobotDataset, SO-100, SO-101, SO-ARM100, Koch, LeKiwi, OMX, OpenArm, Feetech STS3215 সার্ভো, লিডার/অনুসারী টেলিঅপারেশন, ক্যালিব্রেশন ফাইল, ACT, ডিফিউশন পলিসি, SmolVLA, pi0/pi0.5, GR00T বা X-VLA সূক্ষ্ম সমন্বয় এবং LeRobot-এ রোবট ডেটাসেট, Hugging Face Hub-এ ডেটাসেট v2.1 থেকে v3.0 রূপান্তর, RTC বা রিমোট (অ্যাসিঙ্ক) ইনফারেন্স, অথবা LeRobot-এ HIL-SERL উল্লেখ করেন, তখন এই দক্ষতা ব্যবহার করুন। এছাড়াও LeRobot ত্রুটি যেমন ক্যালিব্রেশন মিসম্যাচ, FrameTimestampError বা টাইমস্ট্যাম্প সহনশীলতা লঙ্ঘন, ডেটাসেট এবং নীতির মধ্যে ক্যামেরা বা বৈশিষ্ট্যের নামের মিসম্যাচ, q01/q99 পরিstatistik এর অভাব, এবং Feetech \"ভুল স্ট্যাটাস প্যাকেট\" এর ক্ষেত্রেও এটি ট্রিগার করে।"
+  },
+  "arjun988/blender-skills:.claude/skills/lighting": {
+    "name": "আলোকসজ্জা",
+    "description": "Blender-এ চলচ্চিত্র এবং গেম আলোকসজ্জা, যার মধ্যে রয়েছে তিন-পয়েন্ট আলোকসজ্জা, HDRI, ভয়ঙ্কর আলোকসজ্জা, ভলিউমেট্রিক্স, রিম লাইটিং এবং মেজাজ-নির্ভর আলোকীকরণ। MCP-এর মাধ্যমে চেহারা উন্নয়ন এবং দৃশ্যের পরিবেশের জন্য ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/lighting": {
+    "name": "আলোকসজ্জা",
+    "description": "Blender-এ চলচ্চিত্র এবং গেম আলোকসজ্জা, যার মধ্যে রয়েছে তিন-পয়েন্ট আলোকসজ্জা, HDRI, ভয়ঙ্কর আলোকসজ্জা, ভলিউমেট্রিক্স, রিম লাইটিং এবং মেজাজ-নির্ভর আলোকীকরণ। MCP-এর মাধ্যমে চেহারা উন্নয়ন এবং দৃশ্যের পরিবেশের জন্য ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/liminal-space-style": {
+    "name": "লিমিনাল-স্পেস-ধাঁচের",
+    "description": "Blender-এর জন্য লিমিনাল স্পেস এবং Backrooms আর্ট ডিরেকশন, যার মধ্যে রয়েছে খালি সংক্রমণ স্থাপত্য, ভুল পরিচিতি এবং অন্তহীন পুনরাবৃত্তি।"
+  },
+  "arjun988/blender-skills:.cursor/skills/liminal-space-style": {
+    "name": "লিমিনাল-স্পেস-ধাঁচের",
+    "description": "Blender-এর জন্য লিমিনাল স্পেস এবং Backrooms আর্ট ডিরেকশন, যার মধ্যে রয়েছে খালি সংক্রমণ স্থাপত্য, ভুল পরিচিতি এবং অন্তহীন পুনরাবৃত্তি।"
+  },
+  "arjun988/blender-skills:.claude/skills/lod-pipeline": {
+    "name": "lod-পাইপলাইন",
+    "description": "গেম মেশগুলির জন্য নিবেদিত LOD তৈরি, নামকরণ, স্ক্রিন-সাইজ লক্ষ্য এবং যাচাইকরণ, Blender-এর মাধ্যমে MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/lod-pipeline": {
+    "name": "lod-পাইপলাইন",
+    "description": "গেম মেশগুলির জন্য নিবেদিত LOD তৈরি, নামকরণ, স্ক্রিন-সাইজ লক্ষ্য এবং যাচাইকরণ, Blender-এর মাধ্যমে MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.claude/skills/lookdev": {
+    "name": "lookdev",
+    "description": "Blender সম্পদগুলির জন্য লুক ডেভেলপমেন্ট লুপ, যেখানে ম্যাটেরিয়াল, আলোকসজ্জা, ক্যামেরা এবং স্ক্রিনশট তুলনা করে শেডিং সঠিকভাবে পড়া পর্যন্ত একত্রিত করা হয় MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/lookdev": {
+    "name": "lookdev",
+    "description": "Blender সম্পদগুলির জন্য লুক ডেভেলপমেন্ট লুপ, যেখানে ম্যাটেরিয়াল, আলোকসজ্জা, ক্যামেরা এবং স্ক্রিনশট তুলনা করে শেডিং সঠিকভাবে পড়া পর্যন্ত একত্রিত করা হয় MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.claude/skills/lowpoly-style": {
+    "name": "lowpoly-ধাঁচের",
+    "description": "Blender-এর জন্য লো-পলি আর্ট ডিরেকশন, যা PS1/PS2, Lethal Company, Mouthwashing এবং Fear to Fathom থেকে অনুপ্রাণিত। পাঠযোগ্য ছায়াচিত্র, সামান্য পলিগন, সহজ ম্যাটেরিয়াল এবং শক্তিশালী পরিবেশের জন্য ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/lowpoly-style": {
+    "name": "lowpoly-ধাঁচের",
+    "description": "Blender-এর জন্য লো-পলি আর্ট ডিরেকশন, যা PS1/PS2, Lethal Company, Mouthwashing এবং Fear to Fathom থেকে অনুপ্রাণিত। পাঠযোগ্য ছায়াচিত্র, সামান্য পলিগন, সহজ ম্যাটেরিয়াল এবং শক্তিশালী পরিবেশের জন্য ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/manga-style": {
+    "name": "manga-ধাঁচের",
+    "description": "Blender-এর জন্য মাঙ্গা-অনুপ্রাণিত আর্ট ডিরেকশন, যেখানে মনোক্রোম ভ্যালু ডিজাইন, স্পিড লাইন, স্ক্রিনটোন অনুভূতি এবং মাঙ্গা প্যানেল স্টেজিংকে গুরুত্ব দেওয়া হয়।"
+  },
+  "arjun988/blender-skills:.cursor/skills/manga-style": {
+    "name": "manga-ধাঁচের",
+    "description": "Blender-এর জন্য মাঙ্গা-অনুপ্রাণিত আর্ট ডিরেকশন, যেখানে মনোক্রোম ভ্যালু ডিজাইন, স্পিড লাইন, স্ক্রিনটোন অনুভূতি এবং মাঙ্গা প্যানেল স্টেজিংকে গুরুত্ব দেওয়া হয়।"
+  },
+  "arjun988/blender-skills:.claude/skills/mascot-puppet-horror": {
+    "name": "মাসকট-পুতুল-ভয়ঙ্কর",
+    "description": "Blender-এর জন্য মাসকট এবং পুতুল ভয়ঙ্কর আর্ট ডিরেকশন, যেখানে আনন্দদায়ক ব্র্যান্ড চরিত্রগুলিকে ভুলভাবে তৈরি করা হয়, ফেল্ট/ফোম উপাদান এবং অদ্ভুত পারফরম্যান্স রয়েছে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/mascot-puppet-horror": {
+    "name": "মাসকট-পুতুল-ভয়ঙ্কর",
+    "description": "Blender-এর জন্য মাসকট এবং পুতুল ভয়ঙ্কর আর্ট ডিরেকশন, যেখানে আনন্দদায়ক ব্র্যান্ড চরিত্রগুলিকে ভুলভাবে তৈরি করা হয়, ফেল্ট/ফোম উপাদান এবং অদ্ভুত পারফরম্যান্স রয়েছে।"
+  },
+  "arjun988/blender-skills:.claude/skills/materials": {
+    "name": "ম্যাটেরিয়াল",
+    "description": "Blender PBR এবং ধাতু, কাঠ, কংক্রিট, কাপড়, কাচ, মাটি, মরিচা এবং প্রোসেসুয়াল শেডারের জন্য স্টাইলাইজড ম্যাটেরিয়াল তৈরি। লুক ডেভেলপমেন্ট, ম্যাটেরিয়াল পুনর্ব্যবহার এবং Blender-এর মাধ্যমে প্রোডাকশন শেডিং এর জন্য ব্যবহার করুন MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/materials": {
+    "name": "ম্যাটেরিয়াল",
+    "description": "Blender PBR এবং ধাতু, কাঠ, কংক্রিট, কাপড়, কাচ, মাটি, মরিচা এবং প্রোসেসুয়াল শেডারের জন্য স্টাইলাইজড ম্যাটেরিয়াল তৈরি। লুক ডেভেলপমেন্ট, ম্যাটেরিয়াল পুনর্ব্যবহার এবং Blender-এর মাধ্যমে প্রোডাকশন শেডিং এর জন্য ব্যবহার করুন MCP-এর মাধ্যমে।"
+  },
+  "anthropics/skills:skills/mcp-builder": {
+    "name": "mcp-builder",
+    "description": "উচ্চ-মানের MCP (Model Context Protocol) সার্ভার তৈরির গাইড, যা LLM-দের ভালো ডিজাইন করা সরঞ্জামের মাধ্যমে বাহ্যিক পরিষেবাগুলির সাথে যোগাযোগ করতে সক্ষম করে। যখন বাহ্যিক API বা পরিষেবা একত্রিত করার জন্য MCP সার্ভার তৈরি করা হয়, তখন এই দক্ষতা ব্যবহার করুন, সেটা হোক আপনি Python (FastMCP) ব্যবহার করছেন অথবা Node/TypeScript (MCP SDK)।"
+  },
+  "arjun988/blender-skills:.claude/skills/minimalist-style": {
+    "name": "ন্যূনতম-ধাঁচের",
+    "description": "Blender-এর জন্য ন্যূনতম এবং বিমূর্ত-প্রবণ আর্ট ডিরেকশন, যেখানে সংক্ষিপ্ত আকার, সীমিত প্যালেট এবং নেগেটিভ স্পেস রয়েছে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/minimalist-style": {
+    "name": "ন্যূনতম-ধাঁচের",
+    "description": "Blender-এর জন্য ন্যূনতম এবং বিমূর্ত-প্রবণ আর্ট ডিরেকশন, যেখানে সংক্ষিপ্ত আকার, সীমিত প্যালেট এবং নেগেটিভ স্পেস রয়েছে।"
+  },
+  "emilkowalski/skills:skills/mobile-native": {
+    "name": "মোবাইল-নেটিভ",
+    "description": "একটি ওয়েব অ্যাপকে ফোনে নেটিভ অনুভূতি দিন — ছোট সিএসএস এবং মেটা-ট্যাগ সংশোধন, যা একটি ওয়েবসাইটকে ব্রাউজারে \" থেকে আলাদা করে একটি ইনস্টল করা অনুভূতি দেয়। স্টিকি হোভার স্টেট, ট্যাপ হাইলাইট ফ্ল্যাশ, 100vh বাগ, পৃষ্ঠাকে জুম করে নেওয়া ইনপুট, ল্যাগি ট্যাপ, পুল-টু-রিফ্রেশ স্ক্রল হাইজ্যাকিং, নচের নিচের কন্টেন্ট, লং-প্রেস বাটন টেক্সট নির্বাচন, ভুল দিকে স্ক্রল করা ক্যারোসেল, মিসম্যাচ স্ট্যাটাস বার এবং নিয়ম, যেখানে আপনি আসল হার্ডওয়্যারে পরীক্ষা করেন। যখন কোনো ওয়েব অ্যাপ মোবাইলের জন্য তৈরি বা পর্যালোচনা করা হচ্ছে, যখন কোনো জিনিস \"ক্রোমে কাজ করে কিন্তু আমার ফোনে \"অনুভূতি ভুল হয়, যখন কোনো PWA, বটম শীট, ক্যারোসেল, ফুল-স্ক্রিন লেআউট বা যেকোনো টাচ ইন্টারঅ্যাকশন তৈরি করা হচ্ছে, তখন এই দক্ষতা ব্যবহার করুন। মোশনের জন্য ব্যবহার করুন animate; React Native-এর জন্য ব্যবহার করুন animate-expo।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/mujoco": {
+    "name": "mujoco",
+    "description": "রোবটিক্সের জন্য MuJoCo পদার্থবিজ্ঞান সিমুলেশন: MJCF মডেল লেখা এবং ডিবাগিং, URDF আমদানি, সিমুলেশন, নিয়ন্ত্রণ এবং রেন্ডারিং Python-এর মাধ্যমে, কন্টাক্ট টিউনিং এবং ব্যাচড GPU সিমুলেশন চালানো। যখন ব্যবহারকারী MuJoCo, MJCF, mujoco.MjModel / MjData, mj_step, MjSpec, mujoco.Renderer, MUJOCO_GL, EGL/OSMesa হেডলেস রেন্ডারিং, প্যাসিভ ভিউয়ার বা MuJoCo Studio, MuJoCo Menagerie (Franka, UR5e, SO-100/SO-101, ALOHA, G1), MJX, MuJoCo Warp (mujoco_warp), MuJoCo Playground, dm_control বা Gymnasium MuJoCo envs উল্লেখ করেন, তখন এই দক্ষতা ব্যবহার করুন। কন্টাক্ট টিউনিং (solref, solimp, condim, ঘর্ষণ, impratio, noslip), বিস্ফোরিত বা কম্পনযুক্ত সিমুলেশন, বস্তু ডুবে যাওয়া বা ধরার ব্যর্থতা, পজিশন অ্যাকচুয়েটর kp/kv, জয়েন্ট আর্মেচার এবং ড্যাম্পিং, contype/conaffinity কলিশন ফিল্টারিং, কিফ্রেম, ইন্টিগ্রেটর এবং টাইমস্টেপ পছন্দ, এবং সিম-টু-রিয়েলের জন্য MuJoCo মডেল ফিল্ডের সিস্টেম আইডেন্টিফিকেশন বা ডোমেইন র‍্যান্ডমাইজেশনের জন্যও এটি ট্রিগার করে।"
+  },
+  "arjun988/blender-skills:.claude/skills/neon-retrofuturism": {
+    "name": "neon-retrofuturism",
+    "description": "Blender-এর জন্য নিয়ন, ভ্যাপারওয়েভ, সিন্থওয়েভ এবং রেট্রোফিউচারিস্ট মেজাজ/আর্ট ডিরেকশন, যার মধ্যে রয়েছে গ্রিড হরাইজন, ক্রোম এবং সন্ধ্যা প্যালেট।"
+  },
+  "arjun988/blender-skills:.cursor/skills/neon-retrofuturism": {
+    "name": "neon-retrofuturism",
+    "description": "Blender-এর জন্য নিয়ন, ভ্যাপারওয়েভ, সিন্থওয়েভ এবং রেট্রোফিউচারিস্ট মেজাজ/আর্ট ডিরেকশন, যার মধ্যে রয়েছে গ্রিড হরাইজন, ক্রোম এবং সন্ধ্যা প্যালেট।"
+  },
+  "arjun988/blender-skills:.claude/skills/noir-style": {
+    "name": "noir-ধাঁচের",
+    "description": "Blender-এর জন্য নয়ার আর্ট ডিরেকশন, যার মধ্যে রয়েছে উচ্চ-কন্ট্রাস্ট আলোকসজ্জা, ভেজা রাস্তা, ছায়াচিত্র এবং মনোক্রোম বা সীমিত রঙের গ্রেডিং।"
+  },
+  "arjun988/blender-skills:.cursor/skills/noir-style": {
+    "name": "noir-ধাঁচের",
+    "description": "Blender-এর জন্য নয়ার আর্ট ডিরেকশন, যার মধ্যে রয়েছে উচ্চ-কন্ট্রাস্ট আলোকসজ্জা, ভেজা রাস্তা, ছায়াচিত্র এবং মনোক্রোম বা সীমিত রঙের গ্রেডিং।"
+  },
+  "cexll/myclaude:skills/omo": {
+    "name": "omo",
+    "description": "যখন আপনি `/omo` দেখেন, তখন এই দক্ষতা ব্যবহার করুন। \"কোড বিশ্লেষণ / বাগ তদন্ত / ফিক্স প্ল্যানিং / বাস্তবায়ন \"-এর জন্য মাল্টি-এজেন্ট অর্কেস্ট্রেশন। কাজের ধরন + ঝুঁকির ভিত্তিতে ন্যূনতম এজেন্ট সেট এবং ক্রম নির্বাচন করুন; নিচের রেসিপি সাধারণ প্যাটার্ন দেখায়।"
+  },
+  "arjun988/blender-skills:.claude/skills/painterly-style": {
+    "name": "painterly-style",
+    "description": "পেইন্টারলি আর্ট ডিরেকশন, যা ওয়াটারকালার এবং তেল চিত্রের চেহারা জুড়ে বিস্তৃত, Blender-এর জন্য নরম প্রান্ত, পিগমেন্ট টেক্সচার এবং চিত্রকল্প আলোকসজ্জা ব্যবহার করে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/painterly-style": {
+    "name": "painterly-style",
+    "description": "পেইন্টারলি আর্ট ডিরেকশন, যা ওয়াটারকালার এবং তেল চিত্রের চেহারা জুড়ে বিস্তৃত, Blender-এর জন্য নরম প্রান্ত, পিগমেন্ট টেক্সচার এবং চিত্রকল্প আলোকসজ্জা ব্যবহার করে।"
+  },
+  "anthropics/skills:skills/pdf": {
+    "name": "pdf",
+    "description": "যখনই ব্যবহারকারী PDF ফাইলের সাথে কিছু করতে চান, তখন এই দক্ষতা ব্যবহার করুন। এর মধ্যে রয়েছে PDF-এর থেকে টেক্সট/টেবিল পড়া বা বের করা, একাধিক PDF-কে একটিতে একত্রিত করা, PDF-কে আলাদা করা, পৃষ্ঠা ঘোরানো, ওয়াটারমার্ক যোগ করা, নতুন PDF তৈরি করা, PDF ফর্ম পূরণ করা, PDF এনক্রিপ্ট/ডিক্রিপ্ট করা, ছবি বের করা এবং স্ক্যান করা PDF-এর ওপর OCR করে তাদের অনুসন্ধানযোগ্য করা। যদি ব্যবহারকারী .pdf ফাইল উল্লেখ করেন বা একটি তৈরি করতে বলেন, তখন এই দক্ষতা ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/physics-sim": {
+    "name": "physics-sim",
+    "description": "Blender-এ কঠিন শরীর, নরম শরীর এবং ধ্বংসের সেটআপ, যার মধ্যে রয়েছে কনস্ট্রেইন্ট, সেল ফ্র্যাকচার ডেব্রিস এবং বেকড ক্যাশে MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/physics-sim": {
+    "name": "physics-sim",
+    "description": "Blender-এ কঠিন শরীর, নরম শরীর এবং ধ্বংসের সেটআপ, যার মধ্যে রয়েছে কনস্ট্রেইন্ট, সেল ফ্র্যাকচার ডেব্রিস এবং বেকড ক্যাশে MCP-এর মাধ্যমে।"
+  },
+  "emilkowalski/skills:skills/pick-ui-library": {
+    "name": "pick-ui-library",
+    "description": "একটি ফ্রন্টএন্ড কাজের জন্য লাইব্রেরি নির্বাচন করুন একটি পরিশীলিত তালিকা থেকে — প্রিমিটিভ, টোস্ট, ড্রয়ার, কমান্ড মেনু, OTP, নম্বর, চার্ট, ভার্চুয়ালাইজেশন, ড্র্যাগ অ্যান্ড ড্রপ, স্টেট, স্টাইলিং।"
+  },
+  "arjun988/blender-skills:.claude/skills/pixel-art-style": {
+    "name": "pixel-art-style",
+    "description": "পিক্সেল-আর্ট এবং টেক্সেল-সীমাবদ্ধ আর্ট ডিরেকশন, যা Blender সম্পদগুলির জন্য উদ্দিষ্ট, যেগুলি পিক্সেল রেন্ডারিং, কম-রেজোলিউশন টেক্সচার বা HD-2D-সংলগ্ন পিক্সেল রিডের জন্য ব্যবহার করা হয়।"
+  },
+  "arjun988/blender-skills:.cursor/skills/pixel-art-style": {
+    "name": "pixel-art-style",
+    "description": "পিক্সেল-আর্ট এবং টেক্সেল-সীমাবদ্ধ আর্ট ডিরেকশন, যা Blender সম্পদগুলির জন্য উদ্দিষ্ট, যেগুলি পিক্সেল রেন্ডারিং, কম-রেজোলিউশন টেক্সচার বা HD-2D-সংলগ্ন পিক্সেল রিডের জন্য ব্যবহার করা হয়।"
+  },
+  "anthropics/skills:skills/pptx": {
+    "name": "pptx",
+    "description": "যেকোনো সময় এই দক্ষতাটি ব্যবহার করুন যখন .pptx বা .potx ফাইল কোনোভাবে জড়িত থাকে — ইনপুট, আউটপুট অথবা উভয় হিসেবে। এর মধ্যে অন্তর্ভুক্ত: স্লাইড ডেক, পিচ ডেক বা উপস্থাপনা তৈরি; যেকোনো .pptx বা .potx ফাইল থেকে পাঠ্য পড়া, পার্স করা বা নিষ্কাশন করা (এমনকি যদি নিষ্কাশিত উপাদানটি অন্য কোথাও ব্যবহার করা হয়, যেমন ইমেল বা সারসংক্ষেপে); বিদ্যমান উপস্থাপনাগুলো সম্পাদনা, পরিবর্তন বা হালনাগাদ করা; স্লাইড ফাইলগুলো একত্রিত করা বা বিভক্ত করা; টেমপ্লেট (.potx), লেআউট, স্পিকার নোট বা মন্তব্যের সাথে কাজ করা। যখনই ব্যবহারকারী \\\"deck,\\\" \\\"slides,\\\" \\\"presentation,\\\" উল্লেখ করেন বা কোনো .pptx বা .potx ফাইলের নাম উল্লেখ করেন, তখনই এই দক্ষতাটি ট্রিগার করুন, উপাদানটি পরবর্তীতে তারা কী করতে চান না কেন। যদি কোনো .pptx বা .potx ফাইল খোলা, তৈরি বা স্পর্শ করার প্রয়োজন হয়, তবে এই দক্ষতাটি ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/procedural-modeling": {
+    "name": "procedural-modeling",
+    "description": "জিওমেট্রি নোডস এবং মডিফায়ার-ভিত্তিক ওয়ার্কফ্লো ব্যবহার করে Blender এর মাধ্যমে MCP এর মাধ্যমে শিলা, ভবন, উদ্ভিদ, রাস্তা, ভূখণ্ড, পাইপ, তার এবং সায়েন্স ফিকশন প্যানেলের জন্য প্রক্রিয়াজাত সম্পদ তৈরি।"
+  },
+  "arjun988/blender-skills:.cursor/skills/procedural-modeling": {
+    "name": "procedural-modeling",
+    "description": "জিওমেট্রি নোডস এবং মডিফায়ার-ভিত্তিক ওয়ার্কফ্লো ব্যবহার করে Blender এর মাধ্যমে MCP এর মাধ্যমে শিলা, ভবন, উদ্ভিদ, রাস্তা, ভূখণ্ড, পাইপ, তার এবং সায়েন্স ফিকশন প্যানেলের জন্য প্রক্রিয়াজাত সম্পদ তৈরি।"
+  },
+  "cexll/myclaude:skills/product-requirements": {
+    "name": "product-requirements",
+    "description": "প্রয়োজনীয়তা সংগ্রহ, বিশ্লেষণ এবং PRD তৈরির জন্য ইন্টারেক্টিভ প্রোডাক্ট অর্নার দক্ষতা। যখন ব্যবহারকারীরা পণ্যের প্রয়োজনীয়তা, বৈশিষ্ট্য স্পেসিফিকেশন, PRD তৈরির অনুরোধ করেন বা প্রকল্পের প্রয়োজনীয়তা বুঝতে এবং নথিভুক্ত করতে সাহায্যের প্রয়োজন পান, তখন এটি ট্রিগার হয়। পেশাদার PRD নথি তৈরির আগে বিস্তারিত প্রয়োজনীয়তা নিশ্চিত করতে মান স্কোরিং এবং পুনরাবৃত্তিমূলক সংলাপ ব্যবহার করে।"
+  },
+  "arjun988/blender-skills:.claude/skills/prop-artist": {
+    "name": "prop-artist",
+    "description": "আসবাবপত্র, সরঞ্জাম, গৃহস্থালি জিনিসপত্র, কিটবাশ অংশ এবং পাঠযোগ্য গেম প্রপের জন্য দৈনন্দিন এবং নায়ক প্রপ মডেলিং। যখন হার্ড-সার্ফেস খুব সায়েন্স ফিকশন/যান্ত্রিক এবং সম্পদটি একটি ভূমিগত প্রপ হয়, তখন এটি ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/prop-artist": {
+    "name": "prop-artist",
+    "description": "আসবাবপত্র, সরঞ্জাম, গৃহস্থালি জিনিসপত্র, কিটবাশ অংশ এবং পাঠযোগ্য গেম প্রপের জন্য দৈনন্দিন এবং নায়ক প্রপ মডেলিং। যখন হার্ড-সার্ফেস খুব সায়েন্স ফিকশন/যান্ত্রিক এবং সম্পদটি একটি ভূমিগত প্রপ হয়, তখন এটি ব্যবহার করুন।"
+  },
+  "emilkowalski/skills:skills/prototype": {
+    "name": "prototype",
+    "description": "আপনি যে ইউআই অংশটি বর্ণনা করেন তার একাধিক সত্যিকারের ভিন্ন সংস্করণ তৈরি করুন, যা একটি ভিজ্যুয়াল পিকারের পিছনে রেন্ডার করা হয় যাতে আপনি সরাসরি তাদের মধ্যে ঘুরে দেখতে পারেন এবং যেটি সঠিক মনে হয় তা প্রচার করতে পারেন।"
+  },
+  "cexll/myclaude:skills/prototype-prompt-generator": {
+    "name": "prototype-prompt-generator",
+    "description": "যখন ব্যবহারকারীদের ইউআই/ইউএক্স প্রোটোটাইপ তৈরির জন্য বিস্তারিত, কাঠামোগত প্রম্পট তৈরির প্রয়োজন হয়, তখন এই দক্ষতাটি ব্যবহার করা উচিত। যখন ব্যবহারকারীরা \"create a prototype prompt\", \"design a mobile app\", \"generate UI specifications\", বা ওয়েব/মোবাইল অ্যাপ্লিকেশনের জন্য বিস্তারিত নকশা নথির প্রয়োজন পান, তখন এটি ট্রিগার হয়। এটি WeChat Work, iOS Native, Material Design এবং Ant Design Mobile সহ একাধিক নকশা সিস্টেমের সাথে কাজ করে।"
+  },
+  "arjun988/blender-skills:.claude/skills/psx-horror-style": {
+    "name": "psx-horror-style",
+    "description": "PS1/PSX যুগের ভূতুড়ে আর্ট ডিরেকশন, যা লো-পলি অ্যাফাইন টেক্সচার, সীমিত রঙের গভীরতা, কুয়াশা এবং মনস্তাত্ত্বিক ভূতুড়ে স্টেজিং একত্রিত করে Blender সম্পদগুলোর জন্য।"
+  },
+  "arjun988/blender-skills:.cursor/skills/psx-horror-style": {
+    "name": "psx-horror-style",
+    "description": "PS1/PSX যুগের ভূতুড়ে আর্ট ডিরেকশন, যা লো-পলি অ্যাফাইন টেক্সচার, সীমিত রঙের গভীরতা, কুয়াশা এবং মনস্তাত্ত্বিক ভূতুড়ে স্টেজিং একত্রিত করে Blender সম্পদগুলোর জন্য।"
+  },
+  "arjun988/blender-skills:.claude/skills/qa-review": {
+    "name": "qa-review",
+    "description": "Blender সম্পদগুলোর জন্য প্রোডাকশন QA গেট, যা ভিউপোর্ট স্ক্রিনশট, ভ্যালিডেশন চেকলিস্ট, নেমিং অডিট এবং MCP এর মাধ্যমে শিপ/নো-শিপ রায় ব্যবহার করে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/qa-review": {
+    "name": "qa-review",
+    "description": "Blender সম্পদগুলোর জন্য প্রোডাকশন QA গেট, যা ভিউপোর্ট স্ক্রিনশট, ভ্যালিডেশন চেকলিস্ট, নেমিং অডিট এবং MCP এর মাধ্যমে শিপ/নো-শিপ রায় ব্যবহার করে।"
+  },
+  "arjun988/blender-skills:.claude/skills/realistic-style": {
+    "name": "realistic-style",
+    "description": "Blender এর জন্য ফটোরিয়ালিস্টিক AAA আর্ট ডিরেকশন, যার মধ্যে ফটোগ্রামেট্রি ক্লিনআপ, বাস্তব বিশ্বের স্কেল, হাই-পলি ওয়ার্কফ্লো, PBR নির্ভুলতা এবং স্ক্যান অপ্টিমাইজেশন অন্তর্ভুক্ত। সিনেম্যাটিক এবং AAA গেমের বাস্তবতার জন্য এটি ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/realistic-style": {
+    "name": "realistic-style",
+    "description": "Blender এর জন্য ফটোরিয়ালিস্টিক AAA আর্ট ডিরেকশন, যার মধ্যে ফটোগ্রামেট্রি ক্লিনআপ, বাস্তব বিশ্বের স্কেল, হাই-পলি ওয়ার্কফ্লো, PBR নির্ভুলতা এবং স্ক্যান অপ্টিমাইজেশন অন্তর্ভুক্ত। সিনেম্যাটিক এবং AAA গেমের বাস্তবতার জন্য এটি ব্যবহার করুন।"
+  },
+  "JimLiu/baoyu-skills:.claude/skills/release-skills": {
+    "name": "release-skills",
+    "description": "সর্বজনীন রিলিজ ওয়ার্কফ্লো। স্বয়ংক্রিয়ভাবে ভার্সন ফাইল এবং চেঞ্জলগ সনাক্ত করে। Node.js, Python, Rust, Claude Plugin, GitHub Releases, অ্যানোটেটেড ট্যাগ, ঐতিহাসিক রিলিজ ব্যাকফিল এবং জেনেরিক প্রজেক্ট সমর্থন করে। যখন ব্যবহারকারী বলে \"release\", \"发布\", \"new version\", \"bump version\", \"push\", \"推送\", \"release notes\", \"GitHub Release\", বা \"回填 Release\", তখন এটি ব্যবহার করুন।"
+  },
+  "emilkowalski/skills:skills/remove-animations": {
+    "name": "remove-animations",
+    "description": "এমন অ্যানিমেশন খুঁজে বের করুন যা কোনো ইন্টারফেসের প্রয়োজন নেই এবং সেগুলো সরিয়ে দিন — কীবোর্ড অ্যাকশনের মোশন, উচ্চ ফ্রিকোয়েন্সি সারফেস, কার্যকরী ডেটা এবং কোনো উদ্দেশ্যহীন সজ্জা — এবং তারপর তাদের পরে যা থাকে তা পরিষ্কার করুন। কোড সম্পাদনা করে, কিন্তু শুধুমাত্র বিয়োগ করার জন্য; এটি কখনোই মোশন যোগ করে না বা পুনরায় টিউন করে না। যখন ব্যবহারকারী বলে অ্যাপটি \"feels slow\", \"has too much animation\", \"feels over-animated\", বা চায় \"tone down the motion\", অথবা কোন অ্যানিমেশন সরাতে হবে তা জানতে চায়, তখন এটি ব্যবহার করুন। যে জায়গাগুলো অ্যানিমেট করা উচিত, তা খুঁজে বের করার জন্য find-animation-opportunities ব্যবহার করুন; যে অ্যানিমেশনগুলো থাকা উচিত, তা ঠিক করার জন্য improve-animations বা review-animations ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/rendering": {
+    "name": "rendering",
+    "description": "Blender সিক্লস এবং ইভি ব্যবহার করে রেন্ডারিং, যার মধ্যে স্যাম্পলিং, ডেনয়েসিং, ক্যামেরা সেটআপ, রেন্ডার পাস, কালার ম্যানেজমেন্ট এবং রেন্ডার অপ্টিমাইজেশন অন্তর্ভুক্ত। চূড়ান্ত আউটপুট এবং লুক ভ্যালিডেশনের জন্য MCP এর মাধ্যমে এটি ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/rendering": {
+    "name": "rendering",
+    "description": "Blender সিক্লস এবং ইভি ব্যবহার করে রেন্ডারিং, যার মধ্যে স্যাম্পলিং, ডেনয়েসিং, ক্যামেরা সেটআপ, রেন্ডার পাস, কালার ম্যানেজমেন্ট এবং রেন্ডার অপ্টিমাইজেশন অন্তর্ভুক্ত। চূড়ান্ত আউটপুট এবং লুক ভ্যালিডেশনের জন্য MCP এর মাধ্যমে এটি ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/retopology": {
+    "name": "retopology",
+    "description": "প্রোডাকশন রেটোপোলজি, যা অ্যানিমেশন-প্রস্তুত, লো-পলি, কোয়াড-ডোমিন্যান্ট মেশের জন্য যথাযথ এজ লুপ এবং কার্যকর পলিগন ফ্লো সহ। স্কাল্পিং বা হাই-পলি মডেলিং এর পরে, রিগিং এবং UV কাজের আগে Blender এর মাধ্যমে MCP এর মাধ্যমে এটি ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/retopology": {
+    "name": "retopology",
+    "description": "প্রোডাকশন রেটোপোলজি, যা অ্যানিমেশন-প্রস্তুত, লো-পলি, কোয়াড-ডোমিন্যান্ট মেশের জন্য যথাযথ এজ লুপ এবং কার্যকর পলিগন ফ্লো সহ। স্কাল্পিং বা হাই-পলি মডেলিং এর পরে, রিগিং এবং UV কাজের আগে Blender এর মাধ্যমে MCP এর মাধ্যমে এটি ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.claude/skills/retro-16bit-style": {
+    "name": "retro-16bit-style",
+    "description": "রেট্রো 16-বিট আর্ট ডিরেকশন, যা Blender-সহায়তায় SNES/Genesis যুগের রঙের সমৃদ্ধি, ডিথার সংকেত এবং স্প্রাইট-মতো স্বচ্ছতা প্রদান করে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/retro-16bit-style": {
+    "name": "retro-16bit-style",
+    "description": "রেট্রো 16-বিট আর্ট ডিরেকশন, যা Blender-সহায়তায় SNES/Genesis যুগের রঙের সমৃদ্ধি, ডিথার সংকেত এবং স্প্রাইট-মতো স্বচ্ছতা প্রদান করে।"
+  },
+  "arjun988/blender-skills:.claude/skills/retro-8bit-style": {
+    "name": "retro-8bit-style",
+    "description": "রেট্রো 8-বিট আর্ট ডিরেকশন, যা Blender-সহায়তায় NES যুগের সীমাবদ্ধতা থেকে অনুপ্রাণিত পিক্সেল/লো-রেজ নান্দনিকতার জন্য।"
+  },
+  "arjun988/blender-skills:.cursor/skills/retro-8bit-style": {
+    "name": "retro-8bit-style",
+    "description": "রেট্রো 8-বিট আর্ট ডিরেকশন, যা Blender-সহায়তায় NES যুগের সীমাবদ্ধতা থেকে অনুপ্রাণিত পিক্সেল/লো-রেজ নান্দনিকতার জন্য।"
+  },
+  "emilkowalski/skills:skills/review-animations": {
+    "name": "review-animations",
+    "description": "এমিল কোওয়ালস্কির নকশা প্রকৌশল দর্শন থেকে উদ্ভূত উচ্চ কারুশিল্প বারের বিরুদ্ধে অ্যানিমেশন এবং মোশন কোড পর্যালোচনা করে। ডিফল্ট হিসেবে ফ্ল্যাগিং করা হয়; অনুমোদন অর্জন করতে হয়।"
+  },
+  "arjun988/blender-skills:.claude/skills/rigging": {
+    "name": "rigging",
+    "description": "প্রোডাকশন রিগিং, যা Blender এর মাধ্যমে আর্মেচার, IK/FK, কনস্ট্রেইন্ট, ওয়েট পেইন্টিং, মেকানিক্যাল রিগ, ফেসিয়াল রিগ এবং ড্রাইভার সহ করা হয়। ডিফর্মিং সম্পদের উপর অ্যানিমেশনের আগে MCP এর মাধ্যমে এটি ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/rigging": {
+    "name": "rigging",
+    "description": "প্রোডাকশন রিগিং, যা Blender এর মাধ্যমে আর্মেচার, IK/FK, কনস্ট্রেইন্ট, ওয়েট পেইন্টিং, মেকানিক্যাল রিগ, ফেসিয়াল রিগ এবং ড্রাইভার সহ করা হয়। ডিফর্মিং সম্পদের উপর অ্যানিমেশনের আগে MCP এর মাধ্যমে এটি ব্যবহার করুন।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-app-harness": {
+    "name": "robot-app-harness",
+    "description": "রিগ (একটি রোবট এবং তার সেন্সর ও অ্যাকচুয়েটর) এর বিরুদ্ধে রোবট অ্যাপ্লিকেশন সফটওয়্যার লেখার জন্য ক্লোজড-লুপ ওয়ার্কফ্লো, এই রিপোজিটরিতে `rah` হার্নেস ব্যবহার করে: ডিভাইসগুলো প্রোব করুন, ড্রাইভার এবং টাস্ক কোড লিখুন, সিমুলেশনে চালান, ইভ্যালুয়েটর রিপোর্ট পড়ুন এবং হোল্ড-আউট সিড পাস না হওয়া পর্যন্ত পুনরাবৃত্তি করুন। যখন ব্যবহারকারী কোনো রোবটকে কোনো কাজ করতে বাধ্য করতে চান, কোনো রোবট অ্যাপ্লিকেশনে কোনো সেন্সর বা অ্যাকচুয়েটর সংযুক্ত করতে চান, কোনো রিগের জন্য পিক-অ্যান্ড-প্লেস বা অন্যান্য ম্যানিপুলেশন কোড লিখতে চান, বা \"vibe code\" রোবোটিক্স সফটওয়্যার এবং সিমুলেটরে তা যাচাই করতে চান, তখন এই দক্ষতাটি ব্যবহার করুন। রাহ, রিগ ম্যানিফেস্ট, রোবট টাস্ক স্পেসিফ, আর্মেচার সিমুলেটর, রোবট ডিভাইস প্রোবিং, ডিভাইস ডেসক্রিপ্টর, রোবট অ্যাপ চালানো বা যাচাই করা, হোল্ড-আউট সিড, বা সিমুলেটেড রোবট টাস্ক ব্যর্থ হওয়ার কারণ নির্ণয়ের উল্লেখ করলে এটি ট্রিগার হয়।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-bringup": {
+    "name": "robot-bringup",
+    "description": "একটি রোবটের বোর্ড কম্পিউটারে সম্পূর্ণ ROS2 সিস্টেম চালু করা: systemd সার্ভিস, লঞ্চ ফাইল কম্পোজিশন, ক্রমানুসারে স্টার্টআপ এবং প্রোডাকশন মনিটরিং। যখন ব্যবহারকারী রোবট ব্রিংআপ, রোবট স্টার্টআপ, ROS2 এর জন্য systemd, বুটে ROS2 নোড চালু করার জন্য systemd ইউনিট ফাইল লিখতে, সম্পূর্ণ রোবট স্ট্যাকের জন্য স্তরযুক্ত লঞ্চ ফাইল কম্পোজ করতে, ওয়াচডগ মনিটরিং সেট করতে, নির্দিষ্ট ডিভাইস নামকরণের জন্য udev নিয়ম কনফিগার করতে, বা বুট-টাইম রেস কন্ডিশন ডিবাগ করতে চান, তখন এই দক্ষতাটি ব্যবহার করুন। যখনই ব্যবহারকারী রোবট ব্রিংআপ, রোবট স্টার্টআপ, ROS2 এর জন্য systemd, বুটে ROS2, লঞ্চ ফাইল কম্পোজিশন, রোবট বুট সিকোয়েন্স, ক্যামেরা বা সিরিয়াল পোর্টের জন্য udev নিয়ম, ROS2 নোডের জন্য স্বয়ংক্রিয় পুনরায় চালু, মাল্টি-মেশিন ROS2 এর জন্য নেটওয়ার্ক কনফিগারেশন, রোবটের জন্য লগ রোটেশন, রোবট স্ট্যাকের সুন্দর শাটডাউন, বা SSH-ভিত্তিক রিমোট ডিবাগিং উল্লেখ করেন, তখন এটি ট্রিগার হয়। এছাড়াও systemd এ ওয়ার্কস্পেস সোর্সিং, হেলথ চেক সহ ক্রমানুসারে স্টার্টআপ, বা লং-রানিং প্রোডাকশন সার্ভিস হিসেবে ROS2 সিস্টেম চালানোর জন্যও এটি ট্রিগার হয়। এটি Ubuntu 22.04/24.04 এ রোস2 Humble, Iron এবং Jazzy সহ systemd কভার করে।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-data-quality": {
+    "name": "robot-data-quality",
+    "description": "রোবট লার্নিং ডেটাসেটের (টেলিঅপারেটেড ডেমোনস্ট্রেশন, এপিসোড) মান বিচার এবং উন্নতি করুন এবং রোবোটিক্স ডেটা টুলকিট, ফোর্জ ব্যবহার করে তাদের পরীক্ষা, লিন্ট, স্কোর, ভিজ্যুয়ালাইজ, ফিল্টার, ডেডাপ এবং রূপান্তর করুন। যখন ব্যবহারকারী ডেটাসেটের মান, ডেটা ক্লিনিং বা কিউরেশন, এপিসোড পরীক্ষা, খারাপ বা শব্দযুক্ত ডেমো, আইডল ফ্রেম, জার্কি বা স্পাইকি অ্যাকশন, গ্রিপার চ্যাটার, টাইমস্ট্যাম্প গ্যাপ বা ফ্রেম ড্রপ, ক্যামেরা ব্লার বা এক্সপোজার, ডুপ্লিকেট এপিসোড, টাস্ক-স্ট্রিং হাইজিন, নরমালাইজেশন স্ট্যাটস, এপিসোড অনুসারে ট্রেন/ভ্যাল স্প্লিট, ডেমোনস্ট্রেশনের কভারেজ বা বৈচিত্র্য, বা কেন কোনো পলিসি তার ডেটা কারণে শুরু হতে পারে না, স্টল করে বা এভারেজ মোডে চলে যায়, তখন এই দক্ষতাটি ব্যবহার করুন। এছাড়াও ফোর্জ কমান্ড (forge inspect, lint, stats, quality, filter, dedup, visualize, convert, catalog, ingest, curate) এবং RLDS, LeRobot v2/v3, Zarr, HDF5, MCAP, rosbag বা RoboDM এর মধ্যে রূপান্তরের জন্যও এটি ট্রিগার হয়, যার মধ্যে Hugging Face Hub এ hf:// ডেটাসেটও অন্তর্ভুক্ত।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-perception": {
+    "name": "robot-perception",
+    "description": "রোবট পারসেপশন সিস্টেমের জন্য বিস্তারিত সেরা অভ্যাস, যা ক্যামেরা, LiDARs, ডেপথ সেন্সর, IMUs এবং মাল্টি-সেন্সর সেটআপ কভার করে। যখন RGB ইমেজ প্রসেসিং, ডেপথ ম্যাপ, পয়েন্ট ক্লাউড, সেন্সর ক্যালিব্রেশন (ইন্ট্রিনসিক, এক্সট্রিনসিক, হ্যান্ড-আই), অবজেক্ট ডিটেকশন, সেম্যান্টিক সেগমেন্টেশন, 3D রিকনস্ট্রাকশন, ভিজ্যুয়াল সার্ভোইং বা পারসেপশন পাইপলাইন অপ্টিমাইজেশনের সাথে কাজ করছেন, তখন এই দক্ষতাটি ব্যবহার করুন। যখনই ব্যবহারকারী OpenCV, Open3D, PCL, RealSense, ZED, OAK-D, ক্যামেরা ক্যালিব্রেশন, AprilTags, ArUco মার্কার, স্টেরিও ভিশন, RGBD, পয়েন্ট ক্লাউড ফিল্টারিং, ICP রেজিস্ট্রেশন, কো-অর্ডিনেট ট্রান্সফর্ম, ক্যামেরা ইন্ট্রিনসিক, ডিস্টরশন করেকশন, ইমেজ আনডিস্টরশন, সেন্সর স্ট্রিমিং, ফ্রেম সিঙ্ক্রোনাইজেশন বা রোবোটিক্স কনটেক্সটে যেকোনো কম্পিউটার ভিশন টাস্কের উল্লেখ করেন, তখন এটি ট্রিগার হয়। এছাড়াও মাল্টি-ক্যামেরা রিগ, সেন্সরগুলোর মধ্যে সময় সিঙ্ক্রোনাইজেশন, পারসেপশন ল্যাটেন্সি বাজেট এবং পারসেপশন পাইপলাইনের প্রোডাকশন ডিপ্লয়মেন্টও এটি কভার করে।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robot-reinforcement-learning": {
+    "name": "robot-reinforcement-learning",
+    "description": "রোবটের জন্য রিইনফোর্সমেন্ট লার্নিং: যখন RL ইমিটেশন বা ক্লাসিক্যাল কন্ট্রোলকে হারায়, MDP ডিজাইন (অবজারভেশন, অ্যাকশন স্পেস, কন্ট্রোল রেট, টারমিনেটেড বনাম ট্রাঙ্কেটেড), রিওয়ার্ড ডিজাইন এবং রিওয়ার্ড হ্যাকিং, অ্যালগরিদম চয়েস, ম্যাসিভলি প্যারালাল সিম ট্রেনিং, সেফ রিয়েল-রোবট RL এবং ট্রেনিং কার্ভ ডিবাগিং। যখন ব্যবহারকারী রিইনফোর্সমেন্ট লার্নিং, RL, PPO, SAC, TD3, GAE, রিওয়ার্ড ফাংশন, রিওয়ার্ড শেপিং, কারিকুলাম, ডোমেইন র‍্যান্ডমাইজেশন, সিম-টু-রিয়েল, অ্যাকচুয়েটর নেটওয়ার্ক, অসমমিত অ্যাক্টর-ক্রিটিক, টিচার-স্টুডেন্ট ডিস্টিলেশন, rsl_rl, rl_games, skrl, Stable-Baselines3, CleanRL, Brax ট্রেনিং, FastTD3, HIL-SERL, SERL, RLPD, DrQ, রেসিডুয়াল RL, DSRL, BC এর জন্য RL ফাইন-টিউনিং, ডিফিউশন বা VLA পলিসি, টাইম-আউট বুটস্ট্র্যাপিং, এন্ট্রপি ক্র্যাশ, ভ্যালু লস এক্সপ্লোশন, ট্রেনিংয়ে NaN, বা সিড এবং IQM ব্যবহার করে RL মূল্যায়ন করার উল্লেখ করেন, তখন এই দক্ষতাটি ব্যবহার করুন। এছাড়াও Isaac Lab, mjlab বা Playground লোকোমোশন এবং ম্যানিপুলেশন পলিসির জন্যও এটি প্রযোজ্য।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-design-patterns": {
+    "name": "robotics-design-patterns",
+    "description": "রোবোটিক্স সফটওয়্যার তৈরির জন্য শক্তিশালী আর্কিটেকচার প্যাটার্ন, ডিজাইন নীতি এবং প্রমাণিত রেসিপি। যখন রোবট সফটওয়্যার আর্কিটেকচার ডিজাইন করছেন, বিহেভিয়ারাল ফ্রেমওয়ার্কের মধ্যে বেছে নিচ্ছেন, পারসেপশন-প্ল্যানিং-কন্ট্রোল পাইপলাইন স্ট্রাকচার করছেন, স্টেট মেশিন ইমপ্লিমেন্ট করছেন, সেফটি সিস্টেম ডিজাইন করছেন বা মাল্টি-রোবট সিস্টেম আর্কিটেকচার করছেন, তখন এই দক্ষতাটি ব্যবহার করুন। যখনই ব্যবহারকারী বিহেভিয়ার ট্রি, ফাইনাইট স্টেট মেশিন, সাবসাম্পশন আর্কিটেকচার, সেন্সর ফিউশন, রোবট সেফটি, ওয়াচডগ, হার্টবিটস, গ্রেসফুল ডিগ্রেডেশন, হার্ডওয়্যার অ্যাবস্ট্রাকশন লেয়ার, রিয়েল-টাইম কনস্ট্রেইন্ট বা রোবটের জন্য সফটওয়্যার আর্কিটেকচারের উল্লেখ করেন, তখন এটি ট্রিগার হয়। এছাড়াও সিম-টু-রিয়েল ট্রান্সফার, ডিজিটাল টুইন এবং রোবট ফ্লিট ম্যানেজমেন্টের জন্যও এটি প্রযোজ্য।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-security": {
+    "name": "robotics-security",
+    "description": "রোবোটিক্স সিস্টেমের জন্য সিকিউরিটি হার্ডেনিং এবং সেরা অভ্যাস, যা SROS2 DDS সিকিউরিটি, নেটওয়ার্ক সেগমেন্টেশন, সিক্রেটস ম্যানেজমেন্ট, সেক্যুর বুট এবং ফিজিক্যাল-সাইবার সেফটি ইন্টারসেকশন কভার করে। যখন ROS2 কমিউনিকেশন সিকিউর করছেন, DDS এনক্রিপশন এবং অ্যাক্সেস কন্ট্রোল কনফিগার করছেন, রোবট বোর্ড কম্পিউটারগুলো হার্ডেন করছেন, সার্টিফিকেট এবং ক্রেডেনশিয়াল ম্যানেজ করছেন, রোবট ফ্লিটের জন্য নেটওয়ার্ক সেগমেন্টেশন সেট করছেন বা সাইবার দুর্বলতাগুলো যেখানে ফিজিক্যাল সেফটি রিস্কে পরিণত হয়, তেমন অনন্য সিকিউরিটি চ্যালেঞ্জগুলো মোকাবিলা করছেন, তখন এই দক্ষতাটি ব্যবহার করুন। যখনই ব্যবহারকারী SROS2, DDS সিকিউরিটি, রোবট সিকিউরিটি, রোবট হার্ডেনিং, ROS2 এনক্রিপশন, ROS2 অ্যাক্সেস কন্ট্রোল, রোবট নেটওয়ার্ক সিকিউরিটি, সেক্যুর রোবট ডিপ্লয়মেন্ট, রোবট সার্টিফিকেট, কিস্টোর জেনারেশন, রোবট ফায়ারওয়াল, ই-স্টপ সিকিউরিটি, সেফটি কন্ট্রোলার আইসোলেশন বা রোবোটিক্সের জন্য IEC 62443 উল্লেখ করেন, তখন এটি ট্রিগার হয়।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-software-principles": {
+    "name": "robotics-software-principles",
+    "description": "রোবোটিক্স মডিউল ডেভেলপমেন্টের জন্য বিশেষভাবে প্রয়োগ করা ফাউন্ডেশনাল সফটওয়্যার ডিজাইন নীতি। যখন রোবট সফটওয়্যার মডিউল ডিজাইন করছেন, কোডবেস স্ট্রাকচার করছেন, আর্কিটেকচার সিদ্ধান্ত নিচ্ছেন, রোবোটিক্স কোড পর্যালোচনা করছেন বা রিইউজেবল রোবোটিক্স লাইব্রেরি তৈরি করছেন, তখন এই দক্ষতাটি ব্যবহার করুন। যখনই ব্যবহারকারী রোবটের জন্য SOLID নীতি, মডিউলার রোবোটিক্স সফটওয়্যার, রোবটের জন্য ক্লিন আর্কিটেকচার, রোবোটিক্সে ডিপেন্ডেন্সি ইনজেকশন, হার্ডওয়্যারের জন্য ইন্টারফেস ডিজাইন, রিয়েল-টাইম ডিজাইন কনস্ট্রেইন্ট, রোবটের জন্য এরর হ্যান্ডলিং স্ট্র্যাটেজিজ, কনফিগারেশন ম্যানেজমেন্ট, পারসেপশন-প্ল্যানিং-কন্ট্রোলে কনসার্ন সেপারেশন, রোবট আচরণের কম্পোজেবিলিটি বা রোবোটিক্স কনটেক্সটে সফটওয়্যার কারুশিল্পের যেকোনো আলোচনার উল্লেখ করেন, তখন এটি ট্রিগার হয়। এছাড়াও রোবটিক্স কোডের কোড রিভিউ, রোবট সফটওয়্যার রিফ্যাক্টরিং বা রোবটিক্স লাইব্রেরির জন্য API ডিজাইনের জন্যও এটি ট্রিগার হয়।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/robotics-testing": {
+    "name": "robotics-testing",
+    "description": "রোবোটিক্স সফটওয়্যারের জন্য টেস্টিং স্ট্র্যাটেজি, প্যাটার্ন এবং টুল। যখন রোবট সিস্টেমের জন্য ইউনিট টেস্ট, ইন্টিগ্রেশন টেস্ট, সিমুলেশন টেস্ট বা হার্ডওয়্যার-ইন-দ্য-লুপ টেস্ট লিখছেন, তখন এই দক্ষতাটি ব্যবহার করুন। যখনই ব্যবহারকারী ROS নোড টেস্ট, ROS সহ pytest, launch_testing, সিমুলেশন টেস্ট, রোবোটিক্সের জন্য CI/CD, সেন্সরের জন্য টেস্ট ফিক্সচার, মক হার্ডওয়্যার, ডিটারমিনিস্টিক রিপ্লে, রোবট আচরণের জন্য রেগ্রেশন টেস্ট বা পারসেপশন/প্ল্যানিং/কন্ট্রোল পাইপলাইন ভ্যালিডেশনের উল্লেখ করেন, তখন এটি ট্রিগার হয়। এছাড়াও কাইনেমেটিক্সের জন্য প্রপার্টি-বেইসড টেস্ট, মেসেজ হ্যান্ডলারের জন্য ফাজ টেস্ট এবং ট্রাজেক্টরির জন্য গোল্ডেন-ফাইল টেস্টও এটি কভার করে।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros1": {
+    "name": "ros1",
+    "description": "ROS1 (রোবট অপারেটিং সিস্টেম 1) ডেভেলপমেন্টের জন্য সেরা অভ্যাস, ডিজাইন প্যাটার্ন এবং সাধারণ ফাঁদ। যখন ROS1 নোড, প্যাকেজ, লঞ্চ ফাইল তৈরি করছেন বা ROS1 সিস্টেম ডিবাগ করছেন, তখন এই দক্ষতাটি ব্যবহার করুন। যখনই ব্যবহারকারী ROS1, catkin, rospy, roscpp, roslaunch, roscore, rostopic, tf, actionlib, মেসেজ টাইপ, সার্ভিস বা যেকোনো ROS1-এর রোবোটিক্স মিডলওয়্যারের উল্লেখ করেন, তখন এটি ট্রিগার হয়। এছাড়াও ROS1 কোড থেকে ROS2 এ মাইগ্রেশন, লিগেসি ROS1 সিস্টেম মেইনটেইন করা বা ROS1-ROS2 ব্রিজ তৈরির জন্যও এটি ট্রিগার হয়। এটি catkin ওয়ার্কস্পেস, nodelets, dynamic reconfigure, pluginlib এবং পুরো ROS1 ইকোসিস্টেম কভার করে।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros2": {
+    "name": "ros2",
+    "description": "ROS2 (রোবট অপারেটিং সিস্টেম 2) ডেভেলপমেন্টের জন্য বিস্তারিত সেরা অভ্যাস, ডিজাইন প্যাটার্ন এবং সাধারণ ফাঁদ। যখন ROS2 নোড, প্যাকেজ, লঞ্চ ফাইল, কম্পোনেন্ট তৈরি করছেন বা ROS2 সিস্টেম ডিবাগ করছেন, তখন এই দক্ষতাটি ব্যবহার করুন। যখনই ব্যবহারকারী ROS2, colcon, rclpy, rclcpp, DDS, QoS, লাইফসাইকেল নোড, ম্যানেজড নোড, ROS2 লঞ্চ, ROS2 প্যারামিটার, ROS2 অ্যাকশন, nav2, MoveIt2, micro-ROS বা যেকোনো ROS2-এর রোবোটিক্স মিডলওয়্যারের উল্লেখ করেন, তখন এটি ট্রিগার হয়। এছাড়াও colcon বিল্ড ইস্যু, ament_cmake, ament_python, ROS2 এর জন্য CMakeLists.txt, package.xml ডিপেন্ডেন্সিজ, rosdep, ওয়ার্কস্পেস ওভারলে, কাস্টম মেসেজ জেনারেশন বা ROS2 বিল্ড ট্রাবলশুটিংয়ের জন্যও এটি ট্রিগার হয়। এটি Humble, Iron, Jazzy এবং Rolling ডিস্ট্রিবিউশন কভার করে।"
+  },
+  "arpitg1304/robotics-agent-skills:skills/ros2-web-integration": {
+    "name": "ros2-web-integration",
+    "description": "ওয়েব টেকনোলজির সাথে ROS2 সিস্টেম ইন্টিগ্রেট করার জন্য প্যাটার্ন এবং সেরা অভ্যাস, যার মধ্যে REST APIs, WebSocket ব্রিজ এবং ব্রাউজার-ভিত্তিক রোবট ইন্টারফেস অন্তর্ভুক্ত। যখন রোবটের জন্য ওয়েব ড্যাশবোর্ড তৈরি করছেন, ব্রাউজারে ক্যামেরা ফিড স্ট্রিম করছেন, ROS2 সার্ভিসগুলোকে REST এন্ডপয়েন্ট হিসেবে এক্সপোজ করছেন বা ওয়েব UI এবং ROS2 নোডের মধ্যে দ্বিমুখী WebSocket কমিউনিকেশন ইমপ্লিমেন্ট করছেন, তখন এই দক্ষতাটি ব্যবহার করুন। যখনই ব্যবহারকারী rosbridge, rosbridge_suite, roslibjs, FastAPI with ROS2, Flask with rclpy, রোবট টেলিমেট্রির জন্য WebSocket, MJPEG স্ট্রিমিং, WebRTC for robots, REST API wrapping ROS2 services, ওয়েব-ভিত্তিক রোবট কন্ট্রোল, ব্রাউজার রোবট ইন্টারফেস, রোবট ড্যাশবোর্ড, রোবটের জন্য CORS কনফিগারেশন বা যেকোনো ওয়েব-টু-ROS2 ব্রিজ প্যাটার্নের উল্লেখ করেন, তখন এটি ট্রিগার হয়। এছাড়াও রোবট ওয়েব ইন্টারফেসে প্রমাণীকরণ, সেন্সর স্ট্রিমের রেট লিমিটিং, রোবট ক্যামেরা থেকে ব্রাউজারে ভিডিও স্ট্রিমিং বা ROS2 এক্সিকিউটরের পাশে অ্যাসিঙ্ক ওয়েব ফ্রেমওয়ার্ক চালানোর জন্যও এটি ট্রিগার হয়। এটি rosbridge_suite, FastAPI, Flask, WebSocket এবং WebRTC পদ্ধতি কভার করে।"
+  },
+  "arjun988/blender-skills:.claude/skills/scene-assembly": {
+    "name": "scene-assembly",
+    "description": "Large scene layout in Blender with collections, linking, overrides, streaming-friendly organization, and set assembly via MCP."
+  },
+  "arjun988/blender-skills:.cursor/skills/scene-assembly": {
+    "name": "scene-assembly",
+    "description": "Large scene layout in Blender with collections, linking, overrides, streaming-friendly organization, and set assembly via MCP."
+  },
+  "arjun988/blender-skills:.claude/skills/sci-fi-punk-worlds": {
+    "name": "সায়েন্স-ফিকশন-পাঙ্ক-বিশ্ব",
+    "description": "সায়েন্স-ফিকশন এবং পাঙ্ক বিশ্বের আর্ট ডিরেকশন Blender-এর জন্য, যার মধ্যে হার্ড সায়েন্স-ফিকশন, মহাকাশ, সাইবারপাঙ্ক, স্টিমপাঙ্ক, ডিজেলপাঙ্ক, অ্যাটমপাঙ্ক, সোলারপাঙ্ক, বায়োপাঙ্ক এবং ক্লকপাঙ্ক অন্তর্ভুক্ত।"
+  },
+  "arjun988/blender-skills:.cursor/skills/sci-fi-punk-worlds": {
+    "name": "সায়েন্স-ফিকশন-পাঙ্ক-বিশ্ব",
+    "description": "সায়েন্স-ফিকশন এবং পাঙ্ক বিশ্বের আর্ট ডিরেকশন Blender-এর জন্য, যার মধ্যে হার্ড সায়েন্স-ফিকশন, মহাকাশ, সাইবারপাঙ্ক, স্টিমপাঙ্ক, ডিজেলপাঙ্ক, অ্যাটমপাঙ্ক, সোলারপাঙ্ক, বায়োপাঙ্ক এবং ক্লকপাঙ্ক অন্তর্ভুক্ত।"
+  },
+  "arjun988/blender-skills:.claude/skills/sculpting": {
+    "name": "ভাস্কর্য",
+    "description": "Blender ভাস্কর্য জন্য জৈবিক এবং কঠিন পৃষ্ঠের বিশদ বিবরণ Dyntopo, মাল্টিরেজোলিউশন, ব্রাশ, আলফা ওয়ার্কফ্লো, কুঞ্চন এবং ক্ষতি ব্যবহার করে। যখন Blender-এ রেটোপোলজির আগে উচ্চ ফ্রিকোয়েন্সির পৃষ্ঠের বিশদ প্রয়োজন হয়, তখন এটি ব্যবহার করুন MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/sculpting": {
+    "name": "ভাস্কর্য",
+    "description": "Blender ভাস্কর্য জন্য জৈবিক এবং কঠিন পৃষ্ঠের বিশদ বিবরণ Dyntopo, মাল্টিরেজোলিউশন, ব্রাশ, আলফা ওয়ার্কফ্লো, কুঞ্চন এবং ক্ষতি ব্যবহার করে। যখন Blender-এ রেটোপোলজির আগে উচ্চ ফ্রিকোয়েন্সির পৃষ্ঠের বিশদ প্রয়োজন হয়, তখন এটি ব্যবহার করুন MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.claude/skills/set-dressing": {
+    "name": "সেট-ডেকোরেশন",
+    "description": "সেট ডেকোরেশন এবং পরিবেশগত গল্প বলার জন্য অভ্যন্তরীণ এবং বহিরঙ্গনে প্রপ ঘনত্ব, কাহিনীগত গুচ্ছ এবং পাঠযোগ্যতা নিয়ম ব্যবহার করে MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/set-dressing": {
+    "name": "সেট-ডেকোরেশন",
+    "description": "সেট ডেকোরেশন এবং পরিবেশগত গল্প বলার জন্য অভ্যন্তরীণ এবং বহিরঙ্গনে প্রপ ঘনত্ব, কাহিনীগত গুচ্ছ এবং পাঠযোগ্যতা নিয়ম ব্যবহার করে MCP-এর মাধ্যমে।"
+  },
+  "anthropics/skills:skills/skill-creator": {
+    "name": "দক্ষতা-নির্মাতা",
+    "description": "নতুন দক্ষতা তৈরি করুন, বিদ্যমান দক্ষতা পরিবর্তন ও উন্নত করুন এবং দক্ষতার কার্যকারিতা পরিমাপ করুন। যখন ব্যবহারকারীরা শূন্য থেকে কোনো দক্ষতা তৈরি করতে চান, বিদ্যমান দক্ষতা সম্পাদনা বা অপ্টিমাইজ করতে চান, দক্ষতা পরীক্ষা করার জন্য মূল্যায়ন চালাতে চান, বিচ্যুতি বিশ্লেষণের মাধ্যমে দক্ষতার কার্যকারিতা মান নির্ধারণ করতে চান বা আরও ভালো ট্রিগারিং নির্ভুলতার জন্য দক্ষতার বর্ণনা অপ্টিমাইজ করতে চান, তখন এটি ব্যবহার করুন।"
+  },
+  "cexll/myclaude:skills/skill-install": {
+    "name": "দক্ষতা-ইনস্টলেশন",
+    "description": "Claude দক্ষতা GitHub রিপোজিটরি থেকে স্বয়ংক্রিয় নিরাপত্তা স্ক্যানিং সহ ইনস্টল করুন। যখন ব্যবহারকারীরা GitHub URL থেকে দক্ষতা ইনস্টল করতে চান, কোনো রিপোজিটরিতে উপলব্ধ দক্ষতা ব্রাউজ করতে চান বা নিরাপদে তাদের Claude পরিবেশে নতুন দক্ষতা যোগ করতে চান, তখন এটি ট্রিগার হয়।"
+  },
+  "anthropics/skills:skills/slack-gif-creator": {
+    "name": "স্ল্যাক-জিআইএফ-নির্মাতা",
+    "description": "স্ল্যাকের জন্য অপ্টিমাইজ করা অ্যানিমেটেড জিআইএফ তৈরির জ্ঞান এবং সরঞ্জাম। এটি বাধ্যবাধকতা, যাচাইকরণ সরঞ্জাম এবং অ্যানিমেশন ধারণা প্রদান করে। যখন ব্যবহারকারীরা স্ল্যাকের জন্য অ্যানিমেটেড জিআইএফ চান, যেমন \" আমাকে X এর Y করার একটি জিআইএফ তৈরি করুন স্ল্যাকের জন্য।"
+  },
+  "cexll/myclaude:skills/sparv": {
+    "name": "স্পারভ",
+    "description": "ন্যূনতম SPARV ওয়ার্কফ্লো (নির্দিষ্ট করুন→পরিকল্পনা করুন→অভিনয় করুন→পর্যালোচনা করুন→ভল্ট) ১০-পয়েন্ট স্পেক গেট, একীভূত জার্নাল, ২-অ্যাকশন সেভ, ৩-ফেইলিউর প্রোটোকল এবং EHRB ঝুঁকি সনাক্তকরণ সহ।"
+  },
+  "arjun988/blender-skills:.claude/skills/stop-motion-craft-style": {
+    "name": "স্টপ-মোশন-ক্রাফ্ট-স্টাইল",
+    "description": "স্টপ-মোশন এবং ক্রাফ্ট নান্দনিকতা Blender-এর জন্য, যার মধ্যে ক্লেমেশন, পেপার ক্রাফ্ট এবং হাতে তৈরি শারীরিক-উপাদানের সংকেত অন্তর্ভুক্ত।"
+  },
+  "arjun988/blender-skills:.cursor/skills/stop-motion-craft-style": {
+    "name": "স্টপ-মোশন-ক্রাফ্ট-স্টাইল",
+    "description": "স্টপ-মোশন এবং ক্রাফ্ট নান্দনিকতা Blender-এর জন্য, যার মধ্যে ক্লেমেশন, পেপার ক্রাফ্ট এবং হাতে তৈরি শারীরিক-উপাদানের সংকেত অন্তর্ভুক্ত।"
+  },
+  "arjun988/blender-skills:.claude/skills/stylized-style": {
+    "name": "স্টাইলাইজড-স্টাইল",
+    "description": "Blender-এর জন্য স্টাইলাইজড আর্ট ডিরেকশন যার মধ্যে আকার ভাষা, অতিরঞ্জন, রঙের সামঞ্জস্য, NPR রেন্ডারিং এবং হাতে আঁকা সম্পদ ওয়ার্কফ্লো রয়েছে। অ-ফটোরিয়েলিস্টিক গেম এবং অ্যানিমেশন প্রকল্পের জন্য এটি ব্যবহার করুন।"
+  },
+  "arjun988/blender-skills:.cursor/skills/stylized-style": {
+    "name": "স্টাইলাইজড-স্টাইল",
+    "description": "Blender-এর জন্য স্টাইলাইজড আর্ট ডিরেকশন যার মধ্যে আকার ভাষা, অতিরঞ্জন, রঙের সামঞ্জস্য, NPR রেন্ডারিং এবং হাতে আঁকা সম্পদ ওয়ার্কফ্লো রয়েছে। অ-ফটোরিয়েলিস্টিক গেম এবং অ্যানিমেশন প্রকল্পের জন্য এটি ব্যবহার করুন।"
+  },
+  "anthropics/skills:template": {
+    "name": "টেমপ্লেট-দক্ষতা",
+    "description": "দক্ষতার বর্ণনা এবং কখন Claude এটি ব্যবহার করা উচিত তার সাথে প্রতিস্থাপন করুন।"
+  },
+  "cexll/myclaude:skills/test-cases": {
+    "name": "পরীক্ষার কেস",
+    "description": "এই দক্ষতা PRD নথি বা ব্যবহারকারীর প্রয়োজনীয়তা থেকে ব্যাপক পরীক্ষার কেস তৈরি করার সময় ব্যবহার করা উচিত। যখন ব্যবহারকারীরা পরীক্ষার কেস তৈরির অনুরোধ করেন, QA পরিকল্পনা, পরীক্ষার পরিস্থিতি তৈরি করতে চান বা কাঠামোগত পরীক্ষার নথি প্রয়োজন হয়, তখন এটি ট্রিগার হয়। এটি কার্যকারিতা, সীমান্ত কেস, ত্রুটি প্রতিকার এবং অবস্থার পরিবর্তনের পরিস্থিতি কভার করে বিস্তারিত পরীক্ষার কেস তৈরি করে।"
+  },
+  "arjun988/blender-skills:.claude/skills/texture-workflow": {
+    "name": "টেক্সচার-ওয়ার্কফ্লো",
+    "description": "অ্যাটলাস, AO/কার্ভেচার/নরমাল/রাফনেস ম্যাপ বেকিং, ডিকাল এবং টেক্সচার মেমরি অপ্টিমাইজেশনের জন্য উৎপাদনমূলক টেক্সচার ওয়ার্কফ্লো। Blender-এ গেম-প্রস্তুত টেক্সচার পাইপলাইনের জন্য এটি ব্যবহার করুন MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/texture-workflow": {
+    "name": "টেক্সচার-ওয়ার্কফ্লো",
+    "description": "অ্যাটলাস, AO/কার্ভেচার/নরমাল/রাফনেস ম্যাপ বেকিং, ডিকাল এবং টেক্সচার মেমরি অপ্টিমাইজেশনের জন্য উৎপাদনমূলক টেক্সচার ওয়ার্কফ্লো। Blender-এ গেম-প্রস্তুত টেক্সচার পাইপলাইনের জন্য এটি ব্যবহার করুন MCP-এর মাধ্যমে।"
+  },
+  "anthropics/skills:skills/theme-factory": {
+    "name": "থিম-ফ্যাক্টরি",
+    "description": "কোনো থিম দিয়ে আর্টিফ্যাক্টগুলোকে স্টাইল করার জন্য টুলকিট। এই আর্টিফ্যাক্টগুলো হতে পারে স্লাইড, ডকুমেন্ট, রিপোর্টিং, HTML ল্যান্ডিং পেজ ইত্যাদি। এখানে ১০টি পূর্বনির্ধারিত থিম রয়েছে যেগুলোর রঙ/ফন্ট আপনি যেকোনো আর্টিফ্যাক্টে প্রয়োগ করতে পারেন যা আপনি তৈরি করেছেন, অথবা আপনি চাইলে চলন্ত অবস্থায় নতুন থিম তৈরি করতে পারেন।"
+  },
+  "arjun988/blender-skills:.claude/skills/unity-export": {
+    "name": "ইউনিটি-এক্সপোর্ট",
+    "description": "ইউনিটি-সংক্রান্ত Blender এক্সপোর্ট স্কেল, অক্ষ, উপকরণ, হিউম্যানয়েড/জেনেরিক রিগ, LODs এবং কলিশন আমদানির জন্য MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/unity-export": {
+    "name": "ইউনিটি-এক্সপোর্ট",
+    "description": "ইউনিটি-সংক্রান্ত Blender এক্সপোর্ট স্কেল, অক্ষ, উপকরণ, হিউম্যানয়েড/জেনেরিক রিগ, LODs এবং কলিশন আমদানির জন্য MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.claude/skills/unreal-export": {
+    "name": "ইউনরিয়াল-এক্সপোর্ট",
+    "description": "ইউনরিয়াল ইঞ্জিন-সংক্রান্ত Blender এক্সপোর্ট FBX স্কেল, LODs, UCX কলিশন, সকেট, উপকরণ এবং স্কেলেটাল মেশ ওয়ার্কফ্লোর জন্য MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/unreal-export": {
+    "name": "ইউনরিয়াল-এক্সপোর্ট",
+    "description": "ইউনরিয়াল ইঞ্জিন-সংক্রান্ত Blender এক্সপোর্ট FBX স্কেল, LODs, UCX কলিশন, সকেট, উপকরণ এবং স্কেলেটাল মেশ ওয়ার্কফ্লোর জন্য MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.claude/skills/uv-workflow": {
+    "name": "UV-ওয়ার্কফ্লো",
+    "description": "উৎপাদনমূলক UV আনওর্যাপিং সিম প্লেসমেন্ট, UV প্যাকিং, টেক্সেল ঘনত্ব, UDIM, লাইটম্যাপ UVs এবং মডুলার UV লেআউটের জন্য। Blender-এ টেক্সচারিং এবং ইঞ্জিন এক্সপোর্টের জন্য মেশগুলো প্রস্তুত করার সময় এটি ব্যবহার করুন MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/uv-workflow": {
+    "name": "UV-ওয়ার্কফ্লো",
+    "description": "উৎপাদনমূলক UV আনওর্যাপিং সিম প্লেসমেন্ট, UV প্যাকিং, টেক্সেল ঘনত্ব, UDIM, লাইটম্যাপ UVs এবং মডুলার UV লেআউটের জন্য। Blender-এ টেক্সচারিং এবং ইঞ্জিন এক্সপোর্টের জন্য মেশগুলো প্রস্তুত করার সময় এটি ব্যবহার করুন MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.claude/skills/vector-style": {
+    "name": "ভেক্টর-স্টাইল",
+    "description": "ভেক্টর-ক্লিন আর্ট ডিরেকশন Blender-এর জন্য ফ্ল্যাট ফিল, তীক্ষ্ণ সিলুয়েট এবং UI-মতো গ্রাফিক স্পষ্টতার সাথে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/vector-style": {
+    "name": "ভেক্টর-স্টাইল",
+    "description": "ভেক্টর-ক্লিন আর্ট ডিরেকশন Blender-এর জন্য ফ্ল্যাট ফিল, তীক্ষ্ণ সিলুয়েট এবং UI-মতো গ্রাফিক স্পষ্টতার সাথে।"
+  },
+  "arjun988/blender-skills:.claude/skills/vegetation-artist": {
+    "name": "ভেজিটেশন-আর্টিস্ট",
+    "description": "ভেজিটেশন এবং ফলেজ অথরিং Blender-এর জন্য, যার মধ্যে গাছ, উদ্ভিদ, ঘাসের কার্ড, ক্যানোপি LODs এবং গেম-বান্ধব পাতার অ্যাটলাস অন্তর্ভুক্ত রয়েছে MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/vegetation-artist": {
+    "name": "ভেজিটেশন-আর্টিস্ট",
+    "description": "ভেজিটেশন এবং ফলেজ অথরিং Blender-এর জন্য, যার মধ্যে গাছ, উদ্ভিদ, ঘাসের কার্ড, ক্যানোপি LODs এবং গেম-বান্ধব পাতার অ্যাটলাস অন্তর্ভুক্ত রয়েছে MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.claude/skills/vehicle-artist": {
+    "name": "ভেহিকল-আর্টিস্ট",
+    "description": "গাড়ি, ট্রাক, বিমান, জাহাজ, নৌকা, মেক্স এবং যাত্রীবাহী সম্পদের জন্য নিবেদিত যানবাহন মডেলিং যার মধ্যে আনুপাতিকতা, প্যানেল প্রবাহ এবং গেম LOD সচেতনতা রয়েছে Blender-এর জন্য MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/vehicle-artist": {
+    "name": "ভেহিকল-আর্টিস্ট",
+    "description": "গাড়ি, ট্রাক, বিমান, জাহাজ, নৌকা, মেক্স এবং যাত্রীবাহী সম্পদের জন্য নিবেদিত যানবাহন মডেলিং যার মধ্যে আনুপাতিকতা, প্যানেল প্রবাহ এবং গেম LOD সচেতনতা রয়েছে Blender-এর জন্য MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.claude/skills/vfx-fx": {
+    "name": "VFX-এফএক্স",
+    "description": "সিনেম্যাটিক এবং গেম VFX Blender-এর জন্য, যার মধ্যে ধোঁয়া, আগুন, কণা, ট্রেইল এবং Geometry Nodes FX সেটআপ অন্তর্ভুক্ত রয়েছে MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/vfx-fx": {
+    "name": "VFX-এফএক্স",
+    "description": "সিনেম্যাটিক এবং গেম VFX Blender-এর জন্য, যার মধ্যে ধোঁয়া, আগুন, কণা, ট্রেইল এবং Geometry Nodes FX সেটআপ অন্তর্ভুক্ত রয়েছে MCP-এর মাধ্যমে।"
+  },
+  "arjun988/blender-skills:.claude/skills/visual-console-eras": {
+    "name": "ভিজুয়াল-কনসোল-এরা",
+    "description": "ভিজুয়াল এরা আর্ট ডিরেকশন Blender-এর জন্য PS1–PS5 নান্দনিক সংকেত, রেট্রো আর্কেড, DOS, CRT, VHS এবং ফিল্ম-গ্রেইন উপস্থাপনা কভার করে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/visual-console-eras": {
+    "name": "ভিজুয়াল-কনসোল-এরা",
+    "description": "ভিজুয়াল এরা আর্ট ডিরেকশন Blender-এর জন্য PS1–PS5 নান্দনিক সংকেত, রেট্রো আর্কেড, DOS, CRT, VHS এবং ফিল্ম-গ্রেইন উপস্থাপনা কভার করে।"
+  },
+  "arjun988/blender-skills:.claude/skills/voxel-style": {
+    "name": "ভেক্সেল-স্টাইল",
+    "description": "ভেক্সেল এবং Minecraft-সংলগ্ন আর্ট ডিরেকশন Blender-এর জন্য ব্লক গ্রিড মডেলিং, সীমিত প্যালেট এবং চাক-বান্ধব সম্পদের সাথে।"
+  },
+  "arjun988/blender-skills:.cursor/skills/voxel-style": {
+    "name": "ভেক্সেল-স্টাইল",
+    "description": "ভেক্সেল এবং Minecraft-সংলগ্ন আর্ট ডিরেকশন Blender-এর জন্য ব্লক গ্রিড মডেলিং, সীমিত প্যালেট এবং চাক-বান্ধব সম্পদের সাথে।"
+  },
+  "anthropics/skills:skills/web-artifacts-builder": {
+    "name": "ওয়েব-আর্টিফ্যাক্ট-বিল্ডার",
+    "description": "আধুনিক ফ্রন্টএন্ড ওয়েব প্রযুক্তি (React, Tailwind CSS, shadcn/ui) ব্যবহার করে জটিল, বহু-উপাদানের claude.ai HTML আর্টিফ্যাক্ট তৈরির জন্য সরঞ্জামের সংগ্রহ। যে সব জটিল আর্টিফ্যাক্টে স্টেট ম্যানেজমেন্ট, রাউটিং বা shadcn/ui কম্পোনেন্টের প্রয়োজন হয়, সেগুলোর জন্য এটি ব্যবহার করুন — সাধারণ এক-ফাইল HTML/JSX আর্টিফ্যাক্টের জন্য নয়।"
+  },
+  "anthropics/skills:skills/webapp-testing": {
+    "name": "ওয়েবঅ্যাপ-পরীক্ষণ",
+    "description": "টুলকিট স্থানীয় ওয়েব অ্যাপ্লিকেশনের সাথে যোগাযোগ করার এবং পরীক্ষণ করার জন্য Playwright-এর মাধ্যমে। এটি ফ্রন্টএন্ড কার্যকারিতা যাচাই করা, UI আচরণ ডিবাগ করা, ব্রাউজার স্ক্রিনশট ধারণ করা এবং ব্রাউজার লগ দেখার সমর্থন করে।"
+  },
+  "emilkowalski/skills:skills/write-swift": {
+    "name": "রাইট-সুইফ্ট",
+    "description": "আধুনিক সুইফ্ট ভালোভাবে লেখার উপায় — ভ্যালু টাইপ দিয়ে মডেলিং, সুইফ্ট ৬ ডেটা-রেস সুরক্ষা এবং সহজে ব্যবহারযোগ্য কনকারেন্সি (@concurrent, main-actor-by-default, actors, task groups), প্রোটোকল এবং জেনেরিক্স (some vs any), API ডিজাইন, পারফরম্যান্স এবং ARC, সুইফ্ট টেস্টিং, ম্যাক্রোস এবং আধুনিক ভাষার বৈশিষ্ট্য যা এজেন্টরা এখনও জানে না। যখন সুইফ্ট লেখা, পর্যালোচনা বা মাইগ্রেশন করা হচ্ছে, অথবা যখন কোনো কনকারেন্সি ত্রুটি, হ্যাং, ডেটা রেস, রিটেন সাইকেল বা পারফরম্যান্স সমস্যা সমাধান করার প্রয়োজন হয়, তখন এটি ব্যবহার করুন।"
+  },
+  "anthropics/skills:skills/xlsx": {
+    "name": "xlsx",
+    "description": "এই দক্ষতা যেকোনো সময় ব্যবহার করুন যখন কোনো স্প্রেডশীট ফাইল প্রাথমিক ইনপুট বা আউটপুট। এর অর্থ এমন যেকোনো কাজ যেখানে ব্যবহারকারী চান: একটি বিদ্যমান .xlsx, .xlsm, .xltx, .csv বা .tsv ফাইল খোলা, পড়া, সম্পাদনা বা ঠিক করা (যেমন কলাম যোগ করা, সূত্র গণনা করা, ফরম্যাটিং, চার্ট তৈরি, অগোছালো ডেটা পরিষ্কার করা); শূন্য থেকে বা অন্যান্য ডেটা উৎস থেকে নতুন স্প্রেডশীট তৈরি করা; অথবা টেবিলার ফাইল ফরম্যাটের মধ্যে রূপান্তর করা। বিশেষ করে যখন ব্যবহারকারী কোনো স্প্রেডশীট ফাইলের নাম বা পথ উল্লেখ করেন — এমনকি খুব সাধারণভাবে (যেমন \\\" আমার ডাউনলোডের এক্সএলএসএক্স ফাইলটি\\\") — এবং তার উপর কোনো কাজ করতে চান বা তা থেকে কিছু তৈরি করতে চান। অগোছালো টেবিলার ডেটা ফাইল (ভুল আকারের লাইন, ভুল স্থানে রাখা হেডার, অপ্রয়োজনীয় ডেটা) পরিষ্কার বা পুনর্গঠন করে সঠিক স্প্রেডশীটে রূপান্তর করার জন্যও এটি ট্রিগার হয়। ডেলিভারেবল অবশ্যই একটি স্প্রেডশীট ফাইল হতে হবে। যখন প্রাথমিক ডেলিভারেবল একটি ওয়ার্ড ডকুমেন্ট, HTML রিপোর্ট, স্বতন্ত্র Python স্ক্রিপ্ট, ডেটাবেস পাইপলাইন বা Google Sheets API ইন্টিগ্রেশন, তখন এটি ট্রিগার করবেন না, এমনকি যদি টেবিলার ডেটা জড়িত থাকে।"
+  }
+}
