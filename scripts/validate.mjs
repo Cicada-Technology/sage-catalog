@@ -115,6 +115,34 @@ if (!pluginFile || !Array.isArray(pluginEntries)) {
   }
   checkI18n('plugins', ids, 'plugin');
   console.log(`ok: ${pluginEntries.length} plugins`);
+
+  const indexFile = readJson('plugins/index.json');
+  const indexPlugins = indexFile?.plugins;
+  if (!indexFile || indexFile.schemaVersion !== 1 || !Array.isArray(indexPlugins)) {
+    errors.push('plugins/index.json: expected schemaVersion 1 and a plugins array');
+  } else {
+    const indexIds = new Set();
+    for (const [i, plugin] of indexPlugins.entries()) {
+      const where = `plugins/index.json[${i}]`;
+      if (typeof plugin?.id !== 'string' || !plugin.id) errors.push(`${where}: missing id`);
+      if (typeof plugin?.repo !== 'string' || !plugin.repo) errors.push(`${where}: missing repo`);
+      if (!Array.isArray(plugin?.versions) || plugin.versions.length === 0) {
+        errors.push(`${where}: missing versions`);
+        continue;
+      }
+      if (indexIds.has(plugin.id)) errors.push(`${where}: duplicate id ${plugin.id}`);
+      indexIds.add(plugin.id);
+      for (const [j, version] of plugin.versions.entries()) {
+        const vwhere = `${where}.versions[${j}]`;
+        if (!/^\d+\.\d+\.\d+$/.test(version?.version ?? '')) errors.push(`${vwhere}: bad version`);
+        const hasFiles = version?.files && Object.keys(version.files).length > 0;
+        const hasArchive = typeof version?.archive === 'string' && typeof version?.archiveSha256 === 'string';
+        if (!hasFiles && !hasArchive) errors.push(`${vwhere}: needs files or archive+archiveSha256`);
+      }
+    }
+    for (const id of ids) if (!indexIds.has(id)) errors.push(`plugins/index.json: missing ${id}`);
+    console.log(`ok: ${indexPlugins.length} plugin index entries`);
+  }
 }
 
 for (const warning of warnings) console.warn(`warn: ${warning}`);

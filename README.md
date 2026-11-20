@@ -14,7 +14,8 @@ mcp/
   mcp.json             # MCP 定义：transport / command / args / url / env / headers
   i18n/<locale>.json   # MCP id -> { name, description }
 plugins/
-  plugins.json         # 插件元数据覆盖层：id / repo / indexId / category
+  plugins.json         # 元数据源：id / repo / category / author
+  index.json           # 完整索引：版本、资产、SHA-256、archive
   i18n/<locale>.json   # 插件 id -> { name, description }
 ```
 
@@ -68,20 +69,39 @@ en, zh, zh-TW, ja, ko, de, fr, es, pt-BR, ru, ar, hi-IN, bn, id, bo
 
 ## 插件
 
-`plugins.json` 是**元数据覆盖层**，只负责翻译、分类和展示；版本、release 资产、SHA-256 与签名仍由现有插件索引提供，绝不由本仓库替代。
+`plugins/index.json` 是 Sage 自有插件索引：客户端只读它来发现、选择版本和校验资产。`plugins/plugins.json` 保留为生成索引的元数据源（id / repo / category / author），不参与安装。
+
+索引条目示例：
 
 ```json
 {
-  "id": "ai-quota-monitor",
-  "repo": "libo-zhou/ccgui-plugin-ai-quota-monitor",
-  "indexId": "ai-quota-monitor",
-  "author": "libo-zhou",
-  "category": "productivity"
+  "id": "react-doctor",
+  "repo": "zhukunpenglinyutong/ccgui-plugin-react-doctor",
+  "category": "dev",
+  "name": "React Doctor",
+  "description": "One-click React code health check.",
+  "author": "zhukunpenglinyutong",
+  "versions": [{
+    "version": "0.3.1",
+    "tier": "js",
+    "minAppVersion": "1.0.0",
+    "sdkVersion": "^0.3",
+    "permissions": ["ui:panel-tab", "storage"],
+    "files": {
+      "manifest.json": "sha256...",
+      "main.js": "sha256...",
+      "styles.css": "sha256..."
+    },
+    "icon": "docs/icon.png",
+    "screenshots": ["docs/screenshot-1.png"]
+  }]
 }
 ```
 
+- `files`：兼容 CCGUI 的平铺 Release 资产，客户端逐个下载并按哈希校验。
+- `archive` + `archiveSha256`：新式 `plugin.zip`，存在时优先于 `files`；客户端下载、校验、解包后再走同一套安装事务。
 - `category` 取 `dev / productivity / integration / appearance / other`。
-- 安装时客户端用 `indexId` 回到插件索引解析版本与资产哈希；本仓库不提供下载地址。
+- `plugins/i18n/<locale>.json` 提供名称/描述翻译。
 
 ## 客户端取数
 
