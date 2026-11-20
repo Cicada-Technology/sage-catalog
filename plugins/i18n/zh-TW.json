@@ -1,0 +1,166 @@
+{
+  "ai-quota-monitor": {
+    "name": "AI 配額與用量監控",
+    "description": "檢視 Gemini、Codex、CodeBuddy、OpenCode、Claude、Grok、GLM、Kimi 的配額與積分，最多自選三個頁籤展示，並統計本機 Token 用量、成本及熱力圖。"
+  },
+  "auto-title": {
+    "name": "工作階段自動命名",
+    "description": "每輪對話結束後用本機 CLI 或 DeepSeek 生成「emoji + 物件｜目標」式工作階段標題，支援 codex / omp / pi / claude；不覆蓋手動改名，可暫停、可只命名一次。"
+  },
+  "background-ui": {
+    "name": "背景和 UI 最佳化",
+    "description": "應用背景、12 套主題配色、幕布、時間線、頁籤、聚焦光暈、捲軸等介面外觀最佳化;內建 Wallhaven / UPX8 線上桌布相簿,支援搜尋、分頁、預覽、設為背景與歷史管理;圖片經本機 node 分片下載。能力提取自 Guardian-J 的上游外掛（完整來源見 README）。"
+  },
+  "balance-meter": {
+    "name": "餘額與餘量",
+    "description": "按當前引擎實際在用的閘道器識別供應商與計費方式：API 查餘額、訂閱查餘量；已支援 ChatGPT、Claude、OpenCode Go、Kimi、智譜、MiniMax、Grok 等訂閱通道，沒有可用介面時明確提示；支援手動重新整理與每輪對話後自動重新整理。"
+  },
+  "ccgui-svn": {
+    "name": "SVN 管理面板",
+    "description": "在 CC GUI 中管理當前工作區的 SVN 變更、歷史、差異和衝突。"
+  },
+  "ccgui.client-context-bridge": {
+    "name": "跨客戶端上下文橋接 (CCB)",
+    "description": "在不同 AI CLI 客戶端之間自動維護和接續任務上下文，支援按工作區獨立啟停。"
+  },
+  "ccgui.live2d-pets": {
+    "name": "Live2D 桌寵",
+    "description": "在介面上渲染可互動的 Live2D 桌寵，並映象當前啟用工作階段的 AI 狀態（思考/等審批/出錯/完成/空閒）；支援摸頭摸腿、滑鼠跟隨、拖曳停靠、六套人設臺詞與自訂模型動畫對映。"
+  },
+  "claude-ip-check": {
+    "name": "Claude IP 檢查",
+    "description": "檢視存取 Claude 的出口 IP、純淨度、地理與風險訊號：三路出口 IP、信任評分、安全檢測、DNS / WebRTC 洩露、裝置資訊與 IP 歷史。移植自 TokenTracker。"
+  },
+  "cli-install-audit": {
+    "name": "CLI 安裝檢測",
+    "description": "逐個探測 CC GUI 支援的 CLI 引擎，對比 PATH 入口與執行中處理程序的版本和 SHA256，標出缺失與分叉。"
+  },
+  "composer-rainbow-border": {
+    "name": "彩虹跑馬燈邊界線",
+    "description": "對話執行中為聊天輸入框與工作階段頁籤展示彩虹跑馬燈，後臺工作階段完成時呈現綠色呼吸未讀邊框。"
+  },
+  "daily-sentence": {
+    "name": "每日一句",
+    "description": "在狀態列左側展示每日一句，支援多種動畫、自訂介面與欄位對映，以及按日、小時或分鐘自動更新。"
+  },
+  "dsh-skins-ccgui": {
+    "name": "DSH 皮膚與桌布",
+    "description": "把 dsh-skins 的三套配色和八張內建桌布帶到 CC GUI，支援即時切換、閱讀遮罩和圖片適配。"
+  },
+  "engine-hopper": {
+    "name": "引擎接力",
+    "description": "在同一對話中隨時切換引擎與模型：自動整理完整對話上下文並智慧分層交接，新引擎無縫續聊；支援接力鏈回跳與增量續接。"
+  },
+  "file-drag-upload": {
+    "name": "檔案拖拽上傳",
+    "description": "拖拽檔案到聊天視窗，支援預覽、刪除和重新排序"
+  },
+  "file-preview-panel": {
+    "name": "檔案預覽面板",
+    "description": "在右側面板瀏覽工作區檔案樹，直接預覽 Markdown（含 Mermaid 圖表）與文本檔案，不另開主標籤頁。僅支援 Windows。"
+  },
+  "font-tuner": {
+    "name": "字型調校",
+    "description": "自訂視窗介面字型、對話內容字型與程式碼字型，並可設定字號、行高、字距、字型平滑與文本渲染方式。"
+  },
+  "git-workbench": {
+    "name": "Git 工作臺",
+    "description": "復刻 IntelliJ IDEA 的 Git 工具視窗：多儲存庫識別、本機更改 / 提交、提交圖、分支、合併/變基、暫存、標籤、遠端、子模組、Blame、控制台。直接驅動本機 git CLI，相容任意 git 版本與任意託管平臺。"
+  },
+  "github-tasks": {
+    "name": "CCGUI · Git 任務管理",
+    "description": "只讀的多儲存庫 PR 流轉看板：每日新增、我審沒審、作者修沒修、修完我看沒看；看板拖拽只記本機標記；側欄 worktree 顯示 PR 狀態。"
+  },
+  "local-memory": {
+    "name": "長期記憶",
+    "description": "本機長期記憶（全域性偏好、專案專屬記憶與Agent專屬規範），支援自然語言動態記憶、引擎隔離注入與設定頁管理。"
+  },
+  "local-task-monitor": {
+    "name": "本機任務監控",
+    "description": "監控 CC GUI 處理程序樹與可歸屬側欄工作區的監聽服務：PID、專案、埠、CPU、記憶體；工作區服務可經二次確認停止或重新啟動，處理程序樹保持只讀。"
+  },
+  "mermaid-markdown": {
+    "name": "Mermaid 圖表",
+    "description": "把回答裡的 ```mermaid 程式碼塊渲染成真正的圖表，大小與佈局密度可調、支援深淺色主題"
+  },
+  "model-quota": {
+    "name": "模型額度膠囊",
+    "description": "在輸入框狀態列用膠囊顯示當前工作階段模型所在通道的 5 小時 / 周 / 月額度（已用百分比，懸浮看剩餘），支援智譜 GLM Coding Plan 與 OpenCode Go。"
+  },
+  "model-switcher": {
+    "name": "模型與供應商助手",
+    "description": "模型與 CLI 選擇、供應商通道切換、獨立通道管理、全域性主題、工作階段模型顯示、幕布連結跳轉，以及可選的 Claude Agent SDK 提示詞清洗。"
+  },
+  "personal-task-board": {
+    "name": "個人任務看板",
+    "description": "本機管理任務，交給 CC GUI 原生工作階段執行並人工驗收。"
+  },
+  "port-manager": {
+    "name": "埠管理",
+    "description": "按工作區分組展示本機監聽中的 TCP 埠，分組可摺疊，支援一鍵開啟瀏覽器和關閉埠；自動適配 macOS / Linux / Windows，純本機執行不出網。"
+  },
+  "project-knowledge": {
+    "name": "專案知識",
+    "description": "把當前專案的筆記 / 待辦 / 計劃掛載進對話上下文：右側面板三 Tab 增刪改，掛載按工作階段隔離，傳送前自動注入給模型，移出後不再帶入。"
+  },
+  "prompt-enhancer": {
+    "name": "提示詞增強",
+    "description": "預設使用專用文本 API 增強提示詞，支援 OpenAI 相容、Responses、Claude、Gemini；可選引擎模式，預覽後寫回。"
+  },
+  "prompt-optimizer": {
+    "name": "提示詞最佳化器",
+    "description": "把 prompt-optimizer v2.13.0 的 41 個官方提示詞模板搬進 CC GUI：輸入框旁 ✨ 彈窗，基礎/上下文/影像/變數四大類 15 個子模式，支援最佳化、迭代、評估、變數抽取與影像提示詞，結果可一鍵寫回。"
+  },
+  "react-doctor": {
+    "name": "React Doctor",
+    "description": "一鍵執行 npx react-doctor@latest 程式碼體檢：評分環、錯誤/警告統計、按檔案分組的問題清單與修復建議、原始輸出，結果本機持久化；非滿分時可「一鍵修復」把問題清單填入聊天輸入框。"
+  },
+  "scheduled-tasks": {
+    "name": "定時任務",
+    "description": "用 5 欄位 cron 在指定工作區定時發起 AI 輪次：每輪在側欄新增可見工作階段，即時流式、可接管可停止；支援技能繫結、自然語言建任務、執行記錄、失敗退避與自動暫停。CC GUI 關閉時不執行。"
+  },
+  "service-status": {
+    "name": "服務狀態",
+    "description": "在中心頁籤聚合 Claude / OpenAI / Cursor / GitHub / Gemini / Kimi / MiniMax / Zed 官方狀態頁的即時事故狀態，每分鐘自動重新整理。"
+  },
+  "session-engine-filter": {
+    "name": "工作階段來源遮蔽",
+    "description": "按 CLI 引擎遮蔽側邊欄工作階段：勾掉不想看的引擎（Pi、Codex、Grok、Kimi…），它們的工作階段行就不再出現在各工作區清單裡；隨時可恢復，隻影響顯示，不動工作階段資料。"
+  },
+  "session-notes": {
+    "name": "工作階段便籤",
+    "description": "給任意工作階段貼上本機便籤：右側面板編輯當前工作階段備註、右鍵選單直達、清單統一管理，資料僅存本機。"
+  },
+  "session-rainbow-border": {
+    "name": "工作區對話跑馬燈",
+    "description": "左側面板工作區各對話執行中時，為正在工作的對話清單項新增漸變旋轉、閃滅呼吸、熾熱烈焰等多種光效邊框，支援設定面板自由切換與即時預覽。"
+  },
+  "slash-palette": {
+    "name": "Claude 斜槓命令",
+    "description": "僅支援 Claude Code：點一下輸入框旁的「/ 命令」，搜尋並插入外掛與使用者的命令、技能，不用再記命令名。"
+  },
+  "smart-session-title": {
+    "name": "智慧工作階段命名",
+    "description": "每輪對話結束後自動為工作階段生成帶 emoji 字首的簡短標題：直調引擎 CLI 智慧命名（預設跟隨工作階段引擎，可固定引擎/模型，不落對話記錄），失敗回退本機關鍵詞規則；狀態列顯示進度與失敗原因，附除錯日誌與右鍵重新命名。"
+  },
+  "token-meter": {
+    "name": "Token 速度表",
+    "description": "composer 狀態行即時顯示 token 輸出速度與快取命中率，支援全部 11 個 CLI 引擎。"
+  },
+  "translation": {
+    "name": "輕譯",
+    "description": "選中文字右鍵翻譯、狀態列自動翻譯，以及模型回覆旁的單條翻譯。支援 Bing、Google 和自訂 AI。"
+  },
+  "usage-limits": {
+    "name": "用量與限額",
+    "description": "狀態列常駐今日 token、估算費用與 Claude / Codex 的 5h / 7d 限額標籤（帶平臺圖示），點開看趨勢、專案 / 模型明細與節奏預測；資料由 CC GUI 在本機從各 CLI 日誌計算，不上傳。"
+  },
+  "window-model-assistant": {
+    "name": "視窗與模型助手",
+    "description": "僅管理 CC GUI 主視窗的位置與大小（自動恢復/儲存/建議尺寸/微信取樣，不動其他視窗），並按引擎與來源透明展示宿主公開的服務商模型目錄；初始載入不出網，手動重新整理才存取服務商介面，失敗快取降級並標註原因。"
+  },
+  "wsl": {
+    "name": "WSL 管理器",
+    "description": "WSL 發行版管理器:本機診斷與設預設、引擎探針、遠端宿主(密碼/key)、WSL 工作區登記、發行版內檔案面板,claude/codex/omp 工作階段清單與歷史回放。"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "ai-quota-monitor": {
+    "name": "AI Quota and Usage Monitoring",
+    "description": "View quotas and credits for Gemini, Codex, CodeBuddy, OpenCode, Claude, Grok, GLM, and Kimi; display up to three selected tabs, and aggregate local Token usage, costs, and heatmaps."
+  },
+  "auto-title": {
+    "name": "Automatic Session Naming",
+    "description": "After each conversation round, generate a session title using the local CLI or DeepSeek in the format \"emoji + subject | objective\"; supports codex / omp / pi / claude. Does not overwrite manually renamed sessions; can be paused or set to name only once."
+  },
+  "background-ui": {
+    "name": "Background and UI Enhancements",
+    "description": "Optimized interface aesthetics including app background, 12 theme color schemes, curtains, timelines, tabs, focus glows, scrollbars, etc.; built-in Wallhaven / UPX8 online wallpaper galleries with search, pagination, previews, setting as background, and history management; images downloaded via local node sharding. Features derived from upstream plugins of Guardian-J (full sources listed in README)."
+  },
+  "balance-meter": {
+    "name": "Balance and Remaining Quota",
+    "description": "Identifies vendors and billing methods based on the gateway actually used by the current engine: API checks balance, subscriptions check remaining quota; currently supports ChatGPT, Claude, OpenCode Go, Kimi, Zhipu, MiniMax, Grok subscription channels, clearly notifies when no available API exists; supports manual refresh and automatic refresh after each conversation round."
+  },
+  "ccgui-svn": {
+    "name": "SVN Management Panel",
+    "description": "Manages SVN changes, history, differences, and conflicts within the current workspace in the CC GUI."
+  },
+  "ccgui.client-context-bridge": {
+    "name": "Cross-Client Context Bridging (CCB)",
+    "description": "Automatically maintains and resumes task contexts across different AI CLI clients, supporting independent start/stop per workspace."
+  },
+  "ccgui.live2d-pets": {
+    "name": "Live2D Desktop Pet",
+    "description": "Renders an interactive Live2D desktop pet on the interface, mirroring the AI status (thinking/waiting for approval/error/completed/idle) of the currently active session; supports petting head and legs, mouse following, drag-and-dock functionality, six character dialogue sets, and custom model animation mappings."
+  },
+  "claude-ip-check": {
+    "name": "Claude IP Check",
+    "description": "Views the egress IP, purity, geography, and risk signals for accessing Claude: triple egress IPs, trust score, security checks, DNS/WebRTC leaks, device information, and IP history. Ported from TokenTracker."
+  },
+  "cli-install-audit": {
+    "name": "CLI Installation Detection",
+    "description": "Individually probes CLI engines supported by the CC GUI, compares PATH entries with running process versions and SHA256 hashes, flags missing or forked versions."
+  },
+  "composer-rainbow-border": {
+    "name": "Rainbow Marquee Border",
+    "description": "Displays a rainbow marquee over the chat input box and session tab during conversations, showing a green breathing unread border upon completion of background sessions."
+  },
+  "daily-sentence": {
+    "name": "Daily Quote",
+    "description": "Displays a daily quote on the left side of the status bar, supporting various animations, custom interfaces and field mappings, and automatic updates by day, hour, or minute."
+  },
+  "dsh-skins-ccgui": {
+    "name": "DSH Skins and Wallpapers",
+    "description": "Brings dsh-skins' three color schemes and eight built-in wallpapers to the CC GUI, supporting instant switching, reading masks, and image adaptation."
+  },
+  "engine-hopper": {
+    "name": "Engine Relay",
+    "description": "Switches engines and models anytime within the same conversation: automatically organizes complete conversation context and intelligently layers handoffs, allowing new engines to seamlessly continue chats; supports relay chain backtracking and incremental continuation."
+  },
+  "file-drag-upload": {
+    "name": "File Drag-and-Drop Upload",
+    "description": "Drag files into the chat window, supporting previews, deletions, and reordering."
+  },
+  "file-preview-panel": {
+    "name": "File Preview Panel",
+    "description": "Browses the workspace file tree in the right panel, directly previewing Markdown (including Mermaid diagrams) and text files without opening additional main tabs. Supports only Windows."
+  },
+  "font-tuner": {
+    "name": "Font Tuning",
+    "description": "Customizes window interface fonts, dialogue content fonts, and code fonts, with configurable font size, line height, letter spacing, font smoothing, and text rendering modes."
+  },
+  "git-workbench": {
+    "name": "Git Workbench",
+    "description": "Recreates IntelliJ IDEA's Git tool windows: multi-repo recognition, local changes/commits, commit graphs, branches, merges/rebasing, stashing, tags, remotes, submodules, blame, console. Directly drives the local git CLI, compatible with any git version and hosting platform."
+  },
+  "github-tasks": {
+    "name": "CCGUI · Git Task Management",
+    "description": "Read-only multi-repo PR workflow board: daily additions, whether I've reviewed them, whether authors have fixed issues, whether I've checked fixes; board drag-and-drop only records local markers; sidebar worktree displays PR statuses."
+  },
+  "local-memory": {
+    "name": "Long-Term Memory",
+    "description": "Local long-term memory (global preferences, project-specific memories, and agent-specific specifications), supporting dynamic natural language memorization, engine-isolated injection, and settings page management."
+  },
+  "local-task-monitor": {
+    "name": "Local Task Monitoring",
+    "description": "Monitors the CC GUI process tree and associated sidebar workspace listening services: PID, project, port, CPU, memory; workspace services can be stopped or restarted with secondary confirmation while the process tree remains read-only."
+  },
+  "mermaid-markdown": {
+    "name": "Mermaid Charts",
+    "description": "Renders ```mermaid code blocks in responses into actual charts, with adjustable size and layout density, supporting both light and dark themes."
+  },
+  "model-quota": {
+    "name": "Model Quota Capsules",
+    "description": "Displays the current session's model channel's 5-hour/weekly/monthly quota (used percentage, hover for remaining) as capsules in the input box status bar, supporting Zhipu GLM Coding Plan and OpenCode Go."
+  },
+  "model-switcher": {
+    "name": "Model and Vendor Assistant",
+    "description": "Includes CLI selection, vendor channel switching, independent channel management, global theme, session model display, canvas link navigation, and optional Claude Agent SDK prompt cleaning."
+  },
+  "personal-task-board": {
+    "name": "Personal Task Dashboard",
+    "description": "Manages tasks locally, delegating them to CC GUI native sessions for execution and manual acceptance."
+  },
+  "port-manager": {
+    "name": "Port Management",
+    "description": "Groups locally listened TCP ports by workspace, with collapsible groups, supporting one-click browser opening and port closing; automatically adapts to macOS / Linux / Windows, running purely locally without network access."
+  },
+  "project-knowledge": {
+    "name": "Project Knowledge",
+    "description": "Mounts notes/to-dos/plans from the current project into the conversation context: three tabs on the right panel for adding, deleting, and editing; mounting is isolated per session, automatically injected to the model before sending, and removed afterward."
+  },
+  "prompt-enhancer": {
+    "name": "Prompt Enhancement",
+    "description": "Uses dedicated text API prompt enhancement by default, compatible with OpenAI, Responses, Claude, Gemini; supports selectable engine modes and write-back after preview."
+  },
+  "prompt-optimizer": {
+    "name": "Prompt Optimizer",
+    "description": "brings 41 official prompt templates from prompt-optimizer v2.13.0 into CC GUI: an ✨ popup next to the input box, four major categories—Basic/Context/Image/Variable—with 15 sub-patterns, supporting optimization, iteration, evaluation, variable extraction, and image prompts; results can be written back with one click."
+  },
+  "react-doctor": {
+    "name": "React Doctor",
+    "description": "Runs npx react-doctor@latest code health check with one click: score ring, error/warning stats, problem list grouped by file with fix suggestions, original output; results are persisted locally; if not perfect, \"One-Click Fix\" fills the issue list into the chat input box."
+  },
+  "scheduled-tasks": {
+    "name": "Scheduled Tasks",
+    "description": "Triggers AI rounds on schedule in specified workspaces using a 5-field cron: each round creates a new visible session in the sidebar, with real-time streaming, takeover, and stop capabilities; supports skill binding, natural language task creation, run history, failure backoff, and automatic pausing. Does not execute when CC GUI is closed."
+  },
+  "service-status": {
+    "name": "Service Status",
+    "description": "Aggregates real-time incident statuses from official status pages of Claude / OpenAI / Cursor / GitHub / Gemini / Kimi / MiniMax / Zed on the central tab, refreshing automatically every minute."
+  },
+  "session-engine-filter": {
+    "name": "Session Source Blocking",
+    "description": "Blocks sidebar sessions by CLI engine: uncheck engines you don't want to see (Pi, Codex, Grok, Kimi...), and their session rows disappear from workspace lists; can be restored at any time, affecting only display and leaving session data untouched."
+  },
+  "session-notes": {
+    "name": "Session Notes",
+    "description": "Puts local notes on any session: edit current session remarks on the right panel, quick access via right-click menu, unified list management; data stored only locally."
+  },
+  "session-rainbow-border": {
+    "name": "Workspace Conversation Marquee",
+    "description": "Adds gradient rotation, flashing breath, blazing flames, and other light-effect borders to active conversation list items in the left sidebar workspace during runtime, supporting customizable panel switching and real-time previews."
+  },
+  "slash-palette": {
+    "name": "Claude Slash Commands",
+    "description": "Supports only Claude Code: tap \"/ Commands\" next to the input box to search and insert plugin and user commands/skills, eliminating the need to memorize command names."
+  },
+  "smart-session-title": {
+    "name": "Smart Session Naming",
+    "description": "Automatically generates short titles prefixed with emojis for sessions after each round: direct-engine CLI smart naming (defaults to follow session engine, can pin engine/model, does not log to conversation records); falls back to local keyword rules upon failure; status bar shows progress and failure reasons, with debug logs and right-click rename option."
+  },
+  "token-meter": {
+    "name": "Token Speedometer",
+    "description": "composer status line displays token output speed and cache hit rate in real time, supporting all 11 CLI engines."
+  },
+  "translation": {
+    "name": "Light Translation",
+    "description": "Right-click translation of selected text, automatic translation in the status bar, and single translations alongside model replies. Supports Bing, Google, and custom AI."
+  },
+  "usage-limits": {
+    "name": "Usage and Quotas",
+    "description": "Status bar permanently displays today's tokens, estimated costs, and 5h/7d quota labels for Claude / Codex (with platform icons); tap to view trends, project/model details, and pace forecasts; data calculated locally by CC GUI from various CLI logs, never uploaded."
+  },
+  "window-model-assistant": {
+    "name": "Window and Model Assistant",
+    "description": "Only manages the position and size of the CC GUI main window (auto-recovery/save/recommended dimensions/WeChat sampling, leaving other windows untouched), while transparently displaying the host's public vendor model directory by engine and source; initial load stays offline, accessing vendor APIs only upon manual refresh, falling back to cached degraded mode with reason标注 upon failure."
+  },
+  "wsl": {
+    "name": "WSL Manager",
+    "description": "WSL Distribution Manager: local diagnostics and default settings, engine probe, remote host (password/key), WSL workspace registration, file panel within the distribution, and session lists and historical playback for Claude/Codex/OMP."
+  }
+}

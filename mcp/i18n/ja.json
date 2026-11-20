@@ -1,0 +1,38 @@
+{
+  "blender": {
+    "name": "Blender",
+    "description": "自然言語でBlenderのシーンやレンダリングを作成・編集します。"
+  },
+  "github": {
+    "name": "GitHub",
+    "description": "リポジトリ、課題、プルリクエスト、Actionsを読み込みます。GitHub PATが必要です。"
+  },
+  "context7": {
+    "name": "Context7",
+    "description": "モデルに関する最新のライブラリドキュメントとコード例を取得します。"
+  },
+  "playwright": {
+    "name": "Playwright",
+    "description": "ブラウザの自動化：ページを開き、クリックし、フォームに入力してスクリーンショットを撮影します。"
+  },
+  "qdrant": {
+    "name": "Qdrant",
+    "description": "知識をベクトルデータベースに格納し、意味的に検索します。"
+  },
+  "rhino": {
+    "name": "Rhino",
+    "description": "AIを通じてRhinoおよびGrasshopperのモデリングを操作します。"
+  },
+  "n8n": {
+    "name": "n8n",
+    "description": "n8nノードのドキュメントを調べ、ワークフローを管理または自動修正します。"
+  },
+  "firecrawl": {
+    "name": "Firecrawl",
+    "description": "ページをスクレイピングし、ウェブを検索してクリーンなMarkdown形式で返します。"
+  },
+  "mobile": {
+    "name": "Mobile MCP",
+    "description": "アクセシビリティを通じて、iOSおよびAndroidのデバイスやシミュレーターを制御します。"
+  }
+}

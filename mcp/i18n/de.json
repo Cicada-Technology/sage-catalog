@@ -1,0 +1,38 @@
+{
+  "blender": {
+    "name": "Blender",
+    "description": "Erstellen und bearbeiten Sie Blender-Szenen und -Renderings in natürlicher Sprache."
+  },
+  "github": {
+    "name": "GitHub",
+    "description": "Lesen Sie Repositories, Issues, Pull Requests und Actions; benötigt einen GitHub-PAT."
+  },
+  "context7": {
+    "name": "Context7",
+    "description": "Rufen Sie die aktuelle Bibliotheksdokumentation und Codebeispiele für das Modell ab."
+  },
+  "playwright": {
+    "name": "Playwright",
+    "description": "Browser-Automatisierung: Seiten öffnen, klicken, Formulare ausfüllen und Screenshots erstellen."
+  },
+  "qdrant": {
+    "name": "Qdrant",
+    "description": "Speichern Sie Wissen in einer Vektordatenbank und durchsuchen Sie es semantisch."
+  },
+  "rhino": {
+    "name": "Rhino",
+    "description": "Steuern Sie die Modellierung in Rhino und Grasshopper über AI."
+  },
+  "n8n": {
+    "name": "n8n",
+    "description": "Suchen Sie n8n-Knotendokumentationen und verwalten oder reparieren Sie Workflows automatisch."
+  },
+  "firecrawl": {
+    "name": "Firecrawl",
+    "description": "Extrahieren Sie Daten von Webseiten, durchsuchen Sie das Web und geben Sie sauberes Markdown zurück."
+  },
+  "mobile": {
+    "name": "Mobile MCP",
+    "description": "Steuern Sie iOS- und Android-Geräte oder -Simulatoren über Barrierefreiheit."
+  }
+}

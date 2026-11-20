@@ -1,0 +1,38 @@
+{
+  "blender": {
+    "name": "Blender",
+    "description": "بناء وتحرير مشاهد وعروض بلندر باستخدام اللغة الطبيعية."
+  },
+  "github": {
+    "name": "GitHub",
+    "description": "قراءة المستودعات، والمشكلات، وطلبات السحب، والإجراءات؛ يتطلب بطاقة GitHub."
+  },
+  "context7": {
+    "name": "Context7",
+    "description": "استرداد وثائق المكتبة الحالية وأمثلة الكود الخاصة بالنموذج."
+  },
+  "playwright": {
+    "name": "Playwright",
+    "description": "أتمتة المتصفح: فتح الصفحات، والنقر، وملء النماذج، والتقاط لقطات الشاشة."
+  },
+  "qdrant": {
+    "name": "Qdrant",
+    "description": "تخزين المعرفة في قاعدة بيانات متجهية والبحث فيها دلاليًا."
+  },
+  "rhino": {
+    "name": "Rhino",
+    "description": "تشغيل نمذجة Rhino وGrasshopper عبر AI."
+  },
+  "n8n": {
+    "name": "n8n",
+    "description": "البحث في وثائق عقد n8n وإدارة سير العمل أو إصلاحها تلقائيًا."
+  },
+  "firecrawl": {
+    "name": "Firecrawl",
+    "description": "كشط الصفحات، والبحث في الويب، وإرجاع تنسيق Markdown نظيف."
+  },
+  "mobile": {
+    "name": "Mobile MCP",
+    "description": "التحكم في الأجهزة أو المحاكيات iOS وAndroid من خلال خاصية إمكانية الوصول."
+  }
+}

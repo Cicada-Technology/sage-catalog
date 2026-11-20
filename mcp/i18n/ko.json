@@ -1,0 +1,38 @@
+{
+  "blender": {
+    "name": "Blender",
+    "description": "자연어로 Blender 모델링, 장면 수정, 렌더링을 제어합니다."
+  },
+  "github": {
+    "name": "GitHub",
+    "description": "저장소, 이슈, PR, Actions를 읽습니다. GitHub PAT가 필요합니다."
+  },
+  "context7": {
+    "name": "Context7",
+    "description": "최신 라이브러리 문서와 코드 예제를 실시간으로 가져옵니다."
+  },
+  "playwright": {
+    "name": "Playwright",
+    "description": "브라우저 자동화: 페이지 열기, 클릭, 양식 작성, 스크린샷."
+  },
+  "qdrant": {
+    "name": "Qdrant",
+    "description": "자료를 벡터 데이터베이스에 저장하고 의미 기반으로 검색합니다."
+  },
+  "rhino": {
+    "name": "Rhino",
+    "description": "AI로 Rhino 및 Grasshopper 모델링을 수행합니다."
+  },
+  "n8n": {
+    "name": "n8n",
+    "description": "n8n 노드 문서를 찾고 워크플로를 관리·자동 수정합니다."
+  },
+  "firecrawl": {
+    "name": "Firecrawl",
+    "description": "웹 페이지를 스크랩하고 검색해 깨끗한 Markdown으로 반환합니다."
+  },
+  "mobile": {
+    "name": "Mobile MCP",
+    "description": "접근성 트리로 iOS/Android 실기기나 시뮬레이터를 제어합니다."
+  }
+}

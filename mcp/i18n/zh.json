@@ -1,0 +1,38 @@
+{
+  "blender": {
+    "name": "Blender",
+    "description": "用自然语言控制 Blender 建模、修改场景并渲染。"
+  },
+  "github": {
+    "name": "GitHub",
+    "description": "读取仓库、Issue、Pull Request 与 Actions，需要 GitHub PAT。"
+  },
+  "context7": {
+    "name": "Context7",
+    "description": "为模型实时检索最新库文档与代码示例。"
+  },
+  "playwright": {
+    "name": "Playwright",
+    "description": "浏览器自动化：打开网页、点击、填表与截图。"
+  },
+  "qdrant": {
+    "name": "Qdrant",
+    "description": "把资料存入向量数据库，并做语义检索。"
+  },
+  "rhino": {
+    "name": "Rhino",
+    "description": "通过 AI 驱动 Rhino 与 Grasshopper 建模。"
+  },
+  "n8n": {
+    "name": "n8n",
+    "description": "查找 n8n 节点文档，管理并自动修复工作流。"
+  },
+  "firecrawl": {
+    "name": "Firecrawl",
+    "description": "抓取网页、搜索互联网并返回干净 Markdown。"
+  },
+  "mobile": {
+    "name": "Mobile MCP",
+    "description": "通过无障碍树控制 iOS/Android 真机或模拟器。"
+  }
+}

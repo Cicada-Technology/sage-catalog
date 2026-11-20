@@ -1,0 +1,38 @@
+{
+  "blender": {
+    "name": "Blender",
+    "description": "Membangun dan mengedit adegan serta render Blender menggunakan bahasa alami."
+  },
+  "github": {
+    "name": "GitHub",
+    "description": "Membaca repositori, masalah, permintaan tarik, dan Tindakan; memerlukan GitHub PAT."
+  },
+  "context7": {
+    "name": "Context7",
+    "description": "Mengambil dokumentasi pustaka terkini dan contoh kode untuk model tersebut."
+  },
+  "playwright": {
+    "name": "Playwright",
+    "description": "Otomatisasi peramban: membuka halaman, mengklik, mengisi formulir, dan mengambil tangkapan layar."
+  },
+  "qdrant": {
+    "name": "Qdrant",
+    "description": "Menyimpan pengetahuan dalam basis data vektor dan mencarinya secara semantik."
+  },
+  "rhino": {
+    "name": "Rhino",
+    "description": "Mengendalikan pemodelan Rhino dan Grasshopper melalui AI."
+  },
+  "n8n": {
+    "name": "n8n",
+    "description": "Mencari dokumentasi node n8n serta mengelola atau memperbaiki alur kerja secara otomatis."
+  },
+  "firecrawl": {
+    "name": "Firecrawl",
+    "description": "Menggali halaman, mencari di web, dan mengembalikan Markdown yang bersih."
+  },
+  "mobile": {
+    "name": "Mobile MCP",
+    "description": "Mengontrol perangkat atau simulator iOS dan Android melalui aksesibilitas."
+  }
+}

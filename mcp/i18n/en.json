@@ -1,0 +1,38 @@
+{
+  "blender": {
+    "name": "Blender",
+    "description": "Build and edit Blender scenes and renders in natural language."
+  },
+  "github": {
+    "name": "GitHub",
+    "description": "Read repositories, issues, pull requests and Actions; needs a GitHub PAT."
+  },
+  "context7": {
+    "name": "Context7",
+    "description": "Fetch current library documentation and code examples for the model."
+  },
+  "playwright": {
+    "name": "Playwright",
+    "description": "Browser automation: open pages, click, fill forms and take screenshots."
+  },
+  "qdrant": {
+    "name": "Qdrant",
+    "description": "Store knowledge in a vector database and search it semantically."
+  },
+  "rhino": {
+    "name": "Rhino",
+    "description": "Drive Rhino and Grasshopper modeling through AI."
+  },
+  "n8n": {
+    "name": "n8n",
+    "description": "Look up n8n node docs and manage or auto-fix workflows."
+  },
+  "firecrawl": {
+    "name": "Firecrawl",
+    "description": "Scrape pages, search the web and return clean Markdown."
+  },
+  "mobile": {
+    "name": "Mobile MCP",
+    "description": "Control iOS and Android devices or simulators through accessibility."
+  }
+}

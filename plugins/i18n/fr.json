@@ -1,0 +1,166 @@
+{
+  "ai-quota-monitor": {
+    "name": "AI Suivi des quotas et de la consommation",
+    "description": "Consultez les quotas et les points pour Gemini, Codex, CodeBuddy, OpenCode, Claude, Grok, GLM, Kimi ; affichage de trois onglets au maximum, avec statistiques locales sur la consommation de Token, les coûts et une carte thermique."
+  },
+  "auto-title": {
+    "name": "Nomination automatique des sessions",
+    "description": "À la fin de chaque tour de conversation, génère un titre de session « emoji + objet｜objectif » via la CLI locale ou DeepSeek ; compatible avec codex / omp / pi / claude ; ne remplace pas les renommages manuels, peut être suspendu ou limité à une seule nomination."
+  },
+  "background-ui": {
+    "name": "Optimisation de l’arrière-plan et de l’interface utilisateur",
+    "description": "Optimisations de l’apparence : arrière-plan de l’application, 12 jeux de couleurs thématiques, rideau, chronologie, onglets, halo focalisé, barres de défilement, etc. Intègre les galeries d’images en ligne Wallhaven / UPX8, avec recherche, pagination, prévisualisation, définition comme fond d’écran et gestion de l’historique ; les images sont téléchargées par découpage Node sur la machine locale. Fonctionnalités extraites du plugin upstream de Guardian-J (voir le README pour la liste complète des sources)."
+  },
+  "balance-meter": {
+    "name": "Solde et crédit restant",
+    "description": "Identifie le fournisseur et la méthode de facturation selon la passerelle réellement utilisée par le moteur actuel : API pour consulter le solde, abonnements pour vérifier le crédit restant ; prise en charge des canaux d’abonnement tels que ChatGPT, Claude, OpenCode Go, Kimi, Zhipu, MiniMax, Grok, etc., avec message explicite en cas d’absence d’API disponible ; supporte le rafraîchissement manuel et automatique après chaque tour de conversation."
+  },
+  "ccgui-svn": {
+    "name": "Panneau de gestion de SVN",
+    "description": "Gérez dans l’interface CC les modifications, l’historique, les différences et les conflits de SVN dans l’espace de travail actuel."
+  },
+  "ccgui.client-context-bridge": {
+    "name": "Pontage contextuel inter-clients (CCB)",
+    "description": "Maintient et reprend automatiquement le contexte des tâches entre différents clients CLI AI, avec démarrage/arrêt indépendants par espace de travail."
+  },
+  "ccgui.live2d-pets": {
+    "name": "Animal de compagnie de bureau Live2D",
+    "description": "Affiche sur l’interface un animal de compagnie interactif Live2D, reflétant l’état actuel de la session active AI (réflexion/en attente d’approbation/erreur/complété/inactif) ; prend en charge les caresses sur la tête et les jambes, suivi de la souris, arrimage par glisser-déposer, six séries de dialogues personnalisés et mappage d’animations de modèle personnalisées."
+  },
+  "claude-ip-check": {
+    "name": "Vérification de l’IP de Claude",
+    "description": "Consultez l’adresse IP de sortie, la pureté, la géolocalisation et les signaux de risque lors de l’accès à Claude : triple adresse IP de sortie, score de confiance, tests de sécurité, fuites DNS/WebRTC, informations sur l’appareil et historique IP. Porté depuis TokenTracker."
+  },
+  "cli-install-audit": {
+    "name": "Vérification de l’installation de la CLI",
+    "description": "Détecte un par un les moteurs CLI pris en charge par l’interface CC, compare les versions et les SHA256 des entrées PATH et des processus en cours, signalant les absences et les bifurcations."
+  },
+  "composer-rainbow-border": {
+    "name": "Bande lumineuse arc-en-ciel aux frontières",
+    "description": "Affiche une bande lumineuse arc-en-ciel dans le champ de saisie du chat et sur les onglets de session pendant les conversations ; présente une bordure verte respirante pour les messages non lus à la fin des sessions en arrière-plan."
+  },
+  "daily-sentence": {
+    "name": "Citation du jour",
+    "description": "Affiche une citation quotidienne à gauche de la barre d’état, avec plusieurs animations, interfaces personnalisables et mappage de champs, ainsi que mise à jour automatique par jour, heure ou minute."
+  },
+  "dsh-skins-ccgui": {
+    "name": "Apparence et fonds d’écran de DSH",
+    "description": "Apporte les trois palettes de couleurs et huit fonds d’écran intégrés de dsh-skins à l’interface CC, avec commutation instantanée, masque de lecture et adaptation des images."
+  },
+  "engine-hopper": {
+    "name": "Relais de moteur",
+    "description": "Permet de changer à tout moment de moteur et de modèle au sein d’une même conversation : organise automatiquement tout le contexte de la discussion et effectue un transfert hiérarchisé intelligent, permettant à la nouvelle instance de poursuivre la conversation sans interruption ; prend en charge les sauts en chaîne et la reprise incrémentielle."
+  },
+  "file-drag-upload": {
+    "name": "Téléchargement de fichiers par glisser-déposer",
+    "description": "Fait glisser des fichiers dans la fenêtre de chat, avec prévisualisation, suppression et réorganisation possibles."
+  },
+  "file-preview-panel": {
+    "name": "Panneau de prévisualisation des fichiers",
+    "description": "Parcourez l’arborescence des fichiers de l’espace de travail dans le panneau latéral droit, prévisualisez directement les fichiers Markdown (y compris les diagrammes Mermaid) et les fichiers texte, sans ouvrir de nouvel onglet principal. Compatible uniquement avec Windows."
+  },
+  "font-tuner": {
+    "name": "Ajustement typographique",
+    "description": "Personnalisez les polices de l’interface de la fenêtre, du contenu des conversations et du code, avec options configurables pour la taille, l’interligne, l’espacement des caractères, le lissage des polices et le mode de rendu du texte."
+  },
+  "git-workbench": {
+    "name": "Table de travail de Git",
+    "description": "Reproduction des fenêtres outils de Git inspirées d’IntelliJ IDEA : reconnaissance multi-repositoires, modifications locales / validation, graphique des commits, branches, fusion/rebase, indexation, tags, déploiements distants, sous-modules, Blame, console. Pilotage direct de la CLI git locale, compatible avec toutes les versions de git et toutes les plateformes d’hébergement."
+  },
+  "github-tasks": {
+    "name": "Gestion des tâches CCGUI · Git",
+    "description": "Tableau de bord en lecture seule pour le flux des PR multi-repositoires : nouveaux chaque jour, examinés ou non par moi, corrigés ou non par l’auteur, revus ou non après correction ; les mouvements sur le tableau n’enregistrent que les marques locales ; la barre latérale worktree affiche l’état des PR."
+  },
+  "local-memory": {
+    "name": "Mémoire à long terme",
+    "description": "Mémoire locale à long terme (préférences globales, mémoires spécifiques aux projets et règles propres aux agents), avec prise en charge de la mémorisation dynamique en langage naturel, de l’injection isolée par moteur et de la gestion via une page de paramétrage."
+  },
+  "local-task-monitor": {
+    "name": "Surveillance des tâches locales",
+    "description": "Surveille l’arbre des processus de l’interface CC et les services d’écoute rattachables à l’espace de travail dans la barre latérale : PID, projet, port, CPU, mémoire ; les services de l’espace de travail peuvent être arrêtés ou redémarrés après confirmation secondaire, tandis que l’arbre des processus reste en lecture seule."
+  },
+  "mermaid-markdown": {
+    "name": "Mermaid Charts",
+    "description": "Rend le bloc de code `mermaid` présent dans la réponse en un véritable graphique, avec une taille et une densité de disposition réglables, et prise en charge des thèmes clair et sombre."
+  },
+  "model-quota": {
+    "name": "Capsule de quota du modèle",
+    "description": "Affiche, dans la barre d’état de la zone de saisie, sous forme de capsule, le quota des 5 dernières heures / semaine / mois pour le canal auquel appartient le modèle de la session en cours (pourcentage utilisé, avec affichage du reste au survol), prenant en charge les plans GLM Coding Plan et OpenCode Go d’Zhipu."
+  },
+  "model-switcher": {
+    "name": "Modèle et assistant fournisseur",
+    "description": "Sélection du modèle et de l’interface CLI, changement de canal fournisseur, gestion indépendante des canaux, thème global, affichage du modèle de session, redirection via le lien de toile de fond, ainsi que le nettoyage optionnel des prompts grâce au SDK Claude Agent."
+  },
+  "personal-task-board": {
+    "name": "Tableau de bord des tâches personnelles",
+    "description": "Gestion locale des tâches, confiées aux sessions natives de CC GUI pour exécution et vérification manuelle."
+  },
+  "port-manager": {
+    "name": "Gestion des ports",
+    "description": "Affiche les ports TCP en écoute sur la machine, regroupés par espace de travail ; les groupes sont repliables, avec possibilité d’ouvrir le navigateur ou de fermer un port en un clic. Adaptation automatique à macOS / Linux / Windows, exécution purement locale sans sortie vers le réseau."
+  },
+  "project-knowledge": {
+    "name": "Connaissances du projet",
+    "description": "Intègre les notes / tâches / plans du projet actuel dans le contexte de la conversation : trois onglets dans le panneau latéral pour ajouter, supprimer et modifier ; l’intégration est isolée par session, injectée automatiquement au modèle avant l’envoi, et retirée ensuite sans être réintroduite."
+  },
+  "prompt-enhancer": {
+    "name": "Renforcement des prompts",
+    "description": "Utilise par défaut des prompts renforcés spécifiques au texte API, compatible avec OpenAI, Responses, Claude et Gemini ; mode moteur sélectionnable, avec écriture de retour après prévisualisation."
+  },
+  "prompt-optimizer": {
+    "name": "Optimiseur de prompts",
+    "description": "Transfère les 41 modèles officiels de prompts de prompt-optimizer v2.13.0 dans CC GUI : fenêtre pop-up ✨ à côté de la zone de saisie, quatre grandes catégories (basique/contexte/image/variable) avec 15 sous-modes, prenant en charge l’optimisation, l’itération, l’évaluation, l’extraction de variables et les prompts image ; résultats pouvant être réécrits en un clic."
+  },
+  "react-doctor": {
+    "name": "React Doctor",
+    "description": "Exécute en un clic npx react-doctor@latest pour un examen du code : anneau de notation, statistiques d’erreurs/avertissements, liste des problèmes groupés par fichier avec suggestions de correction, sortie originale ; résultats persistants localement ; en cas de note non parfaite, possibilité de « corriger en un clic » en insérant la liste des problèmes dans la zone de saisie du chat."
+  },
+  "scheduled-tasks": {
+    "name": "Tâches programmées",
+    "description": "Lance périodiquement des tours AI dans l’espace de travail désigné selon une syntaxe cron à 5 champs : chaque tour crée une nouvelle session visible dans la barre latérale, flux en temps réel, prise en main et arrêt possibles ; prise en charge de la liaison de compétences, création de tâches en langage naturel, historique d’exécution, attente en cas d’échec et pause automatique. Ne s’exécute pas lorsque CC GUI est fermé."
+  },
+  "service-status": {
+    "name": "État des services",
+    "description": "Agrège sur l’onglet central les états d’incidents en temps réel des pages officielles Claude / OpenAI / Cursor / GitHub / Gemini / Kimi / MiniMax / Zed, actualisés toutes les minutes."
+  },
+  "session-engine-filter": {
+    "name": "Blocage des sources de session",
+    "description": "Bloque les sessions de la barre latérale par moteur CLI : décochez les moteurs que vous ne souhaitez pas voir (Pi, Codex, Grok, Kimi…), et leurs lignes de session disparaîtront des listes des différents espaces de travail ; possibilité de rétablir à tout moment, uniquement l’affichage est affecté, les données de session restent inchangées."
+  },
+  "session-notes": {
+    "name": "Notes de session",
+    "description": "Applique des notes locales à n’importe quelle session : édition des remarques de la session actuelle dans le panneau latéral droit, accès direct depuis le menu contextuel, gestion unifiée dans la liste, données stockées uniquement sur la machine locale."
+  },
+  "session-rainbow-border": {
+    "name": "Défilement des conversations de l’espace de travail",
+    "description": "Ajoute divers effets lumineux — rotation progressive, respiration clignotante, flammes ardentes — aux éléments de la liste des conversations en cours dans le panneau latéral gauche, avec possibilité de régler le panneau librement et de prévisualiser en temps réel."
+  },
+  "slash-palette": {
+    "name": "Commandes slash Claude",
+    "description": "Compatible uniquement avec Claude Code : cliquez sur « / Commandes » à côté de la zone de saisie pour rechercher et insérer des commandes et compétences de plugins et d’utilisateurs, plus besoin de mémoriser les noms des commandes."
+  },
+  "smart-session-title": {
+    "name": "Nomination intelligente des sessions",
+    "description": "Génère automatiquement, à la fin de chaque conversation, un titre court précédé d’un emoji : nomination intelligente via CLI du moteur direct (suivant par défaut le moteur de la session, possibilité de fixer le moteur/modèle, sans enregistrement dans les logs de conversation) ; en cas d’échec, recours à des règles locales basées sur des mots-clés ; la barre d’état affiche la progression et les raisons de l’échec, accompagnées d’un journal de débogage et d’une option de renommage via clic droit."
+  },
+  "token-meter": {
+    "name": "Indicateur de vitesse Token",
+    "description": "Affiche en temps réel dans la barre d’état de composer la vitesse de sortie des tokens et le taux de réussite du cache, compatible avec les 11 moteurs CLI."
+  },
+  "translation": {
+    "name": "Traduction légère",
+    "description": "Traduction par clic droit sur du texte sélectionné, traduction automatique dans la barre d’état, ainsi que traduction individuelle à côté des réponses du modèle. Prise en charge de Bing, Google et des AI personnalisés."
+  },
+  "usage-limits": {
+    "name": "Consommation et quotas",
+    "description": "Affiche en permanence dans la barre d’état les tokens du jour, le coût estimé et les étiquettes de quota pour 5h / 7j des Claude / Codex (avec icône de plateforme) ; cliquez pour consulter les tendances, les détails par projet/modèle et les prévisions de rythme ; les données sont calculées localement par CC GUI à partir des journaux de chaque CLI, sans transmission."
+  },
+  "window-model-assistant": {
+    "name": "Fenêtre et assistant modèle",
+    "description": "Gère uniquement la position et la taille de la fenêtre principale de CC GUI (restauration automatique/enregistrement/dimensions recommandées/échantillonnage WeChat, sans toucher aux autres fenêtres), et présente de manière transparente le catalogue public des modèles des fournisseurs hébergés, classés par moteur et source ; aucun accès au réseau lors du chargement initial, consultation des interfaces des fournisseurs uniquement lors d’un rafraîchissement manuel, avec dégradation du cache et annotation des raisons en cas d’échec."
+  },
+  "wsl": {
+    "name": "WSL Gestionnaire",
+    "description": "WSL Gestionnaire de distribution : diagnostics locaux et définition des paramètres par défaut, sonde du moteur, hôte distant (mot de passe/clé), enregistrement de l’espace de travail WSL, panneau des fichiers à l’intérieur de la distribution, liste des sessions claude/codex/omp et lecture de l’historique."
+  }
+}

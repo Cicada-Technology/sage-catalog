@@ -1,0 +1,243 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "blender",
+      "serverName": "blender",
+      "icon": "boxes",
+      "category": "design",
+      "transport": "stdio",
+      "repo": "https://github.com/ahujasid/mcp-for-blender",
+      "docs": "https://mcp-for-blender.com/",
+      "command": "uvx",
+      "args": [
+        "mcp-for-blender"
+      ],
+      "prerequisites": [
+        "uv",
+        "blenderAddon"
+      ]
+    },
+    {
+      "id": "github",
+      "serverName": "github",
+      "icon": "github",
+      "category": "dev",
+      "transport": "http",
+      "repo": "https://github.com/github/github-mcp-server",
+      "docs": "https://github.com/github/github-mcp-server/blob/main/docs/installation-guides/install-codex.md",
+      "url": "https://api.githubcopilot.com/mcp/",
+      "prerequisites": [
+        "githubPat"
+      ],
+      "headers": [
+        {
+          "key": "Authorization",
+          "labelKey": "mcp.catalog.fields.githubPat",
+          "hintKey": "mcp.catalog.fieldHints.githubPat",
+          "required": true,
+          "secret": true,
+          "prefix": "Bearer "
+        }
+      ]
+    },
+    {
+      "id": "context7",
+      "serverName": "context7",
+      "icon": "book-open",
+      "category": "docs",
+      "transport": "http",
+      "repo": "https://github.com/upstash/context7",
+      "docs": "https://context7.com/docs/resources/all-clients",
+      "url": "https://mcp.context7.com/mcp",
+      "prerequisites": [
+        "context7Key"
+      ],
+      "headers": [
+        {
+          "key": "CONTEXT7_API_KEY",
+          "labelKey": "mcp.catalog.fields.context7ApiKey",
+          "hintKey": "mcp.catalog.fieldHints.context7ApiKey",
+          "required": false,
+          "secret": true
+        }
+      ]
+    },
+    {
+      "id": "playwright",
+      "serverName": "playwright",
+      "icon": "globe",
+      "category": "dev",
+      "transport": "stdio",
+      "repo": "https://github.com/microsoft/playwright-mcp",
+      "docs": "https://github.com/microsoft/playwright-mcp",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@playwright/mcp@latest"
+      ],
+      "prerequisites": [
+        "node20"
+      ]
+    },
+    {
+      "id": "qdrant",
+      "serverName": "qdrant",
+      "icon": "database",
+      "category": "dev",
+      "transport": "stdio",
+      "repo": "https://github.com/qdrant/mcp-server-qdrant",
+      "docs": "https://github.com/qdrant/mcp-server-qdrant",
+      "command": "uvx",
+      "args": [
+        "mcp-server-qdrant"
+      ],
+      "prerequisites": [
+        "uv",
+        "qdrantServer"
+      ],
+      "env": [
+        {
+          "key": "QDRANT_URL",
+          "labelKey": "mcp.catalog.fields.qdrantUrl",
+          "hintKey": "mcp.catalog.fieldHints.qdrantUrl",
+          "required": true,
+          "defaultValue": "http://localhost:6333"
+        },
+        {
+          "key": "QDRANT_API_KEY",
+          "labelKey": "mcp.catalog.fields.qdrantApiKey",
+          "required": false,
+          "secret": true
+        },
+        {
+          "key": "COLLECTION_NAME",
+          "labelKey": "mcp.catalog.fields.collectionName",
+          "required": true,
+          "defaultValue": "sage"
+        },
+        {
+          "key": "EMBEDDING_MODEL",
+          "defaultValue": "sentence-transformers/all-MiniLM-L6-v2",
+          "required": false,
+          "editable": false
+        }
+      ]
+    },
+    {
+      "id": "rhino",
+      "serverName": "rhino",
+      "icon": "pen-tool",
+      "category": "design",
+      "transport": "stdio",
+      "repo": "https://github.com/jingcheng-chen/rhinomcp",
+      "docs": "https://github.com/jingcheng-chen/rhinomcp",
+      "command": "uvx",
+      "args": [
+        "rhinomcp@latest"
+      ],
+      "prerequisites": [
+        "uv",
+        "rhinoPlugin"
+      ],
+      "env": [
+        {
+          "key": "RHINO_MCP_HOST",
+          "defaultValue": "127.0.0.1",
+          "required": false,
+          "editable": false
+        }
+      ]
+    },
+    {
+      "id": "n8n",
+      "serverName": "n8n",
+      "icon": "workflow",
+      "category": "dev",
+      "transport": "stdio",
+      "repo": "https://github.com/czlonkowski/n8n-mcp",
+      "docs": "https://github.com/czlonkowski/n8n-mcp/blob/main/docs/CODEX_SETUP.md",
+      "command": "npx",
+      "args": [
+        "n8n-mcp"
+      ],
+      "prerequisites": [
+        "node22",
+        "n8nInstance"
+      ],
+      "env": [
+        {
+          "key": "MCP_MODE",
+          "defaultValue": "stdio",
+          "required": false,
+          "editable": false
+        },
+        {
+          "key": "LOG_LEVEL",
+          "defaultValue": "error",
+          "required": false,
+          "editable": false
+        },
+        {
+          "key": "DISABLE_CONSOLE_OUTPUT",
+          "defaultValue": "true",
+          "required": false,
+          "editable": false
+        },
+        {
+          "key": "N8N_API_URL",
+          "labelKey": "mcp.catalog.fields.n8nUrl",
+          "hintKey": "mcp.catalog.fieldHints.n8nUrl",
+          "required": false
+        },
+        {
+          "key": "N8N_API_KEY",
+          "labelKey": "mcp.catalog.fields.n8nApiKey",
+          "required": false,
+          "secret": true
+        }
+      ]
+    },
+    {
+      "id": "firecrawl",
+      "serverName": "firecrawl",
+      "icon": "flame",
+      "category": "dev",
+      "transport": "http",
+      "repo": "https://github.com/firecrawl/firecrawl-mcp-server",
+      "docs": "https://docs.firecrawl.dev/mcp-server",
+      "url": "https://mcp.firecrawl.dev/v2/mcp",
+      "prerequisites": [
+        "firecrawlKey"
+      ],
+      "headers": [
+        {
+          "key": "Authorization",
+          "labelKey": "mcp.catalog.fields.firecrawlApiKey",
+          "hintKey": "mcp.catalog.fieldHints.firecrawlApiKey",
+          "required": false,
+          "secret": true,
+          "prefix": "Bearer "
+        }
+      ]
+    },
+    {
+      "id": "mobile",
+      "serverName": "mobile-mcp",
+      "icon": "smartphone",
+      "category": "dev",
+      "transport": "stdio",
+      "repo": "https://github.com/mobile-next/mobile-mcp",
+      "docs": "https://github.com/mobile-next/mobile-mcp/wiki",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mobilenext/mobile-mcp@latest"
+      ],
+      "prerequisites": [
+        "node20",
+        "mobileTools"
+      ]
+    }
+  ]
+}

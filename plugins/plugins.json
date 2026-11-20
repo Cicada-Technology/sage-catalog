@@ -1,0 +1,292 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "ai-quota-monitor",
+      "repo": "libo-zhou/ccgui-plugin-ai-quota-monitor",
+      "indexId": "ai-quota-monitor",
+      "author": "libo-zhou",
+      "category": "productivity"
+    },
+    {
+      "id": "auto-title",
+      "repo": "zhukunpenglinyutong/ccgui-plugin-auto-title",
+      "indexId": "auto-title",
+      "author": "zhukunpenglinyutong",
+      "category": "productivity"
+    },
+    {
+      "id": "background-ui",
+      "repo": "MaxMeiRose/ccgui-plugin-background-ui",
+      "indexId": "background-ui",
+      "author": "Mermenglin",
+      "category": "appearance"
+    },
+    {
+      "id": "balance-meter",
+      "repo": "zhujiuyi/ccgui-plugin-balance-meter",
+      "indexId": "balance-meter",
+      "author": "zhujiuyi",
+      "category": "integration"
+    },
+    {
+      "id": "ccgui-svn",
+      "repo": "sheldon0112/plugin-svn",
+      "indexId": "ccgui-svn",
+      "author": "sheldon0112",
+      "category": "dev"
+    },
+    {
+      "id": "ccgui.client-context-bridge",
+      "repo": "MurasameCyan/ccgui-plugin-client-context-bridge",
+      "indexId": "ccgui.client-context-bridge",
+      "author": "MurasameCyan",
+      "category": "integration"
+    },
+    {
+      "id": "ccgui.live2d-pets",
+      "repo": "MurasameCyan/ccgui-plugin-live2d-pets",
+      "indexId": "ccgui.live2d-pets",
+      "author": "MurasameCyan",
+      "category": "appearance"
+    },
+    {
+      "id": "claude-ip-check",
+      "repo": "zhukunpenglinyutong/ccgui-plugin-claude-ip-check",
+      "indexId": "claude-ip-check",
+      "author": "zhukunpenglinyutong",
+      "category": "integration"
+    },
+    {
+      "id": "cli-install-audit",
+      "repo": "renhao-wan/ccgui-plugin-cli-install-audit",
+      "indexId": "cli-install-audit",
+      "author": "renhao-wan",
+      "category": "dev"
+    },
+    {
+      "id": "composer-rainbow-border",
+      "repo": "libo-zhou/ccgui-plugin-composer-rainbow-border",
+      "indexId": "composer-rainbow-border",
+      "author": "libo-zhou",
+      "category": "appearance"
+    },
+    {
+      "id": "daily-sentence",
+      "repo": "huochairener/ccgui-plugin-daily-sentence",
+      "indexId": "daily-sentence",
+      "author": "huochairener",
+      "category": "other"
+    },
+    {
+      "id": "dsh-skins-ccgui",
+      "repo": "BaoHao-JIA/ccgui-plugin-dsh-skins",
+      "indexId": "dsh-skins-ccgui",
+      "author": "BaoHao-JIA",
+      "category": "appearance"
+    },
+    {
+      "id": "engine-hopper",
+      "repo": "wszbest68-gif/ccgui-plugin-engine-hopper",
+      "indexId": "engine-hopper",
+      "author": "wszbest68-gif",
+      "category": "integration"
+    },
+    {
+      "id": "file-drag-upload",
+      "repo": "wszbest68-gif/ccgui-plugin-file-drag-upload",
+      "indexId": "file-drag-upload",
+      "author": "wszbest68-gif",
+      "category": "productivity"
+    },
+    {
+      "id": "file-preview-panel",
+      "repo": "PartyNextDoor999/ccgui-plugin-file-preview-panel",
+      "indexId": "file-preview-panel",
+      "author": "PartyNextDoor999",
+      "category": "productivity"
+    },
+    {
+      "id": "font-tuner",
+      "repo": "3774929/ccgui-plugin-font-tuner",
+      "indexId": "font-tuner",
+      "author": "3774929",
+      "category": "appearance"
+    },
+    {
+      "id": "git-workbench",
+      "repo": "Guardian-J/ccgui-plugin-git-workbench",
+      "indexId": "git-workbench",
+      "author": "Guardian-J",
+      "category": "dev"
+    },
+    {
+      "id": "github-tasks",
+      "repo": "zhukunpenglinyutong/ccgui-plugin-git-tasks",
+      "indexId": "github-tasks",
+      "author": "zhukunpenglinyutong",
+      "category": "dev"
+    },
+    {
+      "id": "local-memory",
+      "repo": "libo-zhou/ccgui-plugin-local-memory",
+      "indexId": "local-memory",
+      "author": "libo-zhou",
+      "category": "productivity"
+    },
+    {
+      "id": "local-task-monitor",
+      "repo": "BobbyBian97/ccgui-plugin-local-task-monitor",
+      "indexId": "local-task-monitor",
+      "author": "BobbyBian97",
+      "category": "productivity"
+    },
+    {
+      "id": "mermaid-markdown",
+      "repo": "zenghui6/ccgui-plugin-mermaid-markdown",
+      "indexId": "mermaid-markdown",
+      "author": "zenghui6",
+      "category": "dev"
+    },
+    {
+      "id": "model-quota",
+      "repo": "BobbyBian97/ccgui-plugin-model-quota",
+      "indexId": "model-quota",
+      "author": "BobbyBian97",
+      "category": "integration"
+    },
+    {
+      "id": "model-switcher",
+      "repo": "Guardian-J/ccgui-plugin-model-switcher",
+      "indexId": "model-switcher",
+      "author": "Guardian-J",
+      "category": "integration"
+    },
+    {
+      "id": "personal-task-board",
+      "repo": "sheldon0112/ccgui-plugin-personal-task-board",
+      "indexId": "personal-task-board",
+      "author": "AnnoDomini",
+      "category": "productivity"
+    },
+    {
+      "id": "port-manager",
+      "repo": "hekai753/port-manager",
+      "indexId": "port-manager",
+      "author": "hekai753",
+      "category": "dev"
+    },
+    {
+      "id": "project-knowledge",
+      "repo": "xuchuncheng/ccgui-plugin-project-knowledge",
+      "indexId": "project-knowledge",
+      "author": "xuchuncheng",
+      "category": "productivity"
+    },
+    {
+      "id": "prompt-enhancer",
+      "repo": "wszbest68-gif/ccgui-plugin-prompt-enhancer",
+      "indexId": "prompt-enhancer",
+      "author": "wszbest68-gif",
+      "category": "productivity"
+    },
+    {
+      "id": "prompt-optimizer",
+      "repo": "xuchuncheng/ccgui-plugin-prompt-optimizer",
+      "indexId": "prompt-optimizer",
+      "author": "xuchuncheng",
+      "category": "productivity"
+    },
+    {
+      "id": "react-doctor",
+      "repo": "zhukunpenglinyutong/ccgui-plugin-react-doctor",
+      "indexId": "react-doctor",
+      "author": "zhukunpenglinyutong",
+      "category": "dev"
+    },
+    {
+      "id": "scheduled-tasks",
+      "repo": "linfeng-wu/ccgui-plugin-scheduled-tasks",
+      "indexId": "scheduled-tasks",
+      "author": "linfeng-wu",
+      "category": "productivity"
+    },
+    {
+      "id": "service-status",
+      "repo": "zhukunpenglinyutong/ccgui-plugin-service-status",
+      "indexId": "service-status",
+      "author": "zhukunpenglinyutong",
+      "category": "dev"
+    },
+    {
+      "id": "session-engine-filter",
+      "repo": "mai-ming/ccgui-plugin-session-engine-filter",
+      "indexId": "session-engine-filter",
+      "author": "mai-ming",
+      "category": "productivity"
+    },
+    {
+      "id": "session-notes",
+      "repo": "wszbest68-gif/ccgui-plugin-session-notes",
+      "indexId": "session-notes",
+      "author": "wszbest68-gif",
+      "category": "productivity"
+    },
+    {
+      "id": "session-rainbow-border",
+      "repo": "zsw118-sw/ccgui-plugin-session-rainbow-border",
+      "indexId": "session-rainbow-border",
+      "author": "zsw118-sw",
+      "category": "appearance"
+    },
+    {
+      "id": "slash-palette",
+      "repo": "renhao-wan/ccgui-plugin-slash-palette",
+      "indexId": "slash-palette",
+      "author": "renhao-wan",
+      "category": "productivity"
+    },
+    {
+      "id": "smart-session-title",
+      "repo": "huochairener/ccgui-plugin-smart-session-title",
+      "indexId": "smart-session-title",
+      "author": "huochairener",
+      "category": "productivity"
+    },
+    {
+      "id": "token-meter",
+      "repo": "zhukunpenglinyutong/ccgui-plugin-token-meter",
+      "indexId": "token-meter",
+      "author": "zhukunpenglinyutong",
+      "category": "productivity"
+    },
+    {
+      "id": "translation",
+      "repo": "huochairener/ccgui-plugin-translation",
+      "indexId": "translation",
+      "author": "huochairener",
+      "category": "productivity"
+    },
+    {
+      "id": "usage-limits",
+      "repo": "zhukunpenglinyutong/ccgui-plugin-usage-limits",
+      "indexId": "usage-limits",
+      "author": "zhukunpenglinyutong",
+      "category": "productivity"
+    },
+    {
+      "id": "window-model-assistant",
+      "repo": "wszbest68-gif/ccgui-plugin-window-model-assistant",
+      "indexId": "window-model-assistant",
+      "author": "wszbest68-gif",
+      "category": "integration"
+    },
+    {
+      "id": "wsl",
+      "repo": "chenxiangning/ccgui-plugin-wsl",
+      "indexId": "wsl",
+      "author": "chenxiangning",
+      "category": "dev"
+    }
+  ]
+}

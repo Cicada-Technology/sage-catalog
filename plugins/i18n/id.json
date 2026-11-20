@@ -1,0 +1,166 @@
+{
+  "ai-quota-monitor": {
+    "name": "AI Pemantauan Kuota dan Penggunaan",
+    "description": "Melihat kuota dan poin untuk Gemini, Codex, CodeBuddy, OpenCode, Claude, Grok, GLM, Kimi; dapat memilih maksimal tiga tab untuk ditampilkan, serta menghitung penggunaan, biaya, dan peta panas lokal Token."
+  },
+  "auto-title": {
+    "name": "Penamaan Otomatis Sesi",
+    "description": "Setelah setiap putaran percakapan, menggunakan CLI lokal atau DeepSeek untuk menghasilkan judul sesi berbentuk \"emoji + objek｜tujuan\"; mendukung codex / omp / pi / claude; tidak menimpa penamaan manual, dapat dijeda, dan hanya dapat dinamai sekali."
+  },
+  "background-ui": {
+    "name": "Optimasi Latar Belakang dan Antarmuka Pengguna",
+    "description": "Optimasi tampilan antarmuka seperti latar belakang aplikasi, 12 set skema warna tema, tirai, garis waktu, tab, cahaya fokus, bilah gulir, dll.; menyertakan galeri wallpaper online Wallhaven / UPX8, mendukung pencarian, paging, pratinjau, pengaturan sebagai latar belakang, dan manajemen riwayat; gambar diunduh secara paralel menggunakan node lokal. Kemampuan ini diambil dari plugin hulu Guardian-J (sumber lengkap tercantum dalam README)."
+  },
+  "balance-meter": {
+    "name": "Saldo dan Sisa Kuota",
+    "description": "Mengidentifikasi penyedia dan metode penagihan berdasarkan gateway yang sebenarnya digunakan oleh mesin saat ini: API untuk memeriksa saldo, langganan untuk memeriksa sisa kuota; telah mendukung saluran langganan seperti ChatGPT, Claude, OpenCode Go, Kimi, Zhipu, MiniMax, Grok, dan lain-lain; memberikan notifikasi jelas jika tidak ada antarmuka yang tersedia; mendukung penyegaran manual dan penyegaran otomatis setelah setiap putaran percakapan."
+  },
+  "ccgui-svn": {
+    "name": "Panel Manajemen SVN",
+    "description": "Mengelola perubahan, riwayat, perbedaan, dan konflik SVN di ruang kerja saat ini melalui CC GUI."
+  },
+  "ccgui.client-context-bridge": {
+    "name": "Penyambungan Konteks Lintas Klien (CCB)",
+    "description": "Secara otomatis memelihara dan melanjutkan konteks tugas antar klien CLI AI yang berbeda, mendukung pengaktifan dan penonaktifan independen per ruang kerja."
+  },
+  "ccgui.live2d-pets": {
+    "name": "Hewan Peliharaan Desktop Live2D",
+    "description": "Merender hewan peliharaan desktop Live2D yang interaktif pada antarmuka, serta mencerminkan status AI dari sesi yang sedang aktif (berpikir/menunggu persetujuan/terjadi kesalahan/selesai/siap); mendukung sentuhan kepala dan kaki, pengikut mouse, penyeretan dan docking, enam set dialog karakter, serta pemetaan animasi model kustom."
+  },
+  "claude-ip-check": {
+    "name": "Pemeriksaan IP Claude",
+    "description": "Memeriksa IP keluar, tingkat kemurnian, informasi geografis, dan sinyal risiko yang digunakan untuk mengakses Claude: tiga jalur IP keluar, skor kepercayaan, deteksi keamanan, kebocoran DNS / WebRTC, informasi perangkat, dan riwayat IP. Diporting dari TokenTracker."
+  },
+  "cli-install-audit": {
+    "name": "Pemeriksaan Instalasi CLI",
+    "description": "Mendeteksi satu per satu mesin CLI yang didukung oleh CC GUI, membandingkan versi dan SHA256 antara entri PATH dan proses yang sedang berjalan, serta menandai yang hilang dan bercabang."
+  },
+  "composer-rainbow-border": {
+    "name": "Garis Batas Lampu Lari Pelangi",
+    "description": "Menampilkan lampu lari pelangi pada kotak input obrolan dan tab sesi selama percakapan berlangsung, serta menampilkan border bernapas hijau untuk pesan belum dibaca saat sesi latar belakang selesai."
+  },
+  "daily-sentence": {
+    "name": "Kalimat Harian",
+    "description": "Menampilkan kalimat harian di sisi kiri bilah status, mendukung berbagai animasi, antarmuka kustom dan pemetaan bidang, serta pembaruan otomatis per hari, jam, atau menit."
+  },
+  "dsh-skins-ccgui": {
+    "name": "Kulit dan Wallpaper DSH",
+    "description": "Membawa tiga set skema warna dan delapan wallpaper bawaan dari dsh-skins ke CC GUI, mendukung pergantian instan, masker baca, dan adaptasi gambar."
+  },
+  "engine-hopper": {
+    "name": "Estafet Mesin",
+    "description": "Dapat beralih mesin dan model kapan saja dalam percakapan yang sama: secara otomatis merapikan seluruh konteks percakapan dan melakukan handover berlapis secara cerdas, sehingga mesin baru dapat melanjutkan obrolan tanpa gangguan; mendukung lompatan balik rantai estafet dan kelanjutan inkremental."
+  },
+  "file-drag-upload": {
+    "name": "Unggahan File dengan Seret dan Jatuhkan",
+    "description": "Menyeret file ke jendela obrolan, mendukung pratinjau, penghapusan, dan pengurutan ulang"
+  },
+  "file-preview-panel": {
+    "name": "Panel Pratinjau File",
+    "description": "Menelusuri pohon file ruang kerja di panel kanan, langsung mempratinjau file Markdown (termasuk diagram Mermaid) dan file teks tanpa membuka tab utama baru. Hanya mendukung Windows."
+  },
+  "font-tuner": {
+    "name": "Penyesuaian Font",
+    "description": "Menyesuaikan font antarmuka jendela, font isi percakapan, dan font kode, serta dapat mengkonfigurasi ukuran huruf, tinggi baris, spasi huruf, smoothing font, dan metode rendering teks."
+  },
+  "git-workbench": {
+    "name": "Meja Kerja Git",
+    "description": "Mereplikasi jendela alat Git dari IntelliJ IDEA: identifikasi multi-repo, perubahan / komit lokal, grafik komit, cabang, merge/rebase, staging, tag, remote, submodule, blame, console. Langsung menggerakkan git CLI lokal, kompatibel dengan versi git apa pun dan platform hosting apa pun."
+  },
+  "github-tasks": {
+    "name": "Manajemen Tugas CCGUI · Git",
+    "description": "Papan kontrol alur PR multi-repo hanya-baca: tambahan harian, saya sudah meninjau atau belum, apakah penulis sudah memperbaiki atau belum, setelah diperbaiki apakah saya sudah meninjau atau belum; operasi seret-dan-jatuhkan pada papan hanya mencatat penanda lokal; worktree di bilah samping menampilkan status PR."
+  },
+  "local-memory": {
+    "name": "Memori Jangka Panjang",
+    "description": "Memori jangka panjang lokal (preferensi global, memori khusus proyek, dan spesifikasi khusus Agent), mendukung memori dinamis berbasis bahasa alami, injeksi isolasi mesin, dan manajemen halaman pengaturan."
+  },
+  "local-task-monitor": {
+    "name": "Pemantauan Tugas Lokal",
+    "description": "Memantau pohon proses CC GUI dan layanan pendengar yang dapat dikaitkan dengan ruang kerja di bilah samping: PID, proyek, port, CPU, memori; layanan ruang kerja dapat dihentikan atau dimulai ulang dengan konfirmasi kedua, sementara pohon proses tetap read-only."
+  },
+  "mermaid-markdown": {
+    "name": "Diagram Mermaid",
+    "description": "Render blok kode ```mermaid dalam jawaban menjadi diagram sesungguhnya, dengan ukuran dan kepadatan tata letak yang dapat disesuaikan, serta mendukung tema gelap dan terang"
+  },
+  "model-quota": {
+    "name": "Kapsul Kuota Model",
+    "description": "Menampilkan kuota 5 jam / minggu / bulan untuk saluran tempat model sesi saat ini berada dalam bilah status kotak input (dalam bentuk persentase penggunaan, dengan sisa ditampilkan saat hover), mendukung Zhisp GLM Coding Plan dan OpenCode Go."
+  },
+  "model-switcher": {
+    "name": "Asisten Model dan Penyedia",
+    "description": "Pilihan model dan CLI, perpindahan saluran penyedia, manajemen saluran independen, tema global, tampilan model sesi, navigasi tautan layar, serta pembersihan prompt opsional menggunakan Claude Agent SDK."
+  },
+  "personal-task-board": {
+    "name": "Papan Tugas Pribadi",
+    "description": "Mengelola tugas secara lokal, menyerahkan eksekusi sesi asli ke CC GUI dan melakukan penerimaan manual."
+  },
+  "port-manager": {
+    "name": "Manajemen Port",
+    "description": "Menampilkan port TCP yang sedang mendengarkan di mesin lokal berdasarkan kelompok kerja, grup dapat dilipat, mendukung pembukaan browser dan penutupan port dengan satu klik; otomatis menyesuaikan dengan macOS / Linux / Windows, eksekusi sepenuhnya lokal tanpa akses internet."
+  },
+  "project-knowledge": {
+    "name": "Pengetahuan Proyek",
+    "description": "Memasang catatan / to-do / rencana proyek saat ini ke dalam konteks percakapan: panel kanan dengan tiga tab untuk menambah, menghapus, dan mengubah; pemasangan terisolasi per sesi, secara otomatis disuntikkan ke model sebelum dikirim, dan tidak lagi dibawa masuk setelah dikeluarkan."
+  },
+  "prompt-enhancer": {
+    "name": "Peningkatan Prompt",
+    "description": "Secara default menggunakan teks khusus API untuk meningkatkan prompt, mendukung kompatibilitas OpenAI, Responses, Claude, Gemini; mode mesin opsional, dapat ditulis kembali setelah pratinjau."
+  },
+  "prompt-optimizer": {
+    "name": "Optimizer Prompt",
+    "description": "memindahkan 41 templat prompt resmi dari prompt-optimizer v2.13.0 ke CC GUI: pop-up ✨ di samping kotak input, empat kategori utama—dasar/konteks/gambar/variabel—dengan 15 sub-mode, mendukung optimisasi, iterasi, evaluasi, ekstraksi variabel, dan prompt gambar; hasilnya dapat ditulis kembali dengan satu klik."
+  },
+  "react-doctor": {
+    "name": "React Doctor",
+    "description": "Menjalankan npx react-doctor@latest untuk pemeriksaan kode dengan satu klik: lingkaran penilaian, statistik kesalahan/peringatan, daftar masalah dan saran perbaikan berdasarkan file, serta output asli; hasil dipertahankan secara lokal; jika nilai tidak sempurna, dapat menggunakan \"perbaikan sekali klik\" untuk memasukkan daftar masalah ke kotak input obrolan."
+  },
+  "scheduled-tasks": {
+    "name": "Tugas Terjadwal",
+    "description": "Menggunakan cron 5 bidang untuk memicu ronde AI secara terjadwal di ruang kerja tertentu: setiap ronde membuat sesi baru yang terlihat di bilah sisi, streaming real-time, dapat diambil alih atau dihentikan; mendukung pengikatan keterampilan, pembuatan tugas dengan bahasa alami, riwayat eksekusi, penghindaran kegagalan, dan jeda otomatis. Tidak dieksekusi saat CC GUI ditutup."
+  },
+  "service-status": {
+    "name": "Status Layanan",
+    "description": "mengumpulkan status insiden real-time dari halaman resmi Claude / OpenAI / Cursor / GitHub / Gemini / Kimi / MiniMax / Zed pada tab pusat, diperbarui otomatis setiap menit."
+  },
+  "session-engine-filter": {
+    "name": "Pemblokiran Sumber Sesi",
+    "description": "Memblokir sesi bilah sisi berdasarkan mesin CLI: hapus centang pada mesin yang tidak ingin dilihat (Pi, Codex, Grok, Kimi…), baris sesi mereka tidak akan muncul lagi dalam daftar setiap ruang kerja; dapat dipulihkan kapan saja, hanya memengaruhi tampilan, data sesi tetap tidak berubah."
+  },
+  "session-notes": {
+    "name": "Catatan Sesi",
+    "description": "Memberi label catatan lokal pada sesi apa pun: panel kanan untuk mengedit catatan sesi saat ini, menu klik kanan langsung, manajemen terpadu dalam daftar, data hanya disimpan di mesin lokal."
+  },
+  "session-rainbow-border": {
+    "name": "Lampu Lari Percakapan Ruang Kerja",
+    "description": "Ketika ada percakapan yang sedang berjalan di setiap ruang kerja pada panel kiri, tambahkan berbagai efek cahaya seperti rotasi gradien, kedipan bernapas, nyala api menyala, dll. pada item daftar percakapan yang sedang bekerja, mendukung pengaturan pergantian panel bebas dan pratinjau real-time."
+  },
+  "slash-palette": {
+    "name": "Perintah Slash Claude",
+    "description": "Hanya mendukung Claude Code: klik \"Perintah /\" di samping kotak input, cari dan sisipkan perintah, keterampilan, dan plugin milik pengguna, tidak perlu lagi menghafal nama perintah."
+  },
+  "smart-session-title": {
+    "name": "Penamaan Sesi Cerdas",
+    "description": "Setelah setiap ronde percakapan, secara otomatis menghasilkan judul singkat dengan awalan emoji untuk sesi tersebut: penamaan cerdas CLI melalui mesin langsung (secara default mengikuti mesin sesi, dapat mengunci mesin/model tertentu, tidak dicatat dalam riwayat percakapan); jika gagal, kembali ke aturan kata kunci lokal; bilah status menampilkan kemajuan dan alasan kegagalan, dilengkapi log debugging dan opsi penamaan ulang melalui klik kanan."
+  },
+  "token-meter": {
+    "name": "Token Speedometer",
+    "description": "Bar status composer menampilkan kecepatan output token dan tingkat hit cache secara real-time, mendukung semua 11 mesin CLI."
+  },
+  "translation": {
+    "name": "Penerjemahan Ringan",
+    "description": "Menerjemahkan teks yang dipilih melalui klik kanan, penerjemahan otomatis di bilah status, serta terjemahan tunggal di samping balasan model. Mendukung Bing, Google, dan AI kustom."
+  },
+  "usage-limits": {
+    "name": "Penggunaan dan Kuota",
+    "description": "Bilah status selalu menampilkan tag token hari ini, perkiraan biaya, dan kuota 5 jam / 7 hari untuk Claude / Codex (dilengkapi ikon platform); klik untuk melihat tren, rincian proyek/model, dan prediksi ritme; data dihitung oleh CC GUI di mesin lokal dari log CLI masing-masing, tidak diunggah."
+  },
+  "window-model-assistant": {
+    "name": "Jendela dan Asisten Model",
+    "description": "hanya mengelola posisi dan ukuran jendela utama CC GUI (pemulihan otomatis/simpanan/ukuran yang disarankan/sampling WeChat, tidak mengganggu jendela lain), serta secara transparan menampilkan direktori model penyedia yang tersedia bagi publik berdasarkan mesin dan sumber; pemuatan awal tidak mengakses internet, hanya melakukan refresh manual untuk mengakses antarmuka penyedia, jika gagal akan menggunakan cadangan downgrade dan mencantumkan alasannya."
+  },
+  "wsl": {
+    "name": "WSL Pengelola",
+    "description": "WSL Pengelola Distribusi: Diagnostik lokal dan pengaturan default, probe mesin, host jarak jauh (kata sandi/kunci), pendaftaran ruang kerja WSL, panel berkas dalam distribusi, serta daftar sesi claude/codex/omp dan pemutaran ulang riwayat."
+  }
+}
