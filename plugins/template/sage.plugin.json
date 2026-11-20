@@ -1,0 +1,15 @@
+{
+  "spec": 1,
+  "id": "com.example.hello",
+  "publisher": "example",
+  "name": "Hello Plugin",
+  "version": "1.0.0",
+  "tier": "declarative",
+  "engines": { "sage": ">=1.0.0" },
+  "permissions": [],
+  "contributes": {
+    "commands": [
+      { "key": "hello.run", "title": "Hello from Sage" }
+    ]
+  }
+}
