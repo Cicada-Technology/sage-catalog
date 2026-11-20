@@ -65,6 +65,20 @@
       "category": "dev"
     },
     {
+      "id": "com.cicada.ai-quota",
+      "repo": "Cicada-Technology/sage-plugin-ai-quota",
+      "indexId": "com.cicada.ai-quota",
+      "author": "Cicada Technology",
+      "category": "productivity"
+    },
+    {
+      "id": "com.cicada.git-workbench",
+      "repo": "Cicada-Technology/sage-plugin-git-workbench",
+      "indexId": "com.cicada.git-workbench",
+      "author": "Cicada Technology",
+      "category": "dev"
+    },
+    {
       "id": "composer-rainbow-border",
       "repo": "libo-zhou/ccgui-plugin-composer-rainbow-border",
       "indexId": "composer-rainbow-border",

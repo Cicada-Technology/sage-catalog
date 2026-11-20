@@ -35,6 +35,14 @@
     "name": "Pemeriksaan Instalasi CLI",
     "description": "Mendeteksi satu per satu mesin CLI yang didukung oleh CC GUI, membandingkan versi dan SHA256 antara entri PATH dan proses yang sedang berjalan, serta menandai yang hilang dan bercabang."
   },
+  "com.cicada.ai-quota": {
+    "name": "AI Kuota & Penggunaan",
+    "description": "Pilih model dan lihat kuota langganan, penggunaan token, perkiraan biaya, serta tren 30 hari."
+  },
+  "com.cicada.git-workbench": {
+    "name": "Git Workbench",
+    "description": "Lihat cabang, perubahan, file yang telah di-staging, dan commit terbaru; lakukan staging, batalkan staging, dan buat commit tanpa meninggalkan Sage."
+  },
   "composer-rainbow-border": {
     "name": "Garis Batas Lampu Lari Pelangi",
     "description": "Menampilkan lampu lari pelangi pada kotak input obrolan dan tab sesi selama percakapan berlangsung, serta menampilkan border bernapas hijau untuk pesan belum dibaca saat sesi latar belakang selesai."

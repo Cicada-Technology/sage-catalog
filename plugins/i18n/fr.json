@@ -35,6 +35,14 @@
     "name": "Vérification de l’installation de la CLI",
     "description": "Détecte un par un les moteurs CLI pris en charge par l’interface CC, compare les versions et les SHA256 des entrées PATH et des processus en cours, signalant les absences et les bifurcations."
   },
+  "com.cicada.ai-quota": {
+    "name": "AI Quota et utilisation",
+    "description": "Choisissez un modèle et consultez son quota d'abonnement, son utilisation de jetons, le coût estimé ainsi que la tendance sur 30 jours."
+  },
+  "com.cicada.git-workbench": {
+    "name": "Git Workbench",
+    "description": "Affiche les branches, les modifications, les fichiers préparés et les validations récentes ; prépare, déprépare et valide sans quitter Sage."
+  },
   "composer-rainbow-border": {
     "name": "Bande lumineuse arc-en-ciel aux frontières",
     "description": "Affiche une bande lumineuse arc-en-ciel dans le champ de saisie du chat et sur les onglets de session pendant les conversations ; présente une bordure verte respirante pour les messages non lus à la fin des sessions en arrière-plan."

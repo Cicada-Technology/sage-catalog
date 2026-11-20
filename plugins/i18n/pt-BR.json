@@ -35,6 +35,14 @@
     "name": "Detecção de instalação do CLI",
     "description": "Detecta individualmente os motores CLI suportados pela GUI CC, compara a versão e o SHA256 da entrada PATH com os processos em execução, indicando ausências e bifurcações."
   },
+  "com.cicada.ai-quota": {
+    "name": "AI Cota e Uso",
+    "description": "Escolha um modelo e veja sua cota de assinatura, uso de tokens, custo estimado e tendência de 30 dias."
+  },
+  "com.cicada.git-workbench": {
+    "name": "Git Workbench",
+    "description": "Visualize ramificações, alterações, arquivos preparados e commits recentes; prepare, desfaça a preparação e faça commit sem sair do Sage."
+  },
   "composer-rainbow-border": {
     "name": "Faixa luminosa arco-íris nas bordas",
     "description": "Exibe uma faixa luminosa arco-íris no campo de entrada do chat e nos separadores da sessão durante a conversa, apresentando uma borda verde pulsante ao finalizar sessões em segundo plano."

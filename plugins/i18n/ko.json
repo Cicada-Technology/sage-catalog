@@ -35,6 +35,14 @@
     "name": "CLI 安装检测",
     "description": "逐个探测 CC GUI 支持的 CLI 引擎，对比 PATH 入口与运行中进程的版本和 SHA256，标出缺失与分叉。"
   },
+  "com.cicada.ai-quota": {
+    "name": "AI 할당량 및 사용량",
+    "description": "모델을 선택하면 해당 모델의 구독 할당량, 토큰 사용량, 예상 비용 및 30일간의 추세를 확인할 수 있습니다."
+  },
+  "com.cicada.git-workbench": {
+    "name": "Git 워크벤치",
+    "description": "브랜치, 변경 사항, 스테이지된 파일 및 최근 커밋을 확인하고, Sage를 종료하지 않고 스테이징, 스테이지 해제 및 커밋을 수행합니다."
+  },
   "composer-rainbow-border": {
     "name": "彩虹跑马灯边界线",
     "description": "对话运行中为聊天输入框与会话页签展示彩虹跑马灯，后台会话完成时呈现绿色呼吸未读边框。"

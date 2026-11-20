@@ -35,6 +35,14 @@
     "name": "CLI-Installationsprüfung",
     "description": "Einzelne Erkennung der von der CC-GUI unterstützten CLI-Engines, Vergleich von PATH-Einträgen mit Versionen und SHA256-Werten laufender Prozesse, Markierung fehlender oder abweichender Komponenten."
   },
+  "com.cicada.ai-quota": {
+    "name": "AI Kontingent und Nutzung",
+    "description": "Wählen Sie ein Modell aus und sehen Sie dessen Abonnementkontingent, Token-Nutzung, geschätzte Kosten sowie den 30-Tage-Trend."
+  },
+  "com.cicada.git-workbench": {
+    "name": "Git Workbench",
+    "description": "Zeige Branches, Änderungen, staged Files und letzte Commits an; stage, unstage und commit, ohne Sage zu verlassen."
+  },
   "composer-rainbow-border": {
     "name": "Regenbogen-Lauflicht-Grenze",
     "description": "Während des Dialogs werden für das Chat-Eingabefeld und die Sitzungsregisterkarten Regenbogen-Lauflichter angezeigt; bei Abschluss einer Hintergrund-Sitzung erscheint ein grünes, atmendes Ungelesen-Rahmen."

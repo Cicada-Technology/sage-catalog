@@ -35,6 +35,14 @@
     "name": "CLI Installation Detection",
     "description": "Individually probes CLI engines supported by the CC GUI, compares PATH entries with running process versions and SHA256 hashes, flags missing or forked versions."
   },
+  "com.cicada.ai-quota": {
+    "name": "AI Quota & Usage",
+    "description": "Choose a model and see its subscription quota, token usage, estimated cost and 30-day trend."
+  },
+  "com.cicada.git-workbench": {
+    "name": "Git Workbench",
+    "description": "View branches, changes, staged files and recent commits; stage, unstage and commit without leaving Sage."
+  },
   "composer-rainbow-border": {
     "name": "Rainbow Marquee Border",
     "description": "Displays a rainbow marquee over the chat input box and session tab during conversations, showing a green breathing unread border upon completion of background sessions."

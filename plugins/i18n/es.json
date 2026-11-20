@@ -35,6 +35,14 @@
     "name": "Comprobación de instalación de CLI",
     "description": "Detecta uno por uno los motores CLI compatibles con la GUI de CC, compara la versión y el SHA256 entre la entrada PATH y los procesos en ejecución, y marca las ausencias y bifurcaciones."
   },
+  "com.cicada.ai-quota": {
+    "name": "AI Cuota y uso",
+    "description": "Elija un modelo y consulte su cuota de suscripción, el uso de tokens, el costo estimado y la tendencia de los últimos 30 días."
+  },
+  "com.cicada.git-workbench": {
+    "name": "Git Workbench",
+    "description": "Ver ramas, cambios, archivos preparados y confirmaciones recientes; preparar, despreparar y confirmar sin salir de Sage."
+  },
   "composer-rainbow-border": {
     "name": "Línea fronteriza con carrusel arcoíris",
     "description": "Durante la conversación, muestra un carrusel arcoíris en el campo de entrada del chat y en las pestañas de la sesión; al finalizar la sesión en segundo plano, aparece un borde verde parpadeante para mensajes no leídos."

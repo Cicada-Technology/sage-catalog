@@ -35,6 +35,14 @@
     "name": "CLI 安裝檢測",
     "description": "逐個探測 CC GUI 支援的 CLI 引擎，對比 PATH 入口與執行中處理程序的版本和 SHA256，標出缺失與分叉。"
   },
+  "com.cicada.ai-quota": {
+    "name": "AI 配額與用量",
+    "description": "選擇任意模型，檢視該模型的訂閱配額、Token 用量、估算成本與近 30 天趨勢。"
+  },
+  "com.cicada.git-workbench": {
+    "name": "Git 工作台",
+    "description": "在 Sage 裡檢視分支、變更、暫存區與最近提交，並直接 stage / unstage / commit。"
+  },
   "composer-rainbow-border": {
     "name": "彩虹跑馬燈邊界線",
     "description": "對話執行中為聊天輸入框與工作階段頁籤展示彩虹跑馬燈，後臺工作階段完成時呈現綠色呼吸未讀邊框。"

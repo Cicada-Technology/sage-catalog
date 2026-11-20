@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T11:36:33.012Z",
+  "generatedAt": "2026-11-20T12:12:03.455Z",
   "plugins": [
     {
       "id": "ai-quota-monitor",
@@ -361,6 +361,60 @@
           "icon": "docs/icon.png",
           "screenshots": [],
           "updatedAt": null
+        }
+      ]
+    },
+    {
+      "id": "com.cicada.ai-quota",
+      "repo": "Cicada-Technology/sage-plugin-ai-quota",
+      "category": "productivity",
+      "name": "AI Quota & Usage",
+      "description": "Choose a model and see its subscription quota, token usage, estimated cost and 30-day trend.",
+      "author": "Cicada Technology",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "tier": "js",
+          "minAppVersion": "1.2.5",
+          "sdkVersion": "^0.3",
+          "permissions": [
+            "ui:panel-tab",
+            "usage.read",
+            "limits.read",
+            "storage"
+          ],
+          "files": {},
+          "archive": "https://github.com/Cicada-Technology/sage-plugin-ai-quota/releases/download/v0.1.0/plugin.zip",
+          "archiveSha256": "a9cdbeeb64150631f4e426b18ce653535b8eb758af38ed94c11a44b482fd59fe",
+          "updatedAt": "2026-11-20T12:12:03.451Z",
+          "screenshots": [],
+          "icon": null
+        }
+      ]
+    },
+    {
+      "id": "com.cicada.git-workbench",
+      "repo": "Cicada-Technology/sage-plugin-git-workbench",
+      "category": "dev",
+      "name": "Git Workbench",
+      "description": "View branches, changes, staged files and recent commits; stage, unstage and commit without leaving Sage.",
+      "author": "Cicada Technology",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "tier": "js",
+          "minAppVersion": "1.2.5",
+          "sdkVersion": "^0.3",
+          "permissions": [
+            "ui:panel-tab",
+            "exec:git"
+          ],
+          "files": {},
+          "archive": "https://github.com/Cicada-Technology/sage-plugin-git-workbench/releases/download/v0.1.0/plugin.zip",
+          "archiveSha256": "c03fd6f976640fab3e3be65b30136d7757f06dd552dc15b036d4b5d2b5d21ea7",
+          "updatedAt": "2026-11-20T12:12:03.451Z",
+          "screenshots": [],
+          "icon": null
         }
       ]
     },
