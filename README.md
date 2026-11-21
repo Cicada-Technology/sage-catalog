@@ -75,33 +75,42 @@ en, zh, zh-TW, ja, ko, de, fr, es, pt-BR, ru, ar, hi-IN, bn, id, bo
 
 ```json
 {
-  "id": "react-doctor",
-  "repo": "zhukunpenglinyutong/ccgui-plugin-react-doctor",
+  "id": "com.cicada.git-workbench",
+  "repo": "Cicada-Technology/sage-plugin-git-workbench",
   "category": "dev",
-  "name": "React Doctor",
-  "description": "One-click React code health check.",
-  "author": "zhukunpenglinyutong",
+  "name": "Git Workbench",
+  "description": "View branches, changes, staged files and recent commits; stage, unstage and commit without leaving Sage.",
+  "author": "Cicada Technology",
   "versions": [{
-    "version": "0.3.1",
+    "version": "0.1.0",
     "tier": "js",
-    "minAppVersion": "1.0.0",
+    "minAppVersion": "1.2.5",
     "sdkVersion": "^0.3",
-    "permissions": ["ui:panel-tab", "storage"],
-    "files": {
-      "manifest.json": "sha256...",
-      "main.js": "sha256...",
-      "styles.css": "sha256..."
-    },
-    "icon": "docs/icon.png",
-    "screenshots": ["docs/screenshot-1.png"]
+    "permissions": ["ui:panel-tab", "exec:git"],
+    "files": {},
+    "archive": "https://github.com/Cicada-Technology/sage-plugin-git-workbench/releases/download/v0.1.0/plugin.zip",
+    "archiveSha256": "sha256...",
+    "icon": null,
+    "screenshots": []
   }]
 }
 ```
 
-- `files`：兼容 CCGUI 的平铺 Release 资产，客户端逐个下载并按哈希校验。
-- `archive` + `archiveSha256`：新式 `plugin.zip`，存在时优先于 `files`；客户端下载、校验、解包后再走同一套安装事务。
+- `files`：平铺 Release 资产，客户端逐个下载并按哈希校验。
+- `archive` + `archiveSha256`：`plugin.zip`，存在时优先于 `files`；客户端下载、校验、解包后再走同一套安装事务。
 - `category` 取 `dev / productivity / integration / appearance / other`。
 - `plugins/i18n/<locale>.json` 提供名称/描述翻译。
+
+`plugins/featured.json` 是市场顶部轮播的编辑精选，只列索引里存在的 id：
+
+```json
+[
+  { "id": "com.cicada.git-workbench" },
+  { "id": "com.cicada.ai-quota" }
+]
+```
+
+可选字段 `tagline` / `note` 提供推荐文案，`image` 提供封面；省略时客户端回退到该插件的本地化描述与自己的截图/图标。
 
 ## 客户端取数
 
