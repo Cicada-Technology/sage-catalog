@@ -172,7 +172,6 @@ if (!modelsFile || modelsFile.schemaVersion !== 1 || !Array.isArray(modelsFile.m
     if (model?.ctxMinAgent !== null && (!Number.isSafeInteger(model?.ctxMinAgent) || model.ctxMinAgent < 65536)) {
       errors.push(`${where}: ctxMinAgent must be null or at least 65536`);
     }
-    if (model?.toolUse && !model?.ctxMinAgent) errors.push(`${where}: tool models need ctxMinAgent 65536`);
     const quant = model?.quant;
     for (const key of ['id', 'quant', 'filename', 'sha256', 'cacheType']) {
       if (typeof quant?.[key] !== 'string' || !quant[key].trim()) errors.push(`${where}.quant: missing ${key}`);

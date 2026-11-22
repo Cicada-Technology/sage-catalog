@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-22T10:58:09Z",
   "runtime": {
     "build": "b12631",
     "minBuild": "b12631"
@@ -19,7 +19,9 @@
       "ctxDefault": 40960,
       "ctxMinAgent": null,
       "license": "apache-2.0",
-      "capabilities": ["chat"],
+      "capabilities": [
+        "chat"
+      ],
       "quant": {
         "id": "q4_k_m",
         "quant": "Q4_K_M",
@@ -55,7 +57,9 @@
       "ctxDefault": 40960,
       "ctxMinAgent": null,
       "license": "apache-2.0",
-      "capabilities": ["chat"],
+      "capabilities": [
+        "chat"
+      ],
       "quant": {
         "id": "q4_k_m",
         "quant": "Q4_K_M",
@@ -91,7 +95,12 @@
       "ctxDefault": 65536,
       "ctxMinAgent": 65536,
       "license": "apache-2.0",
-      "capabilities": ["chat", "tools", "json", "multilingual"],
+      "capabilities": [
+        "chat",
+        "tools",
+        "json",
+        "multilingual"
+      ],
       "quant": {
         "id": "q4_k_m",
         "quant": "Q4_K_M",
@@ -127,7 +136,13 @@
       "ctxDefault": 65536,
       "ctxMinAgent": 65536,
       "license": "apache-2.0",
-      "capabilities": ["chat", "tools", "json", "reasoning", "multilingual"],
+      "capabilities": [
+        "chat",
+        "tools",
+        "json",
+        "reasoning",
+        "multilingual"
+      ],
       "quant": {
         "id": "q4_k_m",
         "quant": "Q4_K_M",
@@ -147,6 +162,408 @@
           "repo": "unsloth/Qwen3-30B-A3B-Instruct-2507-GGUF",
           "revision": "main",
           "path": "Qwen3-30B-A3B-Instruct-2507-Q4_K_M.gguf"
+        }
+      }
+    },
+    {
+      "id": "qwen3.5-4b-q4-k-m",
+      "displayName": "Qwen3.5 4B",
+      "family": "qwen3.5",
+      "paramsB": 4.0,
+      "activeParamsB": 4.0,
+      "moe": false,
+      "quality": 80,
+      "toolUse": true,
+      "contextMax": 262144,
+      "ctxDefault": 65536,
+      "ctxMinAgent": 65536,
+      "license": "apache-2.0",
+      "capabilities": [
+        "chat",
+        "tools",
+        "json",
+        "multilingual"
+      ],
+      "quant": {
+        "id": "q4_k_m",
+        "quant": "Q4_K_M",
+        "filename": "Qwen3.5-4B-Q4_K_M.gguf",
+        "size": 2740937888,
+        "sha256": "00fe7986ff5f6b463e62455821146049db6f9313603938a70800d1fb69ef11a4",
+        "kvBytesPerToken": 131072,
+        "cacheType": "q4_0"
+      },
+      "sources": {
+        "modelscope": {
+          "repo": "unsloth/Qwen3.5-4B-GGUF",
+          "revision": "master",
+          "path": "Qwen3.5-4B-Q4_K_M.gguf"
+        },
+        "huggingface": {
+          "repo": "unsloth/Qwen3.5-4B-GGUF",
+          "revision": "main",
+          "path": "Qwen3.5-4B-Q4_K_M.gguf"
+        }
+      }
+    },
+    {
+      "id": "nemotron-3.5-bolt-e4b-ud-q4-k-xl",
+      "displayName": "Nemotron 3.5 Bolt E4B",
+      "family": "nemotron",
+      "paramsB": 8.0,
+      "activeParamsB": 4.0,
+      "moe": true,
+      "quality": 74,
+      "toolUse": true,
+      "contextMax": 131072,
+      "ctxDefault": 65536,
+      "ctxMinAgent": 65536,
+      "license": "nvidia-open-model-license",
+      "capabilities": [
+        "chat",
+        "tools",
+        "json",
+        "multilingual"
+      ],
+      "quant": {
+        "id": "ud_q4_k_xl",
+        "quant": "UD-Q4_K_XL",
+        "filename": "NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf",
+        "size": 5060482240,
+        "sha256": "84ff34f5834b929043f5ae74799e8d562d4056998f6a5923ceb44831e8ad84d6",
+        "kvBytesPerToken": 172032,
+        "cacheType": "q4_0"
+      },
+      "sources": {
+        "modelscope": {
+          "repo": "unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF",
+          "revision": "master",
+          "path": "NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+        },
+        "huggingface": {
+          "repo": "unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF",
+          "revision": "main",
+          "path": "NVIDIA-Nemotron-3.5-Bolt-E4B-UD-Q4_K_XL.gguf"
+        }
+      }
+    },
+    {
+      "id": "ling-mini-2.0-q4-k-m",
+      "displayName": "Ling mini 2.0",
+      "family": "ling",
+      "paramsB": 16.3,
+      "activeParamsB": 1.4,
+      "moe": true,
+      "quality": 72,
+      "toolUse": true,
+      "contextMax": 32768,
+      "ctxDefault": 32768,
+      "ctxMinAgent": null,
+      "license": "mit",
+      "capabilities": [
+        "chat",
+        "tools",
+        "json",
+        "multilingual"
+      ],
+      "quant": {
+        "id": "q4_k_m",
+        "quant": "Q4_K_M",
+        "filename": "Ling-mini-2.0-Q4_K_M.gguf",
+        "size": 9911575072,
+        "sha256": "ebdd2df3bf18c5acd8537b8af5ad42253078ddd6ae49eed040376e9e9e0c1016",
+        "kvBytesPerToken": 40960,
+        "cacheType": "q4_0"
+      },
+      "sources": {
+        "modelscope": {
+          "repo": "inclusionAI/Ling-mini-2.0-GGUF",
+          "revision": "master",
+          "path": "Ling-mini-2.0-Q4_K_M.gguf"
+        },
+        "huggingface": {
+          "repo": "inclusionAI/Ling-mini-2.0-GGUF",
+          "revision": "main",
+          "path": "Ling-mini-2.0-Q4_K_M.gguf"
+        }
+      }
+    },
+    {
+      "id": "gemma-3-4b-it-q4-k-m",
+      "displayName": "Gemma 3 4B",
+      "family": "gemma3",
+      "paramsB": 4.0,
+      "activeParamsB": 4.0,
+      "moe": false,
+      "quality": 65,
+      "toolUse": false,
+      "contextMax": 131072,
+      "ctxDefault": 32768,
+      "ctxMinAgent": null,
+      "license": "gemma",
+      "capabilities": [
+        "chat",
+        "multilingual"
+      ],
+      "quant": {
+        "id": "q4_k_m",
+        "quant": "Q4_K_M",
+        "filename": "gemma-3-4b-it-Q4_K_M.gguf",
+        "size": 2489894016,
+        "sha256": "04a43a22e8d2003deda5acc262f68ec1005fa76c735a9962a8c77042a74a7d19",
+        "kvBytesPerToken": 139264,
+        "cacheType": "q4_0"
+      },
+      "sources": {
+        "modelscope": {
+          "repo": "unsloth/gemma-3-4b-it-GGUF",
+          "revision": "master",
+          "path": "gemma-3-4b-it-Q4_K_M.gguf"
+        },
+        "huggingface": {
+          "repo": "unsloth/gemma-3-4b-it-GGUF",
+          "revision": "main",
+          "path": "gemma-3-4b-it-Q4_K_M.gguf"
+        }
+      }
+    },
+    {
+      "id": "llama-3.2-3b-instruct-q4-k-m",
+      "displayName": "Llama 3.2 3B",
+      "family": "llama",
+      "paramsB": 3.2,
+      "activeParamsB": 3.2,
+      "moe": false,
+      "quality": 55,
+      "toolUse": true,
+      "contextMax": 131072,
+      "ctxDefault": 65536,
+      "ctxMinAgent": 65536,
+      "license": "llama3.2",
+      "capabilities": [
+        "chat",
+        "tools",
+        "multilingual"
+      ],
+      "quant": {
+        "id": "q4_k_m",
+        "quant": "Q4_K_M",
+        "filename": "Llama-3.2-3B-Instruct-Q4_K_M.gguf",
+        "size": 2019377600,
+        "sha256": "6c99cc00ae910f6a532a80022cb4bc1939094527a089c29294b841c0bd87f74d",
+        "kvBytesPerToken": 114688,
+        "cacheType": "q4_0"
+      },
+      "sources": {
+        "modelscope": {
+          "repo": "unsloth/Llama-3.2-3B-Instruct-GGUF",
+          "revision": "master",
+          "path": "Llama-3.2-3B-Instruct-Q4_K_M.gguf"
+        },
+        "huggingface": {
+          "repo": "unsloth/Llama-3.2-3B-Instruct-GGUF",
+          "revision": "main",
+          "path": "Llama-3.2-3B-Instruct-Q4_K_M.gguf"
+        }
+      }
+    },
+    {
+      "id": "smollm3-3b-128k-q4-k-m",
+      "displayName": "SmolLM3 3B 128K",
+      "family": "smollm3",
+      "paramsB": 3.0,
+      "activeParamsB": 3.0,
+      "moe": false,
+      "quality": 53,
+      "toolUse": true,
+      "contextMax": 131072,
+      "ctxDefault": 65536,
+      "ctxMinAgent": 65536,
+      "license": "apache-2.0",
+      "capabilities": [
+        "chat",
+        "tools",
+        "multilingual"
+      ],
+      "quant": {
+        "id": "q4_k_m",
+        "quant": "Q4_K_M",
+        "filename": "SmolLM3-3B-128K-Q4_K_M.gguf",
+        "size": 1915306592,
+        "sha256": "d8eb09acc0ba65f59b046396656d3e78321497ab11781de4612fe300b20638aa",
+        "kvBytesPerToken": 73728,
+        "cacheType": "q4_0"
+      },
+      "sources": {
+        "modelscope": {
+          "repo": "unsloth/SmolLM3-3B-128K-GGUF",
+          "revision": "master",
+          "path": "SmolLM3-3B-128K-Q4_K_M.gguf"
+        },
+        "huggingface": {
+          "repo": "unsloth/SmolLM3-3B-128K-GGUF",
+          "revision": "main",
+          "path": "SmolLM3-3B-128K-Q4_K_M.gguf"
+        }
+      }
+    },
+    {
+      "id": "granite-4.0-micro-q4-k-m",
+      "displayName": "Granite 4.0 Micro",
+      "family": "granite",
+      "paramsB": 3.0,
+      "activeParamsB": 3.0,
+      "moe": false,
+      "quality": 57,
+      "toolUse": true,
+      "contextMax": 131072,
+      "ctxDefault": 65536,
+      "ctxMinAgent": 65536,
+      "license": "apache-2.0",
+      "capabilities": [
+        "chat",
+        "tools",
+        "json",
+        "multilingual"
+      ],
+      "quant": {
+        "id": "q4_k_m",
+        "quant": "Q4_K_M",
+        "filename": "granite-4.0-micro-Q4_K_M.gguf",
+        "size": 2099502528,
+        "sha256": "97c417dcc0534b0737c74016fb2af083cb17c3b51eaac621192d23961b7024eb",
+        "kvBytesPerToken": 81920,
+        "cacheType": "q4_0"
+      },
+      "sources": {
+        "modelscope": {
+          "repo": "ibm-granite/granite-4.0-micro-GGUF",
+          "revision": "master",
+          "path": "granite-4.0-micro-Q4_K_M.gguf"
+        },
+        "huggingface": {
+          "repo": "ibm-granite/granite-4.0-micro-GGUF",
+          "revision": "main",
+          "path": "granite-4.0-micro-Q4_K_M.gguf"
+        }
+      }
+    },
+    {
+      "id": "phi-4-mini-instruct-q4-k-m",
+      "displayName": "Phi-4 Mini",
+      "family": "phi4",
+      "paramsB": 3.8,
+      "activeParamsB": 3.8,
+      "moe": false,
+      "quality": 60,
+      "toolUse": false,
+      "contextMax": 131072,
+      "ctxDefault": 32768,
+      "ctxMinAgent": null,
+      "license": "mit",
+      "capabilities": [
+        "chat",
+        "json"
+      ],
+      "quant": {
+        "id": "q4_k_m",
+        "quant": "Q4_K_M",
+        "filename": "Phi-4-mini-instruct-Q4_K_M.gguf",
+        "size": 2491874272,
+        "sha256": "88c00229914083cd112853aab84ed51b87bdf6b9ce42f532d8c85c7c63b1730a",
+        "kvBytesPerToken": 131072,
+        "cacheType": "q4_0"
+      },
+      "sources": {
+        "modelscope": {
+          "repo": "unsloth/Phi-4-mini-instruct-GGUF",
+          "revision": "master",
+          "path": "Phi-4-mini-instruct-Q4_K_M.gguf"
+        },
+        "huggingface": {
+          "repo": "unsloth/Phi-4-mini-instruct-GGUF",
+          "revision": "main",
+          "path": "Phi-4-mini-instruct-Q4_K_M.gguf"
+        }
+      }
+    },
+    {
+      "id": "minicpm4.1-8b-q4-k-m",
+      "displayName": "MiniCPM 4.1 8B",
+      "family": "minicpm",
+      "paramsB": 8.0,
+      "activeParamsB": 8.0,
+      "moe": false,
+      "quality": 64,
+      "toolUse": false,
+      "contextMax": 65536,
+      "ctxDefault": 32768,
+      "ctxMinAgent": null,
+      "license": "apache-2.0",
+      "capabilities": [
+        "chat",
+        "multilingual"
+      ],
+      "quant": {
+        "id": "q4_k_m",
+        "quant": "Q4_K_M",
+        "filename": "MiniCPM4.1-8B-Q4_K_M.gguf",
+        "size": 4965526048,
+        "sha256": "9d2ffb9145bf7a88ddb94b2542b42d925293666c42962aa158eeb62fc9708654",
+        "kvBytesPerToken": 32768,
+        "cacheType": "q4_0"
+      },
+      "sources": {
+        "modelscope": {
+          "repo": "openbmb/MiniCPM4.1-8B-GGUF",
+          "revision": "master",
+          "path": "MiniCPM4.1-8B-Q4_K_M.gguf"
+        },
+        "huggingface": {
+          "repo": "openbmb/MiniCPM4.1-8B-GGUF",
+          "revision": "main",
+          "path": "MiniCPM4.1-8B-Q4_K_M.gguf"
+        }
+      }
+    },
+    {
+      "id": "glm-4-9b-0414-q4-k-m",
+      "displayName": "GLM-4 9B",
+      "family": "glm4",
+      "paramsB": 9.0,
+      "activeParamsB": 9.0,
+      "moe": false,
+      "quality": 66,
+      "toolUse": true,
+      "contextMax": 32768,
+      "ctxDefault": 32768,
+      "ctxMinAgent": null,
+      "license": "mit",
+      "capabilities": [
+        "chat",
+        "tools",
+        "json",
+        "multilingual"
+      ],
+      "quant": {
+        "id": "q4_k_m",
+        "quant": "Q4_K_M",
+        "filename": "GLM-4-9B-0414-Q4_K_M.gguf",
+        "size": 6166574944,
+        "sha256": "8027e1089273e8817b2df0d91c9aa17c5ea467246dcdacac34989f8919fe6540",
+        "kvBytesPerToken": 40960,
+        "cacheType": "q4_0"
+      },
+      "sources": {
+        "modelscope": {
+          "repo": "unsloth/GLM-4-9B-0414-GGUF",
+          "revision": "master",
+          "path": "GLM-4-9B-0414-Q4_K_M.gguf"
+        },
+        "huggingface": {
+          "repo": "unsloth/GLM-4-9B-0414-GGUF",
+          "revision": "main",
+          "path": "GLM-4-9B-0414-Q4_K_M.gguf"
         }
       }
     }
