@@ -9,6 +9,7 @@ Hugging Face / 魔搭（ModelScope）仓库、版本、路径和 SHA-256 下载 
 models/
   index.json   # schemaVersion / runtime / models
   README.md
+  TESTED.md    # 本机加载/工具调用/TPS 实测记录
 ```
 
 `index.json` 由客户端 1 小时缓存；国内优先 Gitee 镜像，其他地区优先 GitHub。

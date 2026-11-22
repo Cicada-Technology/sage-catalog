@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T10:58:09Z",
+  "updatedAt": "2026-11-22T11:41:59Z",
   "runtime": {
     "build": "b12631",
     "minBuild": "b12631"
@@ -375,14 +375,13 @@
       "activeParamsB": 3.0,
       "moe": false,
       "quality": 53,
-      "toolUse": true,
+      "toolUse": false,
       "contextMax": 131072,
-      "ctxDefault": 65536,
-      "ctxMinAgent": 65536,
+      "ctxDefault": 32768,
+      "ctxMinAgent": null,
       "license": "apache-2.0",
       "capabilities": [
         "chat",
-        "tools",
         "multilingual"
       ],
       "quant": {
