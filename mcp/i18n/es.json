@@ -34,5 +34,89 @@
   "mobile": {
     "name": "Mobile MCP",
     "description": "Controla dispositivos o simuladores iOS y Android mediante accesibilidad."
+  },
+  "brave-search": {
+    "name": "Brave Search",
+    "description": "Busca en la web con el índice independiente de Brave; requiere una clave de API de Brave Search."
+  },
+  "exa": {
+    "name": "Exa",
+    "description": "Búsqueda web neuronal y obtención de páginas de Exa; el uso básico no necesita clave."
+  },
+  "deepwiki": {
+    "name": "DeepWiki",
+    "description": "Lee la documentación de cualquier repositorio público de GitHub y haz preguntas."
+  },
+  "microsoft-learn": {
+    "name": "Microsoft Learn",
+    "description": "Busca documentación oficial de Microsoft y Azure y ejemplos de código."
+  },
+  "fetch": {
+    "name": "Fetch",
+    "description": "Obtén páginas web y conviértelas en Markdown limpio para el modelo."
+  },
+  "hugging-face": {
+    "name": "Hugging Face",
+    "description": "Busca modelos, conjuntos de datos y Spaces en Hugging Face Hub."
+  },
+  "feishu": {
+    "name": "Feishu",
+    "description": "Busca y edita documentos, mensajes y grupos de Feishu."
+  },
+  "notion": {
+    "name": "Notion",
+    "description": "Busca y edita páginas, bases de datos y comentarios de Notion."
+  },
+  "memory": {
+    "name": "Memory",
+    "description": "Mantén un grafo de conocimiento persistente de entidades y relaciones entre sesiones."
+  },
+  "sequential-thinking": {
+    "name": "Sequential Thinking",
+    "description": "Divide problemas complejos en razonamientos paso a paso revisables."
+  },
+  "time": {
+    "name": "Time",
+    "description": "Convierte horas entre zonas horarias y obtén la hora actual en cualquier lugar."
+  },
+  "chrome-devtools": {
+    "name": "Chrome DevTools",
+    "description": "Controla un navegador Chrome en vivo para depurar, trazar rendimiento y tomar capturas."
+  },
+  "sentry": {
+    "name": "Sentry",
+    "description": "Inspecciona problemas, trazas de pila y trazas de Sentry tras iniciar sesión."
+  },
+  "supabase": {
+    "name": "Supabase",
+    "description": "Consulta y gestiona proyectos, SQL, migraciones y registros de Supabase."
+  },
+  "postgres": {
+    "name": "PostgreSQL",
+    "description": "Consulta PostgreSQL de forma segura con inspección de esquema, planes EXPLAIN y consejos de índices."
+  },
+  "cloudflare-docs": {
+    "name": "Cloudflare Docs",
+    "description": "Busca documentación actual para desarrolladores de Cloudflare."
+  },
+  "linear": {
+    "name": "Linear",
+    "description": "Consulta y actualiza problemas, proyectos y ciclos de Linear."
+  },
+  "atlassian": {
+    "name": "Atlassian",
+    "description": "Trabaja con Jira, Confluence, Compass y Bitbucket mediante Atlassian Rovo."
+  },
+  "stripe": {
+    "name": "Stripe",
+    "description": "Consulta y gestiona clientes, pagos, facturas y suscripciones de Stripe."
+  },
+  "figma": {
+    "name": "Figma",
+    "description": "Lee diseños, variables y asignaciones de Code Connect desde archivos de Figma."
+  },
+  "google-maps": {
+    "name": "Google Maps",
+    "description": "Busca lugares, geocodifica, calcula rutas y consulta el tiempo."
   }
 }

@@ -34,5 +34,89 @@
   "mobile": {
     "name": "Mobile MCP",
     "description": "Controle dispositivos ou simuladores iOS e Android por meio da acessibilidade."
+  },
+  "brave-search": {
+    "name": "Brave Search",
+    "description": "Pesquise na web com o índice independente do Brave; requer uma chave de API do Brave Search."
+  },
+  "exa": {
+    "name": "Exa",
+    "description": "Pesquisa web neural e obtenção de páginas do Exa; o uso básico não exige chave."
+  },
+  "deepwiki": {
+    "name": "DeepWiki",
+    "description": "Leia a documentação de qualquer repositório público do GitHub e faça perguntas."
+  },
+  "microsoft-learn": {
+    "name": "Microsoft Learn",
+    "description": "Pesquise documentação oficial da Microsoft e do Azure e exemplos de código."
+  },
+  "fetch": {
+    "name": "Fetch",
+    "description": "Obtenha páginas web e converta-as em Markdown limpo para o modelo."
+  },
+  "hugging-face": {
+    "name": "Hugging Face",
+    "description": "Pesquise modelos, conjuntos de dados e Spaces no Hugging Face Hub."
+  },
+  "feishu": {
+    "name": "Feishu",
+    "description": "Pesquise e edite documentos, mensagens e grupos do Feishu."
+  },
+  "notion": {
+    "name": "Notion",
+    "description": "Pesquise e edite páginas, bancos de dados e comentários do Notion."
+  },
+  "memory": {
+    "name": "Memory",
+    "description": "Mantenha um grafo de conhecimento persistente de entidades e relações entre sessões."
+  },
+  "sequential-thinking": {
+    "name": "Sequential Thinking",
+    "description": "Divida problemas complexos em raciocínios passo a passo revisáveis."
+  },
+  "time": {
+    "name": "Time",
+    "description": "Converta horários entre fusos horários e obtenha a hora atual em qualquer lugar."
+  },
+  "chrome-devtools": {
+    "name": "Chrome DevTools",
+    "description": "Controle um navegador Chrome ativo para depuração, traces de desempenho e capturas de tela."
+  },
+  "sentry": {
+    "name": "Sentry",
+    "description": "Inspecione problemas, stack traces e traces do Sentry após entrar."
+  },
+  "supabase": {
+    "name": "Supabase",
+    "description": "Consulte e gerencie projetos, SQL, migrações e logs do Supabase."
+  },
+  "postgres": {
+    "name": "PostgreSQL",
+    "description": "Consulte PostgreSQL com segurança, com inspeção de esquema, planos EXPLAIN e dicas de índices."
+  },
+  "cloudflare-docs": {
+    "name": "Cloudflare Docs",
+    "description": "Pesquise a documentação atual para desenvolvedores da Cloudflare."
+  },
+  "linear": {
+    "name": "Linear",
+    "description": "Leia e atualize issues, projetos e ciclos do Linear."
+  },
+  "atlassian": {
+    "name": "Atlassian",
+    "description": "Trabalhe com Jira, Confluence, Compass e Bitbucket via Atlassian Rovo."
+  },
+  "stripe": {
+    "name": "Stripe",
+    "description": "Leia e gerencie clientes, pagamentos, faturas e assinaturas do Stripe."
+  },
+  "figma": {
+    "name": "Figma",
+    "description": "Leia designs, variáveis e mapeamentos do Code Connect de arquivos do Figma."
+  },
+  "google-maps": {
+    "name": "Google Maps",
+    "description": "Pesquise lugares, geocodifique, calcule rotas e consulte o clima."
   }
 }

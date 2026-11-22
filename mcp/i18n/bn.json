@@ -34,5 +34,89 @@
   "mobile": {
     "name": "Mobile MCP",
     "description": "অ্যাক্সেসিবিলিটির মাধ্যমে iOS এবং Android ডিভাইস বা সিমুলেটরগুলিকে নিয়ন্ত্রণ করুন।"
+  },
+  "brave-search": {
+    "name": "Brave Search",
+    "description": "Brave-এর স্বতন্ত্র ইনডেক্সে ওয়েব অনুসন্ধান করুন; Brave Search API কী প্রয়োজন।"
+  },
+  "exa": {
+    "name": "Exa",
+    "description": "Exa থেকে নিউরাল ওয়েব সার্চ ও পৃষ্ঠা আনুন; মৌলিক ব্যবহারে কী লাগে না।"
+  },
+  "deepwiki": {
+    "name": "DeepWiki",
+    "description": "যেকোনো পাবলিক GitHub রিপোজিটরির ডকুমেন্টেশন পড়ুন এবং প্রশ্ন করুন।"
+  },
+  "microsoft-learn": {
+    "name": "Microsoft Learn",
+    "description": "Microsoft ও Azure-এর অফিসিয়াল ডকুমেন্টেশন এবং কোড নমুনা অনুসন্ধান করুন।"
+  },
+  "fetch": {
+    "name": "Fetch",
+    "description": "ওয়েব পৃষ্ঠা আনুন এবং মডেলের জন্য পরিষ্কার Markdown-এ রূপান্তর করুন।"
+  },
+  "hugging-face": {
+    "name": "Hugging Face",
+    "description": "Hugging Face Hub-এ মডেল, ডেটাসেট ও Spaces অনুসন্ধান করুন।"
+  },
+  "feishu": {
+    "name": "Feishu",
+    "description": "Feishu ডকুমেন্ট, বার্তা ও গ্রুপ অনুসন্ধান ও সম্পাদনা করুন।"
+  },
+  "notion": {
+    "name": "Notion",
+    "description": "Notion পৃষ্ঠা, ডেটাবেস ও মন্তব্য অনুসন্ধান ও সম্পাদনা করুন।"
+  },
+  "memory": {
+    "name": "Memory",
+    "description": "সেশন জুড়ে সত্তা ও সম্পর্কের স্থায়ী নলেজ গ্রাফ রাখুন।"
+  },
+  "sequential-thinking": {
+    "name": "Sequential Thinking",
+    "description": "জটিল সমস্যাকে পুনর্বিবেচনাযোগ্য ধাপে ধাপে যুক্তিতে ভাগ করুন।"
+  },
+  "time": {
+    "name": "Time",
+    "description": "টাইম জোনের মধ্যে সময় রূপান্তর করুন এবং যেকোনো স্থানের বর্তমান সময় জানুন।"
+  },
+  "chrome-devtools": {
+    "name": "Chrome DevTools",
+    "description": "ডিবাগিং, পারফরম্যান্স ট্রেস ও স্ক্রিনশটের জন্য চলমান Chrome ব্রাউজার নিয়ন্ত্রণ করুন।"
+  },
+  "sentry": {
+    "name": "Sentry",
+    "description": "সাইন ইন করার পর Sentry ইস্যু, স্ট্যাক ট্রেস ও ট্রেস দেখুন।"
+  },
+  "supabase": {
+    "name": "Supabase",
+    "description": "Supabase প্রকল্প, SQL, মাইগ্রেশন ও লগ কোয়েরি ও পরিচালনা করুন।"
+  },
+  "postgres": {
+    "name": "PostgreSQL",
+    "description": "স্কিমা পরিদর্শন, EXPLAIN প্ল্যান ও ইনডেক্স পরামর্শসহ নিরাপদে PostgreSQL কোয়েরি করুন।"
+  },
+  "cloudflare-docs": {
+    "name": "Cloudflare Docs",
+    "description": "সর্বশেষ Cloudflare ডেভেলপার ডকুমেন্টেশন অনুসন্ধান করুন।"
+  },
+  "linear": {
+    "name": "Linear",
+    "description": "Linear ইস্যু, প্রকল্প ও সাইকেল দেখুন ও হালনাগাদ করুন।"
+  },
+  "atlassian": {
+    "name": "Atlassian",
+    "description": "Atlassian Rovo-এর মাধ্যমে Jira, Confluence, Compass ও Bitbucket নিয়ে কাজ করুন।"
+  },
+  "stripe": {
+    "name": "Stripe",
+    "description": "Stripe গ্রাহক, পেমেন্ট, চালান ও সাবস্ক্রিপশন দেখুন ও পরিচালনা করুন।"
+  },
+  "figma": {
+    "name": "Figma",
+    "description": "Figma ফাইল থেকে ডিজাইন, ভেরিয়েবল ও Code Connect ম্যাপিং পড়ুন।"
+  },
+  "google-maps": {
+    "name": "Google Maps",
+    "description": "স্থান অনুসন্ধান, জিওকোড, রুট গণনা ও আবহাওয়া দেখুন।"
   }
 }

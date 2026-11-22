@@ -34,5 +34,89 @@
   "mobile": {
     "name": "Mobile MCP",
     "description": "एक्सेसिबिलिटी के माध्यम से iOS और Android डिवाइस या सिमुलेटर को नियंत्रित करें।"
+  },
+  "brave-search": {
+    "name": "Brave Search",
+    "description": "Brave के स्वतंत्र इंडेक्स से वेब खोजें; Brave Search API कुंजी आवश्यक है।"
+  },
+  "exa": {
+    "name": "Exa",
+    "description": "Exa से न्यूरल वेब खोज और पेज लाना; बुनियादी उपयोग के लिए कुंजी आवश्यक नहीं है।"
+  },
+  "deepwiki": {
+    "name": "DeepWiki",
+    "description": "किसी भी सार्वजनिक GitHub रिपॉजिटरी का डॉक्यूमेंटेशन पढ़ें और प्रश्न पूछें।"
+  },
+  "microsoft-learn": {
+    "name": "Microsoft Learn",
+    "description": "Microsoft और Azure का आधिकारिक डॉक्यूमेंटेशन और कोड उदाहरण खोजें।"
+  },
+  "fetch": {
+    "name": "Fetch",
+    "description": "वेब पेज लाएँ और उन्हें मॉडल के लिए साफ़ Markdown में बदलें।"
+  },
+  "hugging-face": {
+    "name": "Hugging Face",
+    "description": "Hugging Face Hub पर मॉडल, डेटासेट और Spaces खोजें।"
+  },
+  "feishu": {
+    "name": "Feishu",
+    "description": "Feishu दस्तावेज़, संदेश और समूह खोजें और संपादित करें।"
+  },
+  "notion": {
+    "name": "Notion",
+    "description": "Notion पेज, डेटाबेस और टिप्पणियाँ खोजें और संपादित करें।"
+  },
+  "memory": {
+    "name": "Memory",
+    "description": "सत्रों के बीच संस्थाओं और संबंधों का स्थायी ज्ञान ग्राफ़ रखें।"
+  },
+  "sequential-thinking": {
+    "name": "Sequential Thinking",
+    "description": "जटिल समस्याओं को पुनः देखे जा सकने वाले चरण-दर-चरण तर्क में बाँटें।"
+  },
+  "time": {
+    "name": "Time",
+    "description": "समय क्षेत्रों के बीच समय बदलें और कहीं भी वर्तमान समय प्राप्त करें।"
+  },
+  "chrome-devtools": {
+    "name": "Chrome DevTools",
+    "description": "डिबगिंग, प्रदर्शन ट्रेस और स्क्रीनशॉट के लिए सक्रिय Chrome ब्राउज़र नियंत्रित करें।"
+  },
+  "sentry": {
+    "name": "Sentry",
+    "description": "साइन इन के बाद Sentry इश्यू, स्टैक ट्रेस और ट्रेस देखें।"
+  },
+  "supabase": {
+    "name": "Supabase",
+    "description": "Supabase प्रोजेक्ट, SQL, माइग्रेशन और लॉग क्वेरी और प्रबंधित करें।"
+  },
+  "postgres": {
+    "name": "PostgreSQL",
+    "description": "स्कीमा निरीक्षण, EXPLAIN प्लान और इंडेक्स सुझावों के साथ PostgreSQL को सुरक्षित रूप से क्वेरी करें।"
+  },
+  "cloudflare-docs": {
+    "name": "Cloudflare Docs",
+    "description": "नवीनतम Cloudflare डेवलपर डॉक्यूमेंटेशन खोजें।"
+  },
+  "linear": {
+    "name": "Linear",
+    "description": "Linear इश्यू, प्रोजेक्ट और साइकिल देखें और अपडेट करें।"
+  },
+  "atlassian": {
+    "name": "Atlassian",
+    "description": "Atlassian Rovo के माध्यम से Jira, Confluence, Compass और Bitbucket पर काम करें।"
+  },
+  "stripe": {
+    "name": "Stripe",
+    "description": "Stripe ग्राहक, भुगतान, इनवॉइस और सदस्यता देखें और प्रबंधित करें।"
+  },
+  "figma": {
+    "name": "Figma",
+    "description": "Figma फ़ाइलों से डिज़ाइन, वेरिएबल और Code Connect मैपिंग पढ़ें।"
+  },
+  "google-maps": {
+    "name": "Google Maps",
+    "description": "स्थान खोजें, जियोकोड करें, मार्ग गणना करें और मौसम देखें।"
   }
 }

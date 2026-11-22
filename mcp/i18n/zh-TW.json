@@ -34,5 +34,89 @@
   "mobile": {
     "name": "Mobile MCP",
     "description": "通過無障礙樹控制 iOS/Android 實機或模擬器。"
+  },
+  "brave-search": {
+    "name": "Brave Search",
+    "description": "使用 Brave 獨立索引搜尋網際網路，需要 Brave Search API 金鑰。"
+  },
+  "exa": {
+    "name": "Exa",
+    "description": "Exa 神經網路搜尋與頁面擷取，基本使用無需金鑰。"
+  },
+  "deepwiki": {
+    "name": "DeepWiki",
+    "description": "閱讀並提問任意公開 GitHub 儲存庫的文件。"
+  },
+  "microsoft-learn": {
+    "name": "Microsoft Learn",
+    "description": "檢索微軟與 Azure 官方文件與程式碼範例。"
+  },
+  "fetch": {
+    "name": "Fetch",
+    "description": "擷取網頁並轉換為乾淨的 Markdown 供模型使用。"
+  },
+  "hugging-face": {
+    "name": "Hugging Face",
+    "description": "在 Hugging Face Hub 搜尋模型、資料集與 Spaces。"
+  },
+  "feishu": {
+    "name": "飛書",
+    "description": "搜尋並編輯飛書文件、訊息與群組。"
+  },
+  "notion": {
+    "name": "Notion",
+    "description": "搜尋並編輯 Notion 頁面、資料庫與留言。"
+  },
+  "memory": {
+    "name": "Memory",
+    "description": "跨工作階段保存實體與關係的持久知識圖譜。"
+  },
+  "sequential-thinking": {
+    "name": "Sequential Thinking",
+    "description": "把複雜問題拆成可回溯的分步推理。"
+  },
+  "time": {
+    "name": "Time",
+    "description": "跨時區換算時間並取得各地目前時間。"
+  },
+  "chrome-devtools": {
+    "name": "Chrome DevTools",
+    "description": "控制即時 Chrome 瀏覽器進行除錯、效能分析與截圖。"
+  },
+  "sentry": {
+    "name": "Sentry",
+    "description": "登入後檢視 Sentry 問題、堆疊與追蹤。"
+  },
+  "supabase": {
+    "name": "Supabase",
+    "description": "查詢和管理 Supabase 專案、SQL、遷移與日誌。"
+  },
+  "postgres": {
+    "name": "PostgreSQL",
+    "description": "安全查詢 PostgreSQL，支援結構檢視、執行計畫與索引建議。"
+  },
+  "cloudflare-docs": {
+    "name": "Cloudflare Docs",
+    "description": "檢索最新的 Cloudflare 開發者文件。"
+  },
+  "linear": {
+    "name": "Linear",
+    "description": "檢視和更新 Linear 問題、專案與週期。"
+  },
+  "atlassian": {
+    "name": "Atlassian",
+    "description": "透過 Atlassian Rovo 處理 Jira、Confluence、Compass 與 Bitbucket。"
+  },
+  "stripe": {
+    "name": "Stripe",
+    "description": "檢視和管理 Stripe 客戶、付款、發票與訂閱。"
+  },
+  "figma": {
+    "name": "Figma",
+    "description": "從 Figma 檔案讀取設計、變數與 Code Connect 對應。"
+  },
+  "google-maps": {
+    "name": "Google Maps",
+    "description": "搜尋地點、地理編碼、規劃路線並查詢天氣。"
   }
 }

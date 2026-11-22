@@ -34,5 +34,89 @@
   "mobile": {
     "name": "Mobile MCP",
     "description": "Control iOS and Android devices or simulators through accessibility."
+  },
+  "brave-search": {
+    "name": "Brave Search",
+    "description": "Search the web with Brave's independent index; needs a Brave Search API key."
+  },
+  "exa": {
+    "name": "Exa",
+    "description": "Neural web search and page fetching from Exa; basic use needs no key."
+  },
+  "deepwiki": {
+    "name": "DeepWiki",
+    "description": "Read and question the documentation of any public GitHub repository."
+  },
+  "microsoft-learn": {
+    "name": "Microsoft Learn",
+    "description": "Search official Microsoft and Azure documentation and code samples."
+  },
+  "fetch": {
+    "name": "Fetch",
+    "description": "Fetch web pages and convert them into clean Markdown for the model."
+  },
+  "hugging-face": {
+    "name": "Hugging Face",
+    "description": "Search models, datasets and Spaces on the Hugging Face Hub."
+  },
+  "feishu": {
+    "name": "Feishu",
+    "description": "Search and edit Feishu documents, messages and groups."
+  },
+  "notion": {
+    "name": "Notion",
+    "description": "Search and edit Notion pages, databases and comments."
+  },
+  "memory": {
+    "name": "Memory",
+    "description": "Keep a persistent knowledge graph of entities and relations across sessions."
+  },
+  "sequential-thinking": {
+    "name": "Sequential Thinking",
+    "description": "Break complex problems into revisable, step-by-step reasoning."
+  },
+  "time": {
+    "name": "Time",
+    "description": "Convert times between time zones and get the current time anywhere."
+  },
+  "chrome-devtools": {
+    "name": "Chrome DevTools",
+    "description": "Control a live Chrome browser for debugging, performance traces and screenshots."
+  },
+  "sentry": {
+    "name": "Sentry",
+    "description": "Inspect Sentry issues, stack traces and traces after signing in."
+  },
+  "supabase": {
+    "name": "Supabase",
+    "description": "Query and manage Supabase projects, SQL, migrations and logs."
+  },
+  "postgres": {
+    "name": "PostgreSQL",
+    "description": "Query PostgreSQL safely with schema inspection, EXPLAIN plans and index advice."
+  },
+  "cloudflare-docs": {
+    "name": "Cloudflare Docs",
+    "description": "Search current Cloudflare developer documentation."
+  },
+  "linear": {
+    "name": "Linear",
+    "description": "Read and update Linear issues, projects and cycles."
+  },
+  "atlassian": {
+    "name": "Atlassian",
+    "description": "Work with Jira, Confluence, Compass and Bitbucket through Atlassian Rovo."
+  },
+  "stripe": {
+    "name": "Stripe",
+    "description": "Read and manage Stripe customers, payments, invoices and subscriptions."
+  },
+  "figma": {
+    "name": "Figma",
+    "description": "Read designs, variables and Code Connect mappings from Figma files."
+  },
+  "google-maps": {
+    "name": "Google Maps",
+    "description": "Search places, geocode, compute routes and look up weather."
   }
 }

@@ -34,5 +34,89 @@
   "mobile": {
     "name": "Mobile MCP",
     "description": "アクセシビリティを通じて、iOSおよびAndroidのデバイスやシミュレーターを制御します。"
+  },
+  "brave-search": {
+    "name": "Brave Search",
+    "description": "Braveの独立したインデックスでウェブを検索します。Brave Search APIキーが必要です。"
+  },
+  "exa": {
+    "name": "Exa",
+    "description": "Exaによるニューラルウェブ検索とページ取得。基本的な利用にキーは不要です。"
+  },
+  "deepwiki": {
+    "name": "DeepWiki",
+    "description": "公開GitHubリポジトリのドキュメントを読み、質問できます。"
+  },
+  "microsoft-learn": {
+    "name": "Microsoft Learn",
+    "description": "MicrosoftとAzureの公式ドキュメントおよびコードサンプルを検索します。"
+  },
+  "fetch": {
+    "name": "Fetch",
+    "description": "ウェブページを取得し、モデル向けのクリーンなMarkdownに変換します。"
+  },
+  "hugging-face": {
+    "name": "Hugging Face",
+    "description": "Hugging Face Hubでモデル、データセット、Spacesを検索します。"
+  },
+  "feishu": {
+    "name": "Feishu",
+    "description": "Feishuのドキュメント、メッセージ、グループを検索・編集します。"
+  },
+  "notion": {
+    "name": "Notion",
+    "description": "Notionのページ、データベース、コメントを検索・編集します。"
+  },
+  "memory": {
+    "name": "Memory",
+    "description": "セッションをまたいでエンティティと関係の知識グラフを保持します。"
+  },
+  "sequential-thinking": {
+    "name": "Sequential Thinking",
+    "description": "複雑な問題を見直し可能な段階的推論に分解します。"
+  },
+  "time": {
+    "name": "Time",
+    "description": "タイムゾーン間の時刻変換と各地の現在時刻の取得を行います。"
+  },
+  "chrome-devtools": {
+    "name": "Chrome DevTools",
+    "description": "稼働中のChromeを操作し、デバッグ、パフォーマンストレース、スクリーンショットを行います。"
+  },
+  "sentry": {
+    "name": "Sentry",
+    "description": "サインインしてSentryのイシュー、スタックトレース、トレースを確認します。"
+  },
+  "supabase": {
+    "name": "Supabase",
+    "description": "Supabaseプロジェクト、SQL、マイグレーション、ログを照会・管理します。"
+  },
+  "postgres": {
+    "name": "PostgreSQL",
+    "description": "スキーマ確認、EXPLAINプラン、インデックス提案を備えた安全なPostgreSQL照会。"
+  },
+  "cloudflare-docs": {
+    "name": "Cloudflare Docs",
+    "description": "最新のCloudflare開発者ドキュメントを検索します。"
+  },
+  "linear": {
+    "name": "Linear",
+    "description": "Linearのイシュー、プロジェクト、サイクルを表示・更新します。"
+  },
+  "atlassian": {
+    "name": "Atlassian",
+    "description": "Atlassian Rovo経由でJira、Confluence、Compass、Bitbucketを操作します。"
+  },
+  "stripe": {
+    "name": "Stripe",
+    "description": "Stripeの顧客、支払い、請求書、サブスクリプションを表示・管理します。"
+  },
+  "figma": {
+    "name": "Figma",
+    "description": "Figmaファイルからデザイン、変数、Code Connectマッピングを読み取ります。"
+  },
+  "google-maps": {
+    "name": "Google Maps",
+    "description": "場所の検索、ジオコーディング、ルート計算、天気の取得を行います。"
   }
 }

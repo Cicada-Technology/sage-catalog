@@ -34,5 +34,89 @@
   "mobile": {
     "name": "Mobile MCP",
     "description": "སྤྱོད་བདེའི་ནུས་པ་(accessibility) བརྒྱུད་ནས་ iOS དང་ Android ཡི་སྒྲིག་ཆས་སམ་ལད་ཟློས་ཆས་(simulator) ཚོད་འཛིན་བྱེད་པ།"
+  },
+  "brave-search": {
+    "name": "Brave Search",
+    "description": "Brave ཡི་རང་རྒྱུད་ཕྱིན་སྟོན་(index) བརྒྱུད་ནས་དྲ་རྒྱར་འཚོལ་ཞིབ་བྱེད་པ། Brave Search API ལྡེ་མིག་དགོས།"
+  },
+  "exa": {
+    "name": "Exa",
+    "description": "Exa ཡི་དྲ་རྒྱའི་འཚོལ་ཞིབ་དང་དྲ་ངོས་ལེན་པ། རྨང་གཞིའི་བེད་སྤྱོད་ལ་ལྡེ་མིག་མི་དགོས།"
+  },
+  "deepwiki": {
+    "name": "DeepWiki",
+    "description": "སྤྱི་སྤྱོད GitHub གསོག་མཛོད་གང་ཡང་རུང་བའི་ཡིག་ཚགས་ཀློག་ཅིང་དྲི་བ་འདྲི་ཐུབ།"
+  },
+  "microsoft-learn": {
+    "name": "Microsoft Learn",
+    "description": "Microsoft དང་ Azure ཡི་གཞུང་ཕྱོགས་ཡིག་ཚགས་དང་ཨང་རྟགས་དཔེ་གཞི་འཚོལ་བ།"
+  },
+  "fetch": {
+    "name": "Fetch",
+    "description": "དྲ་ངོས་ལེན་ཏེ་མ་དཔེའི་ཆེད་དུ་གཙང་མའི་ Markdown དུ་སྒྱུར་བ།"
+  },
+  "hugging-face": {
+    "name": "Hugging Face",
+    "description": "Hugging Face Hub ནང་དུ་མ་དཔེ་དང་གཞི་གྲངས་ཚོགས་པ། Spaces བཅས་འཚོལ་བ།"
+  },
+  "feishu": {
+    "name": "Feishu",
+    "description": "Feishu ཡི་ཡིག་ཆ་དང་འཕྲིན་ཚན། ཚོགས་པ་བཅས་འཚོལ་ཞིབ་དང་རྩོམ་སྒྲིག་བྱེད་པ།"
+  },
+  "notion": {
+    "name": "Notion",
+    "description": "Notion ཡི་དྲ་ངོས་དང་གཞི་གྲངས་མཛོད། བསམ་ཚུལ་བཅས་འཚོལ་ཞིབ་དང་རྩོམ་སྒྲིག་བྱེད་པ།"
+  },
+  "memory": {
+    "name": "Memory",
+    "description": "སྐབས་རེ་བར་ནས་དངོས་ཡོད་དང་འབྲེལ་བའི་ཤེས་བྱའི་བཀྲམ་རིས་རྒྱུན་འཁྱོངས་བྱེད་པ།"
+  },
+  "sequential-thinking": {
+    "name": "Sequential Thinking",
+    "description": "རྙོག་འཛིང་གི་གནད་དོན་རྣམས་བསྐྱར་ཞིབ་བྱེད་ཐུབ་པའི་གོ་རིམ་བཞིན་བསམ་བློ་གཏོང་བར་དབྱེ་བ།"
+  },
+  "time": {
+    "name": "Time",
+    "description": "ཆུ་ཚོད་ས་ཁུལ་ཁག་གི་བར་དུ་དུས་ཚོད་སྒྱུར་བ་དང་ས་གང་དུ་ཡང་ད་ལྟའི་དུས་ཚོད་ཤེས་པ།"
+  },
+  "chrome-devtools": {
+    "name": "Chrome DevTools",
+    "description": "འཕྲོ་བཞིན་པའི་ Chrome དྲ་ལྟ་ཆས་ཚོད་འཛིན་བྱས་ཏེ་ནོར་བཅོས། ནུས་པ་རྗེས་རྟོགས། འཆར་ངོས་པར་ལེན་བཅས་བྱེད་པ།"
+  },
+  "sentry": {
+    "name": "Sentry",
+    "description": "ནང་འཛུལ་བྱས་རྗེས་ Sentry ཡི་གནད་དོན་དང་ stack trace། trace བཅས་ལ་བལྟ་བ།"
+  },
+  "supabase": {
+    "name": "Supabase",
+    "description": "Supabase ཡི་ལས་གཞི་དང་ SQL། གནས་སྤོས་(migration) དང་དྲན་ཐོ་བཅས་འཚོལ་ཞིབ་དང་བདག་གཉེར་བྱེད་པ།"
+  },
+  "postgres": {
+    "name": "PostgreSQL",
+    "description": "PostgreSQL ལ་བདེ་འཇགས་ངང་འདྲི་བ་བྱེད་པ། བཀོད་པ་(schema) བལྟ་བ། EXPLAIN འཆར་གཞི། index གི་བསམ་སྦྱོར་བཅས་འདུས།"
+  },
+  "cloudflare-docs": {
+    "name": "Cloudflare Docs",
+    "description": "Cloudflare གི་ད་ལྟའི་ནུས་སྤྱོད་པའི་ཡིག་ཚགས་འཚོལ་བ།"
+  },
+  "linear": {
+    "name": "Linear",
+    "description": "Linear ཡི་གནད་དོན་དང་ལས་གཞི། འཁོར་སྐབས་བཅས་ལྟ་ཞིབ་དང་གསར་བཅོས་བྱེད་པ།"
+  },
+  "atlassian": {
+    "name": "Atlassian",
+    "description": "Atlassian Rovo བརྒྱུད་ནས་ Jira, Confluence, Compass དང་ Bitbucket ལ་ལས་ཀ་བྱེད་པ།"
+  },
+  "stripe": {
+    "name": "Stripe",
+    "description": "Stripe ཡི་ཚོང་འབྲེལ་བ་པོ་དང་དངུལ་སྤྲོད། དངུལ་ཅོད་འཛིན་ཤོག དང་མངགས་ཐོ་བཅས་ལྟ་ཞིབ་དང་བདག་གཉེར་བྱེད་པ།"
+  },
+  "figma": {
+    "name": "Figma",
+    "description": "Figma ཡི་ཡིག་ཆ་ནས་བཟོ་བཀོད་དང་འགྱུར་ཚད། Code Connect མཐུད་རིས་བཅས་ཀློག་པ།"
+  },
+  "google-maps": {
+    "name": "Google Maps",
+    "description": "ས་ཆ་འཚོལ་བ་དང་ས་ཆའི་ཨང་རྟགས་བཟོ་བ། ལམ་ཐིག་རྩིས་བ། གནམ་གཤིས་ལྟ་བ་བཅས་བྱེད་པ།"
   }
 }

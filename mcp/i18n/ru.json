@@ -34,5 +34,89 @@
   "mobile": {
     "name": "Mobile MCP",
     "description": "Управляйте устройствами или симуляторами iOS и Android через функцию доступности."
+  },
+  "brave-search": {
+    "name": "Brave Search",
+    "description": "Ищите в интернете по независимому индексу Brave; нужен ключ API Brave Search."
+  },
+  "exa": {
+    "name": "Exa",
+    "description": "Нейронный веб-поиск и загрузка страниц от Exa; для базового использования ключ не нужен."
+  },
+  "deepwiki": {
+    "name": "DeepWiki",
+    "description": "Читайте документацию любого публичного репозитория GitHub и задавайте вопросы."
+  },
+  "microsoft-learn": {
+    "name": "Microsoft Learn",
+    "description": "Ищите официальную документацию Microsoft и Azure и примеры кода."
+  },
+  "fetch": {
+    "name": "Fetch",
+    "description": "Загружайте веб-страницы и преобразуйте их в чистый Markdown для модели."
+  },
+  "hugging-face": {
+    "name": "Hugging Face",
+    "description": "Ищите модели, наборы данных и Spaces в Hugging Face Hub."
+  },
+  "feishu": {
+    "name": "Feishu",
+    "description": "Ищите и редактируйте документы, сообщения и группы Feishu."
+  },
+  "notion": {
+    "name": "Notion",
+    "description": "Ищите и редактируйте страницы, базы данных и комментарии Notion."
+  },
+  "memory": {
+    "name": "Memory",
+    "description": "Сохраняйте постоянный граф знаний сущностей и связей между сеансами."
+  },
+  "sequential-thinking": {
+    "name": "Sequential Thinking",
+    "description": "Разбивайте сложные задачи на пересматриваемые пошаговые рассуждения."
+  },
+  "time": {
+    "name": "Time",
+    "description": "Переводите время между часовыми поясами и узнавайте текущее время где угодно."
+  },
+  "chrome-devtools": {
+    "name": "Chrome DevTools",
+    "description": "Управляйте открытым Chrome для отладки, профилирования и скриншотов."
+  },
+  "sentry": {
+    "name": "Sentry",
+    "description": "Просматривайте проблемы, трассировки стека и трейсы Sentry после входа."
+  },
+  "supabase": {
+    "name": "Supabase",
+    "description": "Запрашивайте и управляйте проектами Supabase, SQL, миграциями и журналами."
+  },
+  "postgres": {
+    "name": "PostgreSQL",
+    "description": "Безопасно запрашивайте PostgreSQL с просмотром схемы, планами EXPLAIN и советами по индексам."
+  },
+  "cloudflare-docs": {
+    "name": "Cloudflare Docs",
+    "description": "Ищите актуальную документацию для разработчиков Cloudflare."
+  },
+  "linear": {
+    "name": "Linear",
+    "description": "Просматривайте и обновляйте задачи, проекты и циклы Linear."
+  },
+  "atlassian": {
+    "name": "Atlassian",
+    "description": "Работайте с Jira, Confluence, Compass и Bitbucket через Atlassian Rovo."
+  },
+  "stripe": {
+    "name": "Stripe",
+    "description": "Просматривайте и управляйте клиентами, платежами, счетами и подписками Stripe."
+  },
+  "figma": {
+    "name": "Figma",
+    "description": "Читайте дизайны, переменные и сопоставления Code Connect из файлов Figma."
+  },
+  "google-maps": {
+    "name": "Google Maps",
+    "description": "Ищите места, геокодируйте, прокладывайте маршруты и узнавайте погоду."
   }
 }

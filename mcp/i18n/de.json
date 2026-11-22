@@ -34,5 +34,89 @@
   "mobile": {
     "name": "Mobile MCP",
     "description": "Steuern Sie iOS- und Android-Geräte oder -Simulatoren über Barrierefreiheit."
+  },
+  "brave-search": {
+    "name": "Brave Search",
+    "description": "Durchsuchen Sie das Web mit Braves unabhängigem Index; erfordert einen Brave-Search-API-Schlüssel."
+  },
+  "exa": {
+    "name": "Exa",
+    "description": "Neuronale Websuche und Seitenabruf von Exa; die Basisfunktion benötigt keinen Schlüssel."
+  },
+  "deepwiki": {
+    "name": "DeepWiki",
+    "description": "Lesen Sie die Dokumentation beliebiger öffentlicher GitHub-Repositories und stellen Sie Fragen dazu."
+  },
+  "microsoft-learn": {
+    "name": "Microsoft Learn",
+    "description": "Durchsuchen Sie offizielle Microsoft- und Azure-Dokumentationen und Codebeispiele."
+  },
+  "fetch": {
+    "name": "Fetch",
+    "description": "Rufen Sie Webseiten ab und wandeln Sie sie in sauberes Markdown für das Modell um."
+  },
+  "hugging-face": {
+    "name": "Hugging Face",
+    "description": "Durchsuchen Sie Modelle, Datensätze und Spaces auf dem Hugging Face Hub."
+  },
+  "feishu": {
+    "name": "Feishu",
+    "description": "Durchsuchen und bearbeiten Sie Feishu-Dokumente, -Nachrichten und -Gruppen."
+  },
+  "notion": {
+    "name": "Notion",
+    "description": "Durchsuchen und bearbeiten Sie Notion-Seiten, -Datenbanken und -Kommentare."
+  },
+  "memory": {
+    "name": "Memory",
+    "description": "Führen Sie einen dauerhaften Wissensgraphen aus Entitäten und Beziehungen über Sitzungen hinweg."
+  },
+  "sequential-thinking": {
+    "name": "Sequential Thinking",
+    "description": "Zerlegen Sie komplexe Probleme in überprüfbare, schrittweise Überlegungen."
+  },
+  "time": {
+    "name": "Time",
+    "description": "Rechnen Sie Zeiten zwischen Zeitzonen um und rufen Sie die aktuelle Uhrzeit überall ab."
+  },
+  "chrome-devtools": {
+    "name": "Chrome DevTools",
+    "description": "Steuern Sie einen laufenden Chrome-Browser zum Debuggen, für Performance-Traces und Screenshots."
+  },
+  "sentry": {
+    "name": "Sentry",
+    "description": "Prüfen Sie nach der Anmeldung Sentry-Issues, Stacktraces und Traces."
+  },
+  "supabase": {
+    "name": "Supabase",
+    "description": "Abfragen und verwalten Sie Supabase-Projekte, SQL, Migrationen und Protokolle."
+  },
+  "postgres": {
+    "name": "PostgreSQL",
+    "description": "Fragen Sie PostgreSQL sicher ab, mit Schemaansicht, EXPLAIN-Plänen und Indexempfehlungen."
+  },
+  "cloudflare-docs": {
+    "name": "Cloudflare Docs",
+    "description": "Durchsuchen Sie aktuelle Cloudflare-Entwicklerdokumentationen."
+  },
+  "linear": {
+    "name": "Linear",
+    "description": "Lesen und aktualisieren Sie Linear-Issues, -Projekte und -Zyklen."
+  },
+  "atlassian": {
+    "name": "Atlassian",
+    "description": "Arbeiten Sie über Atlassian Rovo mit Jira, Confluence, Compass und Bitbucket."
+  },
+  "stripe": {
+    "name": "Stripe",
+    "description": "Lesen und verwalten Sie Stripe-Kunden, -Zahlungen, -Rechnungen und -Abonnements."
+  },
+  "figma": {
+    "name": "Figma",
+    "description": "Lesen Sie Designs, Variablen und Code-Connect-Zuordnungen aus Figma-Dateien."
+  },
+  "google-maps": {
+    "name": "Google Maps",
+    "description": "Suchen Sie Orte, geocodieren Sie Adressen, berechnen Sie Routen und rufen Sie Wetterdaten ab."
   }
 }

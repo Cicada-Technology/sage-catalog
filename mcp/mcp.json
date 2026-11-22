@@ -238,6 +238,277 @@
         "node20",
         "mobileTools"
       ]
+    },
+    {
+      "id": "brave-search",
+      "serverName": "brave-search",
+      "icon": "globe",
+      "category": "docs",
+      "transport": "stdio",
+      "repo": "https://github.com/brave/brave-search-mcp-server",
+      "docs": "https://github.com/brave/brave-search-mcp-server",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@brave/brave-search-mcp-server",
+        "--transport",
+        "stdio"
+      ],
+      "env": [
+        {
+          "key": "BRAVE_API_KEY",
+          "required": true,
+          "secret": true
+        }
+      ]
+    },
+    {
+      "id": "exa",
+      "serverName": "exa",
+      "icon": "globe",
+      "category": "docs",
+      "transport": "http",
+      "repo": "https://github.com/exa-labs/exa-mcp-server",
+      "docs": "https://exa.ai/docs/reference/exa-mcp",
+      "url": "https://mcp.exa.ai/mcp"
+    },
+    {
+      "id": "deepwiki",
+      "serverName": "deepwiki",
+      "icon": "book-open",
+      "category": "docs",
+      "transport": "http",
+      "repo": "https://cognition.com/blog/deepwiki-mcp-server",
+      "docs": "https://docs.devin.ai/work-with-devin/deepwiki-mcp",
+      "url": "https://mcp.deepwiki.com/mcp"
+    },
+    {
+      "id": "microsoft-learn",
+      "serverName": "microsoft-learn",
+      "icon": "book-open",
+      "category": "docs",
+      "transport": "http",
+      "repo": "https://github.com/microsoftdocs/mcp",
+      "docs": "https://learn.microsoft.com/training/support/mcp",
+      "url": "https://learn.microsoft.com/api/mcp"
+    },
+    {
+      "id": "fetch",
+      "serverName": "fetch",
+      "icon": "globe",
+      "category": "docs",
+      "transport": "stdio",
+      "repo": "https://github.com/modelcontextprotocol/servers",
+      "docs": "https://github.com/modelcontextprotocol/servers/tree/main/src/fetch",
+      "command": "uvx",
+      "args": [
+        "mcp-server-fetch"
+      ],
+      "prerequisites": [
+        "uv"
+      ]
+    },
+    {
+      "id": "hugging-face",
+      "serverName": "hugging-face",
+      "icon": "boxes",
+      "category": "dev",
+      "transport": "http",
+      "repo": "https://github.com/huggingface/hf-mcp-server",
+      "docs": "https://huggingface.co/mcp",
+      "url": "https://huggingface.co/mcp?login"
+    },
+    {
+      "id": "feishu",
+      "serverName": "feishu",
+      "icon": "book-open",
+      "category": "docs",
+      "transport": "http",
+      "repo": "https://open.feishu.cn/document/mcp_open_tools/end-user-use-remote-mcp-server",
+      "docs": "https://open.feishu.cn/document/mcp_open_tools/end-user-use-remote-mcp-server",
+      "url": "https://mcp.feishu.cn/mcp"
+    },
+    {
+      "id": "notion",
+      "serverName": "notion",
+      "icon": "book-open",
+      "category": "docs",
+      "transport": "http",
+      "repo": "https://github.com/makenotion/notion-mcp-server",
+      "docs": "https://developers.notion.com/guides/mcp/get-started-with-mcp",
+      "url": "https://mcp.notion.com/mcp"
+    },
+    {
+      "id": "memory",
+      "serverName": "memory",
+      "icon": "database",
+      "category": "dev",
+      "transport": "stdio",
+      "repo": "https://github.com/modelcontextprotocol/servers",
+      "docs": "https://github.com/modelcontextprotocol/servers/tree/main/src/memory",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-memory"
+      ]
+    },
+    {
+      "id": "sequential-thinking",
+      "serverName": "sequential-thinking",
+      "icon": "workflow",
+      "category": "dev",
+      "transport": "stdio",
+      "repo": "https://github.com/modelcontextprotocol/servers",
+      "docs": "https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking"
+      ]
+    },
+    {
+      "id": "time",
+      "serverName": "time",
+      "icon": "boxes",
+      "category": "other",
+      "transport": "stdio",
+      "repo": "https://github.com/modelcontextprotocol/servers",
+      "docs": "https://github.com/modelcontextprotocol/servers/tree/main/src/time",
+      "command": "uvx",
+      "args": [
+        "mcp-server-time"
+      ],
+      "prerequisites": [
+        "uv"
+      ]
+    },
+    {
+      "id": "chrome-devtools",
+      "serverName": "chrome-devtools",
+      "icon": "globe",
+      "category": "dev",
+      "transport": "stdio",
+      "repo": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "docs": "https://developer.chrome.com/docs/devtools/agents/get-started",
+      "command": "npx",
+      "args": [
+        "-y",
+        "chrome-devtools-mcp@latest"
+      ],
+      "prerequisites": [
+        "node20"
+      ]
+    },
+    {
+      "id": "sentry",
+      "serverName": "sentry",
+      "icon": "flame",
+      "category": "dev",
+      "transport": "http",
+      "repo": "https://github.com/getsentry/toolkit",
+      "docs": "https://docs.sentry.io/product/sentry-mcp/",
+      "url": "https://mcp.sentry.dev/mcp"
+    },
+    {
+      "id": "supabase",
+      "serverName": "supabase",
+      "icon": "database",
+      "category": "dev",
+      "transport": "http",
+      "repo": "https://github.com/supabase/mcp",
+      "docs": "https://supabase.com/docs/guides/getting-started/mcp",
+      "url": "https://mcp.supabase.com/mcp"
+    },
+    {
+      "id": "postgres",
+      "serverName": "postgres",
+      "icon": "database",
+      "category": "dev",
+      "transport": "stdio",
+      "repo": "https://github.com/crystaldba/postgres-mcp",
+      "docs": "https://github.com/crystaldba/postgres-mcp",
+      "command": "uvx",
+      "args": [
+        "postgres-mcp",
+        "--access-mode=restricted"
+      ],
+      "prerequisites": [
+        "uv"
+      ],
+      "env": [
+        {
+          "key": "DATABASE_URI",
+          "required": true,
+          "secret": true
+        }
+      ]
+    },
+    {
+      "id": "cloudflare-docs",
+      "serverName": "cloudflare-docs",
+      "icon": "book-open",
+      "category": "dev",
+      "transport": "http",
+      "repo": "https://github.com/cloudflare/mcp",
+      "docs": "https://developers.cloudflare.com/agents/model-context-protocol/cloudflare/servers-for-cloudflare/",
+      "url": "https://docs.mcp.cloudflare.com/mcp"
+    },
+    {
+      "id": "linear",
+      "serverName": "linear",
+      "icon": "workflow",
+      "category": "dev",
+      "transport": "http",
+      "repo": "https://linear.app/docs/mcp",
+      "docs": "https://linear.app/docs/mcp",
+      "url": "https://mcp.linear.app/mcp"
+    },
+    {
+      "id": "atlassian",
+      "serverName": "atlassian",
+      "icon": "workflow",
+      "category": "dev",
+      "transport": "http",
+      "repo": "https://github.com/atlassian/atlassian-mcp-server",
+      "docs": "https://support.atlassian.com/atlassian-rovo-mcp-server/docs/getting-started-with-the-atlassian-remote-mcp-server/",
+      "url": "https://mcp.atlassian.com/v2/mcp"
+    },
+    {
+      "id": "stripe",
+      "serverName": "stripe",
+      "icon": "boxes",
+      "category": "finance",
+      "transport": "http",
+      "repo": "https://github.com/stripe/ai",
+      "docs": "https://docs.stripe.com/mcp",
+      "url": "https://mcp.stripe.com"
+    },
+    {
+      "id": "figma",
+      "serverName": "figma",
+      "icon": "pen-tool",
+      "category": "design",
+      "transport": "http",
+      "repo": "https://developers.figma.com/docs/figma-mcp-server/",
+      "docs": "https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/",
+      "url": "https://mcp.figma.com/mcp"
+    },
+    {
+      "id": "google-maps",
+      "serverName": "google-maps",
+      "icon": "globe",
+      "category": "other",
+      "transport": "http",
+      "repo": "https://developers.google.com/maps/ai/maps-experience-agent-tools",
+      "docs": "https://developers.google.com/maps/ai/maps-experience-agent-tools",
+      "url": "https://mapstools.googleapis.com/mcp",
+      "headers": [
+        {
+          "key": "X-Goog-Api-Key",
+          "required": true,
+          "secret": true
+        }
+      ]
     }
   ]
 }

@@ -34,5 +34,89 @@
   "mobile": {
     "name": "Mobile MCP",
     "description": "التحكم في الأجهزة أو المحاكيات iOS وAndroid من خلال خاصية إمكانية الوصول."
+  },
+  "brave-search": {
+    "name": "Brave Search",
+    "description": "ابحث في الويب باستخدام فهرس Brave المستقل؛ يتطلب مفتاح API من Brave Search."
+  },
+  "exa": {
+    "name": "Exa",
+    "description": "بحث ويب عصبي وجلب صفحات من Exa؛ لا يحتاج الاستخدام الأساسي إلى مفتاح."
+  },
+  "deepwiki": {
+    "name": "DeepWiki",
+    "description": "اقرأ وثائق أي مستودع GitHub عام واطرح الأسئلة."
+  },
+  "microsoft-learn": {
+    "name": "Microsoft Learn",
+    "description": "ابحث في وثائق Microsoft وAzure الرسمية وأمثلة التعليمات البرمجية."
+  },
+  "fetch": {
+    "name": "Fetch",
+    "description": "اجلب صفحات الويب وحوّلها إلى Markdown نظيف للنموذج."
+  },
+  "hugging-face": {
+    "name": "Hugging Face",
+    "description": "ابحث عن النماذج ومجموعات البيانات وSpaces في Hugging Face Hub."
+  },
+  "feishu": {
+    "name": "Feishu",
+    "description": "ابحث عن مستندات Feishu ورسائلها ومجموعاتها وحرّرها."
+  },
+  "notion": {
+    "name": "Notion",
+    "description": "ابحث عن صفحات Notion وقواعد بياناتها وتعليقاتها وحرّرها."
+  },
+  "memory": {
+    "name": "Memory",
+    "description": "احتفظ برسم معرفي دائم للكيانات والعلاقات بين الجلسات."
+  },
+  "sequential-thinking": {
+    "name": "Sequential Thinking",
+    "description": "قسّم المشكلات المعقدة إلى تفكير خطوة بخطوة قابل للمراجعة."
+  },
+  "time": {
+    "name": "Time",
+    "description": "حوّل الأوقات بين المناطق الزمنية واعرف الوقت الحالي في أي مكان."
+  },
+  "chrome-devtools": {
+    "name": "Chrome DevTools",
+    "description": "تحكم في متصفح Chrome نشط لتصحيح الأخطاء وتحليل الأداء والتقاط الصور."
+  },
+  "sentry": {
+    "name": "Sentry",
+    "description": "افحص مشكلات Sentry وتتبعات المكدس والتتبعات بعد تسجيل الدخول."
+  },
+  "supabase": {
+    "name": "Supabase",
+    "description": "استعلم عن مشاريع Supabase وSQL والترحيلات والسجلات وأدرها."
+  },
+  "postgres": {
+    "name": "PostgreSQL",
+    "description": "استعلم عن PostgreSQL بأمان مع فحص المخطط وخطط EXPLAIN ونصائح الفهارس."
+  },
+  "cloudflare-docs": {
+    "name": "Cloudflare Docs",
+    "description": "ابحث في وثائق مطوري Cloudflare الحالية."
+  },
+  "linear": {
+    "name": "Linear",
+    "description": "اعرض وحدّث مشكلات Linear ومشاريعه ودوراته."
+  },
+  "atlassian": {
+    "name": "Atlassian",
+    "description": "اعمل مع Jira وConfluence وCompass وBitbucket عبر Atlassian Rovo."
+  },
+  "stripe": {
+    "name": "Stripe",
+    "description": "اعرض وأدر عملاء Stripe ومدفوعاته وفواتيره واشتراكاته."
+  },
+  "figma": {
+    "name": "Figma",
+    "description": "اقرأ التصاميم والمتغيرات وتعيينات Code Connect من ملفات Figma."
+  },
+  "google-maps": {
+    "name": "Google Maps",
+    "description": "ابحث عن الأماكن وحدد الإحداثيات واحسب المسارات واطلع على الطقس."
   }
 }

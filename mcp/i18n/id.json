@@ -34,5 +34,89 @@
   "mobile": {
     "name": "Mobile MCP",
     "description": "Mengontrol perangkat atau simulator iOS dan Android melalui aksesibilitas."
+  },
+  "brave-search": {
+    "name": "Brave Search",
+    "description": "Telusuri web dengan indeks independen Brave; memerlukan kunci API Brave Search."
+  },
+  "exa": {
+    "name": "Exa",
+    "description": "Pencarian web neural dan pengambilan halaman dari Exa; penggunaan dasar tidak memerlukan kunci."
+  },
+  "deepwiki": {
+    "name": "DeepWiki",
+    "description": "Baca dokumentasi repositori GitHub publik mana pun dan ajukan pertanyaan."
+  },
+  "microsoft-learn": {
+    "name": "Microsoft Learn",
+    "description": "Cari dokumentasi resmi Microsoft dan Azure serta contoh kode."
+  },
+  "fetch": {
+    "name": "Fetch",
+    "description": "Ambil halaman web dan ubah menjadi Markdown bersih untuk model."
+  },
+  "hugging-face": {
+    "name": "Hugging Face",
+    "description": "Cari model, kumpulan data, dan Spaces di Hugging Face Hub."
+  },
+  "feishu": {
+    "name": "Feishu",
+    "description": "Cari dan edit dokumen, pesan, dan grup Feishu."
+  },
+  "notion": {
+    "name": "Notion",
+    "description": "Cari dan edit halaman, basis data, dan komentar Notion."
+  },
+  "memory": {
+    "name": "Memory",
+    "description": "Pertahankan graf pengetahuan entitas dan relasi yang persisten antar sesi."
+  },
+  "sequential-thinking": {
+    "name": "Sequential Thinking",
+    "description": "Pecah masalah kompleks menjadi penalaran bertahap yang dapat ditinjau."
+  },
+  "time": {
+    "name": "Time",
+    "description": "Konversi waktu antar zona waktu dan dapatkan waktu saat ini di mana saja."
+  },
+  "chrome-devtools": {
+    "name": "Chrome DevTools",
+    "description": "Kendalikan browser Chrome langsung untuk debugging, trace performa, dan tangkapan layar."
+  },
+  "sentry": {
+    "name": "Sentry",
+    "description": "Periksa masalah, stack trace, dan trace Sentry setelah masuk."
+  },
+  "supabase": {
+    "name": "Supabase",
+    "description": "Kueri dan kelola proyek Supabase, SQL, migrasi, dan log."
+  },
+  "postgres": {
+    "name": "PostgreSQL",
+    "description": "Kueri PostgreSQL dengan aman dengan inspeksi skema, rencana EXPLAIN, dan saran indeks."
+  },
+  "cloudflare-docs": {
+    "name": "Cloudflare Docs",
+    "description": "Cari dokumentasi pengembang Cloudflare terbaru."
+  },
+  "linear": {
+    "name": "Linear",
+    "description": "Baca dan perbarui masalah, proyek, dan siklus Linear."
+  },
+  "atlassian": {
+    "name": "Atlassian",
+    "description": "Bekerja dengan Jira, Confluence, Compass, dan Bitbucket melalui Atlassian Rovo."
+  },
+  "stripe": {
+    "name": "Stripe",
+    "description": "Baca dan kelola pelanggan, pembayaran, faktur, dan langganan Stripe."
+  },
+  "figma": {
+    "name": "Figma",
+    "description": "Baca desain, variabel, dan pemetaan Code Connect dari file Figma."
+  },
+  "google-maps": {
+    "name": "Google Maps",
+    "description": "Cari tempat, geokode, hitung rute, dan lihat cuaca."
   }
 }

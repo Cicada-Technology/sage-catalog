@@ -34,5 +34,89 @@
   "mobile": {
     "name": "Mobile MCP",
     "description": "접근성 트리로 iOS/Android 실기기나 시뮬레이터를 제어합니다."
+  },
+  "brave-search": {
+    "name": "Brave Search",
+    "description": "Brave의 독립 인덱스로 웹을 검색합니다. Brave Search API 키가 필요합니다."
+  },
+  "exa": {
+    "name": "Exa",
+    "description": "Exa의 신경망 웹 검색과 페이지 가져오기. 기본 사용에는 키가 필요하지 않습니다."
+  },
+  "deepwiki": {
+    "name": "DeepWiki",
+    "description": "공개 GitHub 저장소의 문서를 읽고 질문합니다."
+  },
+  "microsoft-learn": {
+    "name": "Microsoft Learn",
+    "description": "Microsoft 및 Azure 공식 문서와 코드 샘플을 검색합니다."
+  },
+  "fetch": {
+    "name": "Fetch",
+    "description": "웹 페이지를 가져와 모델용 깨끗한 Markdown으로 변환합니다."
+  },
+  "hugging-face": {
+    "name": "Hugging Face",
+    "description": "Hugging Face Hub에서 모델, 데이터셋, Spaces를 검색합니다."
+  },
+  "feishu": {
+    "name": "Feishu",
+    "description": "Feishu 문서, 메시지, 그룹을 검색하고 편집합니다."
+  },
+  "notion": {
+    "name": "Notion",
+    "description": "Notion 페이지, 데이터베이스, 댓글을 검색하고 편집합니다."
+  },
+  "memory": {
+    "name": "Memory",
+    "description": "세션 간에 엔터티와 관계의 지식 그래프를 유지합니다."
+  },
+  "sequential-thinking": {
+    "name": "Sequential Thinking",
+    "description": "복잡한 문제를 되돌아볼 수 있는 단계별 추론으로 나눕니다."
+  },
+  "time": {
+    "name": "Time",
+    "description": "시간대 간 시간을 변환하고 어디서나 현재 시간을 확인합니다."
+  },
+  "chrome-devtools": {
+    "name": "Chrome DevTools",
+    "description": "실행 중인 Chrome 브라우저를 제어해 디버깅, 성능 추적, 스크린샷을 수행합니다."
+  },
+  "sentry": {
+    "name": "Sentry",
+    "description": "로그인 후 Sentry 이슈, 스택 트레이스, 트레이스를 확인합니다."
+  },
+  "supabase": {
+    "name": "Supabase",
+    "description": "Supabase 프로젝트, SQL, 마이그레이션, 로그를 조회하고 관리합니다."
+  },
+  "postgres": {
+    "name": "PostgreSQL",
+    "description": "스키마 확인, EXPLAIN 계획, 인덱스 조언을 갖춘 안전한 PostgreSQL 쿼리."
+  },
+  "cloudflare-docs": {
+    "name": "Cloudflare Docs",
+    "description": "최신 Cloudflare 개발자 문서를 검색합니다."
+  },
+  "linear": {
+    "name": "Linear",
+    "description": "Linear 이슈, 프로젝트, 사이클을 조회하고 업데이트합니다."
+  },
+  "atlassian": {
+    "name": "Atlassian",
+    "description": "Atlassian Rovo를 통해 Jira, Confluence, Compass, Bitbucket을 다룹니다."
+  },
+  "stripe": {
+    "name": "Stripe",
+    "description": "Stripe 고객, 결제, 인보이스, 구독을 조회하고 관리합니다."
+  },
+  "figma": {
+    "name": "Figma",
+    "description": "Figma 파일에서 디자인, 변수, Code Connect 매핑을 읽습니다."
+  },
+  "google-maps": {
+    "name": "Google Maps",
+    "description": "장소 검색, 지오코딩, 경로 계산, 날씨 조회를 수행합니다."
   }
 }
