@@ -165,6 +165,11 @@ if (!modelsFile || modelsFile.schemaVersion !== 1 || !Array.isArray(modelsFile.m
       if (modelIds.has(model.id)) errors.push(`${where}: duplicate id ${model.id}`);
       modelIds.add(model.id);
     }
+    if (model?.modelId !== undefined) {
+      if (typeof model.modelId !== 'string' || !/^[a-z0-9][a-z0-9._-]{0,159}$/.test(model.modelId)) {
+        errors.push(`${where}: unsafe modelId`);
+      }
+    }
     if (typeof model?.toolUse !== 'boolean') errors.push(`${where}: toolUse must be boolean`);
     if (!Number.isFinite(model?.quality)) errors.push(`${where}: quality must be a number`);
     if (!Number.isSafeInteger(model?.contextMax) || model.contextMax <= 0) errors.push(`${where}: bad contextMax`);
@@ -181,6 +186,28 @@ if (!modelsFile || modelsFile.schemaVersion !== 1 || !Array.isArray(modelsFile.m
     if (!Number.isSafeInteger(quant?.kvBytesPerToken) || quant.kvBytesPerToken <= 0) errors.push(`${where}.quant: bad kvBytesPerToken`);
     if (typeof quant?.filename === 'string' && (quant.filename.includes('/') || quant.filename.includes('..'))) {
       errors.push(`${where}.quant: unsafe filename`);
+    }
+    if (quant?.files !== undefined) {
+      if (!Array.isArray(quant.files) || quant.files.length === 0) {
+        errors.push(`${where}.quant.files: must be a non-empty array when present`);
+      } else {
+        const filenames = new Set();
+        for (const [j, file] of quant.files.entries()) {
+          const fwhere = `${where}.quant.files[${j}]`;
+          if (typeof file?.filename !== 'string' || !file.filename || file.filename.includes('/') || file.filename.includes('..')) {
+            errors.push(`${fwhere}: unsafe filename`);
+          } else if (filenames.has(file.filename)) {
+            errors.push(`${fwhere}: duplicate filename ${file.filename}`);
+          } else {
+            filenames.add(file.filename);
+          }
+          if (!Number.isSafeInteger(file?.size) || file.size <= 0) errors.push(`${fwhere}: bad size`);
+          if (!/^[a-f0-9]{64}$/.test(file?.sha256 ?? '')) errors.push(`${fwhere}: sha256 must be 64 lowercase hex`);
+          if (file?.path !== undefined && (typeof file.path !== 'string' || !file.path || file.path.includes('..'))) {
+            errors.push(`${fwhere}: unsafe path`);
+          }
+        }
+      }
     }
     const sources = model?.sources ?? {};
     const usable = ['huggingface', 'modelscope'].filter((source) => {
