@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-22",
+  "runtime": {
+    "build": "b12631",
+    "minBuild": "b12631"
+  },
+  "models": [
+    {
+      "id": "qwen3-0.6b-q4-k-m",
+      "displayName": "Qwen3 0.6B",
+      "family": "qwen3",
+      "paramsB": 0.6,
+      "activeParamsB": 0.6,
+      "moe": false,
+      "quality": 30,
+      "toolUse": false,
+      "contextMax": 40960,
+      "ctxDefault": 40960,
+      "ctxMinAgent": null,
+      "license": "apache-2.0",
+      "capabilities": ["chat"],
+      "quant": {
+        "id": "q4_k_m",
+        "quant": "Q4_K_M",
+        "filename": "Qwen3-0.6B-Q4_K_M.gguf",
+        "size": 396705472,
+        "sha256": "ac2d97712095a558e31573f62f466a3f9d93990898b0ec79d7c974c1780d524a",
+        "kvBytesPerToken": 114688,
+        "cacheType": "q4_0"
+      },
+      "sources": {
+        "modelscope": {
+          "repo": "unsloth/Qwen3-0.6B-GGUF",
+          "revision": "6091bc857fe0dffa19c581a7ccc7def1b126ff54",
+          "path": "Qwen3-0.6B-Q4_K_M.gguf"
+        },
+        "huggingface": {
+          "repo": "unsloth/Qwen3-0.6B-GGUF",
+          "revision": "main",
+          "path": "Qwen3-0.6B-Q4_K_M.gguf"
+        }
+      }
+    },
+    {
+      "id": "qwen3-1.7b-q4-k-m",
+      "displayName": "Qwen3 1.7B",
+      "family": "qwen3",
+      "paramsB": 1.7,
+      "activeParamsB": 1.7,
+      "moe": false,
+      "quality": 38,
+      "toolUse": false,
+      "contextMax": 40960,
+      "ctxDefault": 40960,
+      "ctxMinAgent": null,
+      "license": "apache-2.0",
+      "capabilities": ["chat"],
+      "quant": {
+        "id": "q4_k_m",
+        "quant": "Q4_K_M",
+        "filename": "Qwen3-1.7B-Q4_K_M.gguf",
+        "size": 1107409472,
+        "sha256": "b139949c5bd74937ad8ed8c8cf3d9ffb1e99c866c823204dc42c0d91fa181897",
+        "kvBytesPerToken": 114688,
+        "cacheType": "q4_0"
+      },
+      "sources": {
+        "modelscope": {
+          "repo": "unsloth/Qwen3-1.7B-GGUF",
+          "revision": "1e3f49488e445e2148d2e065ea0612c320da65c3",
+          "path": "Qwen3-1.7B-Q4_K_M.gguf"
+        },
+        "huggingface": {
+          "repo": "unsloth/Qwen3-1.7B-GGUF",
+          "revision": "main",
+          "path": "Qwen3-1.7B-Q4_K_M.gguf"
+        }
+      }
+    },
+    {
+      "id": "qwen3-4b-instruct-2507-q4-k-m",
+      "displayName": "Qwen3 4B",
+      "family": "qwen3",
+      "paramsB": 4.0,
+      "activeParamsB": 4.0,
+      "moe": false,
+      "quality": 62,
+      "toolUse": true,
+      "contextMax": 262144,
+      "ctxDefault": 65536,
+      "ctxMinAgent": 65536,
+      "license": "apache-2.0",
+      "capabilities": ["chat", "tools", "json", "multilingual"],
+      "quant": {
+        "id": "q4_k_m",
+        "quant": "Q4_K_M",
+        "filename": "Qwen3-4B-Instruct-2507-Q4_K_M.gguf",
+        "size": 2497281120,
+        "sha256": "3605803b982cb64aead44f6c1b2ae36e3acdb41d8e46c8a94c6533bc4c67e597",
+        "kvBytesPerToken": 147456,
+        "cacheType": "q4_0"
+      },
+      "sources": {
+        "modelscope": {
+          "repo": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+          "revision": "0b0406b39725d752255ffeb48f102c66f98e14aa",
+          "path": "Qwen3-4B-Instruct-2507-Q4_K_M.gguf"
+        },
+        "huggingface": {
+          "repo": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+          "revision": "main",
+          "path": "Qwen3-4B-Instruct-2507-Q4_K_M.gguf"
+        }
+      }
+    },
+    {
+      "id": "qwen3-30b-a3b-instruct-2507-q4-k-m",
+      "displayName": "Qwen3 30B-A3B",
+      "family": "qwen3",
+      "paramsB": 30.0,
+      "activeParamsB": 3.0,
+      "moe": true,
+      "quality": 78,
+      "toolUse": true,
+      "contextMax": 262144,
+      "ctxDefault": 65536,
+      "ctxMinAgent": 65536,
+      "license": "apache-2.0",
+      "capabilities": ["chat", "tools", "json", "reasoning", "multilingual"],
+      "quant": {
+        "id": "q4_k_m",
+        "quant": "Q4_K_M",
+        "filename": "Qwen3-30B-A3B-Instruct-2507-Q4_K_M.gguf",
+        "size": 18556686752,
+        "sha256": "6c997b8af17debdfb01d890214400ccbab00db6acc0ba8da5de1cc906c4774d0",
+        "kvBytesPerToken": 98304,
+        "cacheType": "q4_0"
+      },
+      "sources": {
+        "modelscope": {
+          "repo": "unsloth/Qwen3-30B-A3B-Instruct-2507-GGUF",
+          "revision": "2fc19dc1edbd72d3dc8e6dcbaac8f913e2f57c4f",
+          "path": "Qwen3-30B-A3B-Instruct-2507-Q4_K_M.gguf"
+        },
+        "huggingface": {
+          "repo": "unsloth/Qwen3-30B-A3B-Instruct-2507-GGUF",
+          "revision": "main",
+          "path": "Qwen3-30B-A3B-Instruct-2507-Q4_K_M.gguf"
+        }
+      }
+    }
+  ]
+}

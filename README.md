@@ -1,6 +1,6 @@
 # Sage Catalog
 
-Sage 官方目录：统一收录 **技能（skills）/ MCP 连接器 / 插件（plugins）** 的来源链接与名称/描述翻译。
+Sage 官方目录：统一收录 **技能（skills）/ MCP 连接器 / 插件（plugins）/ 本地模型（models）** 的来源链接与元数据。
 
 仓库不保存技能文件、MCP 可执行文件或插件资产；安装仍由客户端从原始仓库、包管理器或插件索引完成。
 
@@ -13,6 +13,8 @@ skills/
 mcp/
   mcp.json             # MCP 定义：transport / command / args / url / env / headers
   i18n/<locale>.json   # MCP id -> { name, description }
+models/
+  index.json           # 本地模型：量化、文件大小/SHA-256、64K 门槛、HF/魔搭来源
 plugins/
   plugins.json         # 元数据源：id / repo / category / author
   index.json           # 完整索引：版本、资产、SHA-256、archive

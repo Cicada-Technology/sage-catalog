@@ -145,6 +145,58 @@ if (!pluginFile || !Array.isArray(pluginEntries)) {
   }
 }
 
+
+// ===== models =====
+const modelsFile = readJson('models/index.json');
+if (!modelsFile || modelsFile.schemaVersion !== 1 || !Array.isArray(modelsFile.models)) {
+  errors.push('models/index.json: expected schemaVersion 1 and a models array');
+} else {
+  if (typeof modelsFile.runtime?.build !== 'string' || !modelsFile.runtime.build) {
+    errors.push('models/index.json: runtime.build is required');
+  }
+  const modelIds = new Set();
+  for (const [i, model] of modelsFile.models.entries()) {
+    const where = `models/index.json[${i}]`;
+    for (const key of ['id', 'displayName', 'family', 'license']) {
+      if (typeof model?.[key] !== 'string' || !model[key].trim()) errors.push(`${where}: missing ${key}`);
+    }
+    if (typeof model?.id === 'string') {
+      if (!/^[a-z0-9][a-z0-9._-]{0,159}$/.test(model.id)) errors.push(`${where}: unsafe id ${model.id}`);
+      if (modelIds.has(model.id)) errors.push(`${where}: duplicate id ${model.id}`);
+      modelIds.add(model.id);
+    }
+    if (typeof model?.toolUse !== 'boolean') errors.push(`${where}: toolUse must be boolean`);
+    if (!Number.isFinite(model?.quality)) errors.push(`${where}: quality must be a number`);
+    if (!Number.isSafeInteger(model?.contextMax) || model.contextMax <= 0) errors.push(`${where}: bad contextMax`);
+    if (!Number.isSafeInteger(model?.ctxDefault) || model.ctxDefault <= 0) errors.push(`${where}: bad ctxDefault`);
+    if (model?.ctxMinAgent !== null && (!Number.isSafeInteger(model?.ctxMinAgent) || model.ctxMinAgent < 65536)) {
+      errors.push(`${where}: ctxMinAgent must be null or at least 65536`);
+    }
+    if (model?.toolUse && !model?.ctxMinAgent) errors.push(`${where}: tool models need ctxMinAgent 65536`);
+    const quant = model?.quant;
+    for (const key of ['id', 'quant', 'filename', 'sha256', 'cacheType']) {
+      if (typeof quant?.[key] !== 'string' || !quant[key].trim()) errors.push(`${where}.quant: missing ${key}`);
+    }
+    if (!Number.isSafeInteger(quant?.size) || quant.size <= 0) errors.push(`${where}.quant: bad size`);
+    if (!/^[a-f0-9]{64}$/.test(quant?.sha256 ?? '')) errors.push(`${where}.quant: sha256 must be 64 lowercase hex`);
+    if (!Number.isSafeInteger(quant?.kvBytesPerToken) || quant.kvBytesPerToken <= 0) errors.push(`${where}.quant: bad kvBytesPerToken`);
+    if (typeof quant?.filename === 'string' && (quant.filename.includes('/') || quant.filename.includes('..'))) {
+      errors.push(`${where}.quant: unsafe filename`);
+    }
+    const sources = model?.sources ?? {};
+    const usable = ['huggingface', 'modelscope'].filter((source) => {
+      const value = sources[source];
+      return value && typeof value.repo === 'string' && typeof value.revision === 'string' && typeof value.path === 'string';
+    });
+    if (usable.length === 0) errors.push(`${where}: needs a huggingface or modelscope source`);
+    for (const source of usable) {
+      const value = sources[source];
+      if (value.path.startsWith('/') || value.path.includes('..')) errors.push(`${where}.${source}: unsafe path`);
+    }
+  }
+  console.log(`ok: ${modelsFile.models.length} models`);
+}
+
 for (const warning of warnings) console.warn(`warn: ${warning}`);
 for (const error of errors) console.error(`error: ${error}`);
 if (errors.length) process.exit(1);
